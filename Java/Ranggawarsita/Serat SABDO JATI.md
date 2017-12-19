@@ -1,7 +1,7 @@
 Serat SABDO JATI.
 
 
-  RADEN Mas Ngabehi Ronggowarsito. Demikian nama salah seorang pujangga terkenal yang pernah menorehkan jejak gemilang dalam kesusastraan Jawa di abad 19. Namanya senantiasa dikenang sebagai pujangga besar yang karya-karyanya tetap abadi hingga kini.
+RADEN Mas Ngabehi Ronggowarsito. Demikian nama salah seorang pujangga terkenal yang pernah menorehkan jejak gemilang dalam kesusastraan Jawa di abad 19. Namanya senantiasa dikenang sebagai pujangga besar yang karya-karyanya tetap abadi hingga kini.
 Dari tangan pujangga asal Keraton Surakarta ini lahir berbagai karya sastra bermutu tinggi yang sarat nilai kemanusiaan. Buku-bukunya antara lain membahas falsafah, ilmu kebatinan, primbon, kisah raja, sejarah, lakon wayang, dongeng, syair, adat kesusilaan, dan sebagainya. Namun sebagian masyarakat Jawa, terutama rakyat jelata, sering mengidentikkan Ronggowarsito dengan karangan-karangan yang memadukan kesusastraan dengan ramalan yang penuh harapan, perenungan dan perjuangan.
 Dilahirkan pada 15 Maret 1802 dengan nama asli Bagus Burham. Ayahnya seorang carik Kadipaten Anom yang bernama Raden Mas Pajangswara. Ibunya Raden Ayu Pajangswara merupakan keturunan ke-9 Sultan Trenggono dari Demak.
 Bakat dan keahliannya dalam bidang kesusastraan semakin terasah dengan bimbingan kakeknya Raden Tumenggung Sastronegoro. Semenjak kecil, ia dibekali ajaran Islam dan pengetahuan yang bersandar pada ajaran kejawen, Hindu, Budha, serta ilmu kebatinan.
