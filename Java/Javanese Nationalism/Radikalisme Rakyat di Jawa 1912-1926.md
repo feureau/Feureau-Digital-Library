@@ -5,7 +5,7 @@ oleh Takashi Shiraishi
 
 "Studi politik dan intelektual yang sangat baik tentang nasionalisme Indonesia di Jawa pada awal abad kedua puluh ini telah meletakkan standar baru bagi penulisan sejarah yang tajam dan kaya sebagaimana yang terjadi". - Daniel S. Lev, Department of Political Science, A University of Washington.
 
-**Takashi Shiraishi** lahir di Jepang pada 1950. Tamat dari Universitas Tokyo pada 1972, ia kemudian meraih gelar Ph. D dari Universitas Cornell, 1986. Takashi kini guru besar Sejarah dan Studi Asia pada Universitas Cornell dan guru besar Studi Asia Tenggara pada Center for Southeast Asian Studies, Universitas Kyoto. 
+**Takashi Shiraishi** lahir di Jepang pada 1950. Tamat dari Universitas Tokyo pada 1972, ia kemudian meraih gelar Ph. D dari Universitas Cornell, 1986. Takashi kini guru besar Sejarah dan Studi Asia pada Universitas Cornell dan guru besar Studi Asia Tenggara pada Center for Southeast Asian Studies, Universitas Kyoto.
 
 ISBN 979-444-388-9
 
@@ -13,16 +13,16 @@ Perpustakaan Nasional RI: katalog dalam terbitan (KDT)
 
 SHIRAISHI, Takashi. Zaman bergerak: radikalisme rakyat di Jawa. 1912-1926/ Takashi Shiraishi; penerjemah, Hilmar Farid, - Jakarta: Pustaka Utama Grafiti, 1997. XXVIII, 504 hlm. ; 21 cm.
 
-Judul Asli: An age in motion: popular radicalism in Java, 1912-1926 
+Judul Asli: An age in motion: popular radicalism in Java, 1912-1926
 
-Bibliografi 
+Bibliografi
 Indeks
 
 ISBN 979-444-388-9
 
 I. Indonesia - Sejarah - Kebangkitan Nasional
 
-I. Judul. II. Farid, Hilmar 
+I. Judul. II. Farid, Hilmar
 
 959-802 2
 

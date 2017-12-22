@@ -10,10 +10,12 @@ P.B.R. Carey, "Aspects of Javanese History in the Nineteenth Century"
 
 Fasseur, The Politics of Colonial Exploitation
 
-R. McVey, "Faith as an Outsider: Islam in Indonesian Politics," in Islam in the Political Process, ed. James P. Piscatori (Cambridge: Cambridge University Press, 1985) 
+R. McVey, "Faith as an Outsider: Islam in Indonesian Politics," in Islam in the Political Process, ed. James P. Piscatori (Cambridge: Cambridge University Press, 1985)
 
 Dan Lev's "Colonial Law and the Genesis of the Indonesian State" in _Indonesia_ 40 (October 1985): 57-74, where he discusses the Dutch appropriation of adat or customary law as a bulwark against Islam
 
 See Fasseur, De Indologen, for a careful study of the increasingly close connections between the civil servants who worked for the colonial government and the rise of Indology at the State University of Leiden.
 
 Raymond Willams observed the post Renaissance European transformation of historical and literary domains and noted that "The 'national literature' soon ceased to be a history and became a tradition." Williams, Marxism and Literature (Oxford: Oxford Univerity Press, 1977), p. 51.
+
+Poensen, "De Wajang." pp. 143-44

@@ -96,26 +96,24 @@ Post Enlightenment European ideas of a scientific, linear history that was consi
 
 The relations between myth and history in Dutch and Javanese intelectual worlds in the mid-nineteenth century can be studied as a microcosm of colliding worldviews. Raymond Willams observed the post Renaissance European transformation of historical and literary domains and noted that "The 'national literature' soon ceased to be a history and became a tradition." Williams, Marxism and Literature (Oxford: Oxford Univerity Press, 1977), p. 51. It is just this process that was taking place in nineteenth century Java. In the era of dialectical materialism and social Darwinism, Dutch scholars were documenting Javanese traditions in an atmosphere where history was seen as a linear trajectory moving from the past into the future. Along with such linear conceptions of history, discourses of progress, profit, and natural selection were soon to form the rationale for expanding the imperial project in economic and intellectual domains. The cultuurstelsel (cultivation system) of the mid-nineteenth century (1830-70) had turned the Indies into a successful profit making venture, and during this period the Dutch began to move out from their strongholds in Batavia, Priangan, the pasisir and other parts of Java into Sumatra, the Celebes, and Kalimantan. History became an evolving destiny that posited the highly evolved Dutch as the "natural" rulers of the Indies and the Javanese as their natural subjects.
 
-In support of Dutch claims to superiority was the obvious Javanese lack 
-so of proper written histories, although the Javanese were certainly the most "advanced" ofthe societies that the Dutch encountered and conquered in the archipelago ® All that the Javanese ha were myths, in Dutch scholarly eyes, and the myths were Indian to begin with. Moreover, the Javanese had not even understood the myths correctly. They were all confused, and Dutch philology was needed to sort them out." A succinct example of these views was voiced by the missionary Poensen in 1873 in his speculations on the origins of the shadow theatre.
+In support of Dutch claims to superiority was the obvious Javanese lack
+of proper written histories, although the Javanese were certainly the most "advanced" of the societies that the Dutch encountered and conquered in the archipelago. Hazeu, in Oud en nieuw uit de Javaansche letterkunde, p.4, summarizes the opinions of J.L.A. Brandes "Iets over een ouderen Dipanagara verband met een prototype van de voorspellingen van Jayabaya," Tijdschrift voor Indische Taal-, Land- en Volkenkunde uitgegeven door het Bataviaasch Genootschap van Kunsten en Wetenschappen 32 (1889): 368- 430, who argued that the Javanese babad or chronicles should be seen as handbooks of Javanese literature with occasional historical facts thrown in here and there. All that the Javanese had were myths, in Dutch scholarly eyes, and the myths were Indian to begin with. Moreover, the Javanese had not even understood the myths correctly. They were all confused, and Dutch philology was needed to sort them out. (Tsuchiya, "Javanology and the Age of Ranggawarsita.") A succinct example of these views was voiced by the missionary Poensen in 1873 in his speculations on the origins of the shadow theatre.
 
-So we would then obviously come to the Hindoe's, and we ar certainly closest to de truth if we assume that with thir hep and under their guidance the fist wajang: performance took plac in Java. Th idea for this may have been inspired from what was available, an their own mythological history offered the matera for the akon [plays Who knows whether they just wanted to keep alive in this way the memory of their geat heroes and gods rom the Mahabharata and Rama: yana among their children and grandclildren in Java who never set foot on main: land Asia; and how in the course of time, with the degeneration of the Hindoe descendants and their blending, to a greater or lesser extent, with the native population ofthis sland, the stories themselves wer also more or les changed: so that inally inthe consciousness of the peopl, the real origin was lost and Java was made the theatre where all those histories had once taken place; similarly nowa« days the average native sees in the wajang stories nothing other than so many parts of hi ancient native history"
+>So we would then obviously come to the Hindoe's, and we are certainly closest to the truth if we assume that with their help and under their guidance the first wajang-performance took place in Java. The idea for this may have been inspired from what was available, and their own mythological history offered the material for the lakon [plays]. Who knows whether they just wanted to keep alive in this way the memory of their great heroes and gods from the Mahabharata and Ramayana among their children and grandchildren in Java who never set foot on main-land Asia; and how in the course of time, with the degeneration of the Hindoe descendants and their blending, to a greater or lesser extent, with the native population of this island, the stories themselves were also more or less changed; so that finally in the consciousness of the people, the real origin was lost and Java was made the theatre where all those histories had once taken place; similarly nowadays the average native sees in the wajang stories nothing other than so many parts of hi ancient native history" Poensen, "De Wajang." pp. 143-44
 
-Poensen's remarks suggest that fo the Javanese, wayang stories may indeed have been seen as preserving the stories ofthe Javanese past. The connections that some Javanese made between Mahabharata stories and history even had precedents n India, where this particular story cycle was seen by many Indians as tiasa or history," In addition to Ramayana and
+Poensen's remarks suggest that for the Javanese, wayang stories may indeed have been seen as preserving the stories of the Javanese past. The connections that some Javanese made between Mahabharata stories and history even had precedents in India, where this particular story cycle was seen by many Indians as _itihasa_ or history," In addition to Ramayana and
 
-54, Harew, in Outen neu d Jemamhe terende, p 4, sammarzes the opinions of} -A. Brandes "Tet overeen ouderen Dipancgarain verband met een prototype van de voorspellingen van Jab," Indice Tac, Londen uit: gegen dor ht Batcinnch Geretshup oan Kirsten en 2 (189) 368- po, who argued that the livanese fwd or chronides should be seen as handbooks of Javanese teratur with historical fats thrown in here and there
+56.
 
-35. Tuchiya, and the Age of Ranggawarsit "
-
-56. Poensen, "De Wikang." pp.
-
-57. Sullivan, Kym Daipone Vyas and the Maabtorat, p. n. 24 In Inda, the Ramayana and the Mahabharata were considered to be sut ther than iit, the
+57. Sullivan, Krsna Dvaipayana Vyasa and the Mahabharata, p.6 n.24. In India, the Ramayana and the Mahabharata were considered to be smrti rather than sruti, the
 
 Shadows of Empire
 
 Mahabharata tales as histories/stories of the ancestors, Javanese literati also wrote court chronicles or bad for specific purposes." Court chronicles, usually composed in poeti form, and shadow plays were shaped and stylized, showing that both were considered important vehicles for the preservation of knowledge. The idea of written prose histories describing "ordinary" events was not necessarily new for the Javanese; rather it may have been that they were not considered valuable or worthwhile. But the wretchedly poor Javanese court poet R. Ng, Ranggawarsita, who served as translator and (walking encyclopedia) for several Dutch scholars in Solo in the mid-nineteenth century, may have thought that he would impress the Dutch, and be reimbursed for his efforts, if he produced written prose histories, full of dates, that linked the ancient tales to the more recent Javanese past.
 
-The different boundaries between myth and history in Javanese and Dutch intellectual worlds, and Dutch scholarly identifeations of history with "objectivity" and prose writing, become clear by the end of the nineteenth century in the Dutch rejection of Ranggawarsita's magnum opus on Javanese history, the Pustaka Reja" or Book of Kings. The multiSanuki. words lo, repestvely; ia sebich was remembered and that which was revealed. n addition, the Mahabharata was considered Adas (hs it occured"), he Sansui word for sar or stay; and the Ramayana was cari, the Sanski won or Uhextventuresoreloitsotahero. Monier MonierWillans, Sustri-Engih Ditimry tiles: Delhi: Mona Baranidass, 970) p. 38.
+The different boundaries between myth and history in Javanese and Dutch intellectual worlds, and Dutch scholarly identifeations of history with "objectivity" and prose writing, become clear by the end of the nineteenth century in the Dutch rejection of Ranggawarsita's magnum opus on Javanese history, the Pustaka Reja" or Book of Kings. The multi
+
+Sanuki. words lo, repestvely; ia sebich was remembered and that which was revealed. n addition, the Mahabharata was considered Adas (hs it occured"), he Sansui word for sar or stay; and the Ramayana was cari, the Sanski won or Uhextventuresoreloitsotahero. Monier MonierWillans, Sustri-Engih Ditimry tiles: Delhi: Mona Baranidass, 970) p. 38.
 
 58 Ber, "The Javanese tur ofthe ast" Se also Ricls, agiarta wr Sul Mangkubumi, and bis Mater heen Hitoral Trdtn
 
@@ -135,7 +133,7 @@ o. Da, "Meanings of Change in the Pocty ol Nineteenhrentury lva" pp 185D
 
 61. RC Ng, Perbugarka, Kepustakaan Din (jakarta: Penerit Djambatan, s95) pp. 186-8p in the Javanese language ition of is book (also published by Penebi Djambmian in 1950, Poortaiita mentions that Ranggamanita "frend?" were Duich, and esewher in he book he mention C. F Winter and Coben Start Poerbat jika notes tat thse books by Ranggawarsita wore published in Javanese script twice: the fist time by H. Buring in 88 the second time in 190 (p 187. E. M Uhlenbeck expands on this by noting that the hooks were published in nine volumes between and 906, and a second edition i eight volumes was published between zon and 1908 Uhlenbeck laments that ther are no plato publish "these important documents of Javanese historograply." by which one must assume he meant to publish them in latin script or ramlate diem Ino Indonesian for wide audience. A Crt Suro of Statin onthe Language f jend Madra, p. 130.
 
- 
+
 
 Shadows of Empire
 
@@ -145,9 +143,9 @@ What Ranggawarsita had done was to give both solar and lunar datesdates that dif
 Kanggawarsit's method seems to have touched on an area of Dutch intellectual sensitivity as the Dutch Indologist themselves were busily establishing boundaries between Javanese myth and history. Ranggawarsita spent a lot time with C. F. Winter and Wilkens as wellas with LRC.
 Gericke, A. B. Cohen Stuart, and Palmer van den Brock. sit conceivable dhat Ranggawarsita understood so itle about Dutch philology-for which he served as "de vraagbaak bij uitnemendheid"® (te walking encyclopedia par excellence)-that he failed to realize that his work might not fit within the boundaries of European conceptions f history? I suggest thatit makes as much sense to see Ranggawarsita's Book of Kings as a kind of grand spoof on Dutch historical and philological methods as it does to seeit as either a confused synthesis of Javanese history and myth or a filed attempt at European historical writing ® The work of Dutch scholars like
 
- 
 
- 
+
+
 
 6. This exprsion, from the Duh scholradiministator GAJ. Hazen, Oud en none ut de hoannche eterunt, p. 19, was alo quoted in an ess on the mang theatre by Paervoto Pravirohartfo, "Kesoesterian Indonesia Djawa" in the Indes intelectual ournal fangs Bere 1, no 8 (Pebrocn ong) 256-50
 
@@ -159,9 +157,9 @@ Hazen and retired ambtemaren (civil servants) like Humme, discussed below, shows
 
 Although Pustaka Raja texts were copied and recopied in the nineteenth and twentieth centuries, ® most Dutch scholars have turned the backs on this genre of texts" Despite the Dutch reaction, the Pustaka Rafa texts were printed in a variety of ditions, and they lived on in the world of the shadow theatre as "the" authoritative texts that both validated and enriched shadow play traditions. Javanese intellectuals and puppeteers came to consider Pustaka Raja texts to be the major source (tutor) of shadow theatre plays by the fist decades of the twentieth century." Contemporary puppeteers rom Solo and the surrounding vil
 
- 
 
- 
+
+
 
 p 25-32 summarizes Dutch attudes toward Ranggawarst's Patala Roi and sug gots thatthe tets can beth understand whi prophetic genres a writing In sever personal communications in July 195. Aln Feinstein helped to clary many of these sues forme
 
@@ -175,7 +173,7 @@ merous edions of these texs, showing hat Javanese considered them important enou
 
 €3;Poerwoto Provivohardjo,Kesoesatrsan Indonesia Djawa," Pefongga Bess, nos 67002 tama
 
- 
+
 
 lages, familiar with modern educational priorities, assert that the stories they perform are recorded in these great texts-most of whose extant versions live in palace libraries-although many puppeteers may never have seen the texts. The relationship between Ranggawarsia's Pustaka Raja Purua and the stories of the shadow puppet theatre willbe discussed in detail in chapter 4.
 
@@ -304,7 +302,7 @@ Soeharda goes on to explain that when Kusumadilaga was very old, a man came from
 
 The Serat Sastramiruda was acceptable to the Dutch scholars of the latter part of the nineteenth century because it did not contest colonial intellectual categories in the way that Ranggawarsita's work did. Rather than attempting to prove the popularly held belief that the wayang tales were indeed a type of Javanese history, the Sastramiruda gave rules and definitions. Like the Serat Centhini and even the Eurasian language teacher C. F. Winter's Jrnaansche Zamenspraken (1862), in which a Dutch scholar named Tuan Anu or Mr. So-and-So questions a native informant named Gunawan about the literature and customs of Java, the text uses a question
 
- 
+
 
 87. Soeharda Sastrasoewignja, "Hal Wajang Poerwa," p. 193.
 
@@ -336,21 +334,21 @@ That the Set Sastamiruds, like Ranggawarsita's Book of Kings, was merely the pro
 
 To understand thi text in the context of later nineteonthcentury Jvanese society we might view the writing of it as an attempt by the Solonese courts to tap the power of village puppeteess and to begin the process of reconstructing the shadow theatre tradition that would continue into the twentieth century and culminate n the 1920s with the opening of the court schools for puppeteers. Puppetcers were known for their command of the unseen forces of nature through knowledge of mystical formulas (ike the sastrijendra discussed in the preceding chapter) and were often called to the courts to commemorate auspicious occasions. By the second half ofthe ineteenth century, Dutch control had deprived the courts of all their miltary functions, and most oftheir politcal ones, and had directed their energies to elaborate weddings and the cultivation of artistic traditions." The new Dutch scholarly interests, activites, and aesthetic preferences
 
- 
 
- 
+
+
 
 n One of Winters ciissms of the dalan in his above mentioned fine Zemempuken, 3d d. vol 1 (Amsterdam: Muller, 1863) p 152 was that they aed to undestand the words o their sli or mood songs whch were voul aken from Old Inanese pot
 
 4. C. Day "Meanings of Change in the Poetry o Jara"; Pem: bern, On He Sutjat of "kun"
 
- 
 
- 
+
+
 
 Colonia Discourse and Shadow Theatre
 
- 
+
 
 gave these artistic endeavors ad century
 
@@ -393,7 +391,7 @@ And did not father and grandfather know how to ell them in the same way as they 
 
 Poensen then discussed the significance of the plays for patrons and audiences and came to the somewhat startling conclusion that somehow the Javanese had managed to combine their belief in the wayang theatre with their religious observances as Muslims.
 
- 
+
 
 1f the wajang-party isa pleasing entertainment for the guest, for the host it usually has a deeper and more serious meaning. The reader, who is quite familiar with the position of people at about the same level of civilization as the Javanese, wil not be surprised if we draw his attention to how religious consciousness, or if people prefer, superstition, has also gained control of this play, and how holding a wajang performance is viewed as a religious, or rather a pious action.
 
@@ -417,7 +415,7 @@ But then he returned to his prescient main point:
 
 But allthis ignorance and foolishness will gradually diminish, and this s already to be noticed in some classes. The result willbe that the masses will become stronger in their Islamic beliefs and its teachings will be better known. In short, the people wil become better Mohammedans.!"
 
- 
+
 
 Poensen was, in fact, one of the first scholars to document the distine» tion which he found the Javanese to draw between bangsa poetihan and bangsa abangan, the white and red groups of Javanese Muslims, an idea that would be expanded and popularized in American scholarship in the 19605 by Clifford Geertz."" Poensen drew a second distinction between the formal or outer ife of a people and their inner soul, itself a very Islamic idea. The Dutch in Holland were Christian both inwardly and outwardly, but the Javanese were only Islamic outwardly while their inner soul was really concerned with calling on nature spirits for protection. Even the orthodoxy of the so-called bangsa poetikan could be questioned, according to Poensen.
 
@@ -425,7 +423,7 @@ If Poensen's data came from Central and East Java, Humme's work on the wayang co
 
 102. Geertz, Religion of un. The "bangsa poetihan" were what Geert called santri or orthodox M and the "bangsa abangan" were the so-called nominal Muslims.
 
- 
+
 
 Colonial Discourse and Shadow Theatre
 
@@ -439,7 +437,7 @@ Looking at the lists of lakon compiled at the Kraton Solo in the early nineteent
 104. Hurmene, Abid: Een Jrowansch Toonelstul, (Woiang), p hi.
 105. Horida, froanse Literature in Suraarta Manuscripts, 121620
 
- 
+
 
 Shadows of Empire
 
@@ -447,13 +445,13 @@ the kingdom of Ngastina, setting the historical stage for the events that unfold
 
 Cohen Stuart's reluctantly offered translation of the Modern Javanese Serat Bratayuda in 1860, distasteful as it was to him, ultimately showed just how far the Javanese had degenerated from the "correct" tellings of the stories found in Indian or possibly in Old Javanese texts." Although Brandes had argued against an Indian origin of the wayang, Hazeu, who reiterated many of Brandes's ideas, was the one who attempted to rehal tate the shadow theatre tradition by focusing attention on Javanese creativity, although he, too, recognized the degeneration of the tradition."" His work was to be widely quoted by Javanese nationalists in the early twentieth century. But Humme, too, who had lived in Java, showed a strong appreciation of the extant tradition.
 
- 
+
 
 The Wajang remains within the cirdes of the familiar traditions because the strange and fantasticcharacters and their ations continue to enthrall and attract the public.
 [The Dalang] takes, therefore, an episode or a fragment from favorite fantasystories as the basis of his performance, observing the main of the most important characters and the main features of the important happenings, and then takes the freedom to embroider them a bit. Many Daleng faithfully follow what they have seen and heard from their colleagues or read themselves in Laton.
 This perhaps is more a result of a lack of spirit and inventiveness than from conscientiousness.!*
 
- 
+
 
 106. T. Roorda, De ujang serbalen vun Pale-Sare, Pandoe en Raden Pandi, in het JMet aanteekeningen (s Gravenhage: M. Nijboff, 1869) In Hazew's dissertation of 1897, he also chose to devote 34 of roughly 190 pages of his text to a summary and discussion of the lakon Palasara, following the method put forward by his major professor H. Kern in the latter's "Eene Indische sage in Javaansche gewaad." for comparing Javanese telings to their Indian "originals."
 
@@ -487,7 +485,7 @@ Sastramiruda were written in the Solonese courts, data derived from oral intervi
 
 Nyi Kenyacarita, who was in her eighties when I was in Java in 1982-84, had been a court dhalang in her youth. She had been summoned (ditimbal) to the court by Pakubuwana x (t. 1893-1939). Because she was clever, witty, attractive, and female, she was popular at the court and took part in the preparation of lakon for court performances. She described the relationship between village dhalang and the courts in the late nineteenth century as she had heard about it from her grandparents. She begins by deseribing how ordinary wayang stories were prepared for court consumption.
 
- 
+
 
 If something was not refined enough, not good enough, it was built up. Certain parts were decreased and others were supplemented. We were told to create stories... . [[he typeof stories from Pakubuwana 1x's time were developed in the days of Pakubuwana x. The inferior stories were discarded and the good stories were increased. . . . In the old days, originally it was Penjenengan Dalem Gusti Kanjeng Kusumadilaga who gathered the dhalang. On the first day of the month of Sura, dhalang were called from near and far, from far and near. They were summoned and invited to a discussion, to analyze a set of stories one by one. This is what Sakn is like, Arjuna is like this, Salya is like that . . . once a year. Then afterwards they would walk home to eat and then come back to listen again, to listen to them again, then they would take another break. There was the expression "kembul nadhah" when Kusumadilaga would eat with the simple folk (wong cilik), with the ialang. Then when the celebration of thefirst of Sura was over, those who lived far away would be given some money for their trip home, those who lived close would only get a litle money.
 
@@ -501,9 +499,9 @@ L asked other dhalang familiar with court life if village puppeteers were ever c
 
 We asked the court teacher R. Ng. Samsudjin Probohardjono whether village dhalang were punished for performing so-called court lakon outside the court."" He replied, "There are no writings and I have never heard of (anyone) being punished because this was not really important in the politics of the court authorities. But, if someone criticized the court, this certainly could be punished. If someone made up a wayang play about
 
- 
 
- 
+
+
 
 112. Soeharda Sastrasoewignja in "Hal Wajang Poerwa," pp. 46-51, supports this argument in his discussion of shadow theatre history Although he divides performance styles into three groups in the 19505-pudalangan kerutan, padalangen dalam kta, andi pedalangan dir kota (place puppeteering, city puppeteering, and puppeteering outside the city, with the first two groups being almost indistinguishable-for the nine= teenth century he notes that there was almost no diffrence between court wayang and vilage wiyang
 
@@ -543,7 +541,7 @@ The Pustaka Raja Purwa of Ranggawarsita and the Serat Sastramiruda of Kusumadila
 
 Shadows of Empire
 
- 
+
 
 ion even though one text was embraced and one ignored by many Dutch aficionados of the wayang. As the next chapter shows, the emerging Javanese intelligentsia in the twentieth century, who had the benefit of a Dutch-language education, decided to combine the techniques of European modernity and the vigor of village performance styles to "regenerate" Javanese shadow theatre and the Ramayana and Mahabharata stories it conveyed.
 
