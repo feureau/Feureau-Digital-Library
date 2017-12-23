@@ -1,0 +1,341 @@
+# Mousike techne: The Philosophical Practice of Music in Plato, Nietzsche, and Heidegger
+by Babette Babich
+
+<!-- TOC START min:2 max:3 link:true update:true -->
+  - [Towards A Musical Praxis In Philosophy Playing Temperament And Thought](#towards-a-musical-praxis-in-philosophy-playing-temperament-and-thought)
+  - [The Origin Of Music](#the-origin-of-music)
+
+<!-- TOC END --><!-- TOC START min:2 max:3 link:true update:true -->
+  - [Towards A Musical Praxis In Philosophy Playing Temperament And Thought](#towards-a-musical-praxis-in-philosophy-playing-temperament-and-thought)
+  - [The Origin Of Music](#the-origin-of-music)
+
+<!-- TOC END -->
+
+
+
+>An einem schönen Tage läßt sich ja fast jede Sangart hören, und die Natur, wovon es her ist, nimmts auch wieder.  
+Viel hat von Morgen an, Seit ein Gespräch wir sind und hören voneinander, Erfahren der Mensch; bald sind wir aber Gesang.
+- Friedrich Hölderlin, Friedensfeser
+
+## Towards A Musical Praxis In Philosophy Playing Temperament And Thought
+
+>The Muses and music in general are named . . . from searching, and philosophy.
+- Plato, Cratylus 406 a
+
+In the broad historical provenance of the conception of the "practice of music," mousike techne, ancient Greek culture includes philosophy. (See especially M. L. West, Ancient Greek Music (Oxford: Clarendon Press, 1992), hereinafter AGM; as well as Warren D. Anderson, Music and Musicians in Ancient Greece (Ithaca: Cornell University Press, 1994), hereinafter M; and for a perspective including the culture of ancient Rome: Giovanni Comotti, Music in Greek and Roman Culture (Baltimore: The Johns Hopkins University Press, 1977), hereinafter MGR. In addition, see Lewis Rowell, Thinking About Music (Amherst: University of Massachusetts Press, 1983), hereinafter TaM; Trimpi, Muses of One Mind (Princeton, 1983); and, more rigorously, A.M. Dale, "Words, Music and Dance" Dale, in Collected Papers (Cambridge: Cambridge University Press, 1969), 156-69: hereinafter WMD.) Thus and traditionally, Heraclitus invokes the greater merits of the hidden attunement, or the backstretched connection that is the secret of harmonious variance. For Pythagoras, both mathematics and philosophy are born from the structural nature of music. And with the regulative measure following from an understanding of the political/ethical effects of musical tuning, Plato builds an ideal musical city founded on the same well-tempered measure and, in a similar fashion, Aristotle invokes the ethical ideal of musical harmony (Nicomachean Ethics, 1131 a-1134 b).
+
+In this essay, I retrace the broad definition of music in antiquity to justify the sense in which one may speak of the music of philosophy. And to articulate the practice of philosophy as such a music, I recall Socrates' own account of the contest between the highest music (philosophy) and the lowest kind of music (rhymed and hymned), along with a musical reading of Nietzsche's aphoristic style, and I briefly review Heidegger's thought in its more serialist than paratactic musical dynamic.
+
+## The Origin Of Music
+
+_Mousike_, according to Liddell and Scott, is defined as "_any art over which the Muses presided, esp. music or lyric poetry._" (Definitions and source references quoted from An Intermediate Greek-English Lexicon, Founded Upon the Seventh Edition of Liddell and Scott's Greek-English Lexicon (Oxford: Clarendon Press, 1889), 520; hereinafter L&S.) For Homer, the art of the Muse (Mousa, Moisa, Mosa) embraced the broadest range of the fine arts as eloquence or cultivation in general. And to be _mousomai_, for Pericles, meant to be educated or cultured. Thus the appellation musical (_mousikos_) would characterize one "skilled in music" but also "generally, _a votary of the Muses, a man of letters and accomplishment, a scholar_" (LES). Comotti further elaborates the broad scheme of music in antiquity: "in the fourth and fifth centuries B.C., the phrase _mousikos aner_ would be used to indicate an educated man, able to comprehend poetic language in its entirety. The unity of poetry, melody, and gesture in archaic and classical culture made the rhythmic-melodic expression contingent on the demands of the verbal text. The simultaneous presence of music, dance, and word in almost all forms of communication suggests also the existence of a widespread musical culture among the Greek peoples from the remotest times" (MGR, 5).
+wéxéauku__OUSIKE TECH NE 173-_ue_wé
+For Thrasybulos Georgiades, the term _Musik_, at the same time as it reflects the resources of the Greek mind intrinsically linked to this same broad musicality, also expressed the _Eigenart_ or essence of each work in particular. It is for this reason that Georgiades emphasizes that in its grammatical form, _Musik_ is not substantive but primordially or prototypically adjectival, corresponding to the muses: "_Es bedeutet <musisch>, <auf die Musen bezogen>_." Thrasybulos Georgiades, _Musik und Rhythmus bei den Griechen_ (Hamburg: Rowohlt, 1958), 45; hereinafter MR. Of course, not every account of music in antiquity admits such a broad connection to the muses and to culture in general. A critical exception is Warren Anderson. In Music and Musicians in Ancient Greece (cited above; M), a book dedicated to delineating what he takes to be the "truly" musical, Anderson seems to understand the specifically sounding essence of music in a quasi-autochthonous sense, as the "amateur musician" opposed to the expert theorist or philosopher. The opposition Anderson proposes finds an instrumentally sounding music in rather determined distinction to the extreme variety of ancient references, where these references do not reflect the difference between the amateur and the professional musician as this difference is understood in today's musical culture. Anderson's focus on just the music one might play (his book might also have been titled, "Musical Instruments and Musicians in Ancient Greece") while (very!) laudable on many accounts misses the ancient breadth of the term exemplifying instead the monologically modern and very Western distinction between music and language. Yet even Anderson concedes the broad referentiality of antique music where he notes, with careful reference to Plutarch (and thereby, at least in the Spartan context, of the virile activity of music as Terpander expresses it), that "Mousa stands for music and poetry in all their manifestations as essential cultural expressions of the city-state" (M, 64). But Anderson outdoes Nietzsche in repeated references to Socrates' rabble origins (Socrates was a stonecutter's son). The claim that Socrates hated music because he did not understand it would be better if Anderson had only worded it in this wise, reminiscent as it would have to be of Nietzsche's verdict on the death of tragedy, due to a failure of understanding on the joint parts of Socrates and of Euripides. As it is, Anderson inserts a genteel, dissonantly Victorian vision of ancient Athens, with the well-born Plato expertly playing in a chamber music trio on a five-or seven-stringed lyre, with his high-born companions on the syrinx or aulos. It is unclear that music playing counted as such a class-based diversion or even that "facility" with musical instruments would have been limited to the upper classes - the function and status of flute players in the Symposium and especially in comedy would seem to run contrary to this assumption of music-lesson culture. Because music articulates itself as an activity in play, music in its very primordial essence can never be a finished, objective, or given work. Accordingly, a "musical education" is only dynamically possible "through musical activity." ("Musische Erziehung durch musische Betätigung," (MR, 45).) This active dimensionality reflects the unique character of the Greek language.
+
+For Georgiades, an intrinsically Western perspective "presupposes the field of tension which formed between the word and art, between language and music. The mousike of antiquity ... does not recognize this distinction" (Thrasybulos Georgiades, Music and Language (Cambridge: Cambridge University Press, 1982), 134; hereinafter ML.) There is thus an incompatibility between the ancient conception of music and our contemporary understanding of music, which like art, refers to a world apart from the everyday. Thrasybulos Georgiades writes "The art of the Western World presupposes something which lies outside its own boundaries. [...] Similarly, the poetry of the Western World presupposes simple prose as its ultimate source [...]" (ML, 134) Because, according to Georgiades, art and truth formed "an indissoluble unit" for the ancient Greek, it is misleading to translate, mousike, "simply as music" and it "cannot even be termed 'art' in our sense" (ML, 134). Thus rigorously defined, even the semi-Whiggish Warren Anderson concurs that the modern word, music, should not be used "to render mousike. The Greek term designates here the oral training in poetry - sung to lyre accompaniment or recited without it - that had for so long been the means of transmitting the values and precepts of Greek culture (M, 143).
+
+As mousike is only partly equivalent to the contemporary conception of music, our tendency to reduce music to the "organized" art of sound obscures the equiprimordial sense in which Musik is the quintessence or enabling element of intellectual or spiritual education and in which Musik figures as the determining force of both individual and societal character or ethos. It works as such because of the essentially, literally musical difference Georgiades constantly emphasizes between the language of archaic Greece and contemporary Western languages. The fundamental musicality of antique Greek resides in the tonic interval of fixed time: long or short, that is also what Georgiades names its static character (its _masked_ dimension, paralleling the fixed expression of the masks of ancient Greek theater). The very inflexibility or rigor of archaic Greek compels the speaker/hearer's active or ethical engagement. If the "Western verse line is not a musical but rather a linguistic form," the musical-rhythmic structure of the ancient Greek verse line, by contrast, reflected the music of the language: "The ancient Greek word comprised within itself a firm musical component. It had an intrinsic musical will." Because "individual syllables could be neither extended nor abbreviated" (ML, 4-5), the Greek language was expressed in consummate, completed time. "The rhythmic principle of antiquity is based not on the distinction between the organization of time (the measure, system of accents) and its filling in (with various note values) but rather on intrinsically filled-in time" (ML, 4-5). For this reason, music was indistinguishable from speech. Yet because of this inextricably compound character, _mousike_ had enormous edificatory powers. The speaking subject was engaged not only as a speaker but always also as active listener. Because of this doubly aspected engagement of atttentive articulation, ancient Greek presupposed a community and possessed a community-building power nearly impossible to imagine today. For Georgiades, this implies a fundamental ethic of responsibility which dares him to claim that the effect of a Hitler would have been impossible in Ancient Greece (MR, 48).° But only the pristine resonance of the linguistic constitution of ancient Greek can ensure discrimination at such an ethical height. After song has been sundered, emptying its spirit in the written text, rendered as (distinct) prose and (distinguishable) poetry/music, there is no philosophy (not even Levinas's, perhaps especially not Levinas's) that can be proof against such use/abuse. The development of prose out of music separates music and text - it is no accident that this begins with the institution of writing whereby the text is liberated from its originally musical expression in the full measure of time." I shall argue that today we need to restore the music of thought by a deliberate attunement. If what was once inherently resonant in the original language of philosophy has been silenced by the letter, the obscured possibility of resonant, responsive thinking may yet admit recollection.
+
+PHILOSOPHY AS HIGHEST MUSIC: THE TECHNICAL CASE OF SOCRATES
+
+Pythagoras' esoteric, exactly allopathic, conception of a musical harmony between world and soul renders music the soul of philosophy." In his Republic, Plato agreed with traditional wisdom concerning the consequences of any changes to the musical modulation of the state: "when the modes of music change, the fundamental laws of the state always change with them."" Where writing (just because it is writing) underlines what is no longer a universal practice,"" Plato's expression of philosophy as a kind of music invokes a very traditional conception of music. As the love of wisdom or theory, philosophy installs itself precisely in the place of music as the highest or noblest kind of music. And it is in this same correspondent, musical company that the idea of the musical practice or ethos of philosophy is more than a matter of metaphor.
+In apparent tension with the negative judgment on music rendered by the Republic, the question of the right relation between music and philosophy is addressed in the Phaedo, which is also the question of the primacy of philosophy
+
+
+
+
+
+774 BETWEEN PHILOSOPHY AND POETRY
+
+over poetry or music. The ethos of music represented both the very Pythagorean possibility of harmonious resonance of soul and world as well as, and especially in its more popular modes, posing the most effective threat to the rational dominion of the soul. Music in its breadth could be regarded as constituting a vital danger to philosophy (as the highest music beyond popular music and poetry) and consequently, music threatened the singularly ethical dominion of philosophy as the project of conceiving and living a well-ordered or examined or good life. As the greatest of erotics, in Nietzsche's words, an ironic Socrates left the world nothing but music without a text, and called philosophy the highest music in a teasing gesture that inevitably alienates and embitters the rest of music."
+
+Socrates, the amateur sleuth of the good, pretending incompetence and distraction as a fuse to convert (convict) his interlocutors (on the model of television's "Lt. Columbo"), was notoriously fond of seemingly vulgar and simple allusions and oaths, as well as banausic and pedestrian examples. We all know that the immortality of the soul is the theme of the Phaedo, where Socrates recounts his eleventh hour musical excercises. Soul or not: the dialogue is all about the body - beginning (and ending) with strikingly graphic references and physical descriptions. The pathos of the body includes pain and feeling, especially erotic feeling. Thus the dialogue begins with Socrates sending away his wife, to spare himself (we are told) the unseemly sounds of her anguish.
+Scholars are quick to advert to the typically ironic foreshadowing of the later lamentation of Socrates' manly disciples at the dialogue's conclusion, ignoring the relevant detail of Xanthipppe's tacitly intimate support of his last earthly night (the dialogue begins with his male friends waiting impatiently for morning light for his jailors to permit entry)."" In the same bodily context (and it is the same metaphor within a Platonic context), Socrates' fetters are loosened and Plato offers us the sight of Socrates rubbing his legs (a dissonantly homely image, not unlike the paradoxical picture of Heraclitus surprised by his admirers with his back to the kitchen stove). Socrates here remarks on the very Greek tension between pain and pleasure, and this resonantly erotic detail, by analogy, is likened to the death that is to come. We need not add that we are further offered so many details of Socrates' death that it is possible to reconstruct the ancient aetiological understanding of herbal pharmaceuticals, nor need we advert to the typically scholarly blush that awaits any reference to the precise place where the poison rises to call forth Socrates' last words referring to a rooster as a debt for healing.
+
+In this confessional context, Socrates reports that all his llfe he was persist ently visited with the same unusual dream figure, repeatedly uttering an imperative caution. The oneiric warning never varied: "make music'" (Phaedo 61 a)." Throughout his life Socrates had always assumed that because philosophy itself represented the apex or culmination (ph/osofias men ouses megistes mousikes) of the musical arts (61 a), he had always already been in compliance with the dream's command, dedicated as he was to philosophy. But the recurrence of the dream remained perplexing and the circumstance of his death sentence brought him to rethink his life-long interpretation of philosophy as music in the highest sense. And in an ironic gesture of superstitious
+
+
+
+
+
+i Bribe oter " Comite sei
+
+as
+
+, arate woah
+
+MOoOUSIKE TEC HNE 175
+
+appeasement that does not accidentally recall the pious preoccupations of Cephalus in the Republic - the same place where Plato subjects music to the most stringent regulations - Socrates says that he casually turned to practice "music in the commonly accepted sense": composing a hymn of praise to Apollo together with a few common verses (construed from Aesop's fables)."" As the parallel with the Republic suggests, it is not difficult to extend this observation of Socrates' very musical achievement to the composition of the dialogue as playing "the song itself.""
+
+To take the Socrates of Plato's Phaedo at his word is to invert the order of indebtedness which is the pattern of its final irony. There is no challenge to the conception of philosophy as the highest music in the ultimate recourse to everyday musical kinds. Indeed, the point of the conclusion is reinforced by the lyre lessons West tells us Socrates takes at the end of his life, because as West also tells us, like champagne to us, for the Greek, "Music is constantly associated with celebration" (AGM, 14). Given the Platonic representation of the body as the prisonhouse of the soul, Socrates' causal reflection on the relation between pain and pleasure at the moment of his preliminary liberation from his fetters at the start of the dialogue foreshadows the ultimate Platonic ideal of liberation from the illusions of earthly life. And we find a similar parallel between the vulgar practice of music, sacrificed by way of expiation to the healer god, Apollo, the dream god or the leader of the Muses, Mouségetes," and the rooster Socrates asks Crito to sacrifice to the vulgar or people's god of healing, Asklepius.""
+
+Confessing a vain conviction in precise accord with Greek tradition, Socrates appeals to the popular practice of music. Thereby he exploits an exoteric image for the sake of his most consistent account of the priority of soul or pure form over body or sullying matter. But if we have learnt nothing else from Freud, it is the secret of the secret as confessed or betrayed in such an overtly provocative manner. And we wait for the second master of suspicion to hear Nietzsche wondering about the character of a Socrates who might have lived a life not dedicated to philosophy as the highest music but to the breadth of music as such.
+
+THE THINKER*'S CONCINNITY: NIETZSCH EAN DISCRIMINATION AND RESONANCE
+
+Nietzsche may well be the philosopher most often associated with music." Indeed, we are told that Nietzsche's entire life was caught up within or captivated (wregreif?) by music."" But this musical connnection differs from the interpretations of Nietzsche as a nihilist or metaphysician, or the college-level mistake of reading him as an "existentialist," if only because it is not an "interpretation." From the start, Nietzsche himself insists on reading his writing as music. But to say that this is Nietzsche's own dictation does not make its significance clear. How should we read Nietzsche's advice, for example, to count Thus Spake Zarathustra, Nietzsche's major work as popularly received, exactly as music? How do we begin to parse this un-book as a book of parables, modeled, as we are instructed by so many commentators, on the gospels? Are
+
+
+
+
+
+
+
+176 BETWEEN PHILOSOPHY ANC POETRY
+
+the gospels a kind of music too, or, more dangerously ironic than Socrates' Aesop, has Nietzsche merely set the New Testament in (all-too-free) verse? To give the question of the self-declared musicality of Nietzsche's texts another edge, how do we read Nietzsche's claim in his self-criticism of his first book, as this descriptive assertion could catch the exactly poetic sensibilities of Stefan George: "it should have seng, this 'new soul' - and not spoken!"
+
+To answer these questions I have elsewhere had recourse to a borrowed metaphor, in the somewhat conceptually dissonant term, concinnity. I take the term in its very harmonic musical sense, largely affine to the sense of the Latin concinnitas as thythmically attuned diction. It is concinnity that resounds in the well-rounded or happy phrase. The architectural sense belongs to or is part of the originally rhetorical teem employed by Cicero and Seneca to indicate the successful musicality of expression."" But where one may speak of music as liquid architecture and where Nietzsche insisted on architectural resonances to describe his definition of the grand style, the term concinnity as I employ it, recalls its own traditionally architectural meaning in addition to its rhetorically musical sense."" This properly architectural significance originates with Alberti's definition of concinnity as the coordinate harmonization of naturally divergent or contrasting parts.""
+
+The need for such musicality in reading (and thought) is not figurative (or allegorical and so able to be conceived as an isolated interpretive turn) but a firstly literal (that is, textually explicit) and indeed ultimately tropologically (anagogically) fundamental prerequisite for a triadic resonant hermeneutic of the aphorism written, as Nietzsche writes, and he declares that he writes, in a reader-ironizing counterpoint. And on Nietzsche's author's or compositional side, such a musical or aphoristic style supports or enables an account of the world without truth, without event, without remainder." Yet most immediately relevant because most pernicious is that this same musicality leaves his text (deliberately) liable to misunderstanding through simplistic or shortsighted or flattened and consequently inadequate readings. Mis- or short readings exemplify the connection between the aesthetic nihilism that inheres in the pathos of truth and the interpretive truth of truth, the truth of illusion, or the truth of the world as will to power."
+
+The elusiveness of Nietzsche's style derives from the specifically Heraclitean - and intrinsically musical - tension of his aphorisms. By virtue of this literally compositional tension, the aphorism can - and must - be read against itself. In other words, the music of Nietzsche's aphoristically composed text inevitably plays upon both sides of the listening/reading dynamic. The advantage of what I call "musical" reading is patently useful for the interpretation of any aphorism or any thyme, or any joke - but such musicality may not be dispensed with in the case of Nietzsche's aphorisms. Falling short of the aphorism's music, the prosaic reader, deaf to the resonance of the text, like Socrates' uncomprehending vision of the music of tragedy, not only fails to "get it" as we say, but as a failure unawares, such an error is effectively incorrigible.
+
+This does not mean that Nietzsche will not be understood: it turns out that it is no kind of philosophic achievement to "get" a sense of Nietzsche's meaning, in contrast, say, with Kant. Despite his hyperbolic anxiety regarding his postMOUuSIKE TECHNE 177
+
+humous reception, it would seem a simple matter to understand or read Nietzsche. Every Nietzschean aphorism has always at least two points, if not indeed more. This characteristically Nietzschean excess permits most readers to come away with at least a partial notion of the text. This means that Nietzsche's esotericism is inclusive rather than exclusive and such an esoteric style is articulated by means of the aphorism which, precisely in its musical expression, is effectively able to distinguish readers and readings on the reader's part.
+
+The musical dimensionality of Nietzsche's aphoristic style is able to instigate an ironic reversal or provocative inversion of best intentions (this is the reflective core of esoteric Protestantism). Thus, for example, bristling in a forest of related aphorisms in Beyond Good and Evil, Nietzsche warns "Anyone who fights with monsters should take care that he does not in the process become a monster. And if you gaze for long into an abyss, the abyss gazes back into you."" Without hearing its resonantly rhetorical "English," without a specifically attuned or "musical" reading, the reader may catch Nietzsche's reference to monsters and the danger of the abyss while missing his emphatic melancholy.
+Taking Nietzsche's words flatly or atomistically, as logically ranged terms and not as the reticulated elements of a provocatively framed aphorism, obscures their inherent backwards (and rhythmically musical) reflex. And it is no accident that a number of readers offer interpretations assuming that the monstrosity of the abyss is a specific or accidental and hence avoidable enemy and that the point of the statement is tactical avoidance rather than a caution confessing the inevitable entanglement of engaging corruption or evil. The threat of the abyss thus becomes yet another threat to modernity, a thing to be banished with the light, like a monster lurking in the closet, or a fault to be paved or smoothed over with the landfill of "values."" But for Nietzsche - and this is the Kantian dimension that would most intrigue Heidegger - the knower's confrontation with the abyss inevitably admits the abyss in the knower. All engagement is relational. Like the backwards and forwards relationality of Nietzsche's reconstruction of the human subject poised by rather than merely posing the object of judgment, there is a coordinating movement inherent in the progress of verse and music. Correspondingly, and this is important, a musical reading is impossible unless the reader holds with - as one must when listening to (reading) a poem or a piece of music - the beginning through to the end.
+
+A similar interpretive dynamic accounts for the typically flattened reading of the warrior's maxim listed at the start of Twilight of the Idols: "From the military school of life," and which continues "- What does not kill me makes me stronger.""' Here, the prose or routine reading overshoots the emphatic prelude as context: one reads Nietzsche's contention as literal, literally prosaic truism.
+Nietzsche, one takes it, says the same thing as any military or personal sports trainer might say: what doesn't kill one, makes one stronger. This too includes a challenge against the declaration. And the title of the maxim, the one for whom such a personal rule might be supposed, offers a backwards echo: from such a perspective on strength and intensification, but also compulsion, blind loyalty, and humiliation, it is said, and said from within a military mode, that what doesn't do one in, leaves one better off or makes one stronger. Or so the
+
+
+
+
+
+
+
+«oe ANet Gate at Gies men ron amen cns „een n
+
+
+
+178 BETWEEN PHILOSOPHY AND POETRY
+
+tired veteran hears the tale told from Pericles' Athens to Lincoln's Gettysburg and still today in everyman's army. Nor is it untrue as such, rather it is only and exactly half true, just as to be half-dead is also to be half-alive. On matters military, Archilochus reclining on his spear to drink - in a dialectic reflection poised with this very posture - muses on the attunement of two truths held in balance. For the first: "Some Saian sports my splendid shield: / I had to leave it in a wood, / but saved my skin. Well I don't care -/ I'll get another just as good."" What is then usually rendered in helpful translation as living to fight another day, promises another kind of restitution or payback. The more suitable "leaving-present"** Archilochus threatens for his future return can only be dealt from a mercenary's perspective - beyond the "military school of life."" Nietzsche's Kriegschule des Lebens captures the brutality of the training ground from the precise advantage of an irony that goes beyond it. This is what Hollywood's soldier means by the promise: "I'll be back."
+
+Taking up the musical sense of the aphorism keeps both its subject matter and its development as parts of a whole. Thus positions, statements at variance with one another are not simple contradictions but contrapuntal (the terminological contrast need not be taken literally but can be read metaphorically here, as "music"), balanced exactly in their opposition in the backstretched connection Heraclitus long ago compared to that found in the (philosophic) bow of life and the (musical) lyre."
+
+Nietzsche named music the intimation that perhaps the solution to the suffering of existence was not its redemption (religion) or alleviation (modern science) but its intensification, in the Razsch, the intoxicated play of the Dionysian, standing as the frozen music of the grand style, a name for a life ventured or vaulted in time. Like other musicians, Nietzsche called it joy. Nietzsche's project for a different, unequal philosophy of fighting with monsters, the abyss, or the military school of science, as a philosophy of art and life recalls the promise made by the dying Socrates to himself: to practice music. What music is, what architecture, what life turned through art and desire upon itself in time names is never will to power but rather: eternal return.
+
+THE CASE FOR HEIDEGGER'S MUSICAL STYLE: BLESsiING Mmuses'®
+
+If I argue that a musical concinnity (that is: reading with one's ears, where the notion of resonant reading, like the labyrinth of stomachs and intestines of Nietzsche's bovine metaphor of rzminration, recalls in a purely metonymic parallel the whorls of the outer and inner ear)"' is indispensable for a reading of Nietzsche as philosopher, a philosophical reading of the Heidegger who links poetry with thinking must be no less musically accented. A musical attunement is required to read the Heidegger who took continual pains - to our no less enduring annoyance - to remind us that we are "still not thinking." Where Heidegger invokes the nearness of thinking and poetry, the saying or ringing of the same that is said in silence is the inherently musical silence of Heidegger's favorite emphasis: the caesura. And this is the key to the musical serialism of Heidegger's style. Such a musical reading may enable us to go beyond both the
+
+
+
+
+
+icin iceratinte oon
+
+Antennen... ct
+
+
+
+MOUuSIKE TECHNE 179
+
+seductive resonance of Heidegger's text (as George Steiner characterizes its esoteric dimension, following Löwith and Arendt) as well as its well-publicized cognitive opacity.'"
+
+To sketch this with an abbreviated illustration, the later lecture course Was heißt Denken? not only offers an acoustic resonance in the German of the title an allusiveness which cannot be heard in the English, What Is Called Thinking? - but exemplifies the work's stylistic advance. It also turns reflexively on a reading of Nietzsche, where Heidegger writes (in a fashion which would inspire Derrida's stylistic appropriation of the same trope in Spzrs), "We ask: what is called thinking - and we talk about Nietzsche."
+
+Beyond what Heidegger names "one-track {or academic} thinking," Heidegger's strategy in his style of writing is sustainedly paedagogical: he provokes as the effect of a deliberate shock, as a claim dropped contrary to expectations, running against the grain of ordinary academic discourse and philosophic expectations. This strategy famously backfires (it leads to frustration at one extreme, and violent denunciation at another) but I argue that it can also teach the forbearance necessary for poetic renunciation or thoughtful attention. The three point strategy (provocation, intensification, return) works against what Heidegger regards as the ordinary tendency of scholarly thickness: one-sidedly dogmatic statements heard and perceived as such by thinkers locked into "one-track thinking" (WAD, 26). In this serially musical strategy, Heidegger does more than remind us that we need (as Nietzsche likewise emphasized that we need) to /earx to think."
+
+Reflecting on the paratactic framing of Parmenides' gnomon - "needful: the saying also thinking too: being: to be," Heidegger illuminates this same ringing silence: "We call the word order of the saying paratactic in the widest sense. . . . For the saying speaks where there are no words, in the field between the words which the colons indicate" (WAD, 186). For Theodor Adorno, the same paratactic character captures the modern essence of a-tonal music as well as Holderlin's poetry."" Adorno is far from Heidegger's defender but his suggestion offers us a way to approach a hearing of the rather more serial than paratactic spareness of Heidegger's reflection on the participial construction of "blossoming," taking blossoming together with flowing, being together to catch the mutual relation, the backwards/forwards movement of the participial form as musical. Once serialism is counted in place of the paratactic tact of Heidegger's reading of Parmenides, the answer to what is called thinking may be sounded forth: "Thinking means: letting-lie-before-us and so taking-to heart also: beings in being" (WAD, 224). And so taking-to-heart also, also.
+
+As an atonal tonality, a musical serialism in the philosophical text can teach us to interrupt our own always "already-knowing." In this interruption, we literally take a step back, turn to another beginning, and in this way, but only as a sheer and fading possibly, we may yet come to hear Heidegger's resonant word, as the wmelos of the appropriative event. "Saying" for Heidegger "is the mode in which Appropriation speaks" (WAD, 266). Saying speaks in every word, in silence, and most particularly as the event of Appropriation, as what catches us up, as Ereignis, in the melos of the song that in "saying speaks." Expressing the way in which we might be so appropriated as the me/os of
+
+
+
+
+
+180 BETWEEN PHILOSOPHY ANDO POETRY
+
+Ereignis, "the melodic mode, the song which says something in the singing" is the frame of song, arraigned as what lets be, what "lauds," all present beings, allowing "them into their own, their nature" (WAD, 266). These are the words of song: "das Lied das singend sagt," sung between mortal experience and mortal converse when Holderlin promises in his poem Friedensferer: ". . . but soon we shall be song." ". . . bald sind wir aber Gesang."
+
+The music of philosophy is not a static achievement but a possibility of answering song or reflective resonance, that is also what Heidegger named thinking. For thought of this kind, we need less the promise of novelty (or the possibility of a consummation) than to learn to listen - for the possibility of harmony is the possibility of reticent or open attunement. This takes us back again to the musical ideal of Greek antiquity where no one speaks who does not also at the same time listen and where the key to ethical virtue is not the imperative of law but measure or fittedness - attuned to the music of the heart, the music of life, but above all attuned to the singular possibility of attunement itself: the backstretched connection.
+
+Silence can be the kind of attunement in its ringing, its tolling knell or breath, that holds itself out, not sounding what it already knows but seeking an attending, listening word in reply. Such an attunement attends to language, nature itself, or indeed the very venture of philosophy. For to say "soon we shall be song" is to propose that we may yet come to hear what is said in what is sung, as the song of praise or wonder that is the sounding shock of wonder: the ringing silence or dazzled mien of philosophic thought broken open at its inception. The paradox is not the disappointment of a misappointment, if it is also that, but inheres in any insight into what is, any astonishment before being and in the face of the nature Heidegger spent a life trying to teach us not to go beyond.
+
+It is music that invites one to think by hearing what is said both in the words and between the lines in the style of expression, attending to the unsaid in what is said at the end of philosophy. This music of thought is the reason one still speaks, however bemusedly, of the music of the heart or the echoing knell of sounding or attuned silence." The ethical praxis of music in philosophy teaches the heart to listen, as Nietzsche says, by teaching it the same reticence that matters so much for Heidegger: allowing the impetuous heart that Plato despaired of holding, to stay, to dwell, to keep its peace, teaching the soul to hearken to the many voices on that day of perfect beauty on which, as Hölderlin writes, nearly every art of song may be heard.""
+
+>» ec
+
+
+
+} H H £ i i
+
+The political question which can be posed against any philosophical text after the unspeakable (now: in the antique Greek sense) experience of the Second World War - or whether on its basis a Hitler could or could not be countenanced -- as the ethical touchstone that rates a Levinas above a Heidegger, becomes a fruitless one on this reading.
+In general terms, _mousike_ functions only within the complex of ancient Greek culture. For this reason A. M. Dale could write that "Classical Greek needed no Wolfian doctrine of 'poetic supremacy' because song, with its dance, [i.e., music] was a function of the words themselves when they were alive - that is in a performance." To say this is not to make of music a Hanslickian reserve. For Dale, the performance as such, itself an epiphany of Greek culture and its communal foundation, demanded everything society had to offer it.
+As a performance, moxsikeal event, the event of "words, music and dance," required a staging and a consummate celebration: "one great occasion in all its bright splendour, its aglaia, round an altar, or in the orchestra, or processionally. . . . With the passing of the kind of society which required and supported public performances of this kind, the living art of this supple polymetry soon perished; it shrank and petrified into the words on paper, so unskillfully preserved that even the proper ordering of the phrases quickly faded from memory" (WMD, 168). Gary Tomlinson points to the difficulty inherent in the metaphorical language implicated in such an ethical (versus cosmic) ideal of harmony in a chapter entitled "Modes and Planetary Song: The Musical Alliance of Ethics and Cosmology," in his book Music in Renaissance Magic (Chicago: University of Chicago Press, 1993). For casual purposes, a philosophical ethics or style of philosophizing represents an exemplary doing of philosophy consummate in the sense given to the expression of practical artistry, where it is important to note that one speaks of the proper, comme i/ faut, wie es sich gehort, exactly when it is not ordinary.
+nNnOtTES TO PAGES 171-172
+
+CHAPTER 12 MOUSIKE TECHNE: THE PHILOSOPHICAL PRACTICE OF MUSIC IN PLATO, NIETZSCHE, AND HEIDEGGER (BABETTE E. BABICH)
+
+
+
+
+According to Theon of Smyrna, the Pythagoreans called "music the harmonization of opposites, the unification of disparate things, and the conciliation of warring elements. . . . Music, as they say, is the basis of agreement among things in nature and of the best government in the universe." Mathematica, I.
+
+Plato, Republic 4. 424c. "Damon," as Rowell writes, "one of Socrates teachers, was one of the earliest authors to suggest a specific conception between music and the formation of the human character" (T@M, 51).
+
+See for a contemporary discussion of the issues at stake, beyond the likewise relevant current debate on performance practice, Goehr, The Imaginary Museum of Musical Works (Oxford: Oxford University Press, 1992).
+
+Socrates' literary "silence" is also what saves him from stasis. As Adorno writes, "music and literature alike are reduced to immobility by writing." Theodor Adorno, Qzass una Fantasia: Essays on Modern Music, trans. Rodney Livingstone (London: Verso, 1992), 295.
+
+The gentleman's club or (male) biased conviction that Xanthippe was a nag and a drag on Socrates and that he sought to have as little to do with her as possible is gainsaid by the very fact that Socrates, once a student of Diotima, was at his age, married and, likewise at his age, blessed with young sons - the very ones he invoked during his trial under the ruse
+
+
+
+202
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+23
+
+NOTES TO PAGES 174-176
+
+of not mentioning their vulnerability or youth. But it is the fact that he has such young sons which tells us that his marriage was something other than a sham (it was no doubt a hardship, but the trouble would have been largely on Xanthippe's side given the breadless pursuit that occupied his time). From the Greek perspective, a marriage limited to the expression of intimate relations was routine. Companionship or conversation had to wait for Bernard Shaw.
+
+The command was the literal: "O Socrates, make and practice music" (Plato Phaedo 60e).
+We may assume that the god of the dream could be named Apollo, as we are justified in so doing by way of metaphor (as the dream-god par excellence) or else metonymy (the Apollo who held state executions in abeyance for the duration of his feast).
+
+The ironic point is that in a Platonic scheme, such a routine rendering of "real" music or poetic composition necessarily limits the poet to the unreal world of myth or fable. The joke equates Aesop with Apollo. Or perhaps as Socrates is said to resemble Marsyas, Aesop is better equated with Dionysos.
+
+Cf. Plato Republic 531 a~-532 ¢. Although by quoting these esoteric lines from the Republic I also invoke the elegant referentiality of the subtitle to Ernest G. McClain, The Pythagorean Plato: Prelude to the Song Itself (York Beach: Nicholas Hays, 1978), I have noted important reserves concerning the exactly metaphorical limits of this expression of the force of analogy itself as what Graham Pont applauds as an identification of "the enalogia or proportion of 6:8:9:12 and the three means it encodes, arithmetic, geometric, and harmonic" to show "how Plato applied the precise mathematics of tuning and temperament to the quantitative modelling of political systems and the fine attunement of the ideal city-state" (Graham Pont, "Analogy in Music: Origins, Uses, Limitations," in phor: A Musical Dimension, ed. J. C. Kassler (Basel: Gordon and Beacon, 1994], 195). My metaphorical reservations respond to Georgiades' broader reading, a reading which would not subsume the ideal of musical harmony to the mathematics or "rationality" of the same just where mathematics and rationality begin from that harmony and not the other way round - as well as to Arpad Szab6, The Beginnings of Greek Mathematics (Dordrecht and Boston: Reidel, 1978), whom Pont himself cites: 132 ff. For the contrary emphasis, see Robert Brambaugh, Plato's Mathematical Imagination, (Bloomington: Indiana University Press, 1954).
+
+West refers to Socrates' tutelage in the lyre on p. 26, citing Plato Exthydemus 272¢.
+
+Richmond Y. Hathorn, Greéé Mythology (Lebanon: American University of Beruit, 1977), 162.
+
+The contrast between the world of images and the world of ideas, between pious petition in the face of bodily sickness (Asklepius) and the new program of scientific theoretical medicine represented by the followers of Hippocrates deserves further investigation.
+
+For a philosophical discussion of Nietzsche and music, see my treatment of Nietzsche's concinnity in my Introduction and Chapter One of Nietzsche's Philosophy of Science (Albany, 1994), as well as and for greater musicological rigor, books and essays by Friedrich Love, Roger Hollinrake, Curt Paul Janz, George Liebert, among a great many other names. An extensive but nevertheless still incomplete bibliography on the theme may be found in "Nietzsche and Music: A Partial Bibliography," New Nietzsche Studies 1, 1-2 (1996); 64-78.
+
+Curt Paul Janz, "Nietzsche Verhältnis zur Musik seiner Zeit" in Nietzsche-Studien 7 (1978), 308-26. Friedrich Nietzsche, Birth of Tragedy, trans. Walter Kaufmann (New York: Vintage,
+
+
+
+
+
+24
+
+25
+
+26
+
+NOTES TO PAGES 176 203
+
+1967) Preface: "Attempt at a Self-Criticism: 3," 20. German text in Sämtliche Werke.
+Kritische Studienausgabe, (Berlin: de Gruyter, 1980, c. 1967-77), vol. 1, 15; hereinafter KSA.
+
+For concinnity in music, see, in general, Jan La Rue, Gxidelines for Style Analysis, (Michigan: Harmonie Park Press, 1992). Concinnity is a rhetorical term employed by Cicero (Orator 19.65; 24.81; 25.82) and Seneca and by Alberti in a musico-architectural context (see note 25 below). In a mechanical extension, Graeme Nicholson uses the term concinnity in a carpenterly sense to express the fitting and jointure of Heidegger's use of the German Fxg or Fiigung, as in mortise and tenon, or coordination of the organs of human sexual expression. See Graeme, Nicholson, I//zstrations of Being (Atlantic Highlands: Humanities Press, 1992), 272-3. It is also used as a term for facilitating concourse in urban transportation studies and has been utilized in descriptions of Hindu ethics.
+
+According to Vitruvius, music was among the essential formational requisites for the practice of architecture, and listed the following desiderata: "Let him be educated, have skill with a pencil, . . . have followed the philosophers with attention, understand music .._." {1.1.3). Such a knowledge of music was useful for practical (mostly military) reasons, "Music, also, the architect ought to understand so that he may have knowledge of the canonical and mathematical theory, and besides be able to tune balistae, catapultae, and scorpiones to the proper key" (1.1.8), where the "correct note" heard by the skilled workman served as a kind of acoustic level. The same understanding would ensure the sounding proportions of theaters together with the "bronze vessels (in Greek becheia) which are placed in niches under the seats in accordance with the musical intervals on mathematical principles. These vessels are arranged with a view to musical concords or harmony . . ." (1.1.9), where such an arrangement evidently served to amplify the actor's voice. Vitruvius' assumption of the importance of music for architecure is echoed in Alberti's claim that the intellectual edification is inspired by "lines and figures pertaining to music and geometry," (De re aedificatoria, 7 . 10, cited in Rudolf Wittkower, Architectural Principles in the Age of Humanism, [New York: Norton, 1971}, 9). Wittkower explores the role of "Harmonic Proportion in Architecture" and Palladio's conventions in particular at critical length. For Wittkower, Alberti's claim can only be understood if we recall that for Alberti, "music and geometry are fundamentally one and the same; music is geometry translated into sound, and that in music the very same harmonies are audible which inform the geometry of the building." Robin Maconie, a music critic captivated by the literal interpretation of such a notion, is more emphatic than Rudolf Wittkower when he declares that "The Palladian interior can be considered in precisely the same terms as a recording studio," save that the studio designer seeks to avoid those eigentones Palladio sought to generate. (See Robin Maconie, Concept of Music [Oxford: Clarendon Press, 1990], 160ff.) Wirtkower however notes that such resonant notions for the theory of proportional design is out of style, where he cites the substance of Julien Guadet's critical reserve in Eléiments et théorie de l'architecture, concerning "je ne sais quelles propriétés mystérieuses des nombres ou, encore, des rapports comme la musique on trouve entre les nombres de vibrations qui déterminent les accords." For Wittkower, if Guadet's sobriety is beyond reproach, the problem remains: "'Les proportions, cest Finfin? - this terse statement is still indicative of our approach. That is the reason why we view researches into the theory of proportion [that is: musical or harmonic proportion - BB} with suspicion and awe. But the subject is again very much alive in the minds of young architects today, and they may well evolve new and unexpected solutions to this ancient problem" (154).
+
+"Atque est quidem concinnitas munus et paratio partes, quae alioquin inter se natura destinctae sunt, perfecta quadam ratione constituere, ita ut mutuo ad speciem correspondabat." Alberti, De re aedificatori libri decem 9.5 (1962, 815). Cited by Paul von Naredi-Rainer, Architektur & Harmonie (Cologne: Dumont, 1982), 23. In this same context, beyond the reference to urban transport and Hindu ethics (note 29), Naredi-Rainer also notes Luigi Vagnetti's
+
+
+
+204
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+NOTES TO PAGES 176-179
+
+comprehensive investigation of the word "concinnitas" and its verbal affinities which apparently may be taken as far as the word cocktail. See Vagnetti, "Concinnitas, riflessioni sul significato di un termine albertiano" in Studie documenti dy architecture 2 (1973);
+
+139-61.
+
+Thus a specifically musical temperament is required just to follow (to read) Nietzsche in his textual ventures. Without a musical reading, Nietzsche offers only contradictions and logical infelicities - at best a kind of poetry for philosophers with a taste for it, at worst, sheer nonsense. Nietzsche quite literally plays philosophical perspectives upon philosophical perspectives along with conceptual terms. It is thus for the sake of winning the great part of Nietzsche's philosophy that a resonantly musical reading is needed. Within such a dispositionally resonant interpretation, oppositions or contrasts evident in the conceptual independence of the pairs truth/science and genealogy/morals can be heard as posed in accord.
+
+I have offered a book to illustrate this point with regard to the philosophy of science and the epistemic and methodological significance of Nietzsche's thought for this tradition: Babich, Nietzsche's Philosophy of Science. Here I illustrate the musical (philosophical) reading of an aphorism by contrast with a flatly opposed or literal approach.
+
+Friedrich Nietzsche, Beyond Good and Evil, trans. Marion Faber (Oxford: Oxford University Press, 1998), 68. The German is useful here: "Wer mit Ungeheuern kämpft, mag zusehn, dass er nicht dabei zum Ungeheuer wird. Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein" (KSA 5, 98).
+
+G. Himmelfarb, On Looking Into the Abyss (New York: Knopf, 1994).
+
+Friedrich Nietzsche, Twilight of the Idols, trans. R. J. Hotlingdale (Harmondsworth: Penguin, 1968), hereinafter cited as TI, 23.
+
+Archilochus, E/egies, 5. See West, Iambi et Elegi Graeci (Oxford, 1955) and, for the English translation cited, M. L. West, Greek Lyric Poetry (Oxford: Oxford University Press, 1994), 14. Archilochus, Elegies, 6.
+
+For another example, in a provocatively brief declaration, a two point epigram is offered against the iconic image of truth: "'All truth is simple." - Is that not a compound lie? -." TI, 23. The epigram undoes itself here overtly, but here, as it may be claimed in every Nietzschean stylistic case, without dissolving the original contrast. And it is this original contrast that matters.
+
+I echo the emphasis drawn by Tracy B. Strong, "Introduction," Twilight of the Idols, trans.
+P. Polt (Indianapolis: Hackett, 1997).
+
+Martin Heidegger, "The Thinker as Poet" in Poetry, Lengwage, Thought, trans. A.
+Hofstadter (New York: Harper & Row, 1971), 14.
+
+This assertion converges with (it admiftedly does not follow) Jacques Derrida, Otobiographies (Paris: Editions Gallilée, 1984).
+
+George Steiner, Martin Heidegger (Chicago: University of Chicago Press, 1987), 30, 43 ff.
+Martin Heidegger, Was heißt Denken? (Tübingen, 1954), 85; English translation What
+
+Is Called Thinking? trans. F. D. Wieck and J. Glenn Gray (New York: Harper & Row, 1968), 131; hereinafter WbD.
+
+
+
+40
+
+41
+
+42
+
+43
+
+44
+
+NOTES TO PAGES 179-180 205
+
+Saying "we are still not thinking" is not "tuned to a key of melancholy and despair" even if it is not a piece of optimism. If the assertion nevertheless seems "tuned in a negative and pessimistic key" (WAD, 35), Heidegger argues that that seeming is itself a result of the fact that we are still not thinking. This turns Heidegger from an atention to the keynote to the character or resonant "way in which it speaks." Here Heidegger's musical allusion is overt: "Way' here means melody, the ring and tone, which is not just a matter of how the saying sounds" (WAD, 35). ‘
+
+"Holderlin's method, steeled by contact with Greek, is not devoid of boldly formed hypotactic constructions, parataxes are noticeable as elaborate disturbances that deviate from the logical hierarchy of subordinating syntax. Hélderlin is itresistibly drawn to forms of this sort. The transformation of language into a concatenation, the elements of which combine in a manner different from that of judgment, is a musical one." Theodor Adorno, Gesammelte Werke (Frankfurt: Suhrkamp, 1970-86 [20 volumes}, vol. 11, 57.
+Translation from the citation in Rolf Wiggershaus, Frankfurt School. Its History, Theories, and Political Significance, trans. M. Robertson (Cambridge: MIT Press, 1994), 528.
+
+Holger Schmid reads this passage productively and suggestively, taking Heidegger's account of "showing" (Zeigen) as the propriative, ownmost mode of Appropriation: "als eigenster Weise des Ereigens. Diese Weise nun, in der das Ereignis spricht soll nicht Modus, sondern Melos bedeuten: 'das Lied das singend sagt.'" But, Schmid continues to note beyond Heidegger's quiet institution of me/os as the mode in which Appropriation speaks, that with this invocation of song in reference to Hölderlin a good deal remains to be thought: "Das zuletzt zu Denkende ist also das zu Erfahrende, 'das Lied'." Schmid, Kunst des Hörens. Orte und Grenzen der hermeneutischen Erfahrung (Cologne: Bölnow, 1999), 124.
+
+This tuning is what Nietzsche meant when he spoke of philosophizing with a hammer not an invitation to a reign of nihilism or self-assertive, fascist violence but an attunement in accord with Pythagoras' first musing on the differential sounds rung out by hammer blows in the blacksmith's forge: the veritable and still unsounded harmony of the world.
+For further reflections, see Babette E. Babich, "Between Hölderlin and Heidegger: Nietzsche's Transfiguration of Philosophy" in Nietzsche-Studien 29 (2000): 267-301.
+
+For a preiude to the music of the poem "Friedensfeier," Hölderlin prefaces the final version with a plea for the reader's kindliness with regard to the poem's language as what must be given voice because such tones not only exist but reflect the untrammeled variety of existence itself: "On a beautiful day, nearly every art of song may be heard, and born of nature, whence they are come, nature it is that receives them again" ". . . An einem schönen Tage läßt sich ja fast jede Sangart hören, und die Natur, wovon es her ist, nimmts auch wieder." "Friedensfeier," Friedrich Hölderlin, Sämtliche Gedichte (Wiesbaden: Aula, 1989), 327.
+See, for a bilingual edition, Hölderlin, Hyperion and Selected Poems ed. Eric I. Santnem (New York: Continuum, 1990), 227-8.

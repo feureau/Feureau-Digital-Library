@@ -19,3 +19,10 @@ See Fasseur, De Indologen, for a careful study of the increasingly close connect
 Raymond Willams observed the post Renaissance European transformation of historical and literary domains and noted that "The 'national literature' soon ceased to be a history and became a tradition." Williams, Marxism and Literature (Oxford: Oxford Univerity Press, 1977), p. 51.
 
 Poensen, "De Wajang." pp. 143-44
+
+See Day, “Meanings of Change in the Poetry of Nineteenth-century Java,” pp. 220-32
+
+
+“Klasik, Kitsch or Contemporary: A Study of the Javanese Performing Arts” (Ph.D. diss., University of Sydney, 1985)
+
+Carey, Cultural Ecology of Early Nineteenth Century Java
