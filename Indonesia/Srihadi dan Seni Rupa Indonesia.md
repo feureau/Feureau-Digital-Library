@@ -1423,7 +1423,7 @@ Aesthetic experience adalah persoalan lama pada philosophy of aesthetic yang mem
 Yogyakarta. 1998.<a href="#fni74">&#8617;</a>
 
 
-75.<a name="fn75">&nbsp;</a>My Experience, Works & Concept in Art" Paper ceramah Srihadi Soedarsono. National Museum, Singapura. Desember 1991.<a href="#fni75">&#8617;</a>
+75.<a name="fn75">&nbsp;</a>"My Experience, Works & Concept in Art" Paper ceramah Srihadi Soedarsono. National Museum, Singapura. Desember 1991.<a href="#fni75">&#8617;</a>
 
 
 76.<a name="fn76">&nbsp;</a>"The Institutional Theory of Art" George Dickie. Dalam Theories of Art Today. Noel Carroll (ed.) The University of Wisconsin Press. Madison. 2000.<a href="#fni76">&#8617;</a>
