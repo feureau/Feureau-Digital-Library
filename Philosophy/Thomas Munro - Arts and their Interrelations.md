@@ -2,7 +2,48 @@
 By Thomas Munro
 
 <!-- TOC START min:2 max:6 link:true update:true -->
-
+  - [Foreword](#foreword)
+  - [Acknowledgments](#acknowledgments)
+  - [Preface To The Second Edition](#preface-to-the-second-edition)
+  - [The Nature Of The Arts](#the-nature-of-the-arts)
+    - [The Need for Clear Thinking about the Arts](#the-need-for-clear-thinking-about-the-arts)
+      - [Persistent problems and conflicting answers](#persistent-problems-and-conflicting-answers)
+      - [The need for clear definitions, as shown in the Brancusi case](#the-need-for-clear-definitions-as-shown-in-the-brancusi-case)
+      - [Classification of the arts for practical purposes](#classification-of-the-arts-for-practical-purposes)
+      - [Classification of the arts as a problem of philosophy and science](#classification-of-the-arts-as-a-problem-of-philosophy-and-science)
+      - [The need for flexible concepts and methods](#the-need-for-flexible-concepts-and-methods)
+    - [The Concept of Fine Arts: Its Historical Background](#the-concept-of-fine-arts-its-historical-background)
+      - [The origin of the English term "fine arts" in the eighteenth century](#the-origin-of-the-english-term-fine-arts-in-the-eighteenth-century)
+      - [The concept of "beaux arts" in France and Germany](#the-concept-of-beaux-arts-in-france-and-germany)
+      - [Beautiful and liberal arts in the Italian Renaissance](#beautiful-and-liberal-arts-in-the-italian-renaissance)
+      - [Ancient and medieval conceptions of the liberal arts](#ancient-and-medieval-conceptions-of-the-liberal-arts)
+      - [The arts of the Muses in Greece](#the-arts-of-the-muses-in-greece)
+      - [Summary. Present status of the fine arts](#summary-present-status-of-the-fine-arts)
+    - [The Meanings of Art](#the-meanings-of-art)
+      - [Dictionary definitions, based on the concept of skill](#dictionary-definitions-based-on-the-concept-of-skill)
+      - [Definitions and theories of art by individual writers](#definitions-and-theories-of-art-by-individual-writers)
+      - [The troublesome ambiguity of "art." What can be done about it?](#the-troublesome-ambiguity-of-art-what-can-be-done-about-it)
+      - [How large a field should be covered by the word "art"?](#how-large-a-field-should-be-covered-by-the-word-art)
+      - [What are the distinguishing characteristics of this field?](#what-are-the-distinguishing-characteristics-of-this-field)
+      - [Objections to beauty and pleasure as distinguishing characteristics of art](#objections-to-beauty-and-pleasure-as-distinguishing-characteristics-of-art)
+      - [Art as expression and communication](#art-as-expression-and-communication)
+      - [Combining the hedonist and expressionist concepts of art](#combining-the-hedonist-and-expressionist-concepts-of-art)
+      - [Art as a means to aesthetic experience](#art-as-a-means-to-aesthetic-experience)
+      - [Avoiding religious, moral, and political prejudice in the conception of art](#avoiding-religious-moral-and-political-prejudice-in-the-conception-of-art)
+      - [A revised definition of art](#a-revised-definition-of-art)
+  - [Different Kinds of Art](#different-kinds-of-art)
+    - [Fine and useful arts: recent attacks on this antithesis](#fine-and-useful-arts-recent-attacks-on-this-antithesis)
+      - [Aesthetic and utilitarian functions of art; emphasis on one or the other](#aesthetic-and-utilitarian-functions-of-art-emphasis-on-one-or-the-other)
+      - [Functional arts, applied arts, decorative arts, minor arts, handicrafts](#functional-arts-applied-arts-decorative-arts-minor-arts-handicrafts)
+      - [Fine arts and visual arts](#fine-arts-and-visual-arts)
+      - [Lower-sense arts](#lower-sense-arts)
+      - [One hundred visual and auditory arts](#one-hundred-visual-and-auditory-arts)
+      - [Branches of an art; types of form in art](#branches-of-an-art-types-of-form-in-art)
+      - [Some fields which border on the arts](#some-fields-which-border-on-the-arts)
+      - [Ways of classifying the arts: a preliminary view](#ways-of-classifying-the-arts-a-preliminary-view)
+  - [RELATIONS BETWEEN THE ARTS](#relations-between-the-arts)
+    - [Philosophical Classifications of the Arts](#philosophical-classifications-of-the-arts)
+      - [In philosophy before 1700](#in-philosophy-before-1700)
 
 <!-- TOC END -->
 
@@ -63,8 +104,6 @@ In revising it to meet the present situation, I have corrected a few typographic
 
 T. M.  
 Cleveland Museum of Art, 1966
-
-
 
 ##The Nature Of The Arts
 
@@ -667,161 +706,79 @@ Also, he insists, the original connotation of art as a kind of skill or ability 
 
 As always, the choice of a new term to indicate the differentia of art places on the theorist an obligation, sooner or later, to define that term as well. What is aesthetic experience, aesthetic effect, or aesthetic response? It is usually described much as Kant and the English hedonists described the sense of beauty, or the pleasure of enjoying fine art, with an emphasis on its freedom from the practical, utilitarian considerations. This idea, as we have seen, goes far back in history, through the aristocratic theory of "liberal arts." Detachment from the practical as a criterion of the aesthetic attitude was elaborated psychologically by Bullough in his influential paper on " 'Psychical Distance' as a Factor in Art and an Aesthetic Principle." British Journal of Psychology, June, 1912.
 
-On the other hand, John Dewey protests against too sharp a separation between the aesthetic and the practical, and insists that the former should not be limited to experience of the so-called fine arts, or to mere passive enjoyment. "The word 'esthetic' refers," says Dewey, "... to experience as appreciative, perceiving, and enjoying. It denotes the consumer's rather than the producer's standpoint." " "Thai which distinguishes an experience as esthetic is conversion of resistance and tensions, of excitations that in themselves are temptations to diversion, into a movement toward an inclusive and fulfilling close." "* "A measure of artistic products is their capacity to attract and retain observation with satisfaction under whatever conditions they are approached. . . . Any activity that is productive of objects whose perception is an immediate good, and whose operation is a continual source of enjoyable perception of other events exhibits fineness of art." "* Thus for Dewey, who attacks hedonism in many respects, art and aesthetic experience are still defined with the help of words like "enjoying" and "objects whose perception is an immediate good." An aesthetic object, he points out, is "not exclusively consummatory," but "indefinitely instrumental to new satisfying events." He does not deny, however, that certain types of product which we call "art'" or "fine art'" are specially planned and often specially fitted to arouse such "consummatory experience" and "immediately enjoyable perception." Like other aestheticians, he recognizes this fact in devoting special attention to the fine arts as sources of aesthetic experience.
+On the other hand, John Dewey protests against too sharp a separation between the aesthetic and the practical, and insists that the former should not be limited to experience of the so-called fine arts, or to mere passive enjoyment. "The word 'esthetic' refers," says Dewey, "... to experience as appreciative, perceiving, and enjoying. It denotes the consumer's rather than the producer's standpoint." (Art as Experience, p. 41.) "Thai which distinguishes an experience as esthetic is conversion of resistance and tensions, of excitations that in themselves are temptations to diversion, into a movement toward an inclusive and fulfilling close." (Ibid., p. 56.) "A measure of artistic products is their capacity to attract and retain observation with satisfaction under whatever conditions they are approached. [...] Any activity that is productive of objects whose perception is an immediate good, and whose operation is a continual source of enjoyable perception of other events exhibits fineness of art." (Experience and Nature (New York: W. W. Norton and Co., 1930), p. 365.) Thus for Dewey, who attacks hedonism in many respects, art and aesthetic experience are still defined with the help of words like "enjoying" and "objects whose perception is an immediate good." An aesthetic object, he points out, is "not exclusively consummatory," but "indefinitely instrumental to new satisfying events." He does not deny, however, that certain types of product which we call "art'" or "fine art'" are specially planned and often specially fitted to arouse such "consummatory experience" and "immediately enjoyable perception." Like other aestheticians, he recognizes this fact in devoting special attention to the fine arts as sources of aesthetic experience.
 
-A common mistake has been to speak of "the aesthetic sense" or "the sense of beauty," as if there existed in the human organism a separate, specialized psychological mechanism for that purpose. This idea is reflected in definitions of fine art, for example, as "the creation of things which appeal directly to the aesthetic sense." ** Aesthetic experience is now seen to be, rather, a certain configuration or way of combining and directing the same basic functions of perception, imagination, etc., which occur in other types of experience.
+A common mistake has been to speak of "the aesthetic sense" or "the sense of beauty," as if there existed in the human organism a separate, specialized psychological mechanism for that purpose. This idea is reflected in definitions of fine art, for example, as "the creation of things which appeal directly to the aesthetic sense." ("Art," in The Modern Encyclopedia. New York, 1935.) Aesthetic experience is now seen to be, rather, a certain configuration or way of combining and directing the same basic functions of perception, imagination, etc., which occur in other types of experience.
 
-Torossian describes the aesthetic experience as "free from our practical needs, divorced from our active desires, so that we have no
+Torossian describes the aesthetic experience as "free from our practical needs, divorced from our active desires, so that we have no motor impulse toward it." (Torossian, A Guide to Aesthetics (Stanford Univ. Press, Calif., 1937), pp. 15, 25.) This is very questionable. Is our experience of a delicate porcelain bowl or a piece of silk velvet any the less aesthetic when we desire to touch it? Is our enjoyment of a dance less aesthetic when we feel impelled to move in sympathy with its rhythms? "Practical" is not the same as "motor." We are on safer ground when we distinguish aesthetic experience as lacking, or comparatively lacking, in the element of active problem-solving, of thinking out means to ends which we personally desire. Even there, the distinction is subtle, since we try to solve imaginary practical problems in reading a detective or mystery story. The essential point is that in responding aesthetically to an object, one pays more exclusive attention to its nature as a perceptual form, or as a form suggested to one's imagination; and less to thinking about how the object might be used, altered, or avoided so as to achieve one's own desires. It is not aesthetic experience of a picture to scheme how one may purchase it at a bargain price, though some aesthetic experience may have preceded the scheming, and even now tinge it to some extent.
 
-52 Art as Experience, p. 41.
-
-53 Ibid., p. 56.
-
-5* Experience and Nature (New York: W. W. Norton and Co., 1930), p. 365.
-} "Art," in The Modern Encyclopedia. New York, 1935.
-
-o8 THE ARTS AND THEIR INTERRELATIONS
-
-motor impulse toward it." ** This is very questionable. Is our experience of a delicate porcelain bowl or a piece of silk velvet any the less aesthetic when we desire to touch it? Is our enjoyment of a dance less aesthetic when we feel impelled to move in sympathy with its rhythms?
-"Practical" is not the same as "motor." We are on safer ground when we distinguish aesthetic experience as lacking, or comparatively lacking, in the element of active problem-solving, of thinking out means to ends which we personally desire. Even there, the distinction is subtle, since we try to solve imaginary practical problems in reading a detective or mystery story. The essential point is that in responding aesthetically to an object, one pays more exclusive attention to its nature as a perceptual form, or as a form suggestea to one's imagination; and less to thinking about how the object might be used, altered, or avoided so as to achieve one's own desires. It is not aesthetic experience of a picture to scheme how one may purchase it at a bargain price, though some aesthetic experience may have preceded the scheming, and even now tinge it to some extent.
-
-We are seldom or never "purely aesthetic' in attitude or experience. Innumerable mixed and intermediate types exist: e.g., where practical reasoning is present but subordinate. Comparatively speaking, an aesthetic experience is one containing little or no active effort to solve practical or theoretical problems-one in which the ordinary processes of scheming and planning, weighing evidence, adapting means to ends and testing hypotheses are suspended. In this type of experience, attention is directed (a) toward the directly perceptible aspects of an outer stimulus, such as the colors and shapes in a picture, the melodies and rhythms in a piece of music; or (b) toward suggested images and meanings, as in a realistic picture or a set of printed words; or (c) toward both at once, or alternately. There is a comparatively undistracted effort to apperceive intensely and thoroughly, and to savor the emotional qualities aroused by the images and meanings. Aesthetic experience may emphasize direct sense perception or imagination and interpretation of meanings. It may change from one to the other. Aesthetic experience is distinct from dreams and free-flowing reveries in being controlled to some extent by a set
-
-of outer stimuli, such as words in a book or the details in a visible
-
-% A. Torossian, A Guide to Aesthetics (Stanford Univ. Press, Calif., 1937), pp. 15, 25.
-
-THE MEANINGS OF ART 99
-
-object or scene." It may be a single, momentary response or a sustained attitude, as in listening to a symphony. It may be a confirmed habit, as in the aesthetic type of personality as contrasted with the practical or intellectual. It often involves suspension and quiescence of motor-muscular activities, except those required in active perceiving.
-Selected perceptual and mental functions tend to be hyperactive; so it is incorrect to call aesthetic experience "passive" without qualification.
+We are seldom or never "purely aesthetic' in attitude or experience. Innumerable mixed and intermediate types exist: e.g., where practical reasoning is present but subordinate. Comparatively speaking, an aesthetic experience is one containing little or no active effort to solve practical or theoretical problems-one in which the ordinary processes of scheming and planning, weighing evidence, adapting means to ends and testing hypotheses are suspended. In this type of experience, attention is directed (a) toward the directly perceptible aspects of an outer stimulus, such as the colors and shapes in a picture, the melodies and rhythms in a piece of music; or (b) toward suggested images and meanings, as in a realistic picture or a set of printed words; or (c) toward both at once, or alternately. There is a comparatively undistracted effort to apperceive intensely and thoroughly, and to savor the emotional qualities aroused by the images and meanings. Aesthetic experience may emphasize direct sense perception or imagination and interpretation of meanings. It may change from one to the other. Aesthetic experience is distinct from dreams and free-flowing reveries in being controlled to some extent by a set of outer stimuli, such as words in a book or the details in a visible object or scene. (Pleasant fantasies stimulated by a drug or other internal agent are not aesthetic experiences. In stimulating them the drug does not qualify as a work of art. The stimulus must be an external object, acting on and through sense perception. However, a drug or other internal agent or condition may heighten or diminish aesthetic sensitivity to outside stimuli.) It may be a single, momentary response or a sustained attitude, as in listening to a symphony. It may be a confirmed habit, as in the aesthetic type of personality as contrasted with the practical or intellectual. It often involves suspension and quiescence of motor-muscular activities, except those required in active perceiving. Selected perceptual and mental functions tend to be hyperactive; so it is incorrect to call aesthetic experience "passive" without qualification.
 
 The aesthetic attitude, and the aesthetic type of experience should be distinguished from the artistic, with which they are frequently confused. An artist often assumes an aesthetic attitude, as in contemplating a natural scene or a work of art. But much of his activity consists in solving problems, especially in devising means for effective expression, construction, and execution of his plans. The processes of art contain a large element of practical thinking, in addition to aesthetic experience.
 
-Traditional aesthetics is justified in assuming that certain arts, called "fine" or "aesthetic," are specially contrived and adapted to stimulate and sustain aesthetic experience. On the other hand, those like Dewey who prefer to emphasize the continuity of art with life are correct in insisting that aesthetic experience can also be aroused by other kinds of object and situation; by nature, utilitarian forms, and things encountered in everyday life. They are correct in insisting that experience can take on aesthetic quality without being as "pure" and extreme as the kind just described; without being as highly specialized in its devotion to aesthetic contemplation, or as completely detached from practical thinking and acting. We can enjoy a cup aesthetically while raising it to our lips; a garment while wearing it.
-We can use and think about it practically, while contemplating it aesthetically. The aesthetic functions of a work of art are not necessarily detached from its useful functions. Various attitudes, various responses, can be merged in the flexible human organism. There is no reason for calling any of them tke right or best way to respond to art.
-
-But one can say that specialized development of an aesthetic attitude and response is furthered by conditions which make it unnecessary
-
-5T Pleasant fantasies stimulated by a drug or other internal agent are not aesthetic experiences. In stimulating them the drug does not qualify as a work of art. The stimulus must be an external object, acting on and through sense
-
-perception. However, a drug or other internal agent or condition may heighten or diminish aesthetic sensitivity to outside stimuli.
-
-roo THE ARTS AND THEIR INTERRELATIONS
-
-for the individual to scheme and plan: e.g., a comfortable seat in a theater after the day's work is over, or a comfortable bank-account and station in life which makes it unnecessary to worry about one's future.
+Traditional aesthetics is justified in assuming that certain arts, called "fine" or "aesthetic," are specially contrived and adapted to stimulate and sustain aesthetic experience. On the other hand, those like Dewey who prefer to emphasize the continuity of art with life are correct in insisting that aesthetic experience can also be aroused by other kinds of object and situation; by nature, utilitarian forms, and things encountered in everyday life. They are correct in insisting that experience can take on aesthetic quality without being as "pure" and extreme as the kind just described; without being as highly specialized in its devotion to aesthetic contemplation, or as completely detached from practical thinking and acting. We can enjoy a cup aesthetically while raising it to our lips; a garment while wearing it. We can use and think about it practically, while contemplating it aesthetically. The aesthetic functions of a work of art are not necessarily detached from its useful functions. Various attitudes, various responses, can be merged in the flexible human organism. There is no reason for calling any of them tke right or best way to respond to art. But one can say that specialized development of an aesthetic attitude and response is furthered by conditions which make it unnecessary for the individual to scheme and plan: e.g., a comfortable seat in a theater after the day's work is over, or a comfortable bank-account and station in life which makes it unnecessary to worry about one's future.
 
 Although the arts are on the whole intended and adapted to stimulate satisfactory aesthetic experience, along with other functions, their success in doing so is extremely variable. It depends to a great extent on the training and conditioning of the percipient, not only in the necessary skills of perceiving and understanding complex forms, but on the tastes or habitual attitudes of preference necessary to approve and like a certain type of art.
 
 Although they are characteristically used as stimuli to aesthetic experience, works of art can be treated in many other ways. A practical man can treat them as means to his ends: e.g., in advertising or political propaganda. A man of intellectual, theoretical interests can treat them as data for the problems of aesthetics, history, sociology, or psychology.
 
-A contemporary psychologist of art, A. R. Chandler, asserts that "'The aesthetic experience may be defined as satisfaction in contemplation or as a satisfying intuition. When I enjoy a beautiful sunset I am satisfied to contemplate it. My intellectual curiosity is put to sleep-I do not care just then about the physical causes of clouds and light. My practical interests are suspended-I do not care just then whether such a sky foretells dry weather, though my garden may need rain. I am satisfied to contemplate the sunset. The object contemplated may be real and present, like the sunset or a musical performance; then we call the process perception. . . . When the object contemplated is absent or unreal we call the process imagination. . . . It is convenient to have a general term for perception, memory, and imagination; either contemplation or intuition may be used in this broad sense." ** Chandler avoids the word "pleasure." He continuesThe word satisjection in my definition may be defined indirectly as the state of mind which is indicated by the willingness to prolong or repeat the experience in question. . . . The term setisfection is better than pleasure, because satisfaction is the broader term. The harrowing excitement aroused by a melodrama is scarcely a pleasure,
+A contemporary psychologist of art, A. R. Chandler, asserts that "The aesthetic experience may be defined as satisfaction in contemplation or as a satisfying intuition. When I enjoy a beautiful sunset I am satisfied to contemplate it. My intellectual curiosity is put to sleep-I do not care just then about the physical causes of clouds and light. My practical interests are suspended-I do not care just then whether such a sky foretells dry weather, though my garden may need rain. I am satisfied to contemplate the sunset. The object contemplated may be real and present, like the sunset or a musical performance; then we call the process perception. [...] When the object contemplated is absent or unreal we call the process imagination. [...] It is convenient to have a general term for perception, memory, and imagination; either contemplation or intuition may be used in this broad sense." (Beauty and Human Nature: Elements of Psychological Aesthetics (New York: Appleton-Century, 1934), p. 9.) Chandler avoids the word "pleasure." He continues
 
-** Beouty and Human Nature: Elements of Psychological Aesthetics (New York: Appleton-Century, 1934), p. 9.
+>The word satisfaction in my definition may be defined indirectly as the state of mind which is indicated by the willingness to prolong or repeat the experience in question. [...] The term setisfection is better than pleasure, because satisfaction is the broader term. The harrowing excitement aroused by a melodrama is scarcely a pleasure, but it is undoubtedly a satisfaction, since people seek to prolong or repeat it. The same may be said of pathos in music or poetry. It may reduce us to tears, but our experience is nevertheless a satisfying one.
 
-THE MEANINGS OF ART 101
-
-but it is undoubtedly a satisfaction, since people seek to prolong or repeat it. The same may be said of pathos in music or poetry. It may reduce us to tears, but our experience is nevertheless a satisfying one.
-
-Defining the term "satisfaction," as Chandler does, in behavioristic terms, as "willingness to prolong or repeat the experience" evades one central issue: whether there is any specific feeling-tone, called "pleasure" or "pleasantness" (for want of a better name), which occurs as an element in the total experience when we are willing to prolong or repeat it, and even helps to make us willing." Anyone who has eaten a piece of candy, or watched a child doing so, knows that there is a positive, affective quality in his experience, a joy in tasting the candy, which operates in motivating him to continue. When it is lacking, or an opposite feeling-tone of disgust or nausea is present, he will fight against continuing. This is the "subjective" or inwardly felt aspect of what appears from the outside as willingness or unwillingness to continue an experience. Because of its inaccessibility to view, except introspectively, the behavioristic school of psychology has frightened many aestheticians into ignoring its existence, lest they be charged with all the crudities of eighteenth-century hedonist psychology. In so doing, they ignore a phenomenon whose existence, though hard to describe, is a universal datum of human experience. Feeling happy, pleased, or interested in contemplating an object is not the same as mere "welcoming behavior" toward it. The latter is manifested by amoebas and even by fly-devouring plants toward their prey, as well as by hungry humans. The power to feel subtle and varied emotion toward something, even while doing nothing but observe it, is apparently limited to animals with a complex nervous system, and especially to man.
+Defining the term "satisfaction," as Chandler does, in behavioristic terms, as "willingness to prolong or repeat the experience" evades one central issue: whether there is any specific feeling-tone, called "pleasure" or "pleasantness" (for want of a better name), which occurs as an element in the total experience when we are willing to prolong or repeat it, and even helps to make us willing. In later chapters, Chandler does not hesitate to use the word "pleasantness," and describes many experiments in relation to it. Anyone who has eaten a piece of candy, or watched a child doing so, knows that there is a positive, affective quality in his experience, a joy in tasting the candy, which operates in motivating him to continue. When it is lacking, or an opposite feeling-tone of disgust or nausea is present, he will fight against continuing. This is the "subjective" or inwardly felt aspect of what appears from the outside as willingness or unwillingness to continue an experience. Because of its inaccessibility to view, except introspectively, the behavioristic school of psychology has frightened many aestheticians into ignoring its existence, lest they be charged with all the crudities of eighteenth-century hedonist psychology. In so doing, they ignore a phenomenon whose existence, though hard to describe, is a universal datum of human experience. Feeling happy, pleased, or interested in contemplating an object is not the same as mere "welcoming behavior" toward it. The latter is manifested by amoebas and even by fly-devouring plants toward their prey, as well as by hungry humans. The power to feel subtle and varied emotion toward something, even while doing nothing but observe it, is apparently limited to animals with a complex nervous system, and especially to man.
 
 Aesthetics cannot get very far if it dodges the issue of explaining the emotional aspects of aesthetic experience. The eighteenth century hedonists met this issue boldly, in psychology, aesthetics, and ethics, using "pleasure" as the best available name for a certain universally felt and recognized kind of experience. Contemporary aesthetic psychology must take up the problem where they left off, using a different name for the phenomenon if necessary, but studying it nevertheless.
 
-There is some doubt and disagreement as to whether aesthetic
+There is some doubt and disagreement as to whether aesthetic experience is necessarily pleasant, agreeable, or satisfactory. Some writers apparently assume that it is, and use "aesthetic experience" interchangeably with "aesthetic enjoyment." Others-e.g., Witasek, in the quotation by Müller-Freienfels-specify "favorable aesthetic effect." This would coincide with the view that aesthetic experience can be unpleasant or disagreeable, as in listening to music one finds harsh and irritating. Aesthetic experience would not be synonymous with "experience of beauty," for it would include experiences of the ugly, painful, and repulsive as well. Psychologically, these are certainly ways in which people respond to art, for its direct perceptual qualities and apart from all practical considerations. Thus the old hedonistic problem reappears, as to whether or not the kind of aesthetic effect sought in art is one involving a pleasant feeling-tone. The problem is by no means solved by vague references to "aesthetic effect" without further psychological specifications.
 
-5� In later chapters, Chandler does not hesitate to use the word "pleasantness," and describes many experiments in relation to it.
+It is evident that "aesthetic experience" now has implications somewhat different from "pleasure," in the older hedonist systems. It usually lacks the special associations with sensuous luxury and gay amusement, which have so offended Tolstoy and other moralists. (J.S. Mill and other nineteenth century hedonists tried to avoid this difficulty by distinguishing between "higher" and "lower" pleasures, the former including those of art. (Mill, Utilitarianism, Ch. II).) It covers direct sensory perception of art, as in listening to music, and imaginative contemplation, as in reading poetry. It covers the sympathetic response to an artist's religious or moral feelings as expressed in art, which would further placate many anti-hedonists. It is not sharply antithetical to the practical and useful, since one may experience it (a) in the course of one's daily tasks, and (b) in admiring useful objects such as chairs and dishes for their form and design.
 
-102 THE ARTS AND THEIR INTERRELATIONS
+Modern aesthetics should not be too quick to surrender all vestiges of the eighteenth century concept of pleasure as an aim of art. All the theoretical assaults on hedonism have not disposed of pleasure, happiness, enjoyment, or something of the sort, as one of the things which make life worth living and art worth cultivating. It is easy enough to avoid the errors and exaggerations of eighteenth century hedonism without losing its permanently valid elements as well. The modern aesthetician does not need to avoid and conceal all traces of hedonism, as if it were not only wicked but entirely disproven and obsolete. In the field of aesthetics, there are always sad-faced Puritans and angry partisans in the social struggle, who are quick to reprove any suggestion that art has a right to be pleasant at all. They are entitled to their own grim view of life and art, but need not frighten others from including the essentials of hedonism in a healthy, naturalistic philosophy of art. Hedonism has no necessary connection with aristocracy or selfish exploitation of the poor; the masses can find pleasure in art, as well as the privileged few. Even "pleasure of the senses" need not be rejected as bad, even though we no longer accept it as the whole or highest good of life. "The artist," said Whistler in his memorable "Ten O'Clock" lecture, "is glad, and laughs aloud, and is happy in his strength, and is merry at the pompous pretension-the solemn silliness that surrounds him. For Art and Joy go together, with bold openness, and high head, and ready hand-fearing naught, and dreading no exposure."
 
-experience is necessarily pleasant, agreeable, or satisfactory. Some writers apparently assume that it is, and use "aesthetic experience" interchangeably with "aesthetic enjoyment." Others-e.g., Witasek, in the quotation by Miiller-Freienfels-specify "favorable aesthetic effect." This would coincide with the view that aesthetic experience can be unpleasant or disagreeable, as in listening to music one finds harsh and irritating. Aesthetic experience would not be synonymous w with "experience of beauty," for it would include experiences of the ugly, painful, and repulsive as well. Psychologically, these are certainly ways in which people respond to art, for its direct perceptual qualities and apart from all practical considerations. Thus the old hedonistic problem reappears, as to whether or not the kind of aesthetic effect sought in art is one involving a pleasant feeling-tone. The problem is by no means solved by vague references to "aesthetic effect" without further psychological specifications.
+#### Avoiding religious, moral, and political prejudice in the conception of art
 
-It is evident that "aesthetic experience'" now has implications somewhat different from "pleasure," in the older hedonist systems.
-It usually lacks the special associations with sensuous luxury and gay amusement, which have so offended Tolstoy and other moralists." It covers direct sensory perception of art, as in listening to music, and imaginative contemplation, as in reading poetry. It covers the sympathetic response to an artist's religious or moral feelings as expressed in art, which would further placate many anti-hedonists. It is not sharply antithetical to the practical and useful, since one may experience it (a) in the course of one's daily tasks, and (b) in admiring useful objects such as chairs and dishes for their form and design.
+Much confusion about the meaning of "aesthetic" still persists. Not infrequently, someone refers to the "purely aesthetic" element in art as if it were entirely distinct from the "meaning" of art; from the intellectual, religious, and ethical significance of art. Thus the "aesthetic" aspects of art are confusingly narrowed down again to the purely sensory, decorative, and formal. By the same token, "aesthetic experience" is regarded as a narrow, crude kind of purely sensual pleasure, like that of a child sucking a piece of candy. Any definition of art as devoted (even in part) to aesthetic ends is branded as crudely hedonistic. So the perennial attack of transcendentalists and ascetic moralists on the aesthetics of naturalism is shifted from its eighteenth-century targets-beauty and pleasure-to the new one of "aesthetic experience." Their strategy is to make it appear that any naturalistic conception of art and its values wallows in the same old "Epicurean" sty-in which, of course, even the scholarly Epicurus himself never set foot.
 
-Modern aesthetics should not be too quick to surrender all vestiges of the eighteenth century concept of pleasure as an aim of art. All the theoretical assaults on hedonism have not disposed of pleasure, happiness, enjoyment, or something of the sort, as one of the things which make life worth living and art worth cultivating. It is easy enough to avoid the errors and exaggerations of eighteenth century hedonism without losing its permanently valid elements as well. The modern aesthetician does not need to avoid and conceal all traces of hedonism, as if it were not only wicked but entirely disproven and obsolete. In the field of aesthetics, there are always
-
-�* J. S. Mill and other nineteenth century bedonists tried to avoid this difficulty by distinguishing between "higher" and "lower" pleasures, the former including those of art. (Mill, Utiiterianism, Ch. II).
-
-THE MEANINGS OF ART 103
-
-sad-faced Puritans and angry partisans in the social struggle, who are quick to reprove any suggestion that art has a right to be pleasant at all. They are entitled to their own grim view of life and art, but need not frighten others from including the essentials of hedonism in a healthy, naturalistic philosophy of art. Hedonism has no necessary connection with aristocracy or selfish exploitation of the poor; the masses can find pleasure in art, as well as the privileged few. Even "pleasure of the senses" need not be rejected as bad, even though we no longer accept it as the whole or highest good of life. "The artist," said Whistler in his memorable "Ten O'Clock" lecture, "is glad, and laughs aloud, and is happy in his strength, and is merry at the pompous pretension-the solemn silliness that surrounds him. For Art and Joy go together, with bold openness, and high head, and ready hand-fearing naught, and dreading no exposure."
-
-10. Avoiding religious, moral, and political prejudice in the conception of art
-
-Much confusion about the meaning of "aesthetic still persists.
-Not infrequently, someone refers to the "purely aesthetic' element in art as if it were entirely distinct from the "meaning" of art; from the intellectual, religious, and ethical significance of art. Thus the "aesthetic' aspects of art are confusingly narrowed down again to the purely sensory, decorative, and formal. By the same token, "aesthetic experience" is regarded as a narrow, crude kind of purely sensual pleasure, like that of a child sucking a piece of candy. Any definition of art as devoted (even in part) to aesthetic ends is branded as crudely hedonistic. So the perennial attack of transcendentalists and ascetic moralists on the aesthetics of naturalism is shifted from its eighteenth-century targets-beauty and pleasure-to the new one of "aesthetic experience." Their strategy is to make it appear that any naturalistic conception of art and its values wallows in the same old "Epicurean" sty-in which, of course, even the scholarly Epicurus himself never set foot. f
-
-This attack has recently gained new reinforcements from the standpoint of oriental mysticism. It repeats the familiar charge of Hindu lecturers, admiringly applauded by American audiences, that modern western civilization is crassly materialistic, thinking only of dollars and cheap excitements, while the orient is deeply spiritual. A
-
-104 THE ARTS AND THEIR INTERRELATIONS
-
-straw man is set up for drubbing, a caricature of the modern western concepts of fine art and aesthetic experience. It is falsely asserted that these concepts reduce art to the crudely sensual, and to the superficial imitation of external appearances.
+This attack has recently gained new reinforcements from the standpoint of oriental mysticism. It repeats the familiar charge of Hindu lecturers, admiringly applauded by American audiences, that modern western civilization is crassly materialistic, thinking only of dollars and cheap excitements, while the orient is deeply spiritual. A straw man is set up for drubbing, a caricature of the modern western concepts of fine art and aesthetic experience. It is falsely asserted that these concepts reduce art to the crudely sensual, and to the superficial imitation of external appearances.
 
 This dualism, of course, is false on both counts. The orient is not free from the cruder forms of greed and sensuality. It also contains refined and erudite connoisseurs of art who can enjoy a piece of fine jade or porcelain in much the same aesthetic way that western connoisseurs enjoy it. For the educated taste in both east and west, aesthetic enjoyment includes attention to the cultural meanings of art as well as to sensory qualities; it includes appreciation of how skillfully these meanings-e.g., the religious symbolism in a statue of Siva-are set forth in and by the visible form. By pointing out these symbolic meanings, oriental scholars have greatly increased our ability to enjoy eastern art aesthetically as well as to understand it intellectually. But there is nothing radically foreign to the western view of art in the belief that such meanings are important. The aesthetic form of a work of art includes its culturally established meanings in addition to its sensory qualities. The aesthetic attitude toward a work of art, on the part of an educated person, may include careful attention to its intellectual and spiritual meanings, as a source of pleasure and delight.
 To say that aesthetic enjoyment is one of the functions of art does not, then, imply any derogation or ignoring of spiritual meanings and values, whatever these are believed to be.
 
-Aesthetic experience and pleasure are not inconsistent with religious belief and austere conduct. All but the most severely ascetic worshippers permit themselves occasionally to admire the beauty of a simple church edifice, the sound of its bell or the words and music of a hymn. To change from an attitude of worship to one of aesthetic admiration is not necessarily to deny or disparage the former. The two can be combined as integral parts of the same experience, as in contemplating the object's beauty, utility, and religious significance at the same time. But, on the other hand, a highly religious person may at times wish to concentrate his attention on the qualities which, in his opinion, make the object beautiful. He may even, as an artist,
+Aesthetic experience and pleasure are not inconsistent with religious belief and austere conduct. All but the most severely ascetic worshippers permit themselves occasionally to admire the beauty of a simple church edifice, the sound of its bell or the words and music of a hymn. To change from an attitude of worship to one of aesthetic admiration is not necessarily to deny or disparage the former. The two can be combined as integral parts of the same experience, as in contemplating the object's beauty, utility, and religious significance at the same time. But, on the other hand, a highly religious person may at times wish to concentrate his attention on the qualities which, in his opinion, make the object beautiful. He may even, as an artist, critic, or teacher, specialize professionally on the technical problems involved in making religious art beautiful.
 
-critic, or teacher, specialize professionally on the technical problems involved in making religious art beautiful.
+The opponents of naturalistic aesthetics often fail to distinguish between frivolous sensuality and the deliberate specialization of scholars on problems of aesthetic form which has occurred in recent decades, especially in regard to painting and sculpture of the late nineteenth and twentieth centuries. This confusion is understandable, since the latter trend was associated, in the minds of some nineteenth century "decadent" artists, with sensuous hedonism, diabolism, and various other forms of revolt against conventional morality. The emphasis on form and design in visual art, as opposed to over-reliance on stories, moral lessons, and other suggested meanings, has been carried on in a serious, almost scientifically experimental spirit by many later artists, as a study of the potentialities of various types of visual form, and the extent to which visual art can emulate music in stressing non-representative design. Their attitude toward abstract and non-objective art has sometimes, as in the case of Kandinsky, been mystical and moralistic rather than frivolous. Even Whistler, whose "Ten O'Clock" lecture in 1885 was a notable expression of the new emphasis on aesthetic form, did not carry it to extremes. He protested against another extreme which then prevailed: that of judging painting only from a literary point of view, as telling a story, or for the virtues of the subject represented; the extreme of ignoring (as "mere execution") the painter's own kind of "poetry" - "the amazing invention, that shall have put form and color into such perfect harmony, that exquisiteness is the result-the nobility of thought, that shall have given the artist's dignity to the whole, says to him absolutely nothing." The result of Whistler's protest, and that of other impressionists and post-impressionists, has been on the whole positive and constructive. It has enriched art with countless new harmonies of shape and color, and it has enriched the technique of art appreciation by teaching people to look in painting for something more than the narrative, sentimental, and moral associations: to look directly, and see what is there in front of their eyes.
 
-The opponents of naturalistic aesthetics often fail to distinguish between frivolous sensuality and the deliberate specialization of
-
-THE MEANINGS OF ART 105
-
-scholars on problems of aesthetic form which has occurred in recent decades, especially in regard to painting and sculpture of the late nineteenth and twentieth centuries. This confusion is understandable, since the latter trend was associated, in the minds of some nineteenthcentury "decadent" artists, with sensuous hedonism, diabolism, and various other forms of revolt against conventional morality. The emphasis on form and design in visual art, as opposed to over-reliance on stories, moral lessons, and other suggested meanings, has been carried on in a serious, almost scientifically experimental spirit by many later artists, as a study of the potentialities of various types of visual form, and the extent to which visual art can emulate music in stressing non-representative design. Their attitude toward abstract and non-objective art has sometimes, as in the case of Kandinsky, been mystical and moralistic rather than frivolous. Even Whistler, whose "Ten O'Clock" lecture in 1885 was a notable expression of the new emphasis on aesthetic form, did not carry it to extremes. He protested against another extreme which then prevailed: that of judging painting only from a literary point of view, as telling a story, or for the virtues of the subject represented; the extreme of ignoring (as "mere execution") the painter's own kind of "poetry'"'-"the amazing invention, that shall have put form and color into such perfect harmony, that exquisiteness is the result-the nobility of thought, that shall have given the artist's dignity to the whole, says to him absolutely nothing." The result of Whistler's protest, and that of other impressionists and post-impressionists, has been on the whole positive and constructive. It has enriched art with countless new harmonies of shape and color, and it has enriched the technique of art appreciation by teaching people to look in painting for something more than the narrative, sentimental, and moral associations: to look directly, and see what is there in front of their eyes.
-
-In any movement, of course, there are some who carry it to absurd extremes. There are critics who insist that any attention to the "subject-matter" of a picture is wrong, and that real aesthetic appreciation is limited to "pure form"-i.e., to the visible aspects only. But these are a negligible minority. The moderate and general view in aesthetics today is that visible form and meanings are important; that art is at its best when it works out a harmonious synthesis of them, and that aesthetic experience is at its best when it discerns and enjoys this synthesis. But those who would maintain a moderate, bal106 THE ARTS AND THEIR INTERRELATIONS
-
-anced attitude must constantly be warding off attempts to push them toward one extreme or the other, or to caricature their attitude in some extreme form which can be easily denounced.
+In any movement, of course, there are some who carry it to absurd extremes. There are critics who insist that any attention to the "subject-matter" of a picture is wrong, and that real aesthetic appreciation is limited to "pure form"-i.e., to the visible aspects only. But these are a negligible minority. The moderate and general view in aesthetics today is that visible form and meanings are important; that art is at its best when it works out a harmonious synthesis of them, and that aesthetic experience is at its best when it discerns and enjoys this synthesis. But those who would maintain a moderate, balanced attitude must constantly be warding off attempts to push them toward one extreme or the other, or to caricature their attitude in some extreme form which can be easily denounced.
 
 We must reject the caricature of modern, western aesthetics which would place it in radical opposition to the oriental and medieval views, as a glorification of idle luxury and crude sensuality. At the same time, this does not imply that the modern western view of art is exactly like those of the orient and medieval Europe. The rise of modern naturalistic science in the west has had profound repercussions on the nature of art, and of people's attitudes toward art. We have seen how the development of scientific technology has tended to remove the more purely utilitarian pursuits from the field of "art," as commonly conceived; and how the field of art has consequently been left with a more specialized emphasis on aesthetic functions. The development of pure science and philosophical explanations based on science has also tended to deprive the arts-poetry, painting, sculpture, etc. -of the need to deal so much with intellectual problems, or to describe the facts of the universe for the benefit of the young. The secular trend of much western science, philosophy, and education has gone along with a secular trend in the arts. Undoubtedly, there is less definitely religious expression in recent western art than in that of medieval Europe or India.
 
-Antagonism toward any conception of art which emphasizes its aesthetic and pleasure-giving functions is not limited to conservative religious philosophers or to metaphysical idealists. At the opposite extreme, in some respects, is Communism of the Russian, Marxist variety, whose ideological background is atheistic and materialistic. But there too, after the first flush of revolutionary modernism in art, during the early 1920's, the official attitude has been to condemn "formalism"ie., an emphasis on aesthetic form and design-as bourgeois decadence. Art must be easily intelligible to the masses, and must teach an approved political or economic doctrine. On this basis, the famous composers Prokofieff and Shostakovich were given official censure for dangerous formalistic tendencies. Art is conceived primarily as an instrument of propaganda and indoctrination. Thus the outcome is similar, whether the lesson is one of orthodox Christianity or Marxist Communism. Both extremes unite to condemn the artist who emphasizes form in art-even in so traditionally formal and abstract an art as music-and to condemn as well the public which enjoys such
+Antagonism toward any conception of art which emphasizes its aesthetic and pleasure-giving functions is not limited to conservative religious philosophers or to metaphysical idealists. At the opposite extreme, in some respects, is Communism of the Russian, Marxist variety, whose ideological background is atheistic and materialistic. But there too, after the first flush of revolutionary modernism in art, during the early 1920's, the official attitude has been to condemn "formalism" -ie., an emphasis on aesthetic form and design-as bourgeois decadence. Art must be easily intelligible to the masses, and must teach an approved political or economic doctrine. On this basis, the famous composers Prokofieff and Shostakovich were given official censure for dangerous formalistic tendencies. Art is conceived primarily as an instrument of propaganda and indoctrination. Thus the outcome is similar, whether the lesson is one of orthodox Christianity or Marxist Communism. Both extremes unite to condemn the artist who emphasizes form in art-even in so traditionally formal and abstract an art as music-and to condemn as well the public which enjoys such art and the theorist who justifies it. Hitler and his Nazi philosophers preached the same attitude toward modern art as decadent. This, too, is the attitude of the ordinary Philistine or practical citizen (including many influential persons in this country) who boast of their hostility toward all but the most conventional art, unless it serves some obvious purpose of a religious, patriotic, commercial, or other approved kind.
 
-THE MEANINGS OF ART 107
+The definition of art advocated in this chapter is no more antireligious than anti-communist, but is neutral and adaptable for use by persons of different views. It does not imply that one should be neutral in general, in all one's thinking and acting, but simply that the basic definition of "art" should not be loaded in advance with a special set of assumptions, which would unfit it for use by persons with a different point of view.
 
-art and the theorist who justifies it. Hitler and his Nazi philosophers preached the same attitude toward modern art as decadent. This, too, is the attitude of the ordinary Philistine or practical citizen (including many influential persons in this country) who boast of their hostility toward all but the most conventional art, unless it serves some obvious purpose of a religious, patriotic, commercial, or other approved kind.
-
-The definition of art advocated in this chapter is no more antireligious than anti-communist, but is neutral and adaptable for use by persons of different views. It does not imply that one should be neutral in general, in all one's thinking and acting, but simply that the basic definition of "art'" should not be loaded in advance with a special set of assumptions, which would unfit it for use by persons with a different point of view.
-
-11. A revised definition of art
+#### A revised definition of art
 
 As we have seen, it is impossible and undesirable to reduce the many meanings of art to a single, brief, formula. After the most confusing senses have been put aside, to be called by other names, there still remains a group of closely related, alternative senses which are mutually consistent and supplementary. All are useful in different connections, to emphasize different aspects of approximately the same phenomena. All the definitions are drawn from current usage; no entirely new meanings are proposed. The reason for most of the wordings will be apparent from the foregoing discussion; for others, it will be explained in later chapters.
 
-In the first definition, or group of definitions, art refers to certain related types of skill; in the second to a type of product; in the third, to an area of social culture; in the fourth, to a division of this area.
-Definition Ic expresses on the whole the consumer's point of view; 1b, that of the artist or producer; 1�, a sociological interest in various types of occupation.
+In the first definition, or group of definitions, art refers to certain related types of skill; in the second to a type of product; in the third, to an area of social culture; in the fourth, to a division of this area. Definition Ia expresses on the whole the consumer's point of view; 1b, that of the artist or producer; 1c, a sociological interest in various types of occupation.
 
-1a. Art is skill in making or doing that which is used or intended as a stimulus to satisfactory aesthetic experience, often along with other ends or functions ; especially in such a way that the perceived stimulus, the meanings it suggests, or both, are felt as beautiful, pleasant, interesting, emotionally moving, or otherwise valuable as objects of direct experience, in addition to any instrumental values they may have.
-b. Art is skill in expressing and communicating past emotional and
-
-108 THE ARTS AND THEIR INTERRELATIONS
-
-other experience, individual and social, in a perceptible medium. c.
-Especially, that phase in such skill or activity which is concerned with designing, composing, or performing with personal interpretation, as distinguished from routine execution or mechanical reproduction.
-
+1. a. _Art is skill in making or doing that which is used or intended as a stimulus to satisfactory aesthetic experience, often along with other ends or functions ; especially in such a way that the perceived stimulus, the meanings it suggests, or both, are felt as beautiful, pleasant, interesting, emotionally moving, or otherwise valuable as objects of direct experience, in addition to any instrumental values they may have._  
+b. _Art is skill in expressing and communicating past emotional and other experience, individual and social, in a perceptible medium. c.
+Especially, that phase in such skill or activity which is concerned with designing, composing, or performing with personal interpretation, as distinguished from routine execution or mechanical reproduction._
 2. Also, a product of such skill, or products collectively; works of art. Broadly, this includes every product of the arts commonly recognized as having an acsthetic function, such as architecture and music, whether or not that particular product is considered to be beautiful or otherwise meritorious.
-
-3. Art, as a main division of human culture and a group of social phenomena, includes all skills, activities, and products covered by the above definition. As such, it is comparable in extent to religion and science ; but these divisions overlap in part.
-
+3. Art, as a main division of human culture and a group of social phenomena, includes all skills, activities, and products covered by the above definition. As such, it is comparable in extent to religion and science; but these divisions overlap in part.
 4. An art, such as music, is a particular division of the total field of art, comprising certain distinctive kinds of skill, activity, medium, or product. Especially, a division regarded as comparatively large, important, or distinctive; others being often classed as branches or subdivisions of an art.
 
-The core conception, favored by contemporary scientific usage, is in 10. Where brevity is needed, it can be reduced to the following: Art is skill in providing stimuli to satisfactory aesthetic experience.
-However, in making it so brief, one loses several important distinctions, which help to avoid misunderstanding and to convey the special implications of the word in current usage.
+The core conception, favored by contemporary scientific usage, is in 10. Where brevity is needed, it can be reduced to the following: Art is skill in providing stimuli to satisfactory aesthetic experience. However, in making it so brief, one loses several important distinctions, which help to avoid misunderstanding and to convey the special implications of the word in current usage.
 
-"Making or doing" covers performing, as of sounds or gestures; also the manufacture of lasting objects such as statues. It includes designing or planning as well as final execution, when this is formulated in observable sketches, musical scores, or verbal directions. Later on, we shall see why the term "art'" is sometimes restricted to the designing or composing phase.
+"Making or doing" covers performing, as of sounds or gestures; also the manufacture of lasting objects such as statues. It includes designing or planning as well as final execution, when this is formulated in observable sketches, musical scores, or verbal directions. Later on, we shall see why the term "art" is sometimes restricted to the designing or composing phase.
 
-"Used or intended as . . . ." This puts the definition in behavioristic, objective terms. To qualify as art, the product does not need to be beautiful or aesthetically satisfying; only to be used or adapted for an aesthetic function, by the producer or consumer. It is not even required that the object be intended as beautiful or pleasant; room is left for
+"Used or intended as [...]" This puts the definition in behavioristic, objective terms. To qualify as art, the product does not need to be beautiful or aesthetically satisfying; only to be used or adapted for an aesthetic function, by the producer or consumer. It is not even required that the object be intended as beautiful or pleasant; room is left for other types of aesthetic function and for products which fulfill aesthetic functions unintentionally.
 
-other types of aesthetic function and for products which fulfill aesthetic functions unintentionally.
+"Along with other ends or functions [...]" This avoids saying that aesthetic experience is the sole or even the most important function of art. Ordinarily, art has other functions also; but it is unnecessary to specify them in the definition. The aesthetic function is emphasized because it differentiates art from the more purely utilitarian and scientific skills.
 
-"Along with other ends or functions . . . ." This avoids saying
-
-THE MEANINGS OF ART 109
-
-that aesthetic experience is the sole or even the most important function of art. Ordinarily, art has other functions also; but it is unnecessary to specify them in the definition. The aesthetic function is emphasized because it differentiates art from the more purely utilitarian and scientific skills.
-
-"Expressing and communicating" is of course intended to recognize the conception of art advanced by Tolstoy and others. Instead of "feeling" or "emotion," the broader term "experience" is used.
-It covers not only feeling and emotion, but also perception, cognition, conation, beliefs and attitudes toward the world, etc., all of which are communicated in art. But art is recognized as especially concerned with emotional experience.
+"Expressing and communicating" is of course intended to recognize the conception of art advanced by Tolstoy and others. Instead of "feeling" or "emotion," the broader term "experience" is used. It covers not only feeling and emotion, but also perception, cognition, conation, beliefs and attitudes toward the world, etc., all of which are communicated in art. But art is recognized as especially concerned with emotional experience.
 
 "Stimulate" is used in a psychological sense. It does not imply that the percipient is passive in relation to the work of art or the artist. The work of art is a stimulus and an object of apperception, helping to arouse psychosomatic responses in the percipient, and receiving some share of his attention. Through light-waves, soundwaves, or other physical means, it stimulates his sense-organs, nervous system, and related mental apparatus to certain kinds of activity, whose nature is determined also by his character, conditioning, attitudes, present moods and anticipations.
 
@@ -829,181 +786,83 @@ A work of art, such as a picture or symphony, is an arrangement of stimuli in sp
 
 Art does not always stimulate perception and imagination to an equal degree, but it tends to stimulate both to some extent. A novel is addressed through the eyes to the imagination; a sonata is addressed more directly to sense perception. There is little if any perception without some experience of suggested images.
 
-IV
+## Different Kinds of Art
 
-Different Kinds of Art
+### Fine and useful arts: recent attacks on this antithesis
 
-1. Fine and useful arts: recent attacks on this antithesis
-
-One source of disagreement over the meaning of art arises from the old problem of the relation between "fine" and "useful." When art is defined in the broad technical sense, as by Colvin, it includes both "fine" and "useful" arts; all branches of applied science and technology. When art is defined in the broad aesthetic sense, as recommended in this book, the question still remains: does it include the "useful arts," or only those supposedly devoted to aesthetic ends?
-How much of technology is covered by the word "art"? How much is left out?
+One source of disagreement over the meaning of art arises from the old problem of the relation between "fine" and "useful." When art is defined in the broad technical sense, as by Colvin, it includes both "fine" and "useful" arts; all branches of applied science and technology. When art is defined in the broad aesthetic sense, as recommended in this book, the question still remains: does it include the "useful arts," or only those supposedly devoted to aesthetic ends? How much of technology is covered by the word "art"? How much is left out?
 
 In some extreme interpretations, the hedonist theory is said to imply a sharp separation between beauty and aesthetic pleasure on the one hand, utility on the other; between the "fine" and "useful" arts, supposedly devoted to these different ends; between the aesthetic and the practical attitudes. The latter in each case has been identified narrowly with what Colvin calls "ministering to man's material necessities and conveniences."
 
-This antithesis has been repeatedly attacked as too extreme. No one today would venture to uphold it in that form, and writers who state the antithesis at all usually hasten to add that it is not intended sharply; that there is much overlapping between fine and useful arts, and that the latter are not necessarily inferior. The sharp separation in theory, it is now insisted, proceeds from an unhealthy, undemocratic social condition, in which a lower class does most of the useful work and an upper, exploiting class most of the enjoying. "Arts that are merely useful," says Dewey, "are not arts but routines; and arts that are merely final are not arts but passive amusements and distraction, different from other indulgent dissipations only in dependence upon a certain acquired refinement or 'cultivation.' " * "'The division between
-
-' Experience and Nature (Chicago: The Open Court Publishing Co., 1925), p.
-
-361. Ed. 1929 published by W. W. Norton and Co., New York.
-110
-
-DIFFERENT KINDS OF ART 11
-
-fine and useful," says Edman, "produces on the one hand, a practical civilization in which there is no interest in sensuous charm or imaginative grace," and on the other "the decorative trifling of the piddling little exquisites, the soft luxuriance of the aesthete whose dainty creations and enjoyments have no connection with the rest of life." * Torossian declares that "the less we emphasize the difference between these two types of art work, the better it will be for the arts; for they all have one aim and purpose." ' He subscribes to Anatole France's unqualified disapproval: "Let us blot out these unintelligent distinctions! Let us break down this destructive barrier, and consider the inseparable unity of art in its endless manifestations. No! there are not two branches of art; 'industrial' and 'fine' are without meaning!
-There is only one art, which is at once workmanlike and beautiful; which devotes itself to the worthy task of charming life by multiplying beautiful forms that shall surround us, by expressing beautiful thoughts." *
+This antithesis has been repeatedly attacked as too extreme. No one today would venture to uphold it in that form, and writers who state the antithesis at all usually hasten to add that it is not intended sharply; that there is much overlapping between fine and useful arts, and that the latter are not necessarily inferior. The sharp separation in theory, it is now insisted, proceeds from an unhealthy, undemocratic social condition, in which a lower class does most of the useful work and an upper, exploiting class most of the enjoying. "Arts that are merely useful," says Dewey, "are not arts but routines; and arts that are merely final are not arts but passive amusements and distraction, different from other indulgent dissipations only in dependence upon a certain acquired refinement or 'cultivation.' " (Experience and Nature (Chicago: The Open Court Publishing Co., 1925), p. 361. Ed. 1929 published by W. W. Norton and Co., New York.) "'The division between fine and useful," says Edman, "produces on the one hand, a practical civilization in which there is no interest in sensuous charm or imaginative grace," and on the other "the decorative trifling of the piddling little exquisites, the soft luxuriance of the aesthete whose dainty creations and enjoyments have no connection with the rest of life." (Edman, Arts and the Man (New York: W. W. Norton & Co., 1939}. PP. 42-3.) Torossian declares that "the less we emphasize the difference between these two types of art work, the better it will be for the arts; for they all have one aim and purpose." (Op. cit., p. 41.) He subscribes to Anatole France's unqualified disapproval: "Let us blot out these unintelligent distinctions! Let us break down this destructive barrier, and consider the inseparable unity of art in its endless manifestations. No! there are not two branches of art; 'industrial' and 'fine' are without meaning! There is only one art, which is at once workmanlike and beautiful; which devotes itself to the worthy task of charming life by multiplying beautiful forms that shall surround us, by expressing beautiful thoughts." (A. France, "On the Unity of Art," Journal of American Institute of Architects, January, 1914, p. 18.)
 
 The attack is levelled at both parts of the antithesis; each being charged with narrowness. In the first place, the so-called "fine" arts are, or should be, useful also. In the second place, the so-called "useful" arts have, or should have, their aesthetic and immediately satisfying aspects, including the production of beauty. They are, or should be, quite as noble and worthy as the "fine" ones. Thus the word "fine," implying a claim to superior quality, is unjustified and misleading.
 
-On the first of these points, Dewey argues that fine art is useful, in a broad sense. "We reach a conclusion regarding the relations of instrumental and fine art which is precisely the opposite of that intended by seclusive estheticians; namely, that fine art consciously undertaken as such is peculiarly instrumental in quality. It is a device in experimentation carried on for the sake of education. It exists for the sake of a specialized use, use being a new training of modes of perception." "The fine arts as well as the industrial technologies are affairs of practice." * The terms "use" and "practice' are thus interpreted
+On the first of these points, Dewey argues that fine art is useful, in a broad sense. "We reach a conclusion regarding the relations of instrumental and fine art which is precisely the opposite of that intended by seclusive estheticians; namely, that fine art consciously undertaken as such is peculiarly instrumental in quality. It is a device in experimentation carried on for the sake of education. It exists for the sake of a specialized use, use being a new training of modes of perception." "The fine arts as well as the industrial technologies are affairs of practice." (Experience and Nature, pp. 392, 355.) The terms "use" and "practice' are thus interpreted broadly, as including much more than material necessities and conveniences.
 
-21. Edman, Arts and the Man (New York: W. W. Norton & Co., 1939}. PP.
-42-3.
+Dewey presses the second line of attack with equal vigor. "Objects of industrial arts have form-that adapted to their special uses. These objects take on esthetic form, whether they are rugs, urns, or baskets, when the material is so arranged and adapted that it serves immediately the enrichment of the immediate experience of the one whose attentive perception is directed to it." Art as Experience, p. 116. CJ. discussion of Dewey's position by M. M. Rader, op. cit., p. xxx.
 
-* Op. cit., p. 41.
+It is widely recognized today that artistic impulses can be expressed in many other channels than the established arts, fine or useful. Aesthetic experience can be derived from contemplating any kind of human activity or product. In a cultural analysis of Plainville, a small American town, Abram Kardiner remarks that the women "like pretty dresses, are interested in hairdos, and sometimes take an aesthetic pleasure in the labeling and arrangement of glass jars of canned fruit. Men who farm admire a straight furrow better than anything else in the world." The Psychological Frontiers of Society (New York: Columbia U. Press, 1945), p. 307.
 
-* A. France, "On the Unity of Art," Journal of American Institute of Architects, January, 1914, p. 18.
+The conclusion that fine and useful arts overlap and have much in common is so widely accepted today that one would have a hard time finding an upholder of the sharp separation between them. Colvin, whose theory is attacked by Dewey, (Art as Experience, p. 218.) makes no sharp distinction between "fine" and "useful." Architecture, he says, exists primarily for service:
 
-* Experience and Nature, pp. 392, 355.
+>In so far as it provides shelter and accommodation, it is one of the useful or mechanical arts, and one of the fine arts only in so far as its structures impress or give pleasure by the aspect of strength, fitness, harmony and proportion of parts, by disposition and contrast of light and shade, by colour and enrichment, by variety and relation of contours, surfaces and intervals. (Article on "Fine Arts," Encyc. Brit., 11th ed., vol. 10, pp. 370, 355.)
 
-112 THE ARTS AND THEIR INTERRELATIONS
+In other words, the whole art of architecture is not placed in any ironclad compartment. Some of its aspects are fine or aesthetic; others useful. He says much the same of the minor serviceable or useful arts. They are, in fact, a "division of fine arts," not a separate class, because-like architecture-"they all yield products capable of being practically useful and beautiful at the same time."
 
-broadly, as including much more than material necessities and conveniences.
+On the other hand, as Colvin points out, the fine arts are not devoid of utility. Didactic poetry aims at practice and utility. Hortatory and patriotic lyrics "belong to a phase of fine art which aims directly at one of the highest utilities, the stimulation of patriotic feeling and self-devotion. So may the strains of music which accompany such poetry." Such divisions are not eternal and in the nature of things, but changing historically. "Most of what we now call fine arts served in the beginning to fulfil the practical needs of individual and social life. [...]"
 
-Dewey presses the second line of attack with equal vigor. "Objects of industrial arts have form-that adapted to their special uses. These objects take on esthetic form, whether they are rugs, urns, or baskets, when the material is so arranged and adapted that it serves immediately the enrichment of the immediate experience of the one whose attentive perception is directed to it." �
+The overlapping of "fine" and "useful" is no new discovery. Since the concept of fine arts came into use in the eighteenth century, it has almost always been defined so as to include some sort of use as well as beauty. Kant explicitly includes many useful arts as fine or schone Künste. There is a clear statement on this point by J.G. Sulzer, in his _Allgemeine Theorie der schonen Künste_ (2nd ed., Leipzig, 1793, III, 72. The first edition appeared in 1771-74.) "He who first gave these arts the name of 'fine arts,' " he says, "seems to have perceived that their nature consists in the interweaving of the pleasing and the useful, or in the beautifying of the things which are made by ordinary art."
 
-It is widely recognized today that artistic impulses can be expressed in many other channels than the established arts, fine or useful. Aesthetic experience can be derived from contemplating any kind of human activity or product. In a cultural analysis of Plainville, a small American town, Abram Kardiner remarks that the women "like pretty dresses, are interested in hairdos, and sometimes take an aesthetic pleasure in the labeling and arrangement of glass jars of canned fruit. Men who farm admire a straight furrow better than anything else in the world." '
+Since practically all aestheticians recognize that fine and useful art interweave and should interweave, the issue resolves itself largely into one of emphasis and terminology. Shall the differences in degree between the fine and useful arts be emphasized, or the similarities? Are the differences so slight that the whole antithesis should be abandoned, for fear of conveying harmful implications? In the heat of polemics against an exaggerated distinction, one is tempted to exclaim, "Throw it out entirely! Never mention it again.'" Later on, when the false implications have been corrected to some extent, one may find it hard to get along without the old distinction, or something very much like it. Throwing out all old distinctions which have been exaggerated would leave few general concepts in aesthetics, or in the rest of philosophy. It would incur the new risk of obscuring certain real and important differences among phenomena; differences in degree only, perhaps, and hard to describe, but worth analyzing further. That there is a difference of some sort between two groups of skills, roughly expressed in the distinction between fine and useful arts, is attested by the persistence of this distinction in spite of all attacks upon it.
 
-The conclusion that fine and useful arts overlap and have much in common is so widely accepted today that one would have a hard time finding an upholder of the sharp separation between them. Colvin, whose theory is attacked by Dewey," makes no sharp distinction
+#### Aesthetic and utilitarian functions of art; emphasis on one or the other
 
-between "fine" and "useful." Architecture, he says, exists primarily for service:
+Part of the difficulty centers in the meaning of "useful" and "utilitarian." When narrowly restricted to "material necessities and conveniences," they seem to exclude most poetry, music, painting, and sculpture. If these arts are not "useful" in a material sense, must they be called "useless"? Are they merely for immediate pleasure? Of course not. They have many kinds of use or function. Some of these are educational, some political, some religious, some moral, and so on. The stimulation of aesthetic experience is itself a function of art. It is one way of using art: as an object of contemplation, and a means to satisfactory aesthetic experience.
 
-In so far as it provides shelter and accommodation, it is one of the useful or mechanical arts, and one of the fine arts only in so far as its structures impress or give pleasure by the aspect of strength, fitness, harmony and proportion of parts, by disposition and contrast
+In springing to the defense of "useless art," as against those who insisted that art should always have some obvious practical or moral use, the "art for art's sake" group were rightly calling attention to the aesthetic functions of art, and urging that they be not overlooked. (On the theories of Pater, Whistler, and Moore, see H. Ladd, With Eyes of the Past (New York, 1928), Ch. V, "For Art's Sake.") Such functions are not limited to the giving of pleasure or direct enjoyment, important as this is in a suffering world, for all but the dour ascetic. There are other values to be derived from the intensive study and experience of art, such as the development of powers of perception and imagination; the enlargement of mental horizons and the refinement of emotional sensitivity; in short, the development of personality. These are social values, worth cultivating in education; not narrowly individualistic. To achieve them without distraction, one must experience art directly, paying close attention to its inner nature and diversity of form, without constantly looking away from art to ask how it can serve this or that ulterior end. Fine art is functional and in a broad sense useful, not in addition to being aesthetic, but in the very fact of being aesthetic.
 
-of light and shade, by colour and enrichment, by variety and relation of contours, surfaces and intervals."
-
-In other words, the whole art of architecture is not placed in any ironclad compartment. Some of its aspects are fine or aesthetic; others useful. He says much the same of the minor serviceable or useful arts.
-
-� Art as Experience, p. 116. CJ. discussion of Dewey's position by M. M.
-Rader, op. cit., p. xxx.
-
-* The Psychological Frontiers of Society (New York: Columbia U. Press, 1945), p. 307.
-
-� Art as Experience, p. 218.
-� Article on "Fine Arts," Encyc. Brit., 11th ed., vol. 10, pp. 370, 355.
-
-DIFFERENT KINDS OF ART 113
-
-They are, in fact, a "division of fine arts," not a separate class, because-like architecture-"they all yield products capable of being practically useful and beautiful at the same time."
-
-On the other hand, as Colvin points out, the fine arts are not devoid of utility. Didactic poetry aims at practice and utility. Hortatory and patriotic lyrics "belong to a phase of fine art which aims directly at one of the highest utilities, the stimulation of patriotic feeling and self-devotion. So may the strains of music which accompany such poetry." Such divisions are not eternal and in the nature of things, but changing historically. "Most of what we now call fine arts served in the beginning to fulfil the practical needs of individual and social life. . . ."
-
-The overlapping of "fine" and "useful" is no new discovery. Since the concept of fine arts came into use in the eighteenth century, it has almost always been defined so as to include some sort of use as well as beauty. Kant explicitly includes many useful arts as fine or schone Kiinste. There is a clear statement on this point by J. G. Sulzer, in his Allgemeine Theorie der schonen "He who first gave these arts the name of 'fine arts,' " he says, "seems to have perceived that their nature consists in the interweaving of the pleasing and the useful, or in the beautifying of the things which are made by ordinary art."
-
-Since practically all aestheticians recognize that fine and useful art interweave and should interweave, the issue resolves itself largely into one of emphasis and terminology. Shall the differences in degree between the fine and useful arts be emphasized, or the similarities?
-Are the differences so slight that the whole antithesis should be abandoned, for fear of conveying harmful implications? In the heat of polemics against an exaggerated distinction, one is tempted to exclaim, "Throw it out entirely! Never mention it again.'" Later on, when the false implications have been corrected to some extent, one may find it hard to get along without the old distinction, or something very much like it. Throwing out all old distinctions which have been exaggerated would leave few general concepts in aesthetics, or in the rest of philosophy. It would incur the new risk of obscuring certain real and important differences among phenomena; differences in degree only, perhaps, and hard to describe, but worth analyzing further. That there is a difference of some sort between two groups of skills, roughly
-
-** 2nd ed., Leipzig, 1793, III, 72. The first edition appeared in 1771-74,
-
-114 THE ARTS AND THEIR INTERRELATIONS
-
-expressed in the distinction between fine and useful arts, is attested by the persistence of this distinction in spite of all attacks upon it.
-
-2. Aesthetic and utilitarian functions of art; emphasis on one or the other
-
-Part of the difficulty centers in the meaning of "useful" and "utilitarian." When narrowly restricted to "material necessities and conveniences," they seem to exclude most poetry, music, painting, and sculpture. If these arts are not "useful" in a material sense, must they be called "useless"? Are they merely for immediate pleasure? Of course not. They have many kinds of use or function. Some of these are educational, some political, some religious, some moral, and so on.
-The stimulation of aesthetic experience is itself a function of art. It is one way of using art: as an object of contemplation, and a means to satisfactory aesthetic experience.
-
-In springing to the defense of "useless art," as against those who insisted that art should always have some obvious practical or moral use, the "art for art's sake" group were rightly calling attention to the aesthetic functions of art, and urging that they be not overlooked." Such functions are not limited to the giving of pleasure or direct enjoyment, important as this is in a suffering world, for all but the dour ascetic. There are other values to be derived from the intensive study and experience of art, such as the development of powers of perception and imagination; the enlargement of mental horizons and the refinement of emotional sensitivity; in short, the development of personality. These are social values, worth cultivating in education; not narrowly individualistic. To achieve them without distraction, one must experience art directly, paying close attention to its inner nature and diversity of form, without constantly looking away from art to ask how it can serve this or that ulterior end. Fine art is functional and in a broad sense useful, not in addition to being aesthetic, but in the very fact of being aesthetic.
-
-In denouncing "art for art's sake" so violently today, and urging that the antithesis between "fine" and "useful" be cast aside, we should not forget that a moderate amount of specialization is valuable and necessary for progress in all fields. It is well that art should some** On the theories of Pater, Whistler, and Moore, see H. Ladd, With Eyes of the Past (New York, 1928), Ch. V, "For Art's Sake."
-
-DIFFERENT KINDS OF ART 11�$
-
-times be observed, enjoyed, and studied in and for itself, aside from all question as to what it can do to serve the state or public morals.
-It is well that some artists should experiment along specialized lines: to see what can be done with new arrangements of colors or of musical tones, to interest and move the observer in new ways, as artists in the past have experimented with fugues and arabesques. Since many skills and industries specialize upon utilitarian functions, it is well that some should specialize upon the aesthetic; not exclusively or permanently, but to a moderate extent at certain times. The partial separation of "fine" from "useful" arts, though much condemned today, has definite advantages which should not be overlooked in a hasty reaction against old-fashioned hedonism. Some focusing of interest upon aesthetic form and aesthetic experience, by the artist, the connoisseur, and the critic, should be encouraged and not frowned upon. It is not necessarily effete, trivial, precious, or piddling. It has no connection today with idle wealth or luxury, with aristocracy or democracy; it implies no disparagement of practical, utilitarian pursuits. It does not imply that art is best when devoid of utility, or when devoid of religious, moral, or intellectual content; it does not imply that "pure design'" or abstract, non-representative art is better than realism, or that "subject-matter" should be ignored, or that architecture should stress appearance rather than function. It does imply that there is room in art and in civilization for many kinds of art, and many ways of experiencing art; that it is worth while to specialize at times on the aesthetic kind, at other times on the practical, and at still others on the relation between the two. Specialization must of course be supplemented by integration, and kept within reasonable bounds; but there is little danger, in these times of stress, of overemphasis upon the aesthetic.
+In denouncing "art for art's sake" so violently today, and urging that the antithesis between "fine" and "useful" be cast aside, we should not forget that a moderate amount of specialization is valuable and necessary for progress in all fields. It is well that art should sometimes be observed, enjoyed, and studied in and for itself, aside from all question as to what it can do to serve the state or public morals. It is well that some artists should experiment along specialized lines: to see what can be done with new arrangements of colors or of musical tones, to interest and move the observer in new ways, as artists in the past have experimented with fugues and arabesques. Since many skills and industries specialize upon utilitarian functions, it is well that some should specialize upon the aesthetic; not exclusively or permanently, but to a moderate extent at certain times. The partial separation of "fine" from "useful" arts, though much condemned today, has definite advantages which should not be overlooked in a hasty reaction against old-fashioned hedonism. Some focusing of interest upon aesthetic form and aesthetic experience, by the artist, the connoisseur, and the critic, should be encouraged and not frowned upon. It is not necessarily effete, trivial, precious, or piddling. It has no connection today with idle wealth or luxury, with aristocracy or democracy; it implies no disparagement of practical, utilitarian pursuits. It does not imply that art is best when devoid of utility, or when devoid of religious, moral, or intellectual content; it does not imply that "pure design'" or abstract, non-representative art is better than realism, or that "subject-matter" should be ignored, or that architecture should stress appearance rather than function. It does imply that there is room in art and in civilization for many kinds of art, and many ways of experiencing art; that it is worth while to specialize at times on the aesthetic kind, at other times on the practical, and at still others on the relation between the two. Specialization must of course be supplemented by integration, and kept within reasonable bounds; but there is little danger, in these times of stress, of overemphasis upon the aesthetic.
 
 The old antithesis between fine and useful arts is so loaded with confusing associations today, that it is just as well to give it up and think in other terms. It is more illuminating to contrast the arts, not as "fine and useful" or as "useful and useless," but as commonly emphasizing different kinds of function.
 
-The aesthetic functions of art, we have just seen, are those which operate in and through the direct aesthetic contemplation of a work of art. They operate through its ability to serve as an object and stimulus for aesthetic experience. They include, not only the stimulation of satisfactory emotion, but all the diverse psychological processes which may enter into the total aesthetic response. These shade off gradually
-
-116 THE ARTS AND THEIR INTERRELATIONS
-
-into the subsequent, indirect effects of the work of art-e.g., in inducing a lasting belief, attitude, or predisposition toward some kind of action.
+The aesthetic functions of art, we have just seen, are those which operate in and through the direct aesthetic contemplation of a work of art. They operate through its ability to serve as an object and stimulus for aesthetic experience. They include, not only the stimulation of satisfactory emotion, but all the diverse psychological processes which may enter into the total aesthetic response. These shade off gradually into the subsequent, indirect effects of the work of art-e.g., in inducing a lasting belief, attitude, or predisposition toward some kind of action.
 
 Some works of art have at the same time aesthetic and nonaesthetic functions. A house can be admired for its appearance while it is being used to keep the rain out; a knife while it is being used to cut with. These are works of "utilitarian" art, because they combine aesthetic and utilitarian functions. Their utilitarian functions are not adventitious and occasional, but established, and manifested to some extent in their materials, forms, and methods of construction.
 
-On the other hand, there are some skills and products which are not used at all, or at least not in any regular way, to stimulate aesthetic experience. They are sometimes called "purely utilitarian." We have been abundantly cautioned, in recent years, not to assume that such products are totally unaesthetic or lacking in beauty.
-Machines and grain elevators, though not made to be beautiful, can appear so to the aesthetic eye. But this is another question. Clocks and electric refrigerators are made to be seen and to look well, in addition to serving other purposes. They are judged and chosen partly on this basis. Aesthetic quality or "eye appeal" is one of their definite, intended functions. Hence they are works of utilitarian ert. Some other devices (e.g., sewer-pipes) are not intended to be seen, and aesthetic appeal is not one of their functions; hence the skill and activity of making them is not an art. The making of machines, tools, utensils, and buildings is sometimes an art and sometimes a utilitarian technic.
-The line between the two is often hard to draw, but in extreme forms and on the whole it is fairly clear. Coal-mining is an extreme example of a non-cesthetic, utilitarian technic. Granting all that has been said about the possibility of aesthetic joy in one's daily work, and all that can be said about the beauty of coal or its delightful warmth when burned, the fact remains that coal is not mined to be contemplated aesthetically. That is not one of its regular, socially established functions. Coal-mining is not a "useful art," because it is not an art at all.
+On the other hand, there are some skills and products which are not used at all, or at least not in any regular way, to stimulate aesthetic experience. They are sometimes called "purely utilitarian." We have been abundantly cautioned, in recent years, not to assume that such products are totally unaesthetic or lacking in beauty. Machines and grain elevators, though not made to be beautiful, can appear so to the aesthetic eye. But this is another question. Clocks and electric refrigerators are made to be seen and to look well, in addition to serving other purposes. They are judged and chosen partly on this basis. Aesthetic quality or "eye appeal" is one of their definite, intended functions. Hence they are works of utilitarian ert. Some other devices (e.g., sewer-pipes) are not intended to be seen, and aesthetic appeal is not one of their functions; hence the skill and activity of making them is not an art. The making of machines, tools, utensils, and buildings is sometimes an art and sometimes a utilitarian technic. The line between the two is often hard to draw, but in extreme forms and on the whole it is fairly clear. Coal-mining is an extreme example of a non-cesthetic, utilitarian technic. Granting all that has been said about the possibility of aesthetic joy in one's daily work, and all that can be said about the beauty of coal or its delightful warmth when burned, the fact remains that coal is not mined to be contemplated aesthetically. That is not one of its regular, socially established functions. Coal-mining is not a "useful art," because it is not an art at all.
 
-Many utilitarian technics today are conducted scientifically, and have become branches of applied science; e.g., scientific agriculture and mining engineering. Farming in a primitive tribe is a utilitarian technic, but not an applied science. Some arts, such as architecture, are conducted with the aid of science, and are branches of technology.
-The field of applied science, or scientific technology, thus overlaps
-
-DIFFERENT KINDS OF ART 117
-
-that of art, where such methods are used directly for products or performances with an aesthetic aim. This is true today in the motion picture "industry," which is also regarded as an art.
+Many utilitarian technics today are conducted scientifically, and have become branches of applied science; e.g., scientific agriculture and mining engineering. Farming in a primitive tribe is a utilitarian technic, but not an applied science. Some arts, such as architecture, are conducted with the aid of science, and are branches of technology. The field of applied science, or scientific technology, thus overlaps that of art, where such methods are used directly for products or performances with an aesthetic aim. This is true today in the motion picture "industry," which is also regarded as an art.
 
 Painting, sculpture, music, and poetry are traditionally classed as "fine" or aesthetic arts, in contrast with furniture and pottery as "useful" arts. In a broad sense, all the fine arts have utilitarian functions, as in the case of painting used for advertising purposes. The distinction can best be made in terms of degree: between arts which are more, and those which are less, utilitarian. This does not imply that the former have a greater usefulness in general, but that they emphasize utilitarian functions more frequently, along with the aesthetic, and tend to adapt their products more obviously to some non-aesthetic use. If we continue to speak of "the useful arts" for the sake of brevity, it should be in this relative sense.
 
-We must be careful even in making a relative contrast. This statement, by H. E. Bliss," is much too simple: "The arts in which utility is a secondary consideration to beauty and pleasure are distinguished as the Fine Arts, or Aesthetic Arts." Even if we substitute the broader term "aesthetic experience" for "beauty and pleasure," it is not true that utility is always a secondary aim in the fine or aesthetic arts. Architecture is traditionally classed as a fine art, and utilitarian aims often dominate there.
+We must be careful even in making a relative contrast. This statement, by H.E. Bliss, (The Organization of Knowledge and the System of the Sciences (New York: Henry Holt and Co., 1929), p. 304.) is much too simple: "The arts in which utility is a secondary consideration to beauty and pleasure are distinguished as the Fine Arts, or Aesthetic Arts." Even if we substitute the broader term "aesthetic experience" for "beauty and pleasure," it is not true that utility is always a secondary aim in the fine or aesthetic arts. Architecture is traditionally classed as a fine art, and utilitarian aims often dominate there.
 
 The more accurate contrast would be as follows: within the general class of "arts" (which are all by definition fine or aesthetic), there are some which customarily emphasize utilitarian functions more than others do. These, including architecture, furniture, and pottery, can be described as "more utilitarian." They are "less aesthetic," not in being less beautiful or valuable aesthetically, but in being less specialized along aesthetic lines; less exclusively devoted to providing objects for aesthetic contemplation. On the other hand, there are some like music, painting, sculpture, and poetry, which customarily emphasize aesthetic functions more than utilitarian; they can be called "less utilitarian" or "more strongly aesthetic" arts. They do have important functions over and above giving pleasure; but these (e.g., educational) are mostly exerted in and through aesthetic contemplation, as in reading a story which informs one about foreign customs and international problems.
 
-** The Organization of Knowledge and the System of the Sciences (New York: Henry Holt and Co., 1929), p. 304.
+One way of interpreting "utilitarian" is in terms of fitness for use in some activity involving general bodily movement. Aesthetic contemplation is never quite passive; it always involves activity of the sense organs, as well as of the inner nervous system. But it can be inactive otherwise, as in looking at a picture or listening to music. Many works of painting, sculpture, music, and poetry are made only to be contemplated, observed and thought about. They are not adapted to any active bodily use. On the other hand, a cup or a sword is so adapted. Its possibilities are not exhausted in quiet observation; it is suited to be handled, drunk from or wielded. A house is suited to live and move in; a coat to be worn. The active use which makes a thing utilitarian does not, from this point of view, have to serve man's basic physical needs. It may be for amusement, as in equipment for a game or sport, or as an instrument in performing a work of art; e.g., a paintbrush or a violin. Again, it is hard to generalize about a whole art. Music is used in action when we dance to it. A picture may be used as a map or diagram, to guide travel or manufacture. In short, we must be cautious even in saying that one art is "more utilitarian" than another, in any sense of that word, since there is great variation within each art from one period to another, and one style to another.
 
-118 THE ARTS AND THEIR INTERRELATIONS
+In saying that music, painting, and poetry are on the whole "less utilitarian" or "more purely aesthetic" than architecture and furniture, we do not imply that beauty or pleasure is always their "primary aim." We do not imply that their main emphasis is or should be on "pure design" or abstract decorative form. The functions and types of form covered by the term "aesthetic" are extremely diverse. They include not only decoration and design, but representation, as in painting and drama; and symbolic exposition, as in allegorical religious art. They are aesthetic in that the work of art can exert these functions through serving as an object for apperception or aesthetic contemplation; through being looked at or listened to, and thought about. No active bodily movement is required except what is necessary for perceiving: e.g., turning the pages of a book, or walking around a statue or house to see it from different points of view, or touching one's fingers to a velvet cloth. Utilitarian objects, on the other hand, function more actively in our daily life, work, and play, in countless different ways.
 
-One way of interpreting "utilitarian" is in terms of fitness for use in some activity involving general bodily movement. Aesthetic contemplation is never quite passive; it always involves activity of the sense organs, as well as of the inner nervous system. But it can be inactive otherwise, as in looking at a picture or listening to music.
-Many works of painting, sculpture, music, and poetry are made only to be contemplated, observed and thought about. They are not adapted to any active bodily use. On the other hand, a cup or a sword is so adapted. Its possibilities are not exhausted in quiet observation; it is suited to be handled, drunk from or wielded. A house is suited to live and move in; a coat to be worn. The active use which makes a thing utilitarian does not, from this point of view, have to serve man's basic physical needs. It may be for amusement, as in equipment for a game or sport, or as an instrument in performing a work of art; e.g., a paintbrush or a violin. Again, it is hard to generalize about a whole art.
-Music is used in action when we dance to it. A picture may be used as a map or diagram, to guide travel or manufacture. In short, we must be cautious even in saying that one art is "more utilitarian" than another, in any sense of that word, since there is great variation within each art from one period to another, and one style to another.
-
-In saying that music, painting, and poetry are on the whole "less utilitarian" or "more purely aesthetic" than architecture and furniture, we do not imply that beauty or pleasure is always their "primary aim." We do not imply that their main emphasis is or should be on "pure design" or abstract decorative form. The functions and types of form covered by the term "aesthetic" are extremely diverse. They include not only decoration and design, but representation, as in painting and drama; and symbolic exposition, as in allegorical religious art. They are aesthetic in that the work of art can exert these functions through serving as an object for apperception or aesthetic contemplation; through being looked at or listened to, and thought about.
-No active bodily movement is required except what is necessary for perceiving: e.g., turning the pages of a book, or walking around a statue or house to see it from different points of view, or touching one's fingers to a velvet cloth. Utilitarian objects, on the other hand, function more actively in our daily life, work, and play, in countless different ways.
-
-In discussing fine and useful arts, we are already entering the subject of classification of the arts. That subject will be examined later
-
-DIFFERENT KINDS OF ART 119
-
-in its own right. Here it is relevant only that we may understand the extension of the word "art" according to the proposed definition. We have just seen that it does include the useful arts, which are also aesthetic technics; but not the non-aesthetic, most purely utilitarian technics. These should no longer be called "useful arts."
+In discussing fine and useful arts, we are already entering the subject of classification of the arts. That subject will be examined later in its own right. Here it is relevant only that we may understand the extension of the word "art" according to the proposed definition. We have just seen that it does include the useful arts, which are also aesthetic technics; but not the non-aesthetic, most purely utilitarian technics. These should no longer be called "useful arts."
 
 One other way in which the aesthetic and utilitarian functions of art interweave is as follows. The understanding of how a thing works can itself become part of a total aesthetic response to that thing. In admiring a house, cup, or sword, which is ornamented and also functionally effective, we do not necessarily admire it for the ornamentation alone, or for its purely visual design alone. Even when the object lies in a glass case, so that we cannot handle it, our knowledge of similar objects may suffice to show us that it would be well balanced, easy to grasp and wield, effective in doing its work, if one did handle it. This realization, perhaps along with a fantasy of using it, can become an integral phase in aesthetic apperception. Associations based on actual or possible use and fitness for use become part of the object's total meaning, thus making it more significant and potentially interesting as an aesthetic stimulus.
 
 Those who attack the aristocratic, narrowly hedonistic view of art can find a good argument here, even on aesthetic grounds. Scorn for the useful and practical extended not only to purely utilitarian objects, but to the utilitarian aspects of the decorative arts. It was fashionable to admire a house or chair, not for how well it fulfilled its utilitarian functions, but for its surface ornamentation and other purely visual aspects of its form. Functional excellence was likely to be ignored, beyond minimum requirements. Such standards of appraisal encouraged the artist to neglect functional problems, and to concentrate on obvious surface decoration, often to the point where it overpowered and conflicted with strength, convenience, and efficiency.
 
-Very often a particular skill, technic, or occupation has an aesthetic phase (which may be called an "art") and a non-aesthetic one. The former is sometimes indicated by the prefix "decorative," as in "decorative ironwork." This would mark it off as an art from the many kinds of ironwork which have no aesthetic aim. Sometimes the artistic phase receives a special name, as when artistic carpentry is called "cabinet-making." In France, a man may be called an artistepeintre, to distinguish him from a house-painter. A great many fields or occupations fall only in part within the realm of aesthetic art. The
+Very often a particular skill, technic, or occupation has an aesthetic phase (which may be called an "art") and a non-aesthetic one. The former is sometimes indicated by the prefix "decorative," as in "decorative ironwork." This would mark it off as an art from the many kinds of ironwork which have no aesthetic aim. Sometimes the artistic phase receives a special name, as when artistic carpentry is called "cabinet-making." In France, a man may be called an artistepeintre, to distinguish him from a house-painter. A great many fields or occupations fall only in part within the realm of aesthetic art. The line is often vague and easily crossed. A particular worker and his skill (e.g., in engraving or photography) may be devoted to aesthetic aims at one moment, and hence be "artistic," "pictorial," or "decorative." The next moment, they may leave the realm of art entirely, as when the photographer is employed by a science laboratory or police court. Thus in one respect after another, the boundaries of art and of each particular art are shifting and arbitrary.
 
-120 THE ARTS AND THEIR INTERRELATIONS
+#### Functional arts, applied arts, decorative arts, minor arts, handicrafts
 
-line is often vague and easily crossed. A particular worker and his skill (e.g., in engraving or photography) may be devoted to aesthetic aims at one moment, and hence be "artistic," "pictorial," or "decorative." The next moment, they may leave the realm of art entirely, as when the photographer is employed by a science laboratory or police court. Thus in one respect after another, the boundaries of art and of each particular art are shifting and arbitrary.
-
-3. Functional arts, applied arts, decorative arts, minor arts, handicrafts
-
-A number of expressions are now current, with meanings close to the concept of useful arts. They are often preferred because of the older term's ambiguity. Each of them has certain peculiar associations.
-None has yet found universal acceptance, and present discussion is hampered by an oversupply of almost synonymous terms, used in a vaguely interchangeable way, with slightly different meanings.
+A number of expressions are now current, with meanings close to the concept of useful arts. They are often preferred because of the older term's ambiguity. Each of them has certain peculiar associations. None has yet found universal acceptance, and present discussion is hampered by an oversupply of almost synonymous terms, used in a vaguely interchangeable way, with slightly different meanings.
 
 Many writers on art are impatient with attempts to find the right generic term, and brush the question aside as do Faulkner, Ziegfeld, and Hill. Their book, they say, deals with "those arts of form and color with which we come in contact every day. Sometimes they are referred to as the Fine and Industrial Arts, the Fine and Applied (or Allied) Arts, or the Plastic and Graphic Arts. Whatever the name, the field comprises city planning, architecture (including the furnishing of interiors), painting, printing and the graphic arts, sculpture, and the arts of industry and commerce. . . . The distinction between the Fine and Applied Arts is hardly defensible, for . . . if a product is not 'Fine,' it is not art." " Colvin speaks of "the lesser or auxiliary manual arts (commonly called 'industrial' or 'applied' arts)" as including pottery, embroidery, and goldsmith's work. Modern usage, he adds, "has adopted the phrase 'arts and crafts' as a convenient general name for their pursuits."
 
-Functional arts. Dudley and Faricy, in The Humanities, have a section entitled "Functional and Nonfunctional Arts." In that book, they explain, "the word function will be reserved for such definite, practical, and utilitarian meanings" as being a salt cellar or a double boiler for cooking. "We shall not say that it is the function of a poem
+_Functional arts._ Dudley and Faricy, in The Humanities, have a section entitled "Functional and Nonfunctional Arts." In that book, they explain, "the word function will be reserved for such definite, practical, and utilitarian meanings" as being a salt cellar or a double boiler for cooking. "We shall not say that it is the function of a poem to teach a lesson, the function of a painting to be beautiful, or the function of a play to be entertaining." (Op. cit., p. 59.) This restricted sense of the word "function" is implied in speaking of "functionalism" as an aim or trend of architecture. It means that the utilitarian purposes of a building should determine its form, and be apparent in its visible appearance; not concealed by superficial ornamentation. People ask, about some part of a house or piece of furniture, "is it functional?" -meaning, "does it do something useful, or is it merely decorative?" This is a narrow use of "function." Some word should be reserved for the other kinds of service-in education, entertainment, therapy, etc. -which art carries on. "Utilitarian" has long possessed the more narrow, physically practical connotation. (Not always, however. J. S. Mill uses it much more broadly in his essay Utilitarianism.) There is something to be said for retaining "functional" in the broader sense. Psychologically, the human functions include perceiving, imagining, desiring, and enjoying. Anything which serves or stimulates them aesthetically is in a way functional. To class music, poetry, and painting as "nonfunctional" is to run the risk of obscuring their definite and important psychological and social uses. The choice of terms is somewhat arbitrary, but we shall retain "functional" in the broader sense, and "utilitarian" in the narrower.
 
-*} Faulkner, Ziegfeld and Hill, Art Todey. New York: Henry Holt and Co., 1941.
+_Applied arts._ This term is analogous to "applied science." In that connection, says Webster, "applied" means "put to use; pursued for some end outside of its own domain, whether in a distinctly utilitarian way, or as an aid to some other science; as, applied mechanics, chemistry, mathematics, psychology; -distinguished from 'pure'" If it means "applied to some useful end," it is equivalent to "useful," and there is not much gained in substituting it. Sometimes "applied art" is used as equivalent to "practice of art"-that is, to production or performance as contrasted with history or theory. That sense is confusing and should be avoided.
 
-DIFFERENT KINDS OF ART
-
-to teach a lesson, the function of a painting to be beautiful, or the function of a play to be entertaining." '* This restricted sense of the word "function" is implied in speaking of "functionalism" as an aim or trend of architecture. It means that the utilitarian purposes of a building should determine its form, and be apparent in its visible appearance; not concealed by superficial ornamentation. People ask, about some part of a house or piece of furniture, "is it functional?"meaning, "does it do something useful, or is it merely decorative?" This is a narrow use of "function." Some word should be reserved for the other kinds of service-in education, entertainment, therapy, etc.-which art carries on. "Utilitarian" has long possessed the more narrow, physically practical connotation." There is something to be said for retaining "functional" in the broader sense. Psychologically, the human functions include perceiving, imagining, desiring, and enjoying. Anything which serves or stimulates them aesthetically is in a way functional. To class music, poetry, and painting as "nonfunctional" is to run the risk of obscuring their definite and important psychological and social uses. The choice of terms is somewhat arbitrary, but we shall retain "functional" in the broader sense, and "utilitarian" in the narrower.
-
-Applied arts. This term is analogous to "applied science." In that connection, says Webster, "applied" means "put to use; pursued for some end outside of its own domain, whether in a distinctly utilitarian way, or as an aid to some other science; as, applied mechanics, chemistry, mathematics, psychology;-distinguished from 'pure'" If it means "applied to some useful end," it is equivalent to "useful," and there is not much gained in substituting it. Sometimes "applied art" is used as equivalent to "practice of art"-that is, to production or performance as contrasted with history or theory. That sense is confusing and should be avoided.
-
-"Applied" also suggests "arts in which decoration has been applied to a utilitarian basis." This suggests a superficial kind of decoration, as in pasting or painting scenes, flowers, etc., on a table or lamp-shade. The concept of "applied art'" is much less clear than "applied science." The latter is definitely contrasted with "pure science," and implies the application of scientific knowledge to practical
-
-121
-
-** Op. cit., p. 59.
-
-15 Not always, however. J. S. Mill uses it much more broadly in his essay Utilitarianism.
-
-122 THE ARTS AND THEIR INTERRELATIONS
-
-ends. To make a similar distinction in art suggests a very dubious theory: that such a thing as "pure art'" exists by itself, apart from all practical uses, and that useful arts merely apply it to this or that practical function. The term "applied art" is not objectionable if such interpretations are avoided.
+"Applied" also suggests "arts in which decoration has been applied to a utilitarian basis." This suggests a superficial kind of decoration, as in pasting or painting scenes, flowers, etc., on a table or lamp-shade. The concept of "applied art'" is much less clear than "applied science." The latter is definitely contrasted with "pure science," and implies the application of scientific knowledge to practical ends. To make a similar distinction in art suggests a very dubious theory: that such a thing as "pure art'" exists by itself, apart from all practical uses, and that useful arts merely apply it to this or that practical function. The term "applied art" is not objectionable if such interpretations are avoided.
 
 A more serious difficulty arises from the fact that architecture is usually excluded from the class of "applied arts." According to Dudley and Faricy, "The applied arts are almost entirely functional. In fact, they are called applied arts because they have function. Rugs, blankets, clothes, jewelry, cups and saucers, plates, teapots, sugar bowls, baskets -one need only name examples to realize that each is made for some definite and specific use. Architecture is even more entirely functional than the applied arts, for we do have examples of the applied arts that are not functional." ** Why, then, is not architecture one of the applied arts? There is no logical reason. Its exclusion follows the custom of listing architecture with the "fine arts" instead of the "useful arts," for honorific reasons. Since architecture is obviously "applied" or "functional," any list of applied arts which leaves it out should be qualified in some way.
 
@@ -1011,44 +870,18 @@ The term "decorative arts" is widely employed instead of "useful arts," especial
 In an art museum, it is the decorative quality of a cup or chair-not its usefulness-which admits it to the galleries as art.
 
 "Decorative" has a broad and a narrow sense. Broadly, it is almost synonymous with "aesthetic' or "beautiful." It means, says Webster, "pleasing or intended to please by harmonious adaptation of pattern, line, color, rhythm, etc., to imposed restrictions, such as space, position, length, etc." This would apply to most painting and sculpture; even music and literature are sometimes called decorative.
-But in the narrower sense, "decorative" is opposed to representative: "distinguished (continues Webster) from realistic, representative, and expressive; as, the decorative character of Gothic sculpture." But painting and sculpture can be decorative and, at the same time, realistic, representative, and expressive, as in the works of Tintoretto
+But in the narrower sense, "decorative" is opposed to representative: "distinguished (continues Webster) from realistic, representative, and expressive; as, the decorative character of Gothic sculpture." But painting and sculpture can be decorative and, at the same time, realistic, representative, and expressive, as in the works of Tintoretto and Donatello. These categories are all overlapping. Pictures and statues are most likely to be classed under "decorative arts" in a museum when they are small and made of materials possessing intrinsically decorative properties, such as gold, silver, enamel, jade, crystal, ivory, or silk; especially when the emphasis in style is on design rather than on representation. Medieval manuscript illuminations and tapestries are often so classed, and likewise small, sculptured figures in wood or gilt bronze. In other words, if the object possesses marked decorative qualities, it can be placed in this class regardless of whether it is also representative or utilitarian.
 
-!* Op. cit., p. 59.
-
-DIFFERENT KINDS OF ART 123
-
-and Donatello. These categories are all overlapping. Pictures and statues are most likely to be classed under "decorative arts" in a
-
-museum when they are small and made of materials possessing intrinsically decorative properties, such as gold, silver, enamel, jade, crystal, ivory, or silk; especially when the emphasis in style is on design rather than on representation. Medieval manuscript illuminations and tapestries are often so classed, and likewise small, sculptured figures in wood or gilt bronze. In other words, if the object possesses marked decorative qualities, it can be placed in this class regardless of whether it is also representative or utilitarian.
-
-Architecture is commonly excluded, aside from occasional small, detached bits such as capitals of columns and ornamental friezes.
-This, in spite of the fact that it is obviously decorative in both the broad and narrow senses. By no definition of "decorative" can furniture be consistently included and architecture not. Once more, the exclusion is due to no theoretical reasoning, but is made on grounds of custom and convenience. "Decorative arts" really means, in practice, "minor decorative arts," and is often worded so.
+Architecture is commonly excluded, aside from occasional small, detached bits such as capitals of columns and ornamental friezes. This, in spite of the fact that it is obviously decorative in both the broad and narrow senses. By no definition of "decorative" can furniture be consistently included and architecture not. Once more, the exclusion is due to no theoretical reasoning, but is made on grounds of custom and convenience. "Decorative arts" really means, in practice, "minor decorative arts," and is often worded so.
 
 Major and minor, greater and lesser arts. What is meant by calling architecture a major art, and pottery or jewelry a minor art? Buildings are usually large; cups and necklaces small. This is an important factor in museum classification, since few original works of architecture can be brought into the galleries. Hence they are treated apart from other decorative arts.
 
 But there is more than this to the concept of major and minor.
-Songs, poems, and pictures are not especially large, but music, poetry, and painting are traditionally "major arts." In Renaissance Italy, the arts were divided into maggiore and minore, these terms being applied to the guilds or corporations which carried on the various industries."" The antithesis between major and minor came to imply a difference in rank or importance among the arts from a standpoint of aesthetic value."" Colvin defines "fine art'" as consisting of "the five greater arts of architecture, sculpture, painting, music, and poetry, with a number of minor or subsidiary arts, of which dancing and the drama are among the most ancient and universal." This evidently implies an evaluation of the arts as to their relative importance. It is a way of
+Songs, poems, and pictures are not especially large, but music, poetry, and painting are traditionally "major arts." In Renaissance Italy, the arts were divided into maggiore and minore, these terms being applied to the guilds or corporations which carried on the various industries. (Cf. Colvin, "Art," loc. cit.) The antithesis between major and minor came to imply a difference in rank or importance among the arts from a standpoint of aesthetic value. (Major: "Greater in dignity, rank, or importance; superior in quality or position; as, major poets" (Webster).) Colvin defines "fine art'" as consisting of "the five greater arts of architecture, sculpture, painting, music, and poetry, with a number of minor or subsidiary arts, of which dancing and the drama are among the most ancient and universal." This evidently implies an evaluation of the arts as to their relative importance. It is a way of eulogizing certain arts as grand and noble, and disparaging others as trivial by comparison.
 
-1" Cf. Colvin, "Art," loc. cit.
+Such an attitude is one more survival of the ancient, aristocratic prejudice in favor of certain arts and against others. It is reinforced by professional snobbishness today, so that teachers and connoisseurs of painting and sculpture often look down upon the "minor decorative arts," and relegate them to a humble place in the aesthetic hierarchy. It has harmful effects in education, in that students have been led to overcrowd the fields of painting and sculpture, overstress them in studying art history, admire mediocre examples of them, and correspondingly neglect the values of useful or decorative art. Wholesale grouping of the useful arts as "minor" leads to the quite erroneous assumption that no chair or cup, however good, can possibly be as "great art" as an oil painting. Dubious arguments have been brought forward to show that the "minor arts" are incapable of lofty intellectual and spiritual content; but these will not stand scrutiny. The Orient and medieval Europe expressed some of their loftiest symbolism in bronze utensils, stained glass, wood-carving, goldwork, enameling, and other mediums which we call "minor." (A. Coomaraswamy points out that, in Indian aesthetic theory, no distinction of kind was made as between fine and decorative, free or servile art. Lists of arts "embrace every kind of skilled activity, from music, painting, and weaving to horsemanship, cookery, and the practice of magic, without distinction of rank, all being equally of angelic origin." (The Trensformation of Nature in Art. Cambridge: Harvard U. Press, 1934, p. 9.)) What is "minor" to us today may have been "major" in some other age or culture, and vice versa. How can we call stained glass a minor art in the middle ages, or mosaic in the Byzantine period? Architecture is a minor art for the nomadic Persian tribe, and rug-weaving a major one. As a rule, such judgments should be limited to specific cultural contexts. To be sure, against a background of world history, architecture looms up as a mighty art, and so do sculpture, painting, music, and poetry. But to disparage dancing and the drama is to reveal a failure to appreciate their own tremendous roles in cultural history; their power to express important human ideas and aspirations.
 
-'* Major: "Greater in dignity, rank, or importance; superior in quality or position; as, major poets" (Webster).
-
-124 THE ARTS AND THEIR INTERRELATIONS
-
-eulogizing certain arts as grand and noble, and disparaging others as trivial by comparison. f,
-
-Such an attitude is one more survival of the ancient, aristocratic prejudice in favor of certain arts and against others. It is reinforced by professional snobbishness today, so that teachers and connoisseurs of painting and sculpture often look down upon the "minor decorative arts," and relegate them to a humble place in the aesthetic hierarchy.
-It has harmful effects in education, in that students have been led to overcrowd the fields of painting and sculpture, overstress them in studying art history, admire mediocre examples of them, and correspondingly neglect the values of useful or decorative art. Wholesale grouping of the useful arts as "minor" leads to the quite erroneous assumption that no chair or cup, however good, can possibly be as "great art" as an oil painting. Dubious arguments have been brought forward to show that the "minor arts" are incapable of lofty intellectual and spiritual content; but these will not stand scrutiny. The Orient and medieval Europe expressed some of their loftiest symbolism in bronze utensils, stained glass, wood-carving, goldwork, enameling, and other mediums which we call "minor." '* What is "minor" to us today may have been "major" in some other age or culture, and vice versa. How can we call stained glass a minor art in the middle ages, or mosaic in the Byzantine period? Architecture is a minor art for the nomadic Persian tribe, and rug-weaving a major one. As a rule, such judgments should be limited to specific cultural contexts. To be sure, against a background of world history, architecture looms up as a mighty art, and so do sculpture, painting, music, and poetry. But to disparage dancing and the drama is to reveal a failure to appreciate their own tremendous roles in cultural history; their power to express important human ideas and aspirations.
-
-In short, to call certain arts "greater" or "major," and other "minor," is ambiguous and full of dubious implications. It should not be done in a wholesale, absolutistic way, as if certain arts were intrinsically and permanently better than others. Such terms can
-
-� A. Coomaraswamy points out that, in Indian aesthetic theory, no distinction of kind was made as between fine and decorative, free or servile art. Lists of arts "embrace every kind of skilled activity, from music, painting, and weaving to horsemanship, cookery, and the practice of magic, without distinction of rank, all being equally of angelic origin." (The Trensformation of Nature in Art. Cambridge: Harvard U. Press, 1934, p. 9.)
-
-DIFFERENT KINDS OF ART 12$
-
-properly be used to imply that works of certain arts are (a) physically
-
-smaller, or (b) less important in a particular culture-pattern. The meaning intended should be clearly shown."
+In short, to call certain arts "greater" or "major," and other "minor," is ambiguous and full of dubious implications. It should not be done in a wholesale, absolutistic way, as if certain arts were intrinsically and permanently better than others. Such terms can properly be used to imply that works of certain arts are (a) physically smaller, or (b) less important in a particular culture-pattern. The meaning intended should be clearly shown. (Santayana speaks of "the smaller plastic arts." (Reason in Art, p. 122.))
 
 Crafts; handicrafts; arts and crafts. These terms are all used at present as roughly equivalent to "minor useful and decorative arts" with additional stress on the fact of hand manufacture as opposed to large-scale, machine production. There are borderline cases: a piece of realistic sculpture, such as a small wood-carving, may be classed as "craftwork" simply because it is small, and whittled crudely by a rural or provincial artist. But most handicrafts are expected to produce small useful articles, such as rugs, quilts, baskets, pottery, metal trays, etc.
 
@@ -1058,523 +891,322 @@ Thus the handicrafts are distinct from the industrial arts, in so far as the lat
 
 4. Industrial arts. Art and mechanical reproduction. The artistic phases in production and performance
 
-The term "industrial arts" has long been employed as synonymous with "useful arts" and "servile arts." In this sense it is traditionally contrasted with "fine arts." Santayana uses it thus in discussing "The Rationality of Industrial Art," ** pointing out that "all industry contains an element of fine art and all fine art an element of industry."
-
-** Santayana speaks of "the smaller plastic arts." (Reason in Art, p. 122.) ** Reason in Art, Ch. II, esp. p. 33.
-
-126 THE ARTS AND THEIR INTERRELATIONS
-
-Edman follows this usage in distinguishing between "the fine arts and the merely useful or industrial." **
+The term "industrial arts" has long been employed as synonymous with "useful arts" and "servile arts." In this sense it is traditionally contrasted with "fine arts." Santayana uses it thus in discussing "The Rationality of Industrial Art," (Reason in Art, Ch. II, esp. p. 33.) pointing out that "all industry contains an element of fine art and all fine art an element of industry." Edman follows this usage in distinguishing between "the fine arts and the merely useful or industrial." (Op. cit., pp. 38-40.)
 
 "Industrial arts" is also used with special reference to engineering and applied science. It then implies not only a utilitarian emphasis but also the use of modern scientific technology. The Industrial Arts Index, a Cumulative Subject Index to Engineering, Trade, and Business Periodicals, has been published in New York since 1914. Typical of the many publications indexed therein are the Harvard Business Review, the American Gas Journal, American Petroleum Institute Proceedings, and Review of Scientific Instruments. Few if any of these periodicals emphasize the aesthetic aspects of the products concerned. The extension of "industrial arts" is definitely non-aesthetic in this case. Such a meaning is confusing, because of the strongly aesthetic associations which the word "art'" has taken on. Instead of "industrial arts," it would be better to say "industrial technics" (or technology), "applied science," "engineering and business administration," or something equivalent.
 
 Also, there seems to be no great advantage in using "industrial arts" in Santayana's sense, as equivalent to "useful arts." The latter term is more established, in the broad sense which includes handicrafts as well as machine production.
 
-A new and preferable usage of the term "industrial arts" is now becoming current. It refers to a specific idea, different from those so far considered. This is the large-scale, machine production of useful articles with some claim to aesthetic value or "eye appeal." Art schools now have courses on designing for industrial art, emphasizing beauty along with use. Modern, good-looking stoves, refrigerators, radio cabinets, automobiles, bicycles, dishes, cutlery, etc., are in this category." "Industrial arts" are not the same as "industries'"; the former term implies an aesthetic aim. Industrial art is a type of aesthetic art, distinguished from handicraft in that it involves mechanized, mass production.
-The word "industries'" does not always imply "mechanical," but
+A new and preferable usage of the term "industrial arts" is now becoming current. It refers to a specific idea, different from those so far considered. This is the large-scale, machine production of useful articles with some claim to aesthetic value or "eye appeal." Art schools now have courses on designing for industrial art, emphasizing beauty along with use. Modern, good-looking stoves, refrigerators, radio cabinets, automobiles, bicycles, dishes, cutlery, etc., are in this category. (The Museum of Modern Art in New York has exhibited such products under the title of "Machine Art." Also, some machine-made objects such as wheels, springs and bearings were included, which seemed beautiful to the modern critic even though not made with that intention.) "Industrial arts" are not the same as "industries'"; the former term implies an aesthetic aim. Industrial art is a type of aesthetic art, distinguished from handicraft in that it involves mechanized, mass production.
 
-** Op. cit., pp. 38-40.
-
-** The Museum of Modern Art in New York has exhibited such products under the title of "Machine Art." Also, some machine-made objects such as wheels, springs and bearings were included, which seemed beautiful to the modern critic even though not made with that intention.
-
-DIFFERENT KINDS OF ART 127
-
-it does suggest mass production. We speak of pottery-making, brewing, and weaving as industries of the ancient Egyptians. Their products were turned out on a fairly large scale without machinery. But machinery has enormously increased the amount of industrial production, in proportion to the amount of labor expended.
+The word "industries'" does not always imply "mechanical," but it does suggest mass production. We speak of pottery-making, brewing, and weaving as industries of the ancient Egyptians. Their products were turned out on a fairly large scale without machinery. But machinery has enormously increased the amount of industrial production, in proportion to the amount of labor expended.
 
 For a while after the industrial revolution, and through much of the nineteenth century, large-scale machine methods were applied mostly to utilitarian products (except for certain items like cheap, figured cotton textiles). Expensive things intended to be beautiful were mostly made by hand, as before. Hence it was supposed that only handmade things could really be "art." Now, machine methods are spreading through the field of artistic production. Realizing the commercial value of attractive appearance in selling products, manufacturers employ artist-designers to collaborate with engineers and production managers. Thus beauty and utility are combined again as joint aims in certain branches of large-scale, machine production, as they have long been in the handmade, useful arts. These branches are the industrial "arts," art manufactures, or art industries.
 
 The spread of large-scale, machine methods through the realm of art is so rapid that no one knows where it will stop, and there are many borderline fields with a slight amount of mechanization. At present, for example, machine-made reproductions of painting and sculpture (color-prints and plaster casts) are not usually classed as works of industrial art. But the processes of mechanical reproduction-photo-engraving, color-printing, etc.-have become highly industrialized. In fact, there is no single art, if considered in the large as the whole process of making a certain kind of product, into which machine industry has not already entered. Paintings are reproduced by more or less mechanical devices; musical performances are reproduced on records and films; poems are printed in newspapers and magazines, and so on. Literature was the first art to be revolutionized by machine methods of reproduction and distribution, through the printing press in the fifteenth century.
 
 In these cases, the creative phase of designing or composing is fairly distinct from the mechanical phase of reproduction, and only the former is usually classed as "art." In other cases, such as the motion-picture industry, the two are almost inextricably blended.
-Mechanical devices are used all along the line, and creative modifica128 THE ARTS AND THEIR INTERRELATIONS
-
-tions are contributed all along the line, even in final cutting and edit.
+Mechanical devices are used all along the line, and creative modifications are contributed all along the line, even in final cutting and edit.
 ing of the film. There is no distinct process of individual, hang.
 made creation, followed by another of mechanical reproduction.
 
-Where, then, does "art'" end and "industry'" begin? Does "art"
+Where, then, does "art" end and "industry" begin? Does "art" include the whole process of making or performing something with aesthetic functions? Yes, according to the first part of our definition and in a very broad extension of the term "art." Are all its workers, to be classed as "artists"? Yes, if we apply the definition literally, Even the operator of an automatic motion-picture projector or a phonograph record is performing something with an aesthetic function. The mechanical printing of color-print reproductions is a technic whose products function aesthetically, and are therefore works of art. As to the attractively finished stove or refrigerator, there is usually no such thing as an original. All are reproductions, the first one off the assembly line being identical with the five-hundredth. The whole process aims at a beautiful product; hence the whole process can be broadly included as an art.
 
-include the whole process of making or performing something with aesthetic functions? Yes, according to the first part of our definition and in a very broad extension of the term "art." Are all its workers, to be classed as "artists"? Yes, if we apply the definition literally, Even the operator of an automatic motion-picture projector or a phonograph record is performing something with an aesthetic func.
-tion. The mechanical printing of color-print reproductions is a technic whose products function aesthetically, and are therefore works of art.
-As to the attractively finished stove or refrigerator, there is usually no such thing as an original. All are reproductions, the first one off the assembly line being identical with the five-hundredth. The whole process aims at a beautiful product; hence the whole process can be broadly included as an art.
+On the whole, however, present usage stops short of this extreme of consistency. It refuses to recognize as art the whole process of making or reproducing works of art in mass quantity, by machinery. It refuses to recognize all the workers in it as artists. It tries instead to single out within the industrial process those phases concerned with designing or working out the plan. These only are creative; these only are "art," and only those who perform this phase are artists. As we have seen, the distinction is often hard to make, but it nevertheless exists in theory. It is followed out as far as possible in occupational classifications, where designers and artists of various sorts are distinguished from machine operators, sales managers, and others involved in the total process. (This will be considered more fully in Ch. VIII.) The term "art'" is usually restricted to certain phases of the process, with the inference that many workers who are not artists can take part in the production of art. The basis of distinction here applies as well to hand methods as to machine industry. It existed in the atelier of Rubens, where the master sketched the plan of the picture, executed a few important details, and left the more easy, "mechanical" parts to be painted in by students and apprentices. Only the former was art, in a strict sense, and the latter was artisanship, craftsmanship, or skilled assistance. In the theater, the performance as a whole is a work of art, but not every stagehand is an artist.
 
-On the whole, however, present usage stops short of this extreme of consistency. It refuses to recognize as art the whole process of making or reproducing works of art in mass quantity, by machinery.
-It refuses to recognize all the workers in it as artists. It tries instead to single out within the industrial process those phases concerned with designing or working out the plan. These only are creative; these only are "art," and only those who perform this phase are artists. As we have seen, the distinction is often hard to make, but it nevertheless exists in theory. It is followed out as far as possible in occupational classifications, where designers and artists of various sorts are distinguished from machine operators, sales managers, and others involved in the total process." The term "art'" is usually restricted to certain phases of the process, with the inference that many workers who are not artists can take part in the production of art. The basis of distinction here applies as well to hand methods as to machine industry.
-It existed in the atelier of Rubens, where the master sketched the plan of the picture, executed a few important details, and left the more easy, "mechanical" parts to be painted in by students and apprentices. Only the former was art, in a strict sense, and the latter was artisanship, craftsmanship, or skilled assistance. In the theater,
-
-** This will be considered more fully in Ch. VIII.
-
-DIFFERENT KINDS OF ART
-
-the performance as a whole is a work of art is an artist.
-
-129
-
-, but not every stagehand
-
-1.306 this mean that we are once more introducing an evaluative, eulogistic requirement into the definition of art? Is only the good, highly skilled producer of really beautiful things an artist? No; the essential difference is one which may be objectively described, in terms of the kind of work done. One phase, and perhaps one group of specialized workers, is concerned especially with designing, planning, and directing; another with executing in accordance with plans received. True, the two phases overlap; which is to say that no sharp line exists between the artistic and the non-artistic. But the concept of art remains non-evaluative, in that nothing is said about the quality of the designs or plans, or about the actual beauty of the final product.
+Does this mean that we are once more introducing an evaluative, eulogistic requirement into the definition of art? Is only the good, highly skilled producer of really beautiful things an artist? No; the essential difference is one which may be objectively described, in terms of the kind of work done. One phase, and perhaps one group of specialized workers, is concerned especially with designing, planning, and directing; another with executing in accordance with plans received. True, the two phases overlap; which is to say that no sharp line exists between the artistic and the non-artistic. But the concept of art remains non-evaluative, in that nothing is said about the quality of the designs or plans, or about the actual beauty of the final product.
 
 In large-scale industry, such related activities are formally organized, with large departments or groups of individuals looking after each. In large or small-scale production, it is sometimes necessary to specify that only part of the total activity concerned is to be called "art." This part, by general agreement, is the creative, designing, or inventive phase. We sometimes distinguish between an art and an industry or business by the same name, connected with that art. For example, a man can be "in the music business'" if he sells sheet music, or runs a concert engagement bureau. Architecture is an art, a science, and an industry, from the standpoint of different workers in it. In other words, the artistic phase of architecture is only one part of architecture as a total field or area of human culture.
 
-As to performance also, a problem is raised by our example of the operator of an automatic phonograph or motion-picture projector.
-Is he an artist and is his occupation a kind of art? Again we must answer, "in a broad and literal sense, yes." But current usage favors a stricter sense which would exclude him. His work is largely mechanical, concerned with making a complex machine run smoothly in a fixed, routine way. How does he differ from a concert singer or dancer who is called an artist? Once again, it may seem at first that the distinction is evaluative, and that "artist" is a term of praise. But this is not necessarily so. In the neutral sense employed by scientific occupational surveys, a person is an artist merely by virtue of engaging in a certain occupation. He may be a very bad singer and yet an artist.
-The motion-picture operator may be an excellent mechanic, and yet not an artist.
-
-130 THE ARTS AND THEIR INTERRELATIONS
+As to performance also, a problem is raised by our example of the operator of an automatic phonograph or motion-picture projector. Is he an artist and is his occupation a kind of art? Again we must answer, "in a broad and literal sense, yes." But current usage favors a stricter sense which would exclude him. His work is largely mechanical, concerned with making a complex machine run smoothly in a fixed, routine way. How does he differ from a concert singer or dancer who is called an artist? Once again, it may seem at first that the distinction is evaluative, and that "artist" is a term of praise. But this is not necessarily so. In the neutral sense employed by scientific occupational surveys, a person is an artist merely by virtue of engaging in a certain occupation. He may be a very bad singer and yet an artist. The motion-picture operator may be an excellent mechanic, and yet not an artist.
 
 What is the general distinction between types of occupation classed as art, and others? Several are used, as we shall see when that subject is examined in detail. One is the element of more or less creative, personal interpretation. Work as an artist is expected to involve this, even if it does not in every case. If a machine for producing music or motion pictures is not entirely automatic, and must be adjusted frequently to produce desired nuances of tone, light, tempo, etc., then the operation of it will be said to require some artistic training, musical ability, etc. Such an operator may have less ability in mechanics, and be helpless at repairing a machine. It is not a question of which man or kind of work is better, but simply of a different kind of work, only one of which is classed as "art."
 
 In our general definition of art, such considerations make it advisable to include the clause: "especially that phase of such activity which is concerned with designing, composing, or performing with personal interpretation."
 
-Returning to the concept of "industrial" art, how does it differ from "art'" in general? We have seen that the arts so classed now have two distinguishing characteristics. (a) Large-scale, machine processes are used in turning out the product. However, not all of these processes are included as industrial "art." This term implies especially the creating of designs, sketches, or ideas, usually in consultation with engineers and production men, to be produced by machinery. (b) Most of the products so made and classed as industrial arts, are useful arts-furniture, vehicles, utensils, etc. However, as we have seen, the less utilitarian arts, such as painting, music, and literature, are gradually being affected by large-scale, machine methods; primarily in regard to reproduction and distribution of their products, but also in regard to the nature of these products and of the creative process. The tendency, then, is for the so-called fine arts, as well as the useful arts, to become partly industrialized. At present, the "industrial arts" are mainly a subdivision of "useful arts"-the portion involving mechanized mass production. But they will probably not remain so.
+Returning to the concept of "industrial" art, how does it differ from "art" in general? We have seen that the arts so classed now have two distinguishing characteristics. (a) Large-scale, machine processes are used in turning out the product. However, not all of these processes are included as industrial "art." This term implies especially the creating of designs, sketches, or ideas, usually in consultation with engineers and production men, to be produced by machinery. (b) Most of the products so made and classed as industrial arts, are useful arts-furniture, vehicles, utensils, etc. However, as we have seen, the less utilitarian arts, such as painting, music, and literature, are gradually being affected by large-scale, machine methods; primarily in regard to reproduction and distribution of their products, but also in regard to the nature of these products and of the creative process. The tendency, then, is for the so-called fine arts, as well as the useful arts, to become partly industrialized. At present, the "industrial arts" are mainly a subdivision of "useful arts"-the portion involving mechanized mass production. But they will probably not remain so.
 
-As to machine-made products and performances, there is some disagreement on whether to class them as art, however beautiful they may be. In some opinions, only the handmade, original sketch is a work of art. According to our definition, the machine-made industrial product, the machine-made reproduction of a painting or statue, and
+As to machine-made products and performances, there is some disagreement on whether to class them as art, however beautiful they may be. In some opinions, only the handmade, original sketch is a work of art. According to our definition, the machine-made industrial product, the machine-made reproduction of a painting or statue, and the automatic performance of music or drama by phonograph records or films, are all works of art in so far as they have aesthetic functions: i.e., are adapted to stimulate favorable aesthetic experience. This is not inconsistent with the fact that some non-artistic processes go into their making or performance.
 
-DIFFERENT KINDS OF ART 131
+The use of machinery and other automatic or partly automatic means for producing works of art is still in its infancy. We do not realize their aesthetic capabilities, and should not assume that their present limitations are necessarily permanent. According to Lewis Mumford, (Technics and Civilization, pp. 358-9.) the characteristic mark of production of the automatic machine is absence of any trace of hand work. Each unit is identical, he says, completely objective, and divorced from human hand or handdirected tool. But it is quite possible-easy, in fact-to reproduce in the machine product any desired trace of hand work, such as a slight irregularity of surface texture. The phonograph record or film sound track reproduces with great fidelity any desired trait of personal performance, such as a facial expression or tone of voice. When desired, a machine can be set to make products which are not identical, but each one slightly different. At present, public taste favors certain kinds of machine product in which many units are identical and smoothly geometrical in form-e.g., in automobiles and refrigerators. If there is a revival of the romantic taste for unique and slightly irregular forms, as in the rough-hewn board or hand-shaped vase, machines will turn them out with any specified individual peculiarities. They may be more expensive than identical units, but less expensive than ones laboriously made by hand.
 
-the automatic performance of music or drama by phonograph records or ?lms." are all works of art in so far as they have aesthetic functions: i.e., are adapted to stimulate favorable aesthetic experience.
-
-This is not inconsistent with the fact that some non-artistic processes go into their making or performance.
-
-The use of machinery and other automatic or partly automatic means for producing works of art is still in its infancy. We do not
-
-realize their aesthetic capabilities, and should not assume that their present limitations are necessarily permanent. According to Lewis
-
-Mumford," the characteristic mark of production of the automatic machine is absence of any trace of hand work. Each unit is identical, he says, completely objective, and divorced from human hand or handdirected tool. But it is quite possible-easy, in fact-to reproduce in the machine product any desired trace of hand work, such as a
-
-slight irregularity of surface texture. The phonograph record or film sound track reproduces with great fidelity any desired trait of personal performance, such as a facial expression or tone of voice. When desired, a machine can be set to make products which are not identical, but each one slightly different. At present, public taste favors certain kinds of machine product in which many units are identical and smoothly geometrical in form-e.g., in automobiles and refrigerators. If there is a revival of the romantic taste for unique and slightly irregular forms, as in the rough-hewn board or hand-shaped vase, machines will turn them out with any specified individual peculiarities.
-They may be more expensive than identical units, but less expensive than ones laboriously made by hand.
-
-With increasing ease of automatic production and reproduction in all the arts, we may expect a further decline of the belief that works of art are necessarily handmade, or that original, handmade products are necessarily better and more beautiful than machine-made. In so far as the reproduction approaches perfect fidelity, the premium placed upon the original will decline, or at least be recognized as based upon associations and not on intrinsic qualities. Some persons will still be proud of owning the original, signed sketch or model from which the reproductions were made. They will enjoy the realization that they are seeing and hearing a singer in person, however perfect television and radio become. But we shall probably be surrounded to an increasing extent by architecture, home furnishings, pictures, music, and
-
-23 Technics and Civilization, pp. 358-9.
-
-132 THE ARTS AND THEIR INTERRELATIONS
-
-clothing in which no unit is absolutely unique, though all give aesthetic satisfaction. We shall enjoy their beauty and serviceability, their cheapness and disposability when worn out, as we now enjoy our automobiles and motion picture films, with no sense of loss because other people are enjoying identical objects or performances elsewhere. Some of our visible decorations will be extremely evanescent and illusory, as in the images of distant paintings placed upon our wall by television. We enjoy the beauty of flowers and sunsets even though no single example of them lasts very long. No single flower is unique and indispensable, unless for sentimental reasons.
+With increasing ease of automatic production and reproduction in all the arts, we may expect a further decline of the belief that works of art are necessarily handmade, or that original, handmade products are necessarily better and more beautiful than machine-made. In so far as the reproduction approaches perfect fidelity, the premium placed upon the original will decline, or at least be recognized as based upon associations and not on intrinsic qualities. Some persons will still be proud of owning the original, signed sketch or model from which the reproductions were made. They will enjoy the realization that they are seeing and hearing a singer in person, however perfect television and radio become. But we shall probably be surrounded to an increasing extent by architecture, home furnishings, pictures, music, and clothing in which no unit is absolutely unique, though all give aesthetic satisfaction. We shall enjoy their beauty and serviceability, their cheapness and disposability when worn out, as we now enjoy our automobiles and motion picture films, with no sense of loss because other people are enjoying identical objects or performances elsewhere. Some of our visible decorations will be extremely evanescent and illusory, as in the images of distant paintings placed upon our wall by television. We enjoy the beauty of flowers and sunsets even though no single example of them lasts very long. No single flower is unique and indispensable, unless for sentimental reasons.
 
 At the same time, other outlets will have to be found for the persistent human craving for unique, individual expressions of taste and personality. Direct art production and performance will always be valued for this characteristic. As at present, most individuals even those who make no claim to being artists-will desire some small field for such expression in the choice and arrangement of their clothing, furniture, and personal belongings. These arrangements will be, or will seem to their owners, unique and individual, even though all the units within them are products of large-scale, mass production.
 
-5. Fine arts and visual arts
+#### Fine arts and visual arts
 
-In the list of dictionary meanings, at the beginning of the last chapter, we noticed that both "art'" and "fine art'" are sometimes used in a narrow sense, excluding music and poetry. As the Oxford Dictionary says of "fine art," it is "often applied in a more restricted sense to the arts of design, as painting, sculpture, and architecture." The term "art'" alone can also be used in this sense, according to the Oxford: "The application of skill to the arts of imitation and design, Painting, Engraving, Sculpture, Architecture; the skillful production of the beautiful in visible forms." This we have called the "visual aesthetic' sense of "art'" and "fine art."
+In the list of dictionary meanings, at the beginning of the last chapter, we noticed that both "art" and "fine art" are sometimes used in a narrow sense, excluding music and poetry. As the Oxford Dictionary says of "fine art," it is "often applied in a more restricted sense to the arts of design, as painting, sculpture, and architecture." The term "art" alone can also be used in this sense, according to the Oxford: "The application of skill to the arts of imitation and design, Painting, Engraving, Sculpture, Architecture; the skillful production of the beautiful in visible forms." This we have called the "visual aesthetic' sense of "art" and "fine art."
 
-The term "art'" alone is popular in this sense because of its brevity, as in "art school," "art museum," and "art history." College art departments like it because it puts their subject at the head of alphabetical lists. However, we have found it unwise to use "art' alone in this narrow sense, at least in technical discussion. In popular
-
-usage, it does no great harm, and the context usually shows what is meant.
-
-DIFFERENT KINDS OF ART 133
+The term "art" alone is popular in this sense because of its brevity, as in "art school," "art museum," and "art history." College art departments like it because it puts their subject at the head of alphabetical lists. However, we have found it unwise to use "art' alone in this narrow sense, at least in technical discussion. In popular usage, it does no great harm, and the context usually shows what is meant.
 
 Shall we use "fine art," then, with this extension? There are numerous college departments and professors of "fine arts." The term has a pleasantly genteel and superior sound.
 
-We have already noted the peculiar historical changes which led up to this conception. Whereas the visual arts were largely excluded from the select Greek list of "arts of the Muses," as being too manual, they came in time not only to secure admission as fine arts, but (like the camel in the tent) to push out the original occupants. Now, music
+We have already noted the peculiar historical changes which led up to this conception. Whereas the visual arts were largely excluded from the select Greek list of "arts of the Muses," as being too manual, they came in time not only to secure admission as fine arts, but (like the camel in the tent) to push out the original occupants. Now, music and literature must endure the slight disparagement of hearing another group of arts call itself "the fine arts."
 
-and literature must endure the slight disparagement of hearing another group of arts call itself "tke fine arts."
+So honorific a title is not likely to be abandoned without a struggle by any college faculty or museum which has once adopted it. The arts excluded are not complaining violently. Nevertheless, the situation operates to confuse still further the mix-up in terminology which we have been attempting to correct in this chapter. The restriction of the concept of "fine art" to a few visual arts is a historical accident. Its literal implications are not taken seriously. Even the most ardent admirer of painting, sculpture, and architecture would hardly maintain that they are actually finer, more beautiful, noble, or pleasant in general than music and poetry. Indeed, architecture involves to a conspicuous degree the trait of utility; hence its theoretical right to be considered "fine" at all has always needed some adroit defending.
 
-So honorific a title is not likely to be abandoned without a struggle by any college faculty or museum which has once adopted it. The arts excluded are not complaining violently. Nevertheless, the situation operates to confuse still further the mix-up in terminology which we have been attempting to correct in this chapter. The restriction of the concept of "fine art'" to a few visual arts is a historical accident.
-Its literal implications are not taken seriously. Even the most ardent admirer of painting, sculpture, and architecture would hardly maintain that they are actually finer, more beautiful, noble, or pleasant in general than music and poetry. Indeed, architecture involves to a conspicuous degree the trait of utility; hence its theoretical right to be considered "fine" at all has always needed some adroit defending.
-
-The concept of "fine art'" in this narrow, visual sense involves the same difficulties which it has in the broader sense. Is it to be considered as antithetical to the "useful arts," and if so to which ones?
-If architecture is to be included, what right have we to keep out furniture, pottery, and textiles? Is "fine arts" really intended to mean "major fine arts"? In any case, to omit them is to imply a disparagement of pottery and the rest, as necessarily less great and fine.
-Admirers of Greek and Chinese vases have a right to protest, when they see the inferior quality of many paintings and statues.
+The concept of "fine art'" in this narrow, visual sense involves the same difficulties which it has in the broader sense. Is it to be considered as antithetical to the "useful arts," and if so to which ones? If architecture is to be included, what right have we to keep out furniture, pottery, and textiles? Is "fine arts" really intended to mean "major fine arts"? In any case, to omit them is to imply a disparagement of pottery and the rest, as necessarily less great and fine. Admirers of Greek and Chinese vases have a right to protest, when they see the inferior quality of many paintings and statues.
 
 Gladstone, the liberal statesman, is quoted by the Oxford as summing up the situation in 1869: "By the term Art, I understand the production of beauty in material forms palpable; whether associated with industrial purposes or not." By "material" and "palpable," he shuts out music and poetry; but he does let in the useful arts.
 
-As we have seen, fine art is often defined so as to exclude the so-called minor useful arts. However, many authoritative sources now include them without argument under the general heading of "fine
+As we have seen, fine art is often defined so as to exclude the so-called minor useful arts. However, many authoritative sources now include them without argument under the general heading of "fine art." "The Institute of Fine Arts," a part of New York University, gives no general definition of the term "fine" in its Announcement of Lectures. But it does include a course on "Furniture and the Decorative Arts," and one on "Chinese Minor Arts," including pottery, mirrors, and belt buckles. By implication, these are all "fine arts." But music is a separate heading in the University Bulletin, (Vol. XLV, No. 26, May 25, 1945. The Graduate School of Arts and Sciences lists several groups of subjects, among which "Fine Arts and Music' are bracketed as Group VI.) and literature is also separated under the usual linguistic headings. This illustrates how questions of general definition or intension are sometimes passed over, while the actual meaning of a term is determined by the extension given it. To include belt buckles under "fine arts" implies a certain conception of fine arts, whether explicitly stated or not.
 
-134 THE ARTS AND THEIR INTERRELATIONS
-
-art." "The Institute of Fine Arts," a part of New York University, gives no general definition of the term "fine" in its Announcement of Lectures. But it does include a course on "Furniture and the Decorative Arts," and one on "Chinese Minor Arts," including pottery, mirrors, and belt buckles. By implication, these are all "fine arts." But music is a separate heading in the University Bulletin,* and literature is also separated under the usual linguistic headings. This illustrates how questions of general definition or intension are sometimes passed over, while the actual meaning of a term is determined by the extension given it. To include belt buckles under "fine arts" implies a certain conception of fine arts, whether explicitly stated or not.
-
-The advisable solution here is to use the term "visual arts" instead of "fine arts," in the sense under discussion. This term is coming into technical use in aesthetics," and should be generally adopted as a substitute for "fine arts." It should also be used instead of "art'" alone when "visual art'" is meant, as in college catalogues. To restrict the term "art" to visual arts involves an undesirably sharp separation from music and literature. It is preferable to use "art" in a more generic sense, as including all aesthetic skills; then to subdivide it into "visual arts," "musical arts," etc. Dudley and Faricy, in their treatise on Tke Humanities, have chapters on "The Mediums of the Visual Arts," "The Elements of the Visual Arts," and "Plan in the Visual Arts." The visual arts here are made coordinate with music, literature, and the "combined arts" (dance, theater, opera, cinema, radio and phonograph).
+The advisable solution here is to use the term "visual arts" instead of "fine arts," in the sense under discussion. This term is coming into technical use in aesthetics, (For example, R. M. Ogden uses "visual art" as one of three major fields of art, along with music and poetry (The Psychology of Art, New York, 1938, p. 26). Blunt also speaks of "the visual arts" becoming liberal (Op. cit., p. 53). Ci. The Visual Arts in General Education, report of a committee of the Progressive Education Association (New York: Appleton-Century, 1940).) and should be generally adopted as a substitute for "fine arts." It should also be used instead of "art" alone when "visual art" is meant, as in college catalogues. To restrict the term "art" to visual arts involves an undesirably sharp separation from music and literature. It is preferable to use "art" in a more generic sense, as including all aesthetic skills; then to subdivide it into "visual arts," "musical arts," etc. Dudley and Faricy, in their treatise on Tke Humanities, have chapters on "The Mediums of the Visual Arts," "The Elements of the Visual Arts," and "Plan in the Visual Arts." The visual arts here are made coordinate with music, literature, and the "combined arts" (dance, theater, opera, cinema, radio and phonograph).
 
 The term "visual arts" was not quite specific enough when "arts" !
-was used in its old, broad, technical sense; for visual arts would then | include purely utilitarian buildings, tools, and machines. They are as visible as pictures and statues, though not necessarily made to be seen. But if we understand that art means cestketic art, then "visual art'" is by definition restricted to products having some aesthetic func** Vol. XLV, No. 26, May 25, 1945. The Graduate School of Arts and Sciences lists several groups of subjects, among which "Fine Arts and Music' are bracketed as Group VIL
-
-*" For example, R. M. Ogden uses "visual art" as one of three major fields of art, along with music and poetry (The Psychology of Art, New York, 1938, p. 26). Blunt also speaks of "the visual arts" becoming liberal (Op. cit., p. 53).
-Ci. The Visual Arts in General Education, report of a committee of the Progressive Education Association (New York: Appleton-Century, 1940).
-
-DIFFERENT KINDS OF ART 135
-
-tion. Their visibility is no mere incidental, but an essential characteristic; power to attract and interest through the eyes is one of their principal aims. There is need for a term which definitely groups them together, as apart from music and literature. They are taught and written about as a group, in art schools, art histories, and courses on art appreciation. When it becomes necessary to contrast them with other aesthetic arts, such as music and literature, an explicit prefix is needed.
-"Fine arts" is not the best possible term, because of its other current meanings. "Visual arts" is fairly neutral and objective.
+was used in its old, broad, technical sense; for visual arts would then | include purely utilitarian buildings, tools, and machines. They are as visible as pictures and statues, though not necessarily made to be seen. But if we understand that art means cestketic art, then "visual art'" is by definition restricted to products having some aesthetic function. Their visibility is no mere incidental, but an essential characteristic; power to attract and interest through the eyes is one of their principal aims. There is need for a term which definitely groups them together, as apart from music and literature. They are taught and written about as a group, in art schools, art histories, and courses on art appreciation. When it becomes necessary to contrast them with other aesthetic arts, such as music and literature, an explicit prefix is needed. "Fine arts" is not the best possible term, because of its other current meanings. "Visual arts" is fairly neutral and objective.
 
 One advantage of calling them "visual" rather than "fine" is that it avoids the old contrast with "useful." There is no theoretical difficulty in including chairs or belt buckles as visual art. The whole basis of classification is shifted from the difficult and controversial one of "useful or not useful" to a more objective, psychological one: that of which sense is primarily addressed.
 
 The term "fine arts," like the term "beauty," has become so loaded with confusing associations that it is difficult to use in any technical sense. One must keep repeating the sense intended, to avoid misunderstanding. In such cases, it is often best to avoid the term entirely, if a less ambiguous substitute can be found. This course is recommended now. For its broad aesthetic sense, one can use "art' alone; for its visual aesthetic sense, the term "visual arts" is suggested. For the sense opposed to "useful arts," one may speak of "less utilitarian" or "more purely aesthetic" arts; but even this relative antithesis, as we have seen, involves many controversial points.
 
-Questions arise also in the meaning of "visual arts." What arts are or should be covered by it? Literature is visual in some ways: it is often read with the eyes, and it suggests visual images. Music also can suggest visual images, and is read from printed scores. But such visible means of recording and presenting are not usually considered integral, necessary factors in a work of musical or literary art. Are dance, theater, and film visual arts? To some extent, but they are also auditory, when they involve music. This is usually covered by :\ calling them "combined," "mixed," or "audio-visual" arts. *
+Questions arise also in the meaning of "visual arts." What arts are or should be covered by it? Literature is visual in some ways: it is often read with the eyes, and it suggests visual images. Music also can suggest visual images, and is read from printed scores. But such visible means of recording and presenting are not usually considered integral, necessary factors in a work of musical or literary art. Are dance, theater, and film visual arts? To some extent, but they are also auditory, when they involve music. This is usually covered by calling them "combined," "mixed," or "audio-visual" arts.
 
-To group certain arts as "visual" does not imply that this is their only, or necessarily their most important characteristic in all respects.
-It is not necessarily the only way in which they are presented to the senses. In some arts called "visual," there is also an intentional appeal to the senses of touch and hearing. Clothing is required to be pleasant
+To group certain arts as "visual" does not imply that this is their only, or necessarily their most important characteristic in all respects. It is not necessarily the only way in which they are presented to the senses. In some arts called "visual," there is also an intentional appeal to the senses of touch and hearing. Clothing is required to be pleasant to the touch; furniture must give us a kinesthetic effect of balance and security; clocks are heard. Their classification as visual is a matter of convenience, to facilitate certain lines of investigation. In calling painting or sculpture visual arts, we do not imply that they should restrict themselves to "purely visual" effects; that they should avoid "story interest" and leave representation to literature. That would be to perpetuate Lessing's erroneous theory of the fixed limits of the arts. ( Cf. G. Boas, "Classification of the Arts and Criticism," Journal of Aesthetics, June, 1947, p. 270.)
 
-136 THE ARTS AND THEIR INTERRELATIONS
+For study and teaching, we often wish to indicate painting, sculpture, architecture, and the "minor useful" arts as a group by themselves, leaving out dance and theater. This group is also vaguely designated as "the arts" or "the fine arts." How should they be called, to distinguish them from dance and theater, which are also visual, at least in part? One way is to call them "static' visual arts, as distinct from "mobile"; or "space arts," as distinct from "time arts." They are also called "arts of design," from the fact that drawing (disegno in Italian, and dessin in French) is used in them. This also is hardly satisfactory, since drawing is used in dance and theater, as in sketching costume and scene design. The word "design" also has other meanings, some of which apply even to music and literature.
 
-to the touch; furniture must give us a kinesthetic effect of balance and security; clocks are heard. Their classification as visual is a matter of convenience, to facilitate certain lines of investigation. In calling painting or sculpture visual arts, we do not imply that they should restrict themselves to "purely visual" effects; that they should avoid "story interest" and leave representation to literature. That would be to perpetuate Lessing's erroneous theory of the fixed limits of the arts.""
+#### Lower-sense arts
 
-For study and teaching, we often wish to indicate painting, sculpture, architecture, and the "minor useful" arts as a group by themselves, leaving out dance and theater. This group is also vaguely designated as "the arts" or "the fine arts." How should they be called, to distinguish them from dance and theater, which are also visual, at least in part? One way is to call them "static' visual arts, as distinct from "mobile"; or "space arts," as distinct from "time arts." They are also called "arts of design," from the fact that drawing (Gisegno in Italian, and dessin in French) is used in them. This also is hardly satisfactory, since drawing is used in dance and theater, as in sketching costume and scene design. The word "design" also has other meanings, some of which apply even to music and literature.
+According to the definition of art recommended here, products and services appealing aesthetically to the lower senses are included. The terms "art of perfume," "art of cooking," etc., are in common use. They imply an aesthetic appeal to the senses of smell and taste. Tactile qualities, as we have just seen, are a recognized part of the total appeal of many visual arts, such as clothing, utensils, and furniture. A tactile "art of love," ars amatoric, has been elaborately worked out in theory and practice by Greek and Roman, Renaissance, and Oriental writers.
 
-6. Lower-sense arts
-
-According to the definition of art recommended here, products and services appealing aesthetically to the lower senses are included.
-The terms "art of perfume," "art of cooking," etc., are in common use. They imply an aesthetic appeal to the senses of smell and taste.
-Tactile qualities, as we have just seen, are a recognized part of the total appeal of many visual arts, such as clothing, utensils, and furniture. A tactile "art of love," ars amatoric, has been elaborately worked out in theory and practice by Greek and Roman, Renaissance, and Oriental writers.
-
-The exclusion of lower-sense products and pleasures from the categories of "art" and "fine art" is largely a result of ascetic Christian morality. Its radical dualism of good and evil, spirit and body, has operated to condemn all physical pleasures, especially those connected with sex, and especially those of the so-called "lower senses," which are regarded as more crudely physical. The very expres** CJ. G. Boas, "Classification of the Arts and Criticism," Journal of Aesthetics, June, 1947, p. 270.
-
-DIFFERENT KINDS OF ART 137
-
-sion "lower" implies this moral disparagement. Severe disapproval of lower-sense pleasures has subsided, but has often been succeeded by a condescending attitude, in which they are treated as trivial and ridiculous, unworthy of serious consideration. The change to a more naturalistic attitude in aesthetics and ethics now requires a thorough reconsideration of the problem.
+The exclusion of lower-sense products and pleasures from the categories of "art" and "fine art" is largely a result of ascetic Christian morality. Its radical dualism of good and evil, spirit and body, has operated to condemn all physical pleasures, especially those connected with sex, and especially those of the so-called "lower senses," which are regarded as more crudely physical. The very expression "lower" implies this moral disparagement. Severe disapproval of lower-sense pleasures has subsided, but has often been succeeded by a condescending attitude, in which they are treated as trivial and ridiculous, unworthy of serious consideration. The change to a more naturalistic attitude in aesthetics and ethics now requires a thorough reconsideration of the problem.
 
 It is an obvious and recognized fact that lower-sense stimuli can be enjoyed for their own sake, and not as instrumental values. There would be little point in all the ascetic denunciation of sensuality, Epicureanism, and the like, if this were not true. Those aestheticians who have wished to exclude lower-sense products from the categories of art and aesthetic experience have not found very cogent arguments to justify it. Kant's influence has set a strong precedent against including them as fine arts, and the question is often ignored. Colvin's argument is typical: that lower-sense products are too much bound up with the "private, personal utilities'" of eating, drinking, etc. It will stand little scrutiny. Are eating and drinking purely private, or often highly sociable? Are they more bound up with utility than clothing and shelter? And even if they are, being "bound up with utility" is no longer held to disqualify a thing as artistic and aesthetic-provided it stimulates aesthetic experience also.
 
-A. R. Chandler asserts that "Aesthetic satisfaction must be contrasted with various practical and intellectual satisfactions. Bodily pleasures must be classed as practical rather than aesthetic satisfactions. In these your attention is focused upon the state of your own body rather than upon any object which you may perceive. The experience of sitting by a fire after coming in from a cold drive is indeed a satisfying one; but in it you are thinking about your body, not about the fire. The same is true of eating when you are hungry. The important thing is the satisfaction of the bodily craving, not an interest in the taste or texture of the food." ** Surely this is untrue as a universal psychological principle. It describes rather an individual and cultural type. Some persons do, and others do not, take an aesthetic attitude toward food, drink, or other bodily satisfactions. There is nothing necessarily impossible or even difficult about paying attention to a fire, or a glass of wine, rather than to one's own skin or throat, while
-
-*% Beauty and Human Nature, p. 11. Cf. Souriau, La correspondance des arts, pp. 79-83; F. W. Herring, "Touch-the Neglected Sense," Journal of Aesthetics, March, 1949.
-
-138 THE ARTS AND THEIR INTERRELATIONS
-
-enjoying it. Nor must one be thinking only about its utility, its effects on health, or its nourishing qualities. One can wear a hat, and be conscious either of its appearance or its use in protecting the head, or both at once; and the same is true of food. Perfume has very little practical value, except indirectly through sexual selection, and is enjoyed for its immediate sensuous effect.
+A.R. Chandler asserts that "Aesthetic satisfaction must be contrasted with various practical and intellectual satisfactions. Bodily pleasures must be classed as practical rather than aesthetic satisfactions. In these your attention is focused upon the state of your own body rather than upon any object which you may perceive. The experience of sitting by a fire after coming in from a cold drive is indeed a satisfying one; but in it you are thinking about your body, not about the fire. The same is true of eating when you are hungry. The important thing is the satisfaction of the bodily craving, not an interest in the taste or texture of the food." (Beauty and Human Nature, p. 11. Cf. Souriau, La correspondance des arts, pp. 79-83; F. W. Herring, "Touch-the Neglected Sense," Journal of Aesthetics, March, 1949.) Surely this is untrue as a universal psychological principle. It describes rather an individual and cultural type. Some persons do, and others do not, take an aesthetic attitude toward food, drink, or other bodily satisfactions. There is nothing necessarily impossible or even difficult about paying attention to a fire, or a glass of wine, rather than to one's own skin or throat, while enjoying it. Nor must one be thinking only about its utility, its effects on health, or its nourishing qualities. One can wear a hat, and be conscious either of its appearance or its use in protecting the head, or both at once; and the same is true of food. Perfume has very little practical value, except indirectly through sexual selection, and is enjoyed for its immediate sensuous effect.
 
 Two arguments against the inclusion of lower-sense products in art have some validity, but less than is often assumed. It is said that the lower senses are cruder, less capable of perceiving complex and subtle forms; also that lower-sense products are less capable of expressing intellectual and spiritual meanings. Both these arguments are true to a large extent, as principles of general psychology. But they are considerably more true in the practical culture of the west, with its ascetic traditions, than in the rest of the world. The weakness, crudity, and insignificance of lower-sense experience have been aggravated by disuse and inhibition. Thus the argument involves a vicious circle. In the culture of India, lower-sense images, including the erotic, are more richly endowed with cultural associations, including religious and ethical symbolism.
 
 The lower senses have degenerated to a large extent in the human, as compared with other animals; and some biologists think they may continue to do so. To that extent, it will be impossible for humans to produce or to enjoy complex and subtle forms addressed to the lower senses. If our definition of a work of art were to specify that it has to be complex and subtle, most lower-sense products would be excluded. But no such requirement is made. There is considerable variation in this respect, even in visual art. Lower-sense forms can be complicated to some extent, as in the succession of foods and drinks in a banquet.
 
-Tolstoy, whose attitude toward art is Puritanical on the whole, quotes with some approval the German aesthetician Kralik and the French Guyau." The former, he points out, recognizes five types of art: the aesthetic treatment of the five senses. The latter speaks of touch, taste, and smell as capable of giving aesthetic pleasures, and even an effect of beauty. "If the sense of touch lacks color," says Guyau, "it gives us on the other hand a notion which the eye cannot
+Tolstoy, whose attitude toward art is Puritanical on the whole, quotes with some approval the German aesthetician Kralik and the French Guyau. (Richard Kralik, Weltschonhkeit: Versuch einer allgemeinen Aesthetik. Guyau, Les problèmes de l'esthétique contemporaine. See Maude, Tolstoy on Art, p. 134.) The former, he points out, recognizes five types of art: the aesthetic treatment of the five senses. The latter speaks of touch, taste, and smell as capable of giving aesthetic pleasures, and even an effect of beauty. "If the sense of touch lacks color," says Guyau, "it gives us on the other hand a notion which the eye cannot afford, and one of considerable aesthetic value, namely, that of softness, silkiness, polish. The beauty of velvet is characterized not less by its softness than by its lustre. In the idea we form of a woman's beauty, the softness of her skin enters as an essential element."
 
-3� Richard Kralik, Weltschonhkeit:Versuch einer allgemeinen Aesthetik. Guyau, Les probl�mes de Pesth�tique contemporaine. See Maude, Tolstoy on Art, p. 134.
+Interest in the lower senses, as sources of aesthetic experience, has been too exclusively associated with the decadent school of writers exemplified by J. K. Huysmans and his novel, Against the Grain. No such association is necessary. Such an interest is quite compatible with a healthy naturalism, and indispensable to a fully naturalistic aesthetics.
 
-DIFFERENT KINDS OF ART 139
-
-afford, and one of considerable aesthetic value, namely, that of softness, silkiness, polish. The beauty of velvet is characterized not less by its
-
-softness than by its lustre. In the idea we form of a woman's beauty, the softness of her skin enters as an essential element."
-
-Interest in the lower senses, as sources of aesthetic experience, has been too exclusively associated with the decadent school of writers exemplified by J. K. Huysmans and his novel, Against the Grain. No such association is necessary. Such an interest is quite compatible with
-
-a healthy naturalism, and indispensable to a fully naturalistic aesthetics.
-
-7. One hundred visual and auditory arts
+#### One hundred visual and auditory arts
 
 The following list illustrates the extension of the concept of art, as defined in the previous chapter, by naming some of the realms included in it. Only arts primarily addressed to sight, hearing or both are listed, and the list is incomplete in other ways. Many of the arts are named on a basis of material used, such as ironwork and lacquerwork; these could be multiplied indefinitely.
 
 Even so, the list will seem excessively long to those accustomed to thinking only of the "five major arts." Some of those included are considered by scholars in the "fine arts" (if considered at all) as extremely humble and trivial; absurdly unworthy of mention in a serious list of arts. No attempt has been made to indicate relative importance. It is not implied that acrobatics or decorative animalbreeding is as great or valuable aesthetically as architecture, merely because they are listed without discrimination in an alphabetical list.
 The list is intended as a rough, unclassified list of fields deserving some attention by aesthetics, but not necessarily the same amount of attention. They all involve some claim to an aesthetic function; but their appraisal as "major" or "minor," more or less capable of becoming vehicles for high cultural values, is a complex problem in its own right.
 
-Readers who have studied the history of the arts in other cultures will find some items less strange than will those who know only our own culture. For example, embalming and the making of funerary monuments were important arts in ancient Egypt. Tattooing, feather140 THE ARTS AND THEIR INTERRELATIONS
-
-work, and symbolic string figures are important in some Polynesian cultures. Flower arrangement, tray landscapes, and decorative cordwork are recognized arts in Japan; the first of these is coming into prominence here. Even in our own culture, scholars in the "major arts" are not always aware of the progress that is being made in other skills, once of humble status, to justify noticing them in aesthetics.
-For example, taxidermy and the making of habitat groups are no longer merely "stuffing animals." A sculptural figure is now made, showing the animal in a realistic, animated posture; the habitat setting usually contains a painted landscape background and a clever blending of solid objects with it. The combined effect can be of artistic as well as scientific interest. The use of some mediums is in a rudimentary, infantile stage, without rich cultural associations or extensive use by artists of high standing. The decorative use of electric lights, including neon and other gas-filled tubes, is emerging from this category. Commercial art uses many tricky effects to catch attention and sell products, with mobile electric signs, smoke and vapor displays, and the like; these may sometime be given more serious uses. Lumia is an art of electric light and color which is already used for serious works of art, but not extensively.
-
-No attempt is made at classification, except alphabetically. The interrelations between these arts will be discussed in later chapters.
-There is much overlapping among them; hence this is not a list of one hundred different arts. Some are broad and inclusive, such as literature; some are included in them, such as poetry and prose. Some (e.g., industrial design) are groups of arts rather than single ones.
-Some are important as contributing factors in a complex combined art, as cosmetics (make-up) and coiffure are in drama and films. Some, whose omission may be noted, are covered under other names. In short, the list is merely tentative and preliminary.
-
-1. Acrobatics 7. Ballet 2. Acting, dramatic - 8. Basketry == 3. Animal-breeding, decorative - 9. Beadwork (goldfish, birds, etc.) - 10. Book designing and manu4) Architecture facturing * 5. Armor =~ 11. Brickwork, esp. decorative 6. Athletics, gymnastics (esp. -12. Bronze-casting, sculptural theatrical); incl. diving, and ornamental
-
-swimming, figure skating, -~13. Calligraphy skiing -14. Ceramics
-
-15.
-
-16.
-
--a- A1 ,
-
-18.
--* 19.
--� 20.
-
-�-* 21.
-~' TZ.
-
-43.
--� 24,
-
-25.
--*26.
-- 27.
-- 28.
-
-31.
-
-~32.
-- 33.
-~- 34.
-
-- 36.
-~-31.
-+ 38.
--- 39.
-
-*A1.
--- 42.
-
-29; = 30.
-
-DIFFERENT KINDS OF ART
-
-Circuses
-
-City planning; community planning
-
-Cloth designing, other than weaving; batik, tie - die, block printing, stencilling, etc.
-
-Coiffure; hairdressing
-
-Collage and montage
-
-Cooking; visual, decorative aspects of, as in cakes and confections
-
-Copper and brasswork
-
-Cordwork; knotting, braiding, tasseling (esp. decorative)
-
-Cosmetics
-
-Costume; clothing and accessories; incl. millinery, tailoring, etc.
-
-Dance
-
-Dioramas; three-dimensional scenes
-
-Displays; advertising, shop window, exposition, etc.
-
-Doll making
-
-Drawing
-
-Electric lighting, decorative, architectural, representative; static, mobile
-
-Embalming; mortuary and funerary arts
-
-Enameling
-
-Engraving
-
-Etching
-
-Expositions, fairs, amusement parks
-
-Featherwork quillwork
-
-Festivals; carnivals
-
-Fireworks; pyrotechnic displays
-
-Flower arrangement
-
-Furniture
-
-Glass making
-
-Goldsmithing and silversmithing
-
-+43. Horticulture;
-
-44.
-45
-
-* 46.
-~47.
-- 48,
-
-' 49, - 50.
-- 5k
-
-52. Landscape design and archi+ �3.
-
-54.
-� 55.
-+56.
-* $7]
-
-*; 58,
-
-* 59.
-� 60,
-
-141
-
-garden art; decorative flower and plant
-
-breeding and cultivating Industnal designing Interior decoration and design Ironwork Ivory carving Jewelry; gem - cutting and mounting; costume jewelry Knitting and crocheting Lace making Lacquerwork
-
-tecture Leatherwork; incl. bookbinding and saddlery Literature; belles lettres Lithography Lumia; mobile color Marionettes; puppets; shadowplays Metalry Monument making Mosaic
-
-61.1 Motion pictures; film;
-
-62.
-*-63.
-+ 64.
-
-65.
-
-+ 66.
-67.
-
-68.) 69.
-+ 70.
-
-71 T4.
-
-73.
-<74.
-
+Readers who have studied the history of the arts in other cultures will find some items less strange than will those who know only our own culture. For example, embalming and the making of funerary monuments were important arts in ancient Egypt. Tattooing, featherwork, and symbolic string figures are important in some Polynesian cultures. Flower arrangement, tray landscapes, and decorative cordwork are recognized arts in Japan; the first of these is coming into prominence here. Even in our own culture, scholars in the "major arts" are not always aware of the progress that is being made in other skills, once of humble status, to justify noticing them in aesthetics. For example, taxidermy and the making of habitat groups are no longer merely "stuffing animals." A sculptural figure is now made, showing the animal in a realistic, animated posture; the habitat setting usually contains a painted landscape background and a clever blending of solid objects with it. The combined effect can be of artistic as well as scientific interest. The use of some mediums is in a rudimentary, infantile stage, without rich cultural associations or extensive use by artists of high standing. The decorative use of electric lights, including neon and other gas-filled tubes, is emerging from this category. Commercial art uses many tricky effects to catch attention and sell products, with mobile electric signs, smoke and vapor displays, and the like; these may sometime be given more serious uses. Lumia is an art of electric light and color which is already used for serious works of art, but not extensively.
+
+No attempt is made at classification, except alphabetically. The interrelations between these arts will be discussed in later chapters. There is much overlapping among them; hence this is not a list of one hundred different arts. Some are broad and inclusive, such as literature; some are included in them, such as poetry and prose. Some (e.g., industrial design) are groups of arts rather than single ones. Some are important as contributing factors in a complex combined art, as cosmetics (make-up) and coiffure are in drama and films. Some, whose omission may be noted, are covered under other names. In short, the list is merely tentative and preliminary.
+
+1. Acrobatics
+2. Acting, dramatic
+3. Animal-breeding, decorative (goldfish, birds, etc.)
+4. Architecture
+5. Armor
+6. Athletics, gymnastics (esp. theatrical); incl. diving, swimming, figure skating, skiing
+7. Ballet
+8. Basketry
+9. Beadwork
+10. Book designing and manufacturing
+11. Brickwork, esp. decorative
+12. Bronze-casting, sculptural and ornamental
+13. Calligraphy
+14. Ceramics
+15. Circuses
+16. City planning; community planning
+17. Cloth designing, other than weaving; batik, tie-die, block printing, stencilling, etc.
+18. Coiffure; hairdressing
+19. Collage and montage
+20. Cooking; visual, decorative aspects of, as in cakes and confections
+21. Copper and brasswork
+22. Cordwork; knotting, braiding, tasseling (esp. decorative)
+23. Cosmetics
+24. Costume; clothing and accessories; incl. millinery, tailoring, etc.
+25. Dance
+26. Dioramas; three-dimensional scenes
+27. Displays; advertising, shop window, exposition, etc.
+28. Doll making
+29. Drawing
+30. Electric lighting, decorative, architectural, representative; static, mobile
+31. Embalming; mortuary and funerary arts
+32. Enameling
+33. Engraving
+34. Etching
+35. Expositions, fairs, amusement parks
+36. Featherwork; quillwork
+37. Festivals; carnivals
+38. Fireworks; pyrotechnic displays
+39. Flower arrangement
+40. Furniture
+41. Glass making
+42. Goldsmithing and silversmithing
+43. Horticulture; garden art; decorative flower and plant
+44. Industrial designing
+45. Interior decoration and design
+46. Ironwork
+47. Ivory carving
+48. Jewelry; gem-cutting and mounting; costume jewelry
+49. Knitting and crocheting
+50. Lace making
+51. Lacquerwork
+52. Landscape design and architecture
+53. Leatherwork; incl. bookbinding and saddlery
+54. Literature; belles lettres
+55. Lithography
+56. Lumia; mobile color
+57. Marionettes; puppets; shadowplays
+58. Metalry
+59. Monument making
+60. Mosaic
+61. Motion pictures; film; cinema
+62. Music
+63. Musical instrument-making
+64. Opera
+65. Oratory; speech, diction, eloquence, elocution, recitation
+66. Packaging
+67. Pageantry, parades, floats, ceremonial processions
+68. Painting
+69. Pantomime; mimicry
+70. Paperwork, decorative; incl. wallpaper
+71. Photography
+72. Plastics, decorative and representative uses of
+73. Poetry; verse
+74. Pottery
+43. Horticulture; garden art;
+decorative flower and plant
+
+breeding and cultivating
+44. Industnal designing
+
+45 Interior decoration and de-
+sign
+* 46. Tronwork
+47. Ivory carving
++48. Jewelry; gem - cutting and
+mounting; costume jewelry
+' 49. Knitting and crocheting
+- 50. Lace making
+« 51. Lacquerwork
+
+52. Landscape design and archi-
+tecture
+
++53. Leatherwork; incl. book-
+
+binding and saddlery
+54. Literature; belles lettres
+- 55. Lithography
++ 56. Lumia; mobile color
++ 57. Marionettes; puppets;
+
+shadowplays
+' 58. Metalry
+
+' 59. Monument making
++ 60, Mosaic
+» 6L. Motion pictures; film;
 cinema
+62. Music
+- 63. Musical instrument-making
++ 64. Opera
+65. Oratory; speech, diction, elo-
+quence, elocution, recita-
+tion
++ 66. Packaging
+67. Pageantry, parades, floats,
+ceremonial processions
+68. Painting
+69. Pantomime; mimicry
+70. Paperwork, decorative; incl. wallpaper
+71. Photography
+72. Plastics, decorative and representative uses of
+73. Poetry; verse
+74. Pottery
+75. Printing; typography; advertising and other layouts
+76. Prose literature
+77. Regional planning; geoarchitecture
+78. Rituals; religious, as in the Christian mass; secular, as in Japanese tea ceremony and some children's games
+79. Sand painting
+80. Sculpture
+81. Silk-screen printing
+82. Smoke and vapor designing
+83. Stage designing; incl. lighting
+84. Stonework; masonry; architectural and decorative
+85. String figures (esp. representative and symbolic)
+86. Table setting and decoration
+87. Tableaux vivants
+88. Tattooing
+89. Taxidermy; habitat groups
+90. Textile designing; weaving
+91. Theater arts; dramatic enactment; incl. stage and play direction
+92. Tilework
+93. Tool and machine designing; decorative aspects of
+94. Toy making
+95. Tray landscapes
+96. Transportation design, incl. vehicles, ships, aircraft
+97. Utensil design
+98. Weapon making (swords, etc.)
+99. Water-designing, decorative, as in fountains and cascades
+100. Woodworking; carpentry; woodcarving.
 
-Music
+#### Branches of an art; types of form in art
 
-Musical instrument-making
+Long as it is, this list omits a great number of skills, activities, and products which are sometimes called arts. It omits, not only the non-aesthetic skills, but such aesthetic ones as "the art of the fugue," "the art of portraiture," "the art of arabesque," and "the art of short story writing." There is no harm in such expressions when used informally, for brevity; but in formal classification of the arts it is advisable to regard them as branches or subdivisions of an art, or as types of product. The fugue is a type of form produced in music; not an independent art. The short story has a similar status in prose fiction, which in turn is a division of literature. Portraiture occurs in painting, graphic arts, photography, sculpture, and other arts-even, by extension of the term, in literature. Arabesque, or non-representative linear design, is a type of form produced in drawing, painting, engraving, sculptural relief, and many other mediums. It is, however, classed as one of fourteen principal arts by E. Souriau in La Correspondance des Arts, Paris, 1947, p. 97.
 
-Opera
-
-Oratory; speech, diction, eloquence, elocution, recitation
-
-Packaging
-
-Pageantry, parades, floats, ceremonial processions
-
-Painting
-
-Pantomime; mimicry
-
-Paperwork, decorative; incl.
-wallpaper
-
-Photography
-
-Plastics, decorative and representative uses of
-
-Poetry; verse
-
-Pottery
-
-142 ' __ THE ARTS AND THEIR INTERRELATIONS
-
-+ 75. Printing; typography; ad- � 87. Tableaux vivants vertising and other lay- - 88. Tattooing
-
-outs 89. Taxidermy; habitat groups 76. Prose literature � 90. Textile designing; weaving 77. Regional planning; geo- 91. Theater arts; dramatic enarchitecture actment; incl. stage and + 78. Rituals; religious, as in the play direction
-
-Christian mass; secular, � 92. Tilework as in Japanese tea cere- + 93. Tool and machine designing;
-
-mony and some children's k decorative aspects of games 94. Toy making ' 79. Sand painting 95. Tray landscapes 80. Sculpture 96. Transportation design, incl.
-+ 81. Silk-screen printing vehicles, ships, aircraft
-
-82. Smoke and vapor designing � 97. Utensil design 83. Stage designing; incl. light- - 98. Weapon making (swords,
-
-ing etc.) � 84. Stonework; masonry; archi- � 99. Water-designing, decorative, tectural and decorative as in fountains and cas+ 85. String figures (esp. repre- _ cades sentative and symbolic) 100. carpentry; * 86. Table setting and decoration woodcarving.
-
-8. Branches of an art; types of form in art
-
-Long as it is, this list omits a great number of skills, activities, and products which are sometimes called arts. It omits, not only the non-aesthetic skills, but such aesthetic ones as "the art of the fugue," "the art of portraiture," "the art of arabesque," and "the art of short story writing." There is no harm in such expressions when used informally, for brevity; but in formal classification of the arts it is advisable to regard them as branches or subdivisions of an art, or as types of product. The fugue is a type of form produced in music; not an independent art. The short story has a similar status in prose fiction, which in turn is a division of literature. Portraiture occurs in painting, graphic arts, photography, sculpture, and other arts-even, by extension of the term, in literature. Arabesque, or non-representative linear design, is a type of form produced in drawing, painting, engraving, sculptural relief, and many other mediums."
-
-All these skills, activities, and products qualify as art under our
-
-*: It is, however, classed as one of fourteen principal arts by E. Souriau in Lo Correspondance des Arts, Paris, 1947, p. 97.
-
-DIFFERENT KINDS OF ART 143
-
-general definition. But this is not to say that each of them is an art in itself. In theoretical classifications, it is well to distinguish between classes or divisions of different size. We no longer call all types of animal "species," but reserve that name for classes intermediate between a "genus" and a "variety." Likewise, it will help in classifying aesthetic phenomena if we reserve the concept of "an art" or "a particular art'" for one of the main divisions of the total realm of art.
-It would multiply our list of arts indefinitely if we tried to include all the specific skills, activities, and types of product within the vast realm of art.
+All these skills, activities, and products qualify as art under our general definition. But this is not to say that each of them is an art in itself. In theoretical classifications, it is well to distinguish between classes or divisions of different size. We no longer call all types of animal "species," but reserve that name for classes intermediate between a "genus" and a "variety." Likewise, it will help in classifying aesthetic phenomena if we reserve the concept of "an art" or "a particular art" for one of the main divisions of the total realm of art. It would multiply our list of arts indefinitely if we tried to include all the specific skills, activities, and types of product within the vast realm of art.
 
 There is, of course, great room for difference of opinion on what specific types or branches within the realm of art are large, important, or independent enough to be classed as arts in this sense. One might say, for example, that beadwork, ironwork, lacquerwork, and various other skills, bound up with a certain physical medium, do not deserve to be classed as arts in their own right. Perhaps they should be listed rather as branches or subdivisions of some wider class, such as "decorative arts" or "minor useful arts." In listing them separately, we are stressing the importance of differences in medium, as a basis for marking off particular arts from each other.
 
 The foregoing list is a rough, arbitrary one, which could have been much longer or much shorter if differently classified. It is intended for further analysis, and to give the reader a broader conception of the total realm of art than is implied by traditional lists of the five or seven fine arts.
 
-9. Some fhelds which border on the arts
+#### Some fields which border on the arts
 
 Aesthetics abounds in overly sharp antitheses between art and other fields. We are told, for example, that art is subjective and science objective; that art is concrete and particular, science abstract and general, and so on. Striking and plausible at first sight, these statements usually prove unsound when carefully examined. Art is not a sharply specialized activity which can be placed at the opposite pole from any other kind of activity. It is highly diversified, full of oppositions within its own domain, ranging widely from one extreme to another. It overlaps and interpenetrates every other major field of human enterprise.
 
-This condition is partly responsible for the difficulty of defining
-
-144 THE ARTS AND THEIR INTERRELATIONS
-
-art, and of deciding what special fields should be included as arts. If we adopt a narrow definition, we find ourselves shutting out important fields which are often considered as arts, or have a claim to be. If we are too broad and lenient, our concept of art expands to take in all human skill and expression. It becomes vaguely identical with science, religion, and all human culture. This is detrimental to clear thinking.
-To be most useful, a concept of art should have some limits, however indefinite, and recognize some basic differences between art and other fields.
+This condition is partly responsible for the difficulty of defining art, and of deciding what special fields should be included as arts. If we adopt a narrow definition, we find ourselves shutting out important fields which are often considered as arts, or have a claim to be. If we are too broad and lenient, our concept of art expands to take in all human skill and expression. It becomes vaguely identical with science, religion, and all human culture. This is detrimental to clear thinking. To be most useful, a concept of art should have some limits, however indefinite, and recognize some basic differences between art and other fields.
 
 Where no definite boundaries exist and there is much overlapping, concepts can still be distinguished from one another. The best way to do so is to stress the central, most distinctive area of each, and not their marginal, overlapping regions. There is a borderline area where things may be called either art or science, or both; either art or religion, or both. There are also more specialized, distinctive areas where a clearer contrast is possible; kinds of art which are not scientific and not religious.
 
-No question of value is raised here. We should be careful not to assume that art is at its best when religious or when not religious; when most different from science, or most infused by a scientific spirit.
-All such questions should be dealt with separately. We are now concerned only with an objective, though rough and tentative, distinction between overlapping classes of phenomena.
+No question of value is raised here. We should be careful not to assume that art is at its best when religious or when not religious; when most different from science, or most infused by a scientific spirit. All such questions should be dealt with separately. We are now concerned only with an objective, though rough and tentative, distinction between overlapping classes of phenomena.
 
 The overlapping between art and other major realms of culture becomes most obvious when we go backward in the evolutionary process; when we encounter relatively primitive cultures, at an earlier period in history and in retarded areas today. There we find no specialized realm called "science," conscious of its aims and methods, working along its own distinctive lines. We find the beginnings of science combined with poetry and visual art. This is true, not only of extremely primitive cultures, but down to modern times, and even at present outside the centers of Western urban civilization. The works of Plato, Lucretius, and Dante are works of literary art and also works of philosophical, prescientific reasoning. It is often pointed out by critics of our time, now as a virtue and now as a fault, that religion penetrated the lives and arts of ancient peoples more than it penetrates ours. At least, the divergence has occurred, and religion tends to be more segregated, more shut out from state affairs and public education, than it used to be.
 
-DIFFERENT KINDS OF ART 145
+The emergence of art as a specialized realm, with its own aims and values such as the giving of aesthetic pleasure, has also been praised and denounced. We have considered several aspects of this problem, especially in relation to the contrast between "fine" and "useful." Once again, let us put aside the issue of whether art ought to be divorced from religion, morals, useful skill, and everyday life. The facts are that art has become thus divorced in some of its phases, though not in all. It has developed certain artists, schools of art, critics, and public clienteles which do treat art as a separate field with its own values, its own aims and methods. These people resent being told that they ought to subordinate their work to criteria used in other fields: to make it patriotic, or useful, or moral. "Art for art's sake" is not only an aim and standard, but a factual description of how certain types of art are made and valued. There are also contrary movements, as we have seen, where the divorce is bitterly protested; where older ideals are reasserted, and the artist tries to recombine aesthetic values with those of other fields. On the whole, the trend toward specialization has predominated since the Renaissance. As a result, we can say that modern Western art is more distinct from science, religion, and other neighboring fields than is the case in other cultural epochs.
 
-The emergence of art as a specialized realm, with its own aims and values such as the giving of aesthetic pleasure, has also been praised and denounced. We have considered several aspects of this problem, especially in relation to the contrast between "fine" and "useful." Once again, let us put aside the issue of whether art ought to be divorced from religion, morals, useful skill, and everyday life.
-The facts are that art has become thus divorced in some of its phases, though not in all. It has developed certain artists, schools of art, critics, and public clienteles which do treat art as a separate field with its own values, its own aims and methods. These people resent being told that they ought to subordinate their work to criteria used in other fields: to make it patriotic, or useful, or moral. "Art for art's sake" is not only an aim and standard, but a factual description of how certain types of art are made and valued. There are also contrary movements, as we have seen, where the divorce is bitterly protested; where older ideals are reasserted, and the artist tries to recombine aesthetic values with those of other fields. On the whole, the trend toward specialization has predominated since the Renaissance. As a result, we can say that modern Western art is more distinct from science, religion, and other neighboring fields than is the case in other cultural epochs.
+With reference to the modern situation, it is thus comparatively easy to define art in a way which marks it off from other concepts. But most definitions of art do not specify a particular epoch or stage of, evolution; they speak as if art were, by the nature of things, a fixed and eternal realm in itself. This, of course, was the pre-evolutionary view. Modern definitions of art, as of other cultural phenomena, should recognize that art is in process cf change, internally and in relation to other fields. A definition of art should not try to mark it off from neighboring fields in an absolute, timeless way. It should either be flexible enough to cover the facts at different times and places, or specify some particular cultural context. Our definition in the previous chapter is of the former type, broad and flexible enough to characterize both primitive and modern art. It applies to the stage in which art, science, religion, and other types of activity are undifferentiated, indistinguishable. It also covers the modern stage in which they have partly diverged along different paths. A basic definition need not be explicit on all such points, but it is well for us to think about them now.
 
-With reference to the modern situation, it is thus comparatively easy to define art in a way which marks it off from other concepts.
-But most definitions of art do not specify a particular epoch or stage of, evolution; they speak as if art were, by the nature of things, a fixed and eternal realm in itself. This, of course, was the pre-evolutionary view. Modern definitions of art, as of other cultural phenomena, should recognize that art is in process cf change, internally and in relation to other fields. A definition of art should not try to mark it off from neighboring fields in an absolute, timeless way. It should either be flexible enough to cover the facts at different times and places, or specify some particular cultural context. Our definition in the previous chapter is of the former type, broad and flexible enough to characterize both primitive and modern art. It applies to the stage in which art, science, religion, and other types of activity are undifferentiated, indistinguishable. It also covers the modern stage in which they have partly diverged along different paths. A basic definition need not be explicit on all such points, but it is well for us to think about them now.
-
-Art is in its most distinctive form, most different from all other
-
-146 THE ARTS AND THEIR INTERRELATIONS
-
-activities, when devoted exclusively to the stimulation of agreeable aesthetic experience. One can go that far with eighteenth century hedonist aesthetics, without in the least conceding that art is at its best when so highly specialized. On the contrary, one may feel that it loses precious values, and becomes corrupt or attenuated to the point of triviality. But in a secular poem, a sonata, a painted landscape, or a decorative fabric, made purely to delight the observer, we are dealing with phenomena which cannot easily be classed as science, technology, religion, or anything outside of art in the aesthetic sense. To do so would be to strain these other categories in a far-fetched way.
+Art is in its most distinctive form, most different from all other activities, when devoted exclusively to the stimulation of agreeable aesthetic experience. One can go that far with eighteenth century hedonist aesthetics, without in the least conceding that art is at its best when so highly specialized. On the contrary, one may feel that it loses precious values, and becomes corrupt or attenuated to the point of triviality. But in a secular poem, a sonata, a painted landscape, or a decorative fabric, made purely to delight the observer, we are dealing with phenomena which cannot easily be classed as science, technology, religion, or anything outside of art in the aesthetic sense. To do so would be to strain these other categories in a far-fetched way.
 
 On the other hand, art coincides with religion in many of its phases. It does so in the painting and sculpturing of divinities, in the building of temples and churches, in impressive rituals and pageants, in hymns of worship, and in prayers, sermons, and mystical writing where the wording takes on poetic quality. Religion, in its turn, often parts company with art. Many sermons are too prosaic in thought and wording to be classed as literature. The administration of churches and monastic orders involves financial and practical considerations far removed from art.
 
-Pure science also coincides with art at times, and diverges at others. The models, diagrams, and illustrations used by scientists to explain a principle sometimes take on pictorial and decorative quality, whether by accident or because the scientist is also a man with aesthetic interests. Even modern, specialized scientific writing can at times lay claim to literary style. On the other hand, the artist sometimes undertakes to set forth general principles; to describe and explain the universe. He seldom if ever attempts fully scientific form in respect to logical reasoning and measurement. But literature and visual art are full of prescientific intuitions, especially as to the human mind and personality, which may form the basis of future science.
-Oedipus and Hamlet are psychological as well as literary types of character.
+Pure science also coincides with art at times, and diverges at others. The models, diagrams, and illustrations used by scientists to explain a principle sometimes take on pictorial and decorative quality, whether by accident or because the scientist is also a man with aesthetic interests. Even modern, specialized scientific writing can at times lay claim to literary style. On the other hand, the artist sometimes undertakes to set forth general principles; to describe and explain the universe. He seldom if ever attempts fully scientific form in respect to logical reasoning and measurement. But literature and visual art are full of prescientific intuitions, especially as to the human mind and personality, which may form the basis of future science. Oedipus and Hamlet are psychological as well as literary types of character.
 
 Applied science and utilitarian technology are more obviously akin to art, in that they produce concrete, individual forms, such as tools, machines and houses. As we have seen, these are often decorative, by intention or otherwise. Art is hard to mark off from applied science in these cases, since the two overlap, and the object can be classed in both realms at once. Architecture, ceramics, etc., are defined as arts and also as applied sciences or branches of engineering.
 
-DIFFERENT KINDS OF ART 147
-
 As we come to understand aesthetic psychology, we also learn how to control people's aesthetic responses and experiences. We learn the probable effects of various stimuli on persons of different ages, sexes, and personality types. We discover how to use art to produce calmness, agitation, pleasure, grief, or indignation. This phase of scientific technology is still in its infancy; but it will embrace more and more of art as time goes on.
 
-In a list of arts, such as that in the previous section, it is hard indeed to know where to stop. For example, cosmetics and costume are included by common consent, because they have to do with beautifying the body. But if so, why not include nutrition and fresh-air sports?
-They also can beautify the body, perhaps more thoroughly than paint and powder can. Dentists and plastic surgeons, who are seldom classed as artists, have to think very definitely about the aesthetic appearance of the face. Through eugenics, we may breed a more beautiful race of humans, as science has done with horses, birds, and goldfish. It would be far-fetched to include as arts every modern skill which has slight or occasional aesthetic functions; but it is worth realizing that such borderline fields exist in great number, and that art in the broad aesthetic sense is by no means limited to the traditional fine and decorative arts.
+In a list of arts, such as that in the previous section, it is hard indeed to know where to stop. For example, cosmetics and costume are included by common consent, because they have to do with beautifying the body. But if so, why not include nutrition and fresh-air sports? They also can beautify the body, perhaps more thoroughly than paint and powder can. Dentists and plastic surgeons, who are seldom classed as artists, have to think very definitely about the aesthetic appearance of the face. Through eugenics, we may breed a more beautiful race of humans, as science has done with horses, birds, and goldfish. It would be far-fetched to include as arts every modern skill which has slight or occasional aesthetic functions; but it is worth realizing that such borderline fields exist in great number, and that art in the broad aesthetic sense is by no means limited to the traditional fine and decorative arts.
 
-An interesting problem in this connection is presented by games and sports. Not only do they sometimes beautify the players by making them strong and healthy; they are also watched as spectacles by thousands of people-far more than those who go to symphony concerts.
-The experience of watching a football game or a track meet is in many ways similar to that of watching a play or ballet. In some systems of classification (e.g., in libraries and occupational surveys) they are all bracketed together under the heading of "amusements; entertainments." This offends the serious devotee of art who is impressed by its serious side; but it has an element of truth. In so far as modern art has become specialized away from religion and philosophy, toward the giving of aesthetic pleasure, it does invite being bracketed with other amusements and entertainments. Perhaps this is less derogatory than Puritanical philosophers believe it to be.
-Amusements and leisure-time recreations are now seen to have many values. not only as direct contributions to the joy of living, but as easing psychic tensions in the individual and group. Sports redirect much competitive, combative zeal into harmless channels. But again,
-
-148 THE ARTS AND THEIR INTERRELATIONS
-
-the question of value should be put aside for the present, so that we can see what actual similarities and differences exist between art on the one hand, games and sports on the other. tls
+An interesting problem in this connection is presented by games and sports. Not only do they sometimes beautify the players by making them strong and healthy; they are also watched as spectacles by thousands of people-far more than those who go to symphony concerts. The experience of watching a football game or a track meet is in many ways similar to that of watching a play or ballet. In some systems of classification (e.g., in libraries and occupational surveys) they are all bracketed together under the heading of "amusements; entertainments." This offends the serious devotee of art who is impressed by its serious side; but it has an element of truth. In so far as modern art has become specialized away from religion and philosophy, toward the giving of aesthetic pleasure, it does invite being bracketed with other amusements and entertainments. Perhaps this is less derogatory than Puritanical philosophers believe it to be. Amusements and leisure-time recreations are now seen to have many values. not only as direct contributions to the joy of living, but as easing psychic tensions in the individual and group. Sports redirect much competitive, combative zeal into harmless channels. But again, the question of value should be put aside for the present, so that we can see what actual similarities and differences exist between art on the one hand, games and sports on the other.
 
 The psychology of games and sports is a complex subject in itself, of more cultural importance than is generally recognized. There is great difference between the role of the active participant and that of the more or less quiet onlooker. In cultures smaller and simpler than ours, it was common for every able-bodied person-or the males at least-to take part in active physical sports or ceremonies, in which a religious, civic, and military spirit was often infused. Not only has athletics been increasingly divorced from these other interests, but the roles of onlooker and participant have been increasingly separated from each other. As in ancient Rome, and in the Spanish bullfight arenas, thousands cram the stadium seats to watch a few highly trained gladiators or toreros struggle. Much the same thing can be said about the arts. In both, in spite of partial counter-trends, the tendency has been for vast crowds of non-participating but appreciative, critical observers to look or listen while a few experts perform.
-This has led, in aesthetics, to increasing emphasis on the nature of aesthetic experience rather than artistic experience-on works of art from the standpoint of observers and appraisers, not from that of makers and performers. j
+This has led, in aesthetics, to increasing emphasis on the nature of aesthetic experience rather than artistic experience-on works of art from the standpoint of observers and appraisers, not from that of makers and performers.
 
-The audience at an athletic spectacle behaves in much the same way as the audience at a dramatic or musical spectacle, applauding its favorite stars for their successes. The type of attitude and experience involved is apparently similar in many respects. In both cases, there is pleasure (often mixed with displeasure) in seeing and hearing an organized sequence of actions, performed with skill. That athletic feats can be felt as beautiful is evidenced by the countless artists-from Minoan times and earlier-who have painted and sculptured athletes.
-Sports and artistic performances are alike hard work for the participants, whether or not they are play for the audience.
+The audience at an athletic spectacle behaves in much the same way as the audience at a dramatic or musical spectacle, applauding its favorite stars for their successes. The type of attitude and experience involved is apparently similar in many respects. In both cases, there is pleasure (often mixed with displeasure) in seeing and hearing an organized sequence of actions, performed with skill. That athletic feats can be felt as beautiful is evidenced by the countless artists-from Minoan times and earlier-who have painted and sculptured athletes. Sports and artistic performances are alike hard work for the participants, whether or not they are play for the audience.
 
-The word "game'" is now usually applied to activities in which there is a contest of some sort, according to prearranged rules. (The contest may be imaginary, as in playing solitaire.) But not all games are definitely competitive. Some are ritualistic, especially children's games like "Farmer in the Dell" and "London Bridge is Falling Down." These are often survivals of primitive religious and secular rites, whose origin under other names is lost in antiquity. They are
+The word "game'" is now usually applied to activities in which there is a contest of some sort, according to prearranged rules. (The contest may be imaginary, as in playing solitaire.) But not all games are definitely competitive. Some are ritualistic, especially children's games like "Farmer in the Dell" and "London Bridge is Falling Down." These are often survivals of primitive religious and secular rites, whose origin under other names is lost in antiquity. They are modern survivals of that early undifferentiated art from which drama developed: an art combining rhythmic gestures and movements with rhythmic words and chanting.
 
-DIFFERENT KINDS OF ART 149
+The term "sport" loosely covers all athletic games and also many outdoor, recreational activities which are not necessarily competitive. Swimming, skating, horseback-riding, boating, fishing, shooting, boxing, fencing, and similar sports may be organized into contests, with rules for fair play, or may be practiced merely "for the fun of it," in groups or alone. Even when non-competitive they require skill, and are often watched with interest. In this they resemble art. The most enduring and popular of them are survivals of activities once used for practical purposes in the struggle for existence. Their practice as sports by the tired city-dweller is a playful, controlled regression to earlier cultural levels for the sake of mental and nervous relaxation and muscular exercise. The arts and handicrafts, likewise, are often practiced "for the fun of it," by amateurs with no great technical skill and no great need of the products.
 
-modern survivals of that early undifferentiated art from which drama developed: an art combining rhythmic gestures and movements with rhythmic words and chanting.
-
-The term "sport" loosely covers all athletic games and also many outdoor, recreational activities which are not necessarily competitive.
-Swimming, skating, horseback-riding, boating, fishing, shooting, boxing, fencing, and similar sports may be organized into contests, with rules for fair play, or may be practiced merely "for the fun of it," in groups or alone. Even when non-competitive they require skill, and are often watched with interest. In this they resemble art. The most enduring and popular of them are survivals of activities once used for practical purposes in the struggle for existence. Their practice as sports by the tired city-dweller is a playful, controlled regression to earlier cultural levels for the sake of mental and nervous relaxation and muscular exercise. The arts and handicrafts, likewise, are often practiced "for the fun of it," by amateurs with no great technical skill and no great need of the products.
-
-Competitive sports and contests have one important difference from most works of art: the outcome is not decided in advance, if the game is fair and honest. The game as a temporal form is not completely predetermined. As to the general framework pattern, it is determinate; but there is room all along and at the end for either side to gain the victory. In games of chance, the outcome is likewise uncertain, but due in less degree to skill. Where the contest is between representatives of a school, a city, or a nation (as in the Olympic games), it becomes a kind of symbolic warfare, and a substitute for wars and duels to the death.
-As a result, there is suspense, tension, in both the players and the audience. The latter, if interested in the outcome, tend to identify themselves with one side. With strong feelings of empathy, they project themselves into the contest, vicariously striving, hoping, fearing, exulting or desponding. To some extent we do this also in watching a play or reading a novel whose plot involves strong conflict, and which arouses our sympathy for one of the protagonists. If we know how the story comes out, our suspense is less; we observe the fixed march of events without real hope or fear of unexpected outcomes. In music there is some surprise on first hearing a composition, but less and less as we
-
-rehear it. In painting, sculpture, and architecture, the whole thing is finished, and spread out before us.
-
-150 THE ARTS AND THEIR INTERRELATIONS
+Competitive sports and contests have one important difference from most works of art: the outcome is not decided in advance, if the game is fair and honest. The game as a temporal form is not completely predetermined. As to the general framework pattern, it is determinate; but there is room all along and at the end for either side to gain the victory. In games of chance, the outcome is likewise uncertain, but due in less degree to skill. Where the contest is between representatives of a school, a city, or a nation (as in the Olympic games), it becomes a kind of symbolic warfare, and a substitute for wars and duels to the death. As a result, there is suspense, tension, in both the players and the audience. The latter, if interested in the outcome, tend to identify themselves with one side. With strong feelings of empathy, they project themselves into the contest, vicariously striving, hoping, fearing, exulting or desponding. To some extent we do this also in watching a play or reading a novel whose plot involves strong conflict, and which arouses our sympathy for one of the protagonists. If we know how the story comes out, our suspense is less; we observe the fixed march of events without real hope or fear of unexpected outcomes. In music there is some surprise on first hearing a composition, but less and less as we rehear it. In painting, sculpture, and architecture, the whole thing is finished, and spread out before us.
 
 The fact that most art lacks the suspense and thrills of uncertain conflict is partly responsible for its frequent lack of appeal to active youth. It seems tame and dead by comparison with games and sports, partly because it is all worked out in advance, with nothing for the onlooker to do but contemplate the finished product. He can not participate actively, and in many kinds of art he cannot even cheer for his favorite team or hero, thus achieving in fantasy a sense of union with the group, and a share in victory or defeat. Even active practice of the arts does not necessarily give this particular kind of thrill; e.g., to an active boy who is made to practice the piano.
 
 Art itself sometimes becomes competitive, and like a game. It was so in Greek times, when prizes were given for winning the pentathlon and also for writing the best ode or tragedy. It is so in The Mastersingers of Nuremberg, for the best original song. Some educators object to giving prizes for students' art products, on the ground that it interferes with the pure love of creating; but there is much to be said on both sides. The rules of the game and the fairness of the victory are usually not clear in artistic competitions.
 
-The modern emusement park, in or near a large city, is a large, elaborate, permanent carnival or fair; a miscellaneous assemblage of devices for giving pleasant thrills to holiday crowds, old and young.
-It appeals to sight and hearing with glaring, noisy stimuli; to taste with candies and sweet drinks; to the kinesthetic sense of active youth with agreeably frightening rides and slides. The experiences offered are mostly juvenile in mental level; yet advanced engineering skill and ingenuity are devoted to building their fantastic machinery. There is little order, little differentiation; the flood of heterogeneous stimuli is barbaric and exuberant, at the opposite pole from the restrained simplicity and intellectual seriousness of classical, adult art. Nevertheless, much of the experience thus aroused is aesthetic in a broad sense of that word, and at least on the periphery of art.
+The modern emusement park, in or near a large city, is a large, elaborate, permanent carnival or fair; a miscellaneous assemblage of devices for giving pleasant thrills to holiday crowds, old and young. It appeals to sight and hearing with glaring, noisy stimuli; to taste with candies and sweet drinks; to the kinesthetic sense of active youth with agreeably frightening rides and slides. The experiences offered are mostly juvenile in mental level; yet advanced engineering skill and ingenuity are devoted to building their fantastic machinery. There is little order, little differentiation; the flood of heterogeneous stimuli is barbaric and exuberant, at the opposite pole from the restrained simplicity and intellectual seriousness of classical, adult art. Nevertheless, much of the experience thus aroused is aesthetic in a broad sense of that word, and at least on the periphery of art.
 
-10. Ways of classifying the arts: a preliminary view
+#### Ways of classifying the arts: a preliminary view
 
-In discussing other problems, we have had to give some incidental consideration to the classification of*the arts. We have noticed several bases of classification, criteria by which various skills are marked off into groups or types, each with a name of its own. None of these groupings is completely false; each expresses the discernment of
-
-DIFFERENT KINDS OF ART I 51
-
-certain likenesses and differences among human activities, as they have existed at some time in the history of society. Each expresses certain interests and ideals, certain standards of excellence, ways of subdividing human activities for practical administration and theoretical understanding. Each contains an element of truth and validity. But in time
-
-some of them become obsolete, perhaps because they express attitudes based on social conditions which no longer exist, such as feudalism. As
-
-interpreted in accompanying theory, some of them oversimplify the facts, suggesting oversharp separations and contrasts, ignoring borderline and other additional types. New demarcations are made, with old names often transferred to them, so that the old names become increasingly ambiguous. New demarcations must be made, to deal intellectually with newly perceived similarities and differences; new specializations and combinations in the practice and teaching of the arts.
+In discussing other problems, we have had to give some incidental consideration to the classification of*the arts. We have noticed several bases of classification, criteria by which various skills are marked off into groups or types, each with a name of its own. None of these groupings is completely false; each expresses the discernment of certain likenesses and differences among human activities, as they have existed at some time in the history of society. Each expresses certain interests and ideals, certain standards of excellence, ways of subdividing human activities for practical administration and theoretical understanding. Each contains an element of truth and validity. But in time some of them become obsolete, perhaps because they express attitudes based on social conditions which no longer exist, such as feudalism. As interpreted in accompanying theory, some of them oversimplify the facts, suggesting oversharp separations and contrasts, ignoring borderline and other additional types. New demarcations are made, with old names often transferred to them, so that the old names become increasingly ambiguous. New demarcations must be made, to deal intellectually with newly perceived similarities and differences; new specializations and combinations in the practice and teaching of the arts.
 
 The earliest basis examined was a complex of ideas expressing the aristocratic point of view of Europe from the Greek period through the eighteenth century. It divided skills primarily on the basis of the kind of process involved: manual or non-manual (the latter implied mental or spiritual). Another basis was assumed to be correlated: the intended nature of the product; its principal aim or emphasis: whether that of utility (in ministering to man's material needs and comforts) or mental and spiritual elevation. The non-manual arts, aiming at mental and spiritual elevation, were regarded as noble, genteel, liberal, or fine; the others as ignoble or servile. The former came to be known as fine arts; the latter as useful arts.
 
@@ -1582,52 +1214,25 @@ Later, especially during the eighteenth century, a slight change was made in the
 
 In the Renaissance and afterward, the prejudice against the manual diminished, and less emphasis was placed on the basis of division-"manual or non-manual." The aristocratic distinction between noble and ignoble still persisted, however; and it continued to be associated with that between "fine" (aesthetic, non-utilitarian) and "useful."
 
-Still later, in the late nineteenth and twentieth centuries, another change occurred, through the rise of democratic ideas and the rising power of the middle and lower classes. The basis of distinction "noble,
-
-152 THE ARTS AND THEIR INTERRELATIONS
-
-ignoble" no longer seemed important. "Manual and non-manual," "fine and useful," seemed much less important than before. However, theorists tried to preserve some objective distinction out of the old complex of ideas. They pointed out that the contrast between "fine or aesthetic" and "useful" was only a matter of degree, but preserved it nevertheless in theoretical classifications.
+Still later, in the late nineteenth and twentieth centuries, another change occurred, through the rise of democratic ideas and the rising power of the middle and lower classes. The basis of distinction "noble, ignoble" no longer seemed important. "Manual and non-manual," "fine and useful," seemed much less important than before. However, theorists tried to preserve some objective distinction out of the old complex of ideas. They pointed out that the contrast between "fine or aesthetic" and "useful" was only a matter of degree, but preserved it nevertheless in theoretical classifications.
 
 Through the industrial revolution and the rise of applied science, many skills and industries became highly developed along specialized, utilitarian lines, with little or no aesthetic aim. They gradually ceased to be called "arts" or "useful arts," thus leaving the term "art" for those skills which did have an aesthetic aim or function, perhaps along with others, as in architecture. The principal basis of division was still that of "aim and emphasis" or "intended nature of the product." Another distinction on this basis now came into use: the arts previously called "useful" were sometimes called "decorative" instead, because this aspect of their double nature now seemed more important from the aesthetic point of view. However, terms emphasizing their usefulness were also current, such as "applied" and "functional."
 
 During the late nineteeenth and especially the twentieth century, a trend occurred which may be described either as the spread of industrialism into the aesthetic realm-into the making of beautiful products-or as the revival of aesthetic aims in machine industry. In any case, products with aesthetic aims now came to be made and reproduced by mechanized, mass processes. This led to a revival in theory of an old basis of division: that of the kind of process involved. On this basis, however, the important distinction no longer seemed to be manual or non-manual, but handmade or machine-made. Handmade methods had dominated the aesthetic realm so long that it was sometimes doubted whether there could be such a thing as machine-made art. But the strong emphasis on attractive appearance or "eye appeal" in some machine products led to a new category within the realm of art: that of industrial arts, or mechanized, mass-produced, aesthetic arts. However, only part of the process of manufacture was usually included as art: the designing, inventive phase.
 
-Since the establishment of the French academies, there had been a tendency to divide the arts into three or more groups, partly because of existing professional alignments. Music was one; literature was another:; architecture, painting, sculpture, and the useful decorative arts formed a third. Opera and dancing, as combined theater arts,
+Since the establishment of the French academies, there had been a tendency to divide the arts into three or more groups, partly because of existing professional alignments. Music was one; literature was another:; architecture, painting, sculpture, and the useful decorative arts formed a third. Opera and dancing, as combined theater arts, sometimes formed a fourth. These main groups have often split into smaller ones. For example, architecture often parts company with painting and sculpture in setting up separate educational institutions. Literature has tended to split into linguistic sections: English, French, Latin, etc., with occasional reintegration as "comparative literature." But architecture, painting, sculpture, and the useful decorative arts are treated as one field in books and courses on art history and appreciation, and in college art departments. Sometimes the old name "fine arts" is transferred to this field, thus leaving out music and literature. Sometimes "art" alone is used. But the name "visual arts" has begun to replace it in this connection, being more objectively descriptive, less ambiguous and controversial. Such a name implies still another basis of division: that of which sense is primarily addressed.
 
-DIFFERENT KINDS OF ART 153
+## RELATIONS BETWEEN THE ARTS
 
-sometimes formed a fourth. These main groups have often split into smaller ones. For example, architecture often parts company with painting and sculpture in setting up separate educational institutions.
-Literature has tended to split into linguistic sections: English, French, Latin, etc., with occasional reintegration as "comparative literature." But architecture, painting, sculpture, and the useful decorative arts are treated as one field in books and courses on art history and appreciation, and in college art departments. Sometimes the old name "fine arts" is transferred to this field, thus leaving out music and literature.
-Sometimes "art'" alone is used. But the name "visual arts" has begun to replace it in this connection, being more objectively descriptive, less ambiguous and controversial. Such a name implies still another basis of division : that of which sense is primarily addressed.
+### Philosophical Classifications of the Arts
 
-
-Part Two
-
-RELATIONS BETWEEN THE �ARTS
-
-
-V
-
-Philosophical Classifications of the Arts
-
-1. In philosophy before 1700
+#### In philosophy before 1700
 
 The concept of fine or aesthetic arts being largely a product of the eighteenth century, no attempts were made before that time to classify such arts in a systematic way. During and since the eighteenth century, a great many theories have been proposed, involving classification of the arts under various headings.
 
-The more philosophical of these go far beyond mere verbal classification, seeking to explain the basic similarities and differences between the arts; to point out the underlying factors-metaphysical, psychological, social, and others-which connect and differentiate the arts; and thus to show the place of each art in the total scheme of world history and culture. Some also appraise the relative values of the arts, and arrange them in a hierarchy of ascending importance.
-Such philosophical theories are called "systems" of the arts, in contrast with superficially classified lists. Most of them have constituted sections in larger philosophical systems, intended by their authors to set forth fundamental truths about the universe in general: the nature of reality, of mind, of moral values, of man's place in the universe.
-As such, they often form a part of some general theory of aestheticsof beauty, aesthetic value, and the nature of aesthetic experience.
-Some have fitted into vast empirical surveys of human knowledgeschemes for classifying all the branches of science and technology, within which the fine arts are shown to have a place. In more recent years, since the problem of classifying the arts has come to be a
+The more philosophical of these go far beyond mere verbal classification, seeking to explain the basic similarities and differences between the arts; to point out the underlying factors-metaphysical, psychological, social, and others-which connect and differentiate the arts; and thus to show the place of each art in the total scheme of world history and culture. Some also appraise the relative values of the arts, and arrange them in a hierarchy of ascending importance. Such philosophical theories are called "systems" of the arts, in contrast with superficially classified lists. Most of them have constituted sections in larger philosophical systems, intended by their authors to set forth fundamental truths about the universe in general: the nature of reality, of mind, of moral values, of man's place in the universe. As such, they often form a part of some general theory of aestheticsof beauty, aesthetic value, and the nature of aesthetic experience. Some have fitted into vast empirical surveys of human knowledgeschemes for classifying all the branches of science and technology, within which the fine arts are shown to have a place. In more recent years, since the problem of classifying the arts has come to be a recognized task of aesthetics, many separate articles have been written on the subject.
 
-recognized task of aesthetics, many separate articles have been written on the subject.
-
-Like all other problems of aesthetics, this also can be traced back to ancient philosophy. Aristotle, for example, seems to be on the verge of a system of arts and sciences when he distinguishes "productive philosophy" from theoretical and practical philosophy, as that
-
-157
-
-Ts AND THEIR INTERRELATIONS 158 THE ARTS AN
-
-h terminates in the origination of permanent products." This might ell have led him to a theory of the arts. "Poetics," in a broad sense, w means "making" or "doing," and is applicable to all the arts, Pseful and fine. But Aristotle's Poetics deals mainly with one of the "imitative" arts, which we now call "poetry." Some scholars have supposed that Aristotle intended to give a theory of �� the arFS, an.d that the Poetics is only one surviving fragment of this. It begins wrt.h a brief comparison between epic poetry, tragedy, comedy, dithyrambic poetry, and the music of the flute and lyre. All are said to be modes of imitation, but to differ in respect to medium, objects, and manner of imitation. All these arts are contrasted with the imitation or representation of objects through the medium of color and shape. They are said to produce imitation through rhythm, language, and harmony. In flute and lyre music, harmony and rhythm alone are employed, while dancing u�es rhythmical movement without harmony. There is another art, says Aristotle, which has no name (today, we call it literature"), and which imitates by means of language alone." This is a clear start toward distinguishing the arts, including the visual arts and music, on a basis of medium. It is unfortunate that the Poetics in its present form does not pursue this broad approach, which was not carried out thoroughly until modern times.
+Like all other problems of aesthetics, this also can be traced back to ancient philosophy. Aristotle, for example, seems to be on the verge of a system of arts and sciences when he distinguishes "productive philosophy" from theoretical and practical philosophy, as that which terminates in the origination of permanent products." This might ell have led him to a theory of the arts. "Poetics," in a broad sense, w means "making" or "doing," and is applicable to all the arts, Pseful and fine. But Aristotle's Poetics deals mainly with one of the "imitative" arts, which we now call "poetry." Some scholars have supposed that Aristotle intended to give a theory of �� the arFS, an.d that the Poetics is only one surviving fragment of this. It begins wrt.h a brief comparison between epic poetry, tragedy, comedy, dithyrambic poetry, and the music of the flute and lyre. All are said to be modes of imitation, but to differ in respect to medium, objects, and manner of imitation. All these arts are contrasted with the imitation or representation of objects through the medium of color and shape. They are said to produce imitation through rhythm, language, and harmony. In flute and lyre music, harmony and rhythm alone are employed, while dancing u�es rhythmical movement without harmony. There is another art, says Aristotle, which has no name (today, we call it literature"), and which imitates by means of language alone." This is a clear start toward distinguishing the arts, including the visual arts and music, on a basis of medium. It is unfortunate that the Poetics in its present form does not pursue this broad approach, which was not carried out thoroughly until modern times.
 
 We have already looked at the early history of the concept of fine arts, at its relation to "liberal" and "useful" arts, and at the varying list of arts which were considered "fine" at different times. There is little between Aristotle and the seventeenth century which bears directly on the classification of the fine arts. One may cull from many writers, here and there, an isolated reference which now seems related to that problem. But the problem of classification itself is not systematically followed up.
 
