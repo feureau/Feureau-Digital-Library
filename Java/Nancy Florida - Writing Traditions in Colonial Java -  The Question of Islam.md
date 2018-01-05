@@ -1,0 +1,562 @@
+# Writing Traditions in Colonial Java: The Question of Islam
+By Nancy Florida
+
+The category of "native Islam" posed a problem for the colonial Europeans who ruled Java in the latter part of the nineteenth century. Islam, as an alternative center of authority for those millions of colonial subjects who professed it, was, not surprisingly, apprehended as a potential threat to the continued European domination of the island. In the face of this perceived threat, a conventional colonial defense was to refuse, that is, to deny and divert, the reality of the Islamic professions that issued from the mouths and actions of the Javanese faithful. Although "the Javanese" might believe themselves Moslems, and although their public, external practices often appeared to confirm these professions of faith, colonial authorities wished to disaffirm this apparent truth.
+
+Colonial scholarship on "the Javanese" was thus often propelled by a desire to penetrate the private, inner recesses of native subjects in order to observe the presupposed falsity of these subjects' Moslem claims and professions. The quality of their Islam thought to be diluted by a continuing adherence to older indigenous and Hindu-Buddhist belief complexes, syncretic Javanese Moslems were seen as somehow different from other (truer) Moslems. "No, these are not real Mohammedans," claimed those wishful colonial overlords, who asserted that, underneath and inside, the docile (Hindu-Buddhist) Javanese essences of their subjects remained untouched by the thin Islamic veneer that sometimes seemed to embody them. [^26ca589e] And nowhere did this non-Islamic essential Javaneseness appear more evident to imperial eyes than in the royal palaces, or kratons, of the Central Javanese heartland. This paper examines both the colonial interest in establishing the palaces as exemplary centers of non-Islamic essential Javaneseness and the literary activities in one of those palaces that quietly circumvented that interest.
+
+[^26ca589e]: C. Poensen,. Brieven over den Islam (Leiden: Brill. 1886). 6-8, and passim; R. A. Kern, "De Javaan als Moslim," in J. Poortenaar and W. Ch. Coolhaas, eds., Onder Palmen en Waringins: Geest en godsdienst van Insulinde (Naarden, (1945]), 156-73.
+These evaluations were not new to the latter nineteenth century. In his influential History of Java, Sir Thomas Stamford Raffles (Lieutenant Governor General of Java in 1811-16) quotes the memoir of a Dutch colonial official (Dirk Hogendorp. Governor of Java's North Coast) on the difference of Javanese Islam: "The religion of the Javans is in general Mahometan, but mingled with many superstitious doctrines derived from the ancient Pagan worship. The Javans, however, are far from bigots to their religion, as other Mahometans generally are. They are mild and tractable by nature . . ." (Hogendorp's Memoir on Java [1800], in Raffies, The History of Java, vol. 2 [London: Black, Parbury, and Allen, 1817); reprint, London: Oxford University Press, 1965),
+
+## Islam Observed in Colonial Java
+
+In 1886 the colonial Resident of the royal city of Surakarta  wrote in his annual report to his Batavian superiors: "As far as religion is concerned. the population of this district has only a thin varnish of Mohammadanism over a base of Buddhism and Saivism, and it is only to lament that owing to their gullibility and ignorance, they are such easy prey for those who, under the mask of religion, hide sinister intents."> By the 1880s, as a series of (apparently unconnected) self-consciously Islamic upnsings swept the island,4 the colonial authorities had become increasingly alarmed by the subversive potential of Islam in Java. But, at the same time, their impenial eyes could not, or would not, see the political Islam that these uprisings appeared to represent as truly belonging to the indigenous subjects who participated in them. Instead, they saw this political Islam as pollution from outside, an alien import brought home to Java by returning hajis who themselves had been infected in Mecca with these sinister strains of anti-imperial fanaticism." The radical political Islam that these hajis brought home with them, it was thought, comprised an arid, foreign (Arabic-Turkish) form that was by nature alien to the compliant tropical essences of their Javanese subjects.® And yet there remained the threat of real contagion: there was always a danger that the souls inside these only apparently Islamic native bodies might actually succumb to these foreign strains of desert fanaticism. For colonial authority, such Islam constituted a hidden force that threatened to insinuate itself into Javanese subjects, an invisible force that meant to turn "docile natives" into "dangerous revolutionanies."
+
+Perhaps nowhere are these colonial anxieties more artfully disclosed than in Louis Couperus's haunting turn-of-the-century Indies novel, The Hidden Force." This novel, which effectively inscribes the impossibility of the colonial project on Java, narrates the inevitable downfall of a "good" Dutch colonial civil servant before the inexplicable "hidden force" that pulses silently through the dark recesses of native culture. In a manner notably counter to the conventional wisdom on Javanese cultural essences, however, Couperus's writing effects an unstable identification of these "mystical" Javanese essences with the dangerous force of political Islam. Suggestively representing, as Javanese, the ghastly specter of political Islam in the figure of a ghostly haj whose inexplicable appearances sporadically punctuate the narrative, Couperus indicates the very reality that colonial eyes would refuse to see.
+
+In the final paragraphs of The Hidden Force, the unstable identification of dark native mystery and Islam that punctuates the narrative is repeated and centered in a beautifully wrought and hormible scene that dramatically repreWriting Traditions in Colonial Java / 189
+
+sents the colonial nightmare of "fanatic' Islam come home to Java. The scene is set in a train station, and depicts-to the weary imperial eyes of both Couperus's protagonist and his audience-a humming crowd of frenzied Javanese natives pressing forward in a crush to kiss the hands and hems of a party of new hajis just returned from Mecca. These new hajis are natives, natives who
+
+appear-to the colonial witnesses who observe them-too remote, too dignified, and too proud. In a troubled voice, the narrator reflects on the scene:
+
+And in this land of profound, secret, slumbering mystery, in these people of Java, which, as always, hid itself in the secrecy of its impenetrable soul, suppressed indeed but visible, it was strange to see rising to the surface an ecstasy, to see an intoxicated fanaticism, to see a part of that impenetrable soul revealed in its deification of those who had beheld the Prophet's tomb, to hear the soft humming of a religious rapture, to hear, suddenly, unexpectedly, a shout of glory, not to be suppressed, quavering on high, a cry that instantly sank again, drowned in the hum, as though fearful itself, because the sacred era had not yet armived . . . (229-30, ellipsis in the original)
+
+And then, quite suddenly, the novel's protagonist, together with his friend (a perfect, and also perfectly disillusioned, colonial woman), come to sense "in the midst of this fanatical multitude" the uncanny, ineffable force that has defeated them. They sense it, but its truth remains unseen by them. The Hidden Force closes without closure, setting loose the horrible unseen image that had loomed, invisible, behind the novel's pages. Indeed it is an image of the very thing that these colonial witnesses, the novel's tragically undone hero and heroine, could or would not see:
+
+And in feeling [that ineffable force}, together with the sadness of their leave-taking, which was so near at hand they failed to see amid the waving, billowing, buzzing multitude that reverently hustled the yellow and purple dignity of the hadjis returned from Mecca, they failed to see that one tall white hadji sing above the crowd and peering with a grin at the man who, no matter how he had lived his life in Java, had been weaker than That . . .
+(230, emphasis added. ellipsis in original)
+
+This image of the spectral grinning haj whose power rises out of, and above, the "fanatical multitude" portrays, I think, the potential force of popular Islam in Java. It is a highly visible image, and yet one that remains unseen.
+With this image, Couperus discloses the highly ambivalent position Javanese
+
+190 / Cultures of Scholarship
+
+Islam occupied in nineteenth-century colonial consciousness. On the one hand, it inspired suspicion as a dangerous reality that, it was feared, could and perhaps would appear anywhere and everywhere. On the other hand, Islam remained a phantom whose presence was denied, in a nearly exorcistic gesture, to genuinely Javanese realities. Islam represented danger, but a danger that a spectrum of colonial authorities needed to understand, and hence saw, as foreign, alien, and intrinsically un-Javanese. And it was because Islam belonged somewhere else, not properly to "their" Java, that so many colonials were wont to call the notoriously "syncretic' Javanese "Moslems in name only." Colonial authority apparently needed to deny the possibility of a truly Javanese Islam or truly Islamic Java. Thus, in spite of the fact that colonial officials obsessively watched for and observed Islam's specter at the margins and in the cracks of the Javanese society that they ruled, it remained in their interest to fail to see indigenous Islam rising out of the very midst of the multitude. Even more to the point: it was in the colonial interest to project and advance that "not seeing" among their Javanese subjects-especially among the elite of those subjects.
+
+The horror for the late-nineteenth-century colonials of a possible coalescence of political Islam and the native elite was born out of collective traumatic memories and disturbing contemporary reminders. Remembered was the
+
+Dipanegara War (or, as the Dutch would have it, the Java War). Led by a Javanese prince and supported by a network of rural Islamic masters (or kyai), this concerted rebellion against colonial authority raged from 1825 to 1830.
+Those five years of warfare, in which over 200,000 Javanese and 15,000 colonials (7,000 of whom were "Indonesians") died," demonstrated to the colonial rulers, and to their Javanese subjects, the fury that could be unleashed by the natives when mobilized by their elite under the banner of Islam.?
+Colonial authorities were forcibly reminded of this truth in the late nineteenth century during their decades-long struggle to pacify the Moslem freedom fighters of Aceh on the neighboring island of Sumatra. The Aceh War, which began in 1873, continued into the early twentieth century. The tide was finally turned in favor of the Dutch when, upon the advice of the acclaimed Islamicist Snouck Hurgronje, the colonial authorities moved to co-opt the native aristocracy and to separate them from the "more fanatic" religious leaders. Allowing their more moderate Moslem subjects nitual religious freedom, while vigorously suppressing any signs of political Islam, the policy meant to domesticate the "Mohammedan penil.""9
+
+This turn-of-the-century Islamic policy played out in Aceh repeated, with a difference, colonial cultural policies that had been earlier deployed on Java.
+
+Writing Traditions in Colonial Java / 191
+
+With the close of the Dipanegara War in 1830, the Dutch had found themselves in a position of power they had hitherto never enjoyed in the Javanese heartland. From this new position, they began to consolidate what was becoming for the first time their real colonial authority over the island. The victorious Dutch were to seal the final subjugation of the Javanese with strategies of domestication that would turn on the cultural isolation and co-optation of the indigenous elite. Insofar as the native elite could be held in colonial service, while at the same time held away, in a kind of honored cultural reserve, both from the masses whom they would govern (for the Dutch) and from the sinister forces of "fanatical" Islam which might threaten that compromised governance, Dutch authority, it was hoped. would reign supreme.
+
+And yet local pockets of resistance to the colonial status quo persisted.
+Revolts, almost always in the idiom of Islam, continued to break out across the rural Javanese countryside with increasing frequency and violence as the century progressed. To forestall the possiblility that these small-scale revolts might escalate into another full-fledged insurrection, it was useful for Dutch power to see and to publish these disturbances as alien, fanatic intrusions that belonged to the deviant margins of society, intrusions that never penetrated the true Javanese heart that was embodied in docile masses and agreeable elites. It is in this light that we can read the upbeat annual report that the Dutch Resident of the royal Javanese city of Surakarta submitted to the Governor General in 1839. In this report, the Resident boasts of the "surprising" success of the then still new postwar colonial policy for control of the native elites and, through them, the Javanese masses. He tells of a rural "religious revolt" in his district and of the ease with which it was put down. The Resident explains that when the rebels, a man and wife whom he calls "saints," disturbed the state of law and order in rural Surakarta that year, they found no allies among the native elite and little support from "the people.""! Their revolt was easily crushed, and the two saints were packed off to a Batavian insane asylum. The Resident proudly reports to his superiors that this disturbance, unlike the earlier
+
+Dipanegara troubles, was of absolutely "no political import." The Resident offers his analysis of the incident's insignificance: "It seems to me that as long
+
+as no prince of name stands at the head of a said endeavor to disturb the peace, that endeavor shall be quickly and easily frustrated." He goes on to caution that, in spite of the policy's success to date, this incident again "shows us how very important it is to keep the native elites comfortable, while at the same time keeping an ever vigilant eye on their conduct and moods."!*
+
+Keeping an eye on elite "conduct and moods" in colonial Surakarta continued throughout the nineteenth century-as did "religious revolts." And
+
+192 / Cultures of Scholarship
+
+when a wave of Islamic revivalism swept over the island in the closing decades of the century, the anxieties of the colonial officials posted to the Central Javanese Principalities increased; accordingly, surveillance was, it seems, intensified. By the 1880s, significant portions of the Surakarta Residents' annual reports were devoted to the dangers the hajis and other "fanatical Moslem priests" were thought to pose to colonial authority, and to the sinister "religious movements" into which these shrewd villains allegedly "tricked their indolent and ignorant native followers."'* At the same time, ever more paranoid colonial eyes fearfully surveyed the native elite for dreaded traces of religious fervor. The Surakarta Residents' reports of the latter nineteenth century display a persistent preoccupation with aristocratic trips to the mosque, princely fmendships with Arabs, and royal tuition in Arabic language.'* And although they continued to affirm that "their" elites were essentially "good Javanese," free of fanatic Islam's taint, the Residents' Political Reports of the latter part of the century lack the confident tone of the General Reports of the 1830s and
+
+1 840s.!>
+
+Colonial Oversights and the Renaissance of Javanese Culture in Nineteenth-Century Surakarta
+
+It was, however, during those earlier, more confident, post-Dipanegaran years that the colonial cultural policy I mentioned above, a policy that would define "high Javanese culture" as the non-Islamic preserve of agreeable amstocrats, began to take form. Some aspects of this policy, for instance the preservation and inflation of "traditional" Javanese sumptuary practices to shore up sagging elite status and dignity, were studied and deliberate. Indeed, the postDipanegaran Principalities were quite literally founded upon the principle of preserving indigenous elite privilege in the name and service of Dutch colonial governance.'* Other aspects of this nascent cultural policy were, however, less considered: theirs was a reality that was more implicit to the colonial project.
+These other aspects were, in part, the result of unconscious assumptions and wishful thinking, the implicit conceptual background. or logic, that was to generate among colonial observers of Javanese subjects the particular form of "not seeing" that Couperus's novel would dramatize at the beginning of the next century.
+
+This peculiar form of conceptual denial was cultivated in the new academic field of Javanology, a field that came into being just after the Dipanegara War along with the Cultuur Stelsel (or forced cultivation system) and the ensuing high colonial age of Dutch rule on Java.'" Javanology, the colonial science of
+
+Writing Traditions in Colonial Java / 193
+
+Javanese subjects and their culture, worked in the interest of the authorities to
+
+frame "traditional Java" through a delineation of that tradition's genuine high culture. And Javanology would understand that culture as standing in opposition to Islam and as the more or less exclusive property of a hyper-refined elite, or priyayi, class.
+
+The palaces of Central Java were seen (and to some extent are still seen) as the proper locus and preserve of that true Javanese high culture, a culture portrayed as an (almost) purely indigenous (Hindu-Buddhist) remainder, essentially untouched by the alien accretions of either Islam or the West. Indeed, the image has stuck so firmly that in 1959 Clifford Geertz-no doubt faithful to the professions of his privayt Javanese informants-could still write, in The Religion of Java, that "in the court circles of Djokjakarta and, especially, Surakarta, it is possible, if one ignores the furniture and electric lights, to imagine one 1s in a pre-Dutch Hindu-Buddhist court." "'" Geertz's doubly hypothetical image of the courts, predicated as it is on ignoring realities before one's eyes (that is, electric lights and furniture), repeats the colonial gesture of interested "not-seeing." And by pointing especially to Surakarta, his image also repeats, and thereby reinforces, the privileged status post-1830 Indies scholarship afforded the Palace (or Kraton) of the King (or Susuhunan) of Surakarta as the truest exemplar of pure Javanese high culture. For it was to the Kraton Surakarta that the nineteenth-century colonial scholars first turned to indulge, and enforce, a wishful image of essential "Javaneseness."
+
+Nineteenth-century colonial scholarship was dominated by the discipline of philology. Language and literature, philology's proper objects, came to enjoy a favored position in the emerging image of Javanese high culture. Because of the paired privileging of literature and of the Kraton Surakarta, what was imagined to be the literature of that court was an important factor in the framing of Javanese culture. The implications of that frame are particularly evident in the history of Javanese literature produced by colonial (and also postcolonial) philology.'?
+
+Philology teaches us that Javanese literature attained the zenith of its sophistication and aesthetic value in the distant pre-Islamic past with classical Hindu-Buddhist Kawi literary culture. This culture, which produced the classical kekawin masterpieces, was a culture that belonged to the successive glorous courts of the Old Javanese heartland. We are taught that the robust florescence of Old Java's literary culture was crushed by the coming of Islam in the latter fifteenth century. Philology implies that what followed the conquest was a long period of darkness, characterized by an Islamic literary culture that came out of the pasisir area (the northern littoral of Java). It is said that the pasisir
+
+194 / Cultures of Scholarship
+
+authors of the middle period produced derivative, and sometimes corrupt, texts
+
+on "foreign" Islamic topics.
+Only in the late eighteenth century, the philological canon teaches us, was Javanese literature to experience a kind of rebirth at the Surakarta Palace, a
+
+rebirth that would effect a partial recuperation of the lost greatness of Old Java's literary culture. The renaissance is conventionally thought to have expressed itself most perfectly in the court poets' translations of the Old Javanese kekawin classics into modern Javanese verse. In his immensely influential Literature of Java, the renowned Dutch philologist Theodore Pigeaud epitomizes this classical rebirth: "The turning of the attention of Javanese scholars from Islamic texts to Old Javanese kekawins, and the ensuing development of Surakarta Court literature in the eighteenth and nineteenth centuries, were tantamount to a renaissance of classical Javanese literature."" In effect: because the poets finally turned away from foreign Islam toward their native Javanese Hindu-Buddhist ongins, Javanese poetry was reborn.
+
+It was to be, however, a short-lived rebirth (or perhaps but a stillbirth). For by the latter nineteenth century, colonial philology had decided that the famed productions of the Surakarta renaissance were "bad," as it were. translations.*'
+
+Moreover, the discipline had come to categorize much of the newer literature produced at court as degenerate and involuted. The renaissance was declared
+
+over, and with it traditional Javanese literature as a serious art form.
+
+It was, however, before the disillusionment, during the early florescence of colonial philological scholarship from about 1830 to 1860, that the image of Javanese high culture was first sketched out. And this image-the one that stuck-belongs to the philological romance of the Surakarta renaissance. The image is a wishful one, one with which colonial scholarship thought to envision and enthrone behind the high walls surrounding the Kraton Surakarta (away, it was imagined, from grinning hajis and from the multitude) a safe renaissance in literature, of the great Hindu-Buddhist kingdoms. Colonial philology happily saw there a return, via texts, of the Javanese to their timeless (read: docile) selves away from the interruption of Islam's sinister (read: political) messages. And it was Dutch power that really delivered this return. For this putative renaissance of Javanese letters in the Kraton Surakarta, colonial scholarship likes to remind us, was a rebirth born of the "peace" afforded by the new colonial order.
+
+The post-1830 philological romance projects the beginnings of the renaissance back into the latter years of the eighteenth century with the founding of Surakarta and the new order division of the old realm of Mataram. The Surakarta court poet Yasadipura I is hailed as the father of that renaissance. And in
+
+Writing Traditions in Colonial Java / 195
+
+addition to fathering a rebirth of presumably dead Javanese letters from the grave in which the Moslem conquest had cast them, the elder Yasadipura is also famed as the progenitor of a veritable clan of reborn Javanese literati. His son, and later his great-grandson, succeeded him in the office of palace pujongga (roughly, a divinely invested court poet and royal adviser).*" Among Yasadipura's many literary accomplishments, pride of place is always given to his renderings into modern Javanese verse of the ancient Kawi classics of Old Java (notably, he translated the Old Javanese Bharatayuda, Ramayana, and Nitti Sastra, as well as the Middle Javanese Bima Suct). He is conventionally seen as the Javanese writer who did the most, through translation, to provide for the diminished latter-day Javanese a glimpse back and partial return to their noble (pre-Islamic) origins.*>
+
+In this essay, through a reconsideration of the activities of Yasadipura I and his progeny in the literary culture of the Surakarta court, I wish to invite a rethinking of the position of Islam in the body of writing that has come to be known as traditional Javanese literature, a body of writing conventionally
+
+exemplified by the works of the so-called Surakarta renaissance and conventionally pictured as un-Islamic. Through a reexamination of these works and
+
+their writers, I will demonstrate that much of what is considered the exclusive court literature of Surakarta extends well beyond the palace walls and is thoroughly Islamic in character. And I will suggest that this is at least in part owing to the circumstance that much of this literature and many of the men who wrote it were nurtured in the rural Islamic educational institutions, or pesantren, of Java."* For it is a little discussed fact that all the most renowned of the Surakarta pujonggas, or "court poets," were products of, among other things, Islamic pesantréen educations."
+
+A Santri Family: The Pujonggas of the Kraton Surakarta
+
+The elder Yasadipura, acclaimed father of the Surakarta renaissance, was born
+
+at dawn on September 9, 1729, in the Central Javanese village of Pengging, in the vicinity of the royal palace of Kartasura.*® Both his parents were devout
+
+Moslems. His mother Maryam was the daughter of a learned Islamic religious scholar, or ulama, whose name was Kalipah Caripu. His father Kya Tumenggung Padmanagara, a seventh-generation descendant of the sixteenth-century Sultan of Pajang and a great-grandson of King Mangkurat I (r. Mataram 1645 77), is said to have been a far-ranging santri, or "student of Islam."" As a
+
+youth, Padmanagara reputedly ventured off Java to study in Palembang, in southern Sumatra, under the Suf master Jenal Ngabidin. When Padmanagara
+
+196 / Cultures of Scholarship
+
+returned to Java, he went into royal service at the Central Javanese Kartasura Palace. Padmanagara held high office (bupati jaksa) under Pakubuwana I (r.
+1704-19), Amangkurat IV (r. 1719-26), and Pakubuwana II (r. 1726-49). To him is attributed the authorship of the Serat Tékawardi, a well-known Sufi song that also concerns matters of Javanese statecraft and of Javanese wniting."®
+
+Yasadipura, like his father before him, was a santri in the original sense of the word: for he, too, was a "wandering student of Islamic religion." In 1737, when he was only eight years old, Yasadipura was sent off to the hinterlands of rural Bagelen-Kedhu to take his education in Arabic and Javanese letters at the pesantreéen of Kya Honggamaya, an associate of his maternal grandfather.
+While the young Yasadipura was pursuing his course of literary and religious study in the countryside, intrigue and rebellion were brewing in the court at Kartasura. In 1742, when, following a series of complicated turns and reverses, Chinese rebels overran the palace, Kartasura's king, Pakubuwana II, was forced to flee his court. The fugitive king made for Panaraga in East Java, where he took shelter with the Islamic teacher Kyai Ageng Imam Besari.*° Meanwhile, Yasadipura had completed his course of study with Honggamay a; but instead of returning home to Pengging the young santri traced the path of his king to Panaraga and was there accepted into royal service. In 1743, after Madurese allies of the Dutch had retaken the old court city from the Chinese rebels, Yasadipura
+
+returned with his king and that king's Dutch supporters to Kartasura.
+
+It was in the shadow of the ruins of the old palace that Yasadipura continued his education in Javanese and Islamic letters. The young santri's teacher was now the old court poet Pangéran (Prince) Wijil Kadilangu, a descendant of the legendary Javano-Islamic saint Sunan Prince Wijil authored many texts, among which are a number of suluk, or Sufi songs."! In 1744, when the restored Pakubuwana II decided to abandon Kartasura and move his kraton several kilometers to the east, Yasadipura, along with his mentor, is said to have played an important role. As representatives of the spiritual corps of palace literati, Prince Wijil and Yasadipura worked to select and prepare the site of the new palace. The site they chose was the riverside village of Solo. It was also they who discovered this swampy site's connections with the spirit realm of the South Sea and who worked to control that connection, thus making possible the transformation in 1745 of village Solo into the kingdom of SuHaving literally laid the foundations for the kingdom, the young Yasadipura then went on to shine as a literary and political star in the new Surakarta Palace.} Over the course of the following decade, the young courtier was a firsthand witness to the Giyant1 War (1746-57) that led to the division of Mataram in 1755. He was also a close confidant of the young (literary)
+
+Writing Traditions in Colonial Java / 197
+
+Pakubuwana III (r. 1749-88). He later served as elder statesman and adviser to Pakubuwana III's son and successor, Pakubuwana IV (r. 1788-1820).3° When Yasadipura died in 1803, he was the senior Pyjongga of the Surakarta Palace. He had served three generations of Surakarta kings, writing prolifically and reputedly advising wisely for over sixty years.
+
+Yasadipura I's writings, all composed in verse, are wide-ranging. In addition to his famous translations of the Hindu-Buddhist Kawi classics, Yasadipura authored a number of other texts. He wrote several important histories: notably of Kartasura and of the Giyanti War, in which he had participated, as well as of the political and marital intrigues that colored the early years of the new court in Surakarta.3® And he composed an extensive version of the epic Ménak Amir Hamza, a lengthy historical romance relating the heroic and amorous adventures of Amir Hamza, the Prophet Mohammad's uncle, as he spread Islam by warfare through a number of Near Eastern kingdoms.
+Adapted from the Persian, and then the Malay, Yasadipura's Ménak remained a favorite at the Surakarta Palace, especially among the ladies of the court, up through the early years of the twentieth century. And it is certainly worth noting that when the colonial Balai Pustaka published Yasadipura's Ménak in the 1930s, the editors still felt it necessary to censor from Yasadipura's text what they considered its excessive "Islamic propaganda."" Another work traditionally attributed to this father of the Surakarta renaissance is the Seraf Tajusalatin, a rendering into Javanese of the Malay Mahkota Segala Raja-Raja ("Crown of All the Kings").38 The Tajusalatin is a weighty didactic text on the ethics of Moslem kingship; and, according to Surakartan dynastic traditions, it is the single text whose reading is still obligatory for all Javanese kings.? Also among Yasadipura's compositions are several Sufi songs, or suluk, including Suluk Makmunuradi Salikin and the renowned Suluk Déwaruci.*"
+
+The elder Yasadipura also wrote the remarkable Serat Cabolék, a profoundly intertextual poem, which comments on, as it reinscribes, other of the author's writings.*' The Cabolék, a history set in Pakubuwana II's Java, selfconsciously treats issues of Javanese kingship, Islamic orthodoxy, Sufi mysticism, and classical Kawi literature. At one point in the narrative, the poem's orthodox Moslem protagonist, a decidedly literate santri from provincial Kudus, prefaces his reading of an extended portion of the Déwaruci, one of Yasadipura's classic translations, with an explanation of what it meant, in the context of eighteenth-century Islamic Java, to read the old Kawi classics:
+
+Moreover the sense [rasa] of the Kawi Bima Suci and Arjuna Wiwaha
+
+198 / Cultures of Scholarship
+
+Emerges through many subtle signs [sasmita]
+
+The sense [rasa} of its Knowledge [ngeélmu] is Ultimate If s/he who interprets is precise and penetrating
+
+For like the Kawi Ramayana
+
+These too are Suft works*4?
+
+The capacity for penetrating interpretation, Yasadipura goes on to emphasize in this poem and elsewhere, is predicated on the serious and careful reading of other texts.4" Foremost among the texts read by Yasadipura to inform his writing especially his necessarily interpretive writing of the Kawi translations-were apparently works of mystical Islam. In 1815, one of Yasadipura I's literary grandsons included, in the suluk that he was composing, a remembrance of his famous grandfather reading:
+
+I saw him on those nights When he had no guests
+
+Once resting from his writing Nothing else was seen by him
+
+Save suluk and other Sufi texts44
+
+Around 1756, Yasadipura I fathered a son who was to follow in his footsteps. This son was Yasadipura II (d. 1844); a man of many names, this
+
+Yasadipura was also known as R.Ng. Ronggawarsita I and as R.T.
+Sastranagara.*" Like his father before him, the younger Yasadipura also took his education in a pesantren. In fact, he apparently studied in the newly established East Javanese pesantreéen of Tegalsan in Panaraga under the same kyai from whom the fugitive king Pakubuwana II, attended by a youthful Yasadipura I, had once sought spiritual solace.4® Upon returning to Surakarta, Yasadipura II went into court service and, by the turn of the nineteenth century, had become a prominent star in the Palace's lively literary circle. After the death of his father in 1803, he succeeded to the office of Palace Pujongga.
+Yasadipura II wrote prolifically through the 1810s and 1820s. In 1826, he was appointed to the high ministerial position of Bupati Carik Kadipaten, a post he occupied until his death in 1844.
+
+Yasadipura II's literary productions were perhaps even wider ranging than those of his father. Like the elder Yasadipura, he too was involved in the translation of Kawi classics. He produced two literary translations of the
+
+Writing Traditions in Colonial Java / 199
+
+classic Lokapala, an epilogue and prehistory to the Indic Ramayana. The first of these translations was rendered in Modern Javanese language, but in pseudo-Old Javanese Kawi Miring, or "Crooked Kaw1," verse; the second was a translation from the Crooked Kawi into modern Javanese verse.*' Another text that he rendered in translation was the Bima Suci Kawi Miring, a translation "back," as it were, into Crooked Kawi of his father's celebrated classic translation of this work into modern Javanese verse.*" He compiled KawiJavanese lexicons and produced an allusive reading of a cryptic commentary on Java's past."" He composed a number of didactic texts, including his biting Wicara Keras ("Strong Words"), a work that includes historical commentary on and cnticism of his contemporary Surakarta sociopolitical milieu."
+
+The younger Yasadipura also authored historical texts. His Babad Pakepung ("History of the Encirclement"), a text surprisingly critical of his royal patron Pakubuwana IV, chronicles a political crisis in 1790s Surakarta that involved the young and headstrong king, contending political meanings of Islamic orthodoxy, and the pressure of consolidating Dutch power on indigenous authority."! But Yasadipura II also wrote histomes of events that were not set in his native Surakarta: his Serat Ambiya ("The Book of Prophets") is an extensive sacred history of Islam, from the Creation through the life of the Prophet Yusup (Joseph), and his Serat Musa ("The Book of Moses") is a lengthy history of the Prophet Musa (Moses)."" This prolific palace pujongga also composed several didactic poems whose lessons often turn on issues of Islamic ethics and practices of virtuous Moslem statecraft."* And, like his father, the younger Yasadipura also wrote texts of suluk, including his Suluk Burung ("Song of the Birds"), an allusive mystical discourse upon the grades of perfection (material and spiritual) that the human soul may attain through divine agency. The suluk presents a debate among three birds, each of which represents a different ideal body-soul relationship and hence a different strain of Javanese, and JavanoIslamic, mysticism."
+
+But perhaps Yasadipura II's most significant contribution to Javanese letters was his work on the celebrated Centhini, an immense and masterful text of
+
+which he was one of the three principal authors."" Framed by a story that is set in villages and rural pesantreén across an imagined seventeenth-century Javanese landscape, the Centhini composes an elegant verbal fabric woven of myriad strands of Javanese and Islamic thought, lore, history, and literature.
+Emerging out of the Sufi literary genre of suluk, the Centhini extended that genre to become something that had never before been known in Javanese
+
+200 / Cultures of Scholarship
+
+literary culture: called by many "a Javanese encyclopedia," the Centhint is an artful compilation of ngé/mu ('knowledge*') from the extended pesantren world of early-nineteenth-century Java."®
+
+Two of Yasadipura II's sons had promising, though unfortunately abbreviated, careers as court literati. Ronggawarsita II, his eldest son, had attained the high office of chief of the palace scribes (Lurah Carik), when, in 1828, at the height of the Dipanegara War. his career was all too suddenly cut short. Suspected of treason by the colonial authorities (the Surakarta Palace was ostensibly allied with the Dutch against the rebellious Dipanegara), Ronggawarsita 11 was arrested and exiled. It is worth lingering a moment on his capture. Ronggawarsita was arrested at the home of his Javanese language and literature student. That student, C. F. Winter, Sr. (who is, by the way, widely acclaimed the father of Javanological philology), had set his teacher up for capture. While the Resident and his guard overpowered the hapless literature teacher, other troops were searching Ronggawarsita's home. "All his papers," along with several "military drums" and a banner inscribed in Arabic script, were confiscated. The captive Ronggawarsita, called by his captors "the most intelligent Javanese alive," was incarcerated in the Residency House where he confessed
+
+under torture."" This Ronggawarsita was forthwith exiled to Batavia, where he died under mysterious circumstances."" Reputedly a brilliant writer, none of
+
+his works are extant."?
+
+Another of Yasadipura II's sons, Mas Haji Ronggasasmita, having studied under a Javanese Shattariyah Sufi master, made the haj with one of his uncles around 1815. It was on his return trip from Mecca that this son wrote his renowned Suluk Acih, a widely circulated compilation of Sufi songs."" Haji Ronggasasmita is also said to have composed a version of the Serat Walisana, a seminal history of the Islamic saints in fifteenth-century Java.®" Apparently the haji was exiled along with his elder brother in 1828.°2
+
+R.Ng. Ronggawarsita III far and away the most famous of traditional Javanese writers, the renowned "seal (hence last) of the pujongga," was the son of the exiled elder Ronggawarsita II. Born in Surakarta in 1802, the younger Ronggawarsita also took his education in Javanese and Arabic letters in a pesantren and, in fact, studied at the East Javanese Tegalsar pesantreén under Imam Besari II, his grandfather's former classmate.©" Two things are remembered about this Ronggawarsita's pesantren days: how unruly and poor a student he proved to be, and how it was in the pesantreén that he was struck by the wahyu, or "divine light," of pujonggaship. Popular tradition also tells us that the first thing the newly enlightened young pwongga did upon receipt of his wahyu was to perform an exquisite reading of the Qur'an in Arabic along
+
+Writing Traditions in Colonial Java / 201
+
+with an illuminating interpretation of it in Javanese.©" Several years after
+
+finishing his studies at Tegalsari, Ronggawarsita enjoyed a period of less formal santri education, traveling from pesantreén to pesantrén across East Java and then on to the hermitage of a Hindu sage in Bali.°®° Like the rest of his family, in 1819 Ronggawarsita joined the corps of court scribes in the Kraton Surakarta. In 1845, he succeeded his grandfather, Yasadipura II, to the office of Pujongga, an office he held until his death in 1873.
+
+The pujongga Ronggawarsita also had a variety of professional ties outside the Kraton. He worked particularly closely with his father's old student C. F.
+Winter, Sr., the same father of colonial philology who had set up the elder Ronggawarsita for arrest and exile. The younger Ronggawarsita was a wellknown "native informant" to a number of other colonial philologists as well, including Cohen Stuart, who in the 1860s "discovered," as it were, that our pujongga didn't really know what he was talking about.©" In the last decades of his life, this last of the Kraton pujonggas bmndged the transition to what is now thought of as the moderen period by serving as an editor of the first indigenouslanguage newspaper published in the Indies."
+
+An unbelievably prolific writer, Ronggawarsita III is said to have written as many as fifty-nine books, several among them tomes thousands of pages long.©? Like his predecessors, Ronggawarsita also produced translations of classic texts, his most notable contribution evidently a new prose translation and explication of the old Kekawin Bharatayuda."" His most ambitious work, however, was another prose text. This is, of course, his truly massive Pustaka Raja ("Book of Kings") series, a chronological, dynastic history of Java from the Creation, through the Hindu heroes of the wayang ("shadow puppet") world and the old Hindu-Buddhist courts, up to the mid-eighteenth-century Surakarta Palace in which his great-grandfather had served."! Ronggawarsita also wrote several poetic histories that were set in legendary pre-Islamic Central Java." But he wrote other histories as well: his prose Tapel Adam traces an Islamic past from the Creation through the Prophet Mohammad, while his Kaol saking Kitab Musarar writes Java's history, backward and forward, in an Islamic frame: back to the time of its first human population (which, as it turns out, was the result of Turkish colonization) and forward to the Qur'anic Day of Ronggawarsita also authored poetic suluk texts,"4 an immensely popular prose textbook of Islamic mystical practice,"" treatises on Javanese, European, and Islamic time-reckoning,"* and, perhaps,
+
+an interpretive translation of the Qur'an."" This Ronggawarsita is most famous, however, for his prophecies. His prophetic Serat Kalatidha ("Time of Darkness") is, for example, still his most read
+
+202 / Cultures of Scholarship
+
+work, if not the most read of all traditional Javanese literary works."" But I wish to close this section on the last of the Kraton pujonggas with a word on another of his prophetic texts, that is, the widely read version of the Jayabaya prophecy that he incorporated into his massive Pustaka Raja.'" Like his famous Kalatidha, Ronggawarsita's Jayabaya prophecy is actually a work of intralinguistic "translation," a work, in other words, that wis composed by means of transposition from, and commentary on, other textual works. Ronggawarsita's primary source for both these texts appears to have been prophetic passages in the encyclopedic Centhini, the very text upon which his distinguished grandfather, Yasadipura II, had worked."
+
+Ronggawarsita's Jayabaya prophecy, as did the Centhini's, cryptically charts the entire course of Javanese history: from the Javanese year 1, when colonizers from Rum (Turkey) displaced the demonic forces that had held dominion over prehistoric Java, until the year 2100 when Juvanese history, again under Turkish dominion, ends on the Day of Judgment. It is a prophecy that was, in the latter years of the nineteenth century, often associated with messianic movements and Islamic revolts. And it was a prophecy that colonial authority sought to control: the "misuse" of the Jayabaya prophecy was punishable by law, in extreme cases with political exile.®"
+
+In the version associated with the pujongga Ronggawarsita and his sanitri family, the prophecy is attributed to King Jayabaya, a ninth-century (sic) king of the Old Javanese realm of Kedini, and a king who was believed to be an incarnation of the Hindu god Visnu. This Jayabaya was-and this is certainly not by chance-the same king for whom was written (in 1157) the kekawin Bharatayuda, the classic text that both the elder Yasadipura and his greatgrandson Ronggawarsita would translate.*2 According to these palace pujonggas, however, the source of King Jayabaya's prophetic foresight was not the Hindu deities celebrated in the epic Mahabharata but instead a wandering Sufi saint from Turkey. And Ronggawarsita's distinctive version of the Jayabaya prophecy even tells how this Javanese Vishnu-in-the-flesh was (secretly) converted to Islam by this same saint, a certain Sth Maolana Ngali Samsujen. The text goes on to disclose how the Sufi master then revealed to the classical king the past and future (Islamic) history of Java: from its beginning, with the prehistoric colonization by the Sultan of Turkey, to its end, again under a Turkish sultan, with the Day of Judgment. By enclosing Javanese history in a supra-Javanese Islamic frame, and by disclosing that the foremost literary patron of Old Java (Vishnu's incarnation on classical Javanese soil) was "really" a closet Moslem, the last of the Surakarta pyjonggas thus provides a novel context in which to reread the classical Javanese past and the texts of that
+
+Writing Traditions in Colonial Java / 203
+
+past. Reversing the colonial cliché, the Surakarta pwongga apparently attests that beneath a thin veneer of Hindu-Buddhist words and stories, the classical Javanese and their texts belong(ed) to the world of Sufi Islam. Like his greatgrandfather before him, then, Ronggawarsita realized, and was inviting his readers to realize, the paradoxical truth that the Old Javanese classics had, in postclassical Islamic Java, become Suff works. In other words, by locating "Java" as such within a supra-Javanese Islamic framework, the neoclassical
+
+court poets entered a discursive space in which they might understand as Islamic the same classical texts that wishful colonial Javanologists celebrated
+
+as un-Islamic bulwarks of essential Javanism.
+
+This bef survey of lives lived and works produced by Surakarta's pujongga family suggests, I think, the vital and productive involvement of Surakarta's most prized literati within a larger Javanese-Islamic intellectual world extending well beyond the Kraton walls of the latter eighteenth and the nineteenth centuries-precisely the period when court poets and poetry had supposedly turned away from Islam. My point in reporting all this has not been to pretend that these puyjonggas were "really" a nest of Moslem radicals. Such a conclusion would, in fact, only reinforce the colonial bias that to be actively engaged in Islamic teachings and texts 1s to be immediately suspect-that is to reproduce the colonial nightmare of fanatical Islam. Rather, by considering the curiously overlooked Islamic side of the literary culture of "Renaissance Surakarta," I have attempted to complicate the picture of Javanese tradition, to chip away at the very solid fiction of kraton walls imagined as un-Islamic bulwarks preserving behind them an originary Hindu-Javanese high culture.
+For, when those cultural walls were supposedly being built, the intellectual worlds of the Kraton and the Islamic pesantren did not stand in simple binary opposition. This is particularly evident if one bears in mind that the bulk of manuscripts housed in the Kraton's scriptornum were not produced by the famed pujongga but by a great variety of authors-local royals (both male and female), lowly court servants (often with deep roots in the countryside), regional nobles, village puppeteers, and rural kyai. Many, though not all, of these other traditional writers of texts stored in the Kraton would have come out of,
+
+or through, the Islamic pesantren world, the same world in which the Yasadipura lineage grew.
+
+I will conclude with a few statistics concerning this larger body of Kratonhoused texts. In the early 1980s I had the happy job of examining and describing the contents of all the manuscripts in the Kraton Surakarta scriptorium.
+Prepared by my reading of the colonial philogical canon, I had arrived on the
+
+204 / Cultures of Scholarship
+
+job ready to see the "belletristic Indic classics" for which this palace is famed.
+What I found was this: of the 1,450 titles in the collection, there were only 17 of the renowned renaissance renderings of the old Kawi classics into modern Javanese verse. That is just a shade over 1 percent. In contrast to these 17, there were nearly 500 titles belonging to varieties of (more obviously) Islamic literature-that is, a solid third of the entire collection. In short, for every supposed "Indic classic," there were 30 texts of more obviously Islamic content. That colonial scholarship failed to see the significance of such an abundance of Islamic inscription is no doubt testimony to the power the "Indic
+
+classic' apparently represents.
+
+Glossary kawi (kekawin) - Old Javanese classical poetic text, language, metrical form.
+kraton Javanese court or palace.
+kyai "master, venerable gentleman"; a title often used to refer to a teacher/master of Islamic knowledge; the master of a pesantreén.
+
+ngtimu (from the Arabic 'i/m) 'knowledge'; often "divine knowledge."
+
+pesantren place of santri; institution of Islamic learning.
+
+pnyayli the administrative and/or bureaucratic elite of the realm.
+
+pujongga divinely invested court poet and royal adviser.
+
+santhi "wandering student of Islamic religion"; in the twentieth century, the term has come to mean "devout Moslem."
+
+suluk (from the Arabic sulék 'traversing the Sufi way'), Sufi poem in Javanese sung macapat meters.
+
+wahyu (from the Arabic wahy 'revelation', as in Koranic revelation), a divine and manifest light, which, when it falls upon the favored person, supernaturally invests that person with the power of, say, kingship or pujonggaship.
+
+Writing Traditions in Colonial Java / 205
+
+The Yasadipura Pujongga Family
+
+Ky.T. Padmanagara + Maryam
+
+t a
+
+R.Ng. Yasadipura I (1729-1803)
+
+fre UCOC
+
+R.Ng. Yasadipura II [a.k.a. Ronggawarsita I and R.T. Sastranagara) (1756-1844)
+
+a
+
+R.Ng. Ronggawarsita II Mas Haj Ronggasasmita - R.Ng. Hawikrama (exiled 1828) (exiled 1828) (a.k.a. Yasadipura III)
+
+C0
+
+R.Ng. Ronggawarsita III (1802-73) (The Seal of the Pujongga)
+
+NOTES
+
+1.  
+
+2. I do not mean to claim that the colonial picture or apprehension of native Islam in Java was a unitary or monolithic one, however. There were colonial voices that contested this conventional representation. Indeed, in both his scholarly and his administrative writings, the renowned colonial Islamicist Snouck Hurgronje frequently countered the conventional misconception that Indonesian Islam was somehow essentially different from other Islams. See. for example, The Achehnese, vol. 2 (Leiden: Bnill, 1906), 279-81. Snouck does not deny the syncretism of Indonesian Moslems; instead he notes the also syncretic nature of the Islam practised by other Moslem peoples (i.e.. in Arabia, Egypt, Syria, and Turkey).
+
+206 / Cultures of Scholarship
+
+2. The Resident was the chief colonial official in any district, or Residency. In the Principalities, or Vorstenlanden, the Resident was considered the "older brother" of the ruling indigenous Prince.
+
+3. Algemeen Verslag der Residentie Socrakarta over het jaar 1886, Solo Bundel 4/0, Arsip Nasional Republik Indonesia.
+
+4. See, for example, Sartono Kartodirdjo, The Peasants' Revolt of Banten in 1888 (The Hague: Martinus Nijhoff, 1966); and id., Protest Movements in Rural Java (Kuala Lumpur: Oxford University Press, 1973); and Ann Kumar, The Diary of a Javanese Muslim: Religion, Politics, and the Pesantren, 1883-1886 (Canberra: Australian Naonal University Press, 1985).
+
+5. On the late-nineteenth-century anti-imperial discourse of Pan-Islamism, and on the significance of the hay to religious revivalism in Java and in the rest of the Moslem world at that time, see Sartono, Peasants' Revolt of Banten in 1888, 140-54.
+
+6. There were, of course, indigenous Javanistic texts that shared this disdain for foreign, "desert" Islam. See, for example, the nineteenth-century text Serat Darmagandhul (composed [Kedhin, late nineteenth century); inscribed Surakarta, 1921) MS. Sasana Pustaka, Karaton Surakarta [henceforth SP] 132 Ca; Surakarta Manuscript Project [henceforth SMP] Karaton Surakarta [henceforth KS) 517; and G. W. J.
+Drewes's discussion of this text in "The Struggle between Javanism and Islam as
+
+Illustrated by the Serat Dermogandul," Bijdragen tot de Taal-, Land en Volkenkunde [BKI] 122, no. 3: 309-65. See also Benedict Anderson's translation of the Sera
+
+Gatholoco ('The Suluk Gatoloco: Parts One and Two," Indonesia 32 (October 1981): 109-50; 33 (April 1982): 31-88.
+
+7. Louis Couperus, The Hidden Force, trans. Alexander Teixeira de Manos, rev.
+and ed. E. M. Beekman (Amherst: University of Massachusetts Press. 1985); originally published in Dutch by L. J. Veen (Amsterdam, 1900) under the title De Stille Krach.
+
+8. M. C. Ricklefs, A History of Modern Indonesia (London and Basingstoke: Macmillan, 1981). 113.
+
+9. Also remembered would have been the fierce Padri War of West Sumatra, in which colonial forces were engaged from 1821 to 1838.
+
+10. See H. J. Benda, "Christian Snouck Hurgronje and the Foundations of Dutch Islamic Policy in Indonesia," Journal of Modern History 30, no. 4 (1958): 338-47.
+
+11. Contesting this wishful colonial report to the Governor General, however, are the comments of Pakubuwana IX (ruler of the Kraton Surakarta, 1861-93). In 1876 the King noted, in a didactic poem addressed to his son and heir, that "a multitude of people were cammed away" by the teachings of this saint (Mas Jedhig) and that some members of the elite (pyayi?) were implicated in his movement (Wulang Putra composed 1876], in Serat Wira Iswara [Jakarta: Balai Pustaka, 1979], 103).
+
+12. Algemeen Verslag der Residentie Socrakarta over het jaar 1839, Solo Bundel 2/8, Arsip Nasional Republik Indonesia
+
+13. See especially the note on the subversive potential of religious teachers from the
+
+Writing Traditions in Colonial Java / 207
+
+Panaraga area in Algemeen Verslag der Residentie Soerakarta over het jaar 1885, Solo Bundel 4/N, Arsip Nasional Republik Indonesia.
+
+14. See, for example, Politiek Verslag der Residentie Socrakarta 1856, Solo Bundel 1/1; Algemeen Verslag der Residentie Soerakarta 1885, 1886, 1887, 1888, Solo Bundel 4IN-Q. In royal Surakarta of the latter nineteenth century, the suspects belonged to Kraton Surakarta circles. By then the scions of the minor Mangkunagaran principality were considered model colonial vassals. For a considered discussion of the differences between these two royal establishments, see John Pemberton, On the Subject of "Java" (Ithaca: Cornell University Press, 1994), 105-12.
+
+15. The same Resident of Surakarta who continued to send relatively upbeat yearly reports that assured his superiors of the docility of Surakarta's king (Pakubuwana IX) and his Islam apparently confided a rather less sanguine view to an English guest he entertained at the Residency House in 1889. Compare, for example, the official notes of Resident Spaan (served 1884-90) on the tolerant nature of the king's Javanese Islam (Algemeen Verslag der Residentie Socrakarta 1886, Solo Bundel 4/0) with the following notes by Spaan's English visitor: "The city [of Surakarta) is dominated by a fortress almost opposite the Residency, and this would be quite sufficient to quell any disturbances likely to arise in a place rather given to discontent of the Dutch Protectorate, kept alive by the hatred existing in the Emperor's Kraton (or Palace confines) towards the Government, and the constant preaching of the Hadjis, either real or sham ones, who, knowing it will please the Emperor, do what they can to foment sedition. Mr. Spaan is, however, not a man to be trifled with, and the soldiers are ordered out on the slightest provocation, which has a most salutary effect" (Arthur Earle, "A Month in Java in 1889," typescript, 29).
+
+16. See V. J. H. Houben, "Afstand van Gebied met Behoud van Aanzien," M.A.
+thesis, Leiden University, 1976.
+
+17. Under the Cultuur Stelsel, Javanese peasants were forced to plant a certain proportion of their fields with export crops for delivery to the colonial government. This exploitation of native agricultural labor brought enormous amounts of money into the Dutch treasury over the next half century. The net profits from 1831-77 were 832 million guilders. These remittances accounted for 32 percent of Dutch state revenues in the years 1851-60 (Ricklefs, A History of Modern Indonesia, 117).
+
+For more on the colonial project of Javanology. see Kenji Tsuchiya, "Javanology and the Age of Ranggawarsita: An Introduction to Nineteenth-Century Javanese Culture," in Reading Southeast Asia (Ithaca: Cornell University, Southeast Asia Program, 1990).
+See also C. Fasseur, "The French Scare: Taco Roorda and the Origins of Javanese Studies in the Netherlands," in Looking in Odd Mirrors: the Java Sea, ed. V. J. H.
+Houben et al. (Leiden: Vakgroep Talen en Culturen van Zuidoost-Azi¢ en Oceanic Rijksuniversiteit tc Leiden, 1992); my Javanese Literature in Surakarta Manuscripts, vol. 1, introduction and Manuscripts of the Karaton Surakarta (Ithaca: Cornell University, Southeast Asia Program, 1993), 12-14; and the introduction to my Writing the
+
+208 / Cultures of Scholarship
+
+Past, Inscribing the Future: History as Prophecy in Colonial Java (Durham: Duke University Press, 1995).
+
+18. Clifford Geertz, The Religion of Java (Glencoe: Free Press, 1960), 237.
+
+19. For a fuller, and somewhat more complicated, outline of the postcolonial Dutch philological history of Javanese literature, see Theodore G. Th. Pigeaud, Literature of Java, 4 vols. (The Hague: Nijhoff, 1967-80), 1:4-9.
+
+20. Pigceaud, Literature of Java, 1:236.
+
+21. See, for example, the preface to A. B. Cohen Stuart's philological edition and annotated Dutch translation of Yasadipura I's Serat Bratayuda. Yasadipura's text is a Modern Javanese rendering of a twelfth-century Old Javanese classic kekawin which was itself a translation of the climax of the Sanskrit Mahabharata epic. Cohen Stuart's prefatory remarks to his edition of Yasadipura's text abound with apologies to his audience for subjecting them to such decadent, confused, and bastardized material. He mercilessly disparages Yasadipura's comprehension of Old Javanese as well as his literary skills in Modern Javanese (A. B. Cohen Stuart, Brord-Joedd: Indisch Javaansch Heldendich1, Verhandelingen van het Bataviaasch Genootschap van Kunsten and Wetenschappen, vols. 27-28 (Batavia, 1860).
+
+22. For more on the pujongga, see the introduction to my Writing the Past, Inscribing the Future.
+
+23. See Pocrbatjaraka's assessment of Yasadipura's contributions to Javanese literary culture in his historical survey of the literature. A scholar from Surakarta who himself composed a poetic Modern Javanese rendition of another Kawi classic (Serar Smaradhahana [composed Surakarta, 1916; inscribed Surakarta, 1923], MS. SP 169 Ca; SMP KS 431), Poerbatjaraka gratefully acknowledges Yasadipura's role in the transmission of the old literary culture that had been in danger of extinction. But, as a Leiden-trained philologist, Pocrbatjaraka also repeats the negative evaluation initiated by Cohen Stuart of Yasadipura's linguistic (incompetence in the same Old Javanese idiom that he is credited with saving (Kapustrakan Djawi [Jakarta: Djambatan, 1952], 133-48).
+
+24. For a comprehensive introduction to the pesantrén, see Zamakhsyan Dhofier, Tradisi Pesantren (Jakarta: LP3ES, 1982). See also chapter 5 of my Writing the Past, Inscribing the Future.
+
+25. The court poets were not the only ones who enjoyed pesantren educations as part of their preparation for royal service in the late eighteenth and early nineteenth centuries. In his nineteenth-century study of traditional Javanese education, J. F. G.
+Brumond notes that pesantren education was considered normal training for other courtiers of the Surakarta Palace as well (Het Volksonderwijs onder de Javanen [Batavia: Van Haren Noman and Kolff, 1857], 28). And even Javanological philology apparently got its start in the pesantren, for another notable pesanireéen student was G. F. C. Gericke, the German philologist and Bible translator who founded the colonial Institute of Javanese Language in Surakarta in 1834. In 1829, during the Dipanegara War, Gericke joined with candidate courtiers of the Surakarta Palace
+
+210 / Cultures of Scholarship
+
+32. On Yasadipura's role in the founding of the new kingdom, see Sr Radya Laksana (Surakarta: Budi Utomo, 1939).
+
+33. Yasadipura's roles in the political and marital intrigues of the early years of Surakarta are documented in Babad Prayut and Babad Pakepung. both of which he composed or coauthored. Some of those exploits are also outlined in Sasrasumarta's Tus Pajang.
+
+34. Pakubuwana II (1732-88) authored several works. In addition to a literary translation of the kakawin Aryjuna Wiwaha, the king also composed three suluk texts: Suluk Martabat Wahdat Wakidiyat, Suluk Bayan Maot, and Suluk Susmitaning Sanjata Cipta. See my Javanese Literature in Surakarta Manuscripts, 1:234, 260-61, 265.
+
+35. Pakubuwana IV (1768-1820) was himself an accomplished and prolific writer.
+His didactic Wulang Réh is conventionally acclaimed a masterpiece of Javanese writing.
+He wrote a number of other Islamic didactic works, as well as several suluk (Suluk Dhudha, Suluk Purwaduksina, Suluk Dumununging Manah, Suluk Dumununging Toya, Suluk Dumununging Siti, and Suluk saking Kitab Usul-mubin), on these suluk, see ibid, 261-62, 265-66.
+
+36. Babad Kartasura Pacina (composed Surakarta, late eightcenth century; inscribed Surakarta, s.a.), MS. SP 186 Ca-B, SMP KS 43; Babad Giyanti, 21 vols.
+(Batavia: Balai Pustaka, 1937-39); (with R.T. Sastranagara), Babad Prayut (composed Surakarta, late eighteenth century, inscribed Surakarta, 1854), MS. RP B32b, SMP MN 212; Babad Prayut dumugi Pakepung (composed Surakarta, late cightcenth century early nineteenth century, inscribed Surakarta, 1885), MS. SP Uncatalogued, SMP KS 59. For an illuminating analysis of excerpts from Babad Prayut, see Pemberton, On the Subject of "Java", 39-52.
+
+37. R.Ng. Yasadipura I, Serar Ménak, 25 vols., 46 pts. (Batavia: Balai Pustaka, 1933-37). On the censorship, see Poerbatjaraka, Kapustakan Djawi. 149.
+
+38. Ibid.
+
+39. Personal communication, 1.S.K.S. Pakubuwana XII. A talismanic manuscript of the Tajusalatin that is associated with Pakubuwana IH and Pakubuwana IV is still preserved in the library of the Kraton Surakarta (MS. SP 140 Ca; SMP KS 340.1).
+
+40. See Serat Suluk Jaman Karaton-dalem ing Surakarta (compiled Surakarta, 1870; inscribed Surakarta, 1870), MS. SP 244 Na; SMP KS 481, at 190-242, 305-9. On the classification of the Déwaruci as a suluk, see my Writing the Pust, Inscribing the Future, 259-61.
+
+41. For an edition and annotated translation into English of Yasadipura's Cabolétk, see S. Socbardi, The Book of Cabolék (The Hague: Nijhoff, 1975).
+
+42. Punapa malih rasaning kaw / Bima Suci kalawan Wiwaha / pan sami keh sasmitané / ngenting rasaning ngtimu / yen patitis kang mardikani / kadyangga kawi Rama / punika tesawup (Cabolék VIII:6; Socbardi, 114). The translation is my own.
+
+43. In the Cabolék, for example, see VIll:6-7 and 1X:4,6 (Soebardi, 114, 134).
+
+44, Mas Ronggasasmita, Sulwk Acih (compiled Acch, 1815; inscribed Surakarta, 1867), MS. SP 15 Ca; SMP KS 502, at 56.
+
+Writing Traditions in Colonial Java / 213
+
+68. The paper was the Bramartani: it began publication in 1855.
+
+69. For a listing of works attributed to Ronggawarsita,. see Simuh, Mistik Islam Kejawen Raden Ngabehi Ranggawarsita (Jakarta: University of Indonesia Press, 1988), 51-52; and Anjar Any, Raden Ngabehi Ronggowarsito: Apa Yang Terjadi?, 114-16.
+
+70. See Serat Bratayuda Kawi mawi Jarwa sarwi Pikajengipun (composed Kedin, 1157, and Surakarta, mid-nineteenth century; inscribed Surakarta [by Ronggawarsita?], mid-nineteenth century), MS. RP D 6; SMP MN 472.
+
+71. For a good introduction to Ronggawarsita's Pustaka Raja, see Laure Sears, Shadows of Empire: Colonial Discourse and Javanese Tales (Durham: Duke University Press, 1996), chap. 3.
+
+72. Notable among these compositions are his macapas histories Serat Witaradyva (which he coauthored with "Pris Winter" [F. L. Winter?] and Serat Cemporet. For a sensitive reading of Serat Cemporet, see A. Day, "Ranggawarsita's Prophecy of Mystery." in Moral Order and the Question of Change: Essays on Southeast Asian Thought, ed. David K. Wyatt and Alexander Woodside (New Haven: Yale University, Southeast Asia Studies. 1982). 194-217.
+
+73. Serat Tapel Adam (composed and inscribed Surakarta, 1864/65), MS. SP 115 Na, SMP KS 9.1; Serat Kaol saking Kitab Musarar (composed and inscribed Surakarta, [1864/65]), MS. SP 115 Na, SMP KS 9.2.
+
+74. Among these. Suluk Saloka Jiwa and Suluk Suksmalelana.
+
+75. That is, the Wirit Hidayat Jani. For text, Indonesian translation, and analysis, see Simuh, Mistik Islam Kejawen R. Ng. Ranggawarsita.
+
+76. Serat Cakrawarti (composed and inscribed Surakarta, 1843/44), MS. RP 1 9 and I 10, SMP MN 2-3.
+
+77. Al Qur'An (inscribed Surakarta (by R.Ng. Ronggawarsita?], mid to late ninetcenth century), MS. RP Ala; SMP MN 300. The handwriting of the manuscript, a translation into Javanese prose of the Qur'in, is very similar to that of the pujongga Ronggawarsita.
+
+78. For text and translation of the Seras Kalatidha, see J. Joseph Errington, "To Know Oneself the Troubled Times: Ronggawarsita's Serat Kala Tidha," in Writing on the Tongue, ed. A. L. Becker (Ann Arbor: University of Michigan, Center for South and Southeast Asian Studies, 1989), 85-138. For a note on its intertextual composition, see the introduction to my Writing the Past, Inscribing the Future.
+
+79. See, for example, R.Ng. Ronggawarsita, Serat Pustaka Raja Madya: Jayabaya (composed Surakarta, mid-nineteenth century; inscribed Surakarta, mid to late nineteenth century), MS. RP D 128; SMP MN 15, at 456 verso-475 verso. See also R.Ng.
+Ronggawarsita's draft autograph manuscript, Serat Jangka Jayabaya tuwin Lambanging Nagari akaliyan Lambanging Para Ratu (composed Surakarta, mid-nineteenth century: inscribed Surakarta, s.a.), MS. Museum Radyapustaka [henceforth Rp), Uncatalogued; SMP Rp 370.
+
+80. For the Centhini's Jayabaya prophecy, see Serat Centhini: Suluk Tambangraras, ed. Karkono K. Partokusumo,. 3:342-46;, 4:1-6; see also 4:125-28. The Centhini
+
+214 1 Cultures of Scholarship
+
+version is itself adapted from earlier prophecies of Java's past and future, notably the carly eighteenth-century Pralambang text edited, translated, and analysed by J. Brandes in his "lets over een Ouderen Dipanegara in Verband met een Prototype van de Voorspellingen van Jayabaya," Tijdschrift voor Nederlandsch-Indie 32 (1889); 368430.
+
+81. Snouck Hurgronje, Adviesen van Snouck Hurgronje 1889-1936, ed. E. Gobee and C. Adriaanse (The Hague: Nijhoff, 1959), 2:1222-23.
+
+82. See note 21.
+
+REFERENCES
+
+Anderson, Benedict. "Professional Dreams: Reflections on Two Javanese Classics." In id., Language and Power: Exploring Political Cultures in Indonesia. Ithaca: Cornell University Press, 1990.
+
+---, ed. and trans. "The Suluk Gatoloco: Pans One and Two," Indonesia 32 (October 1981): 109-50; 33 (April 1982); 31-88.
+
+Anjar Any. Raden Ngabehi Ronggowarsito: Apa Yang Terjadi? Semarang: Ancka, 1980.
+
+Babad Sengkala kang Kaurut saking Kagungan-dalem Serat Babad. (Composed and inscribed Surakarta, ca. 1830-38). MS. Sasana Pustaka, Karaton Surakarta (henceforth SP) 6 Ta; Surakarta Manuscript Project (henceforth SMP) Karaton Surakarta (henceforth KS) 1C.7.
+
+Benda, H. J. "Christian Snouck Hurgronje and the Foundations of Dutch Islamic Policy in Indonesia," Journal of Modern History 30, no. 4 (1958); 338-47.
+
+Brandes, J. "lets over een Ouderen Dipanegara in Verband met een Prototype van de Voorspellingen van Jayabaya," Tijdschrift voor Nederlandsch-Indie 32 (1889): 368-430.
+
+Brumond, J. F. G. Het Volksonderwijs onder de Javanen. Batavia: Van Haren Noman and Kolff, 1857.
+
+Cohen Stuart, A. B. Ardrd-Joedd, Indisch Javaansch Heldendicht, Verhandelingen van het Bataviaasch Genootschap van Kunsten and Wetenschappen. Vols. 27-28.
+Batavia, 1860.
+
+Couperus, Louis,. The Hidden Force, trans. Alexander Teixeira de Mattos, rev. and ed.
+E. M. Beekman. Amherst: University of Massachusetts Press, 1985.
+
+Day, A. "Islam and Literature in South-East Asia." In Islam in South-East Asia, ed.
+M. B. Hooker. Leiden: Brill, 1983.
+
+---. '"Ranggawarsita's Prophecy of Mystery." In Moral Order and the Question of Change: Essays on Southeast Asian Thought, ed. David K. Wyatt and Alexander Woodside. New Haven: Yale University, Southeast Asia Studies, 1982.
+
+Dhofier, Zamakhsyari. Tradisi Pesantren. Jakarta: LP3ES, 1982.
+
+216 / Cultures of Scholarship
+
+Pakubuwana I1, 1.S.K.S. Serat Wulang-dalem Sampéyan-dalem Ingkang Sinuhun Kangjeng Susuhunan ingkang kaping II. Composed [Panaraga, 1742]; inscribed Surakarta (1841 and 1885/6]. MSS. SP Uncatalogued; SMP KS 337.15 and SP 210 Na-B; SMP KS 367.
+
+Pakubuwana IX, LS.K.S. Wulang Putra [composed 1876]. In Serat Wira Iswara. Jakarta: Balai Pustaka, 1979.
+
+Pemberton, John. On the Subject of "Java". Ithaca: Cornell University Press, 1994,
+
+Pigeaud, Theodore G. Th. Literature of Java. 4 vols. The Hague: Nijhoff, 1967-80.
+
+Poensen, C. Brieven over den Islam. Leiden: Brill, 1886.
+
+Poerbatjaraka, R.M.Ng. Kapustakan Djawi. Jakarta: Djambatan, 1952.
+
+. Serat Smaradhahana. Composed Surakarta, 1916; inscribed Surakarta, 1923.
+MS. SP 169 Ca; SMP KS 431.
+
+al Qur'in. Inscribed Surakarta [by R.Ng. Ronggawarsita?, mid to late nineteenth century}. MS. RP Ala; SMP MN 300.
+
+Raffles, Sir Thomas Stamford. The History of Java. 2 vols. London: Black, Parbury and Allen, 1817. (Reprint, London: Oxford University Press, 1965.)
+
+Ricklefs, M. C. A History of Modern Indonesia. London and Basingstoke: Macmillan, 1981.
+
+Ronggasasmita, Mas. Seras Walisana. Composed Surakarta, early nineteenth century;
+
+inscribed Surakarta, 1899. MS. SP 11 Ca; SMP KS 28.
+. Suluk Acih. Composed Aceh, 1815; inscribed Surakarta, 1867. MS. SP 15 Ca;
+
+SMP KS 502.
+
+Ronggawarsita, R.Ng. Serat Cakrawarri. Composed and inscribed Surakarta, 1843/44.
+MS. RP I 9 and I 10; SMP MN 2-3.
+
+. Serat Jangka Jayabaya tuwin Lambanging Nagari akaliyan Lambanging Para
+
+Ratu. Composed Surakarta, mid-nineteenth century; inscribed Surakarta by R. Ng.
+
+Ronggawarsita, s.a MS. Rp [Museum Radyapustaka) Uncatalogued; SMP RP
+
+[Radyapustaka) 370.
+
+. Serat Kaol saking Kitab Musarar Composed and inscribed Surakarta,
+
+[1864/65]. MS. SP 115 Na; SMP KS 9.2.
+
+. Serat Pustaka Raja Madya: Jayabaya. Composed Surakarta, mid-nineteenth
+
+century; inscribed Surakarta, mid to late nineteenth century. MS. RP D 128; SMP
+
+MN 15.
+
+. Serat Tapel Adam. Composed and inscribed Surakarta, 1864/65. MS. SP 115 Na; SMP KS 9.1.
+
+Sartono Kartodirdjo. The Peasants' Revolt of Banten in 1888. The Hague: Manunus Nijhoff, 1966.
+
+. Protest Movements in Rural Java. Kuala Lumpur: Oxford University Press, 1973.
+
+Sasrasumarta, R., et al. Tus Pajang: Péngetan Lalampahanipun Swargi R.Ng.
+Yasadipura I, Abdi-dalem Kaliwon Pujongga ing Surakarta Hadiningrat. Surakarta: Budi Utomo, 1939.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Writing Traditions in Colonial Java / 217
+
+Sears, Laurie. Shadows of Empire: Colonial Discourse and Javanese Tales. Durham: Duke University Press, 1996.
+
+Sedhah, Empu, and R.Ng. Ronggawarsita. Serat Brutayuda Kawi mawi Jarwa sarwi Pikajengipun. Composed Kedin 1157 and Surakarta, mid-nineteenth century; inscribed Surakarta (by Ronggawarsita?], mid-nineteenth century. MS. RP D 6; SMP MN 472.
+
+Serat Centhini: Suluk Tambangraras, ed. Karkono K. Partokusumo. 12 vols.
+Yogyakarta: Yayasan Centhini, 1985-91.
+
+Serat Darmagandhul. Composed [Kedhiri, late nineteenth century); inscribed Surakarta, 1921. MS. SP 132 Ca; SMP KS 517.
+
+Serat Suluk Jaman Karaton-dalem ing Surakarta. Compiled Surakarta, 1870; inscribed Surakarta, 1870. MS. SP 244 Na; SMP KS 481.
+
+Simuh. Mistik Islam Kejawen Raden Ngabehi Ranggawarsita. Jakana: University of Indonesia Press, 1988.
+
+Snouck Hurgronjc, C. The Achehnese. Vol. 2. Leiden: Brill, 1906.
+
+. Adviesen van Snouck Hurgronje, 1889-1936, ed. E. Gobee and C. Adriaanse.
+Vol. 2. The Hague: Nijhoff, 1959.
+
+Soebardi, S. The Book of Cabolék. The Hague: Nijhoff, 1975.
+
+. "Santri Religious Elements as Reflected in the Book of Tjentini." BK/ 127 (1971): 331-49.
+
+Socwignja. R. Poerwa, and R. Wirawangsa. Pratélan Kawontenaning Boekoe-boeckoe Basa Djawi. 2 vols. Batavia: Ruygrok, 1920-21.
+
+Sri Radya Laksana. Surakarta: Budi Utomo, 1939.
+
+Sumahatmaka, R.M.Ng. Ringkasan Centini (Suluk Tambangraras). Jakarta: Balai Pustaka, 1981.
+
+Tsuchiya, Kenji. "Javanology and the Age of Ranggawarsita: An Introduction to Nineteenth-Century Javanese Culture." In Reading Southeast Asia. Ithaca: Cornell University, Southeast Asia Program, 1990.
+
+Winter, C. F. Javaansche Zamenspraken. Vol. 1. Amsterdam: Johannes Muller, 1882.
+Originally published in 1848.
+
+Yasadipura I, R. Ng. Babad Giyanti. 21 vols. Batavia: Balai Pustaka, 1937-39.
