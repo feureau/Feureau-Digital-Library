@@ -1,6 +1,17 @@
 # Writing Traditions in Colonial Java: The Question of Islam
 By Nancy Florida
 
+<!-- TOC START min:2 max:6 link:true update:true -->
+  - [Islam Observed in Colonial Java](#islam-observed-in-colonial-java)
+  - [Colonial Oversights and the Renaissance of Javanese Culture in Nineteenth-Century Surakarta](#colonial-oversights-and-the-renaissance-of-javanese-culture-in-nineteenth-century-surakarta)
+  - [A Santri Family: The Pujonggas of the Kraton Surakarta](#a-santri-family-the-pujonggas-of-the-kraton-surakarta)
+  - [Glossary](#glossary)
+  - [The Yasadipura Pujongga Family](#the-yasadipura-pujongga-family)
+  - [Notes](#notes)
+  - [References](#references)
+
+<!-- TOC END -->
+
 The category of "native Islam" posed a problem for the colonial Europeans who ruled Java in the latter part of the nineteenth century. Islam, as an alternative center of authority for those millions of colonial subjects who professed it, was, not surprisingly, apprehended as a potential threat to the continued European domination of the island. In the face of this perceived threat, a conventional colonial defense was to refuse, that is, to deny and divert, the reality of the Islamic professions that issued from the mouths and actions of the Javanese faithful. Although "the Javanese" might believe themselves Moslems, and although their public, external practices often appeared to confirm these professions of faith, colonial authorities wished to disaffirm this apparent truth.
 
 Colonial scholarship on "the Javanese" was thus often propelled by a desire to penetrate the private, inner recesses of native subjects in order to observe the presupposed falsity of these subjects' Moslem claims and professions. The quality of their Islam thought to be diluted by a continuing adherence to older indigenous and Hindu-Buddhist belief complexes, syncretic Javanese Moslems were seen as somehow different from other (truer) Moslems. "No, these are not real Mohammedans," claimed those wishful colonial overlords, who asserted that, underneath and inside, the docile (Hindu-Buddhist) Javanese essences of their subjects remained untouched by the thin Islamic veneer that sometimes seemed to embody them.<sup>1</sup> And nowhere did this non-Islamic essential Javaneseness appear more evident to imperial eyes than in the royal palaces, or kratons, of the Central Javanese heartland. This paper examines both the colonial interest in establishing the palaces as exemplary centers of non-Islamic essential Javaneseness and the literary activities in one of those palaces that quietly circumvented that interest.
