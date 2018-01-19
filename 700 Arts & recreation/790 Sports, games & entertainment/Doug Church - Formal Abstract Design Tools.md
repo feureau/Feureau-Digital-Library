@@ -1,5 +1,21 @@
 #Formal Abstract Design Tools
 by Doug Church, July 16, 1999
+<!-- TOC START min:2 max:6 link:true update:true -->
+  - [How Do We Talk About Games?](#how-do-we-talk-about-games)
+  - [A Language Without Borders](#a-language-without-borders)
+  - [Let's Create a Design Vocabulary — What Could Possibly Go Wrong?](#lets-create-a-design-vocabulary--what-could-possibly-go-wrong)
+  - [Tools Would Be Useful — Where Do We Find Them?](#tools-would-be-useful--where-do-we-find-them)
+  - [Mario 64 Game Play](#mario-64-game-play)
+  - [Great! But I'm Not Writing Mario 64. I Mean, It's Already Been Written.](#great-but-im-not-writing-mario-64-i-mean-its-already-been-written)
+  - [Same Tools, Different Games](#same-tools-different-games)
+  - [Same Game, Different Tool](#same-game-different-tool)
+  - [Using Multiple Tools: Cooperation, Conflict, Confusion](#using-multiple-tools-cooperation-conflict-confusion)
+  - [Concrete Cases of Multiple Tool](#concrete-cases-of-multiple-tool)
+  - [Tool-Based Analysis](#tool-based-analysis)
+  - [Ahhh, So What?](#ahhh-so-what)
+
+<!-- TOC END -->
+
 
 What is a modern computer game made of? It fuses a technical base with a vision for the player's experience. All of the disciplines involved (design, art, audio, levels, code, and so on) work together to achieve this synthesis.
 

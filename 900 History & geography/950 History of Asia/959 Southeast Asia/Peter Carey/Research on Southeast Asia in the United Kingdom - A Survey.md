@@ -1,4 +1,4 @@
-# Research On South-East Asia In The United Kingdom: Survey
+# Research On South-East Asia In The United Kingdom: A Survey
 by P.B.R. Carey  
 Trinity College, Oxford
 
@@ -59,7 +59,7 @@ There are currently only two tenured historians with major research interests in
 
 2. **Dr Peter Carey**, Fellow and Tutor in Modern History, Trinity College, Oxford, who is working on late eighteenth and early nineteenth-century Javanese history.
 
-However, it should be pointed out that the latter's post is not specifically earmarked for South-East Asian history, and that interest in the region in Oxford will lapse when he either leaves big post or takes early retirement (in the mid-1990s) and that Dr Watson's training was as an anthropologist, and the main focus of his work is on social change in contemporary Indonesia not on modern history per se.
+However, it should be pointed out that the latter's post is not specifically earmarked for South-East Asian history, and that interest in the region in Oxford will lapse when he either leaves his post or takes early retirement (in the mid-1990s) and that Dr Watson's training was as an anthropologist, and the main focus of his work is on social change in contemporary Indonesia not on modern history per se.
 
 There is now one Research Fellow in post working on modern Indonesia:
 
