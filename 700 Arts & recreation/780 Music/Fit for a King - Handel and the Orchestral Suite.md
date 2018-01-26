@@ -17,7 +17,7 @@ Like many other Baroque orchestral suites, Water Music Suite No. 1 in F Major be
 ## The Art of Improvisation
 
 The second movement (“Adagio et staccato”) provides a chance for the oboe soloist to demonstrate the art of improvisation, another important aspect of Baroque performance practice. For this movement, Handel wrote a very simple melody, one that intentionally provides a soloist with ample space and a framework in which to add ornamentation. The example below shows an excerpt of the oboe part that Handel wrote for this movement on the bottom staff. The top staff is a transcription of what Jonathan Kelly, principal oboe with the Berliner Philharmoniker, played in the full performance you heard excerpted in the video for this module. As you can see, he played many more notes than just those included in the score.
-
+![Fit for a King - Handel and the Orchestral Suite - The Art of Improvisation](700 Arts & recreation/780 Music/img/Fit for a King - Handel and the Orchestral Suite - The Art of Improvisation.gif)
 ## Enter the Horns
 
 The third movement is particularly dramatic, as it signals the first entrance of "hunting" horns in the piece. Even more extraordinary, according to Baroque music specialist Anthony Hicks, is that the piece marks the horn’s first appearance in any orchestral work in England. You’ll recall that the first performance of the work took place outdoors on the Thames River. As the horn was originally intended for outdoor use, the instrument was perfectly suited to the occasion. Handel’s idiomatic writing showcases the horn's abilities to the fullest. As the horns are also featured prominently in several subsequent movements, this particular suite is indeed often referred to as the “Horn” Suite.
