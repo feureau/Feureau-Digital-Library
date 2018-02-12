@@ -1,5 +1,11 @@
 #Writing The Past Inscribing The Future: History as Prophecy in Colonial Java
 by Nancy Florida
+<!-- TOC START min:2 max:6 link:true update:true -->
+  - [Acknowledgments](#acknowledgments)
+  - [A Note On Manuscripts Spelling Pronunciation And Translation](#a-note-on-manuscripts-spelling-pronunciation-and-translation)
+
+<!-- TOC END -->
+
 
 ## Acknowledgments
 
@@ -250,7 +256,7 @@ _ awdCn
 
 � R :3 Q '. � � a 1 s -m f <> for JAvA SEA "J_ netmaie
 
-&e" C --~ RAZER _- 3 ( N D |A N OCLC A K C- 'lonus ,-~~* ,~
+&e" C --~ RAZER - 3 ( N D |A N OCLC A K C- 'lonus ,-~~* ,~
 
 SSS 2 o {/ mao
 
@@ -1153,3 +1159,456 @@ Such reading has the potential to transform these curiously neglected
 texts-these laid-by works-into contexts for change. To read the texts means to "dare to try to comprehend" them, that is, actively to work through possibilities with them, possibilities that call into question an adiluhung aesthetics that suppresses historical sense. To do this is also to challenge the dominant assumptions of historiography. Reading the texts of tradition just might mean, then, looking forward to a kind of writing (somewhat akin to the writing of a Javanese pujongga) that could inscribe a very different future for Javanese history.
 
 51 ON THE POSSIBILITIES OF READING IN JAVA
+
+CHAPTER 1 THE WRITING OF A HISTORY
+
+The writing of any history takes place in history and is itself, then, a kind of historical event. Traditional Javanese historical writing, I would argue, is a practice more self-consciously aware of this truism than is the practice of writing history in the post-Enlightenment West. The post-Enlightenment historical project is conventionally understood as the objective representation of past events as framed and explained by the historical contexts in which those events are construed to have "really" occurred. Such a historical project is premised on the assumed absolute alterity of a positively dead past, a past which is there to be known and faithfully reconstructed in
+
+writing by "objective scientists" who themselves exist (miraculously) in a place which itself seems outside history." Traditional Javanese historical writing appears to have been a significantly different project with a significantly different relation to the past. Recognizing the presence of living pasts in the historically becoming presents in which they wrote, the writers of traditional histories in Java understood the inscription of these texts as historical events, and the texts themselves as potential contexts.
+Recognizing their own historical agency, these Javanese historians could, then, self-consciously employ traditional conventions of writing to effect a transformation of tradition itself. That is, such traditional Javanese historical writing, because it was self-consciously written in and of history, was capable, at times, of rewriting the conditions of its own production.
+What, then, do we know of the history of the writing of Babad Jaka Tingkir? What kind of historical event does its inscription compose? How is the text of Tingkir situated as a writing of history? What manner of
+
+1. See Michel de Certeau, The Writing of History (New York: Columbia University Press, 1988), pp. 1-6.
+
+historical agent actually wrote this remarkably untypical traditional text?
+In this chapter, we will turn to the actual manuscript of Babad Jaka Tingkir to begin to address these questions.
+
+In original manuscript there survives but a single witness of this unique telling of a Javanese past. This surviving manuscript witness is inscribed and bound into the end of a volume that is now stored in the library of the senior palace of Surakarta. That volume, titled Kupiya Iber Warni-warni Sampéyan-dalem kaping VI ("Copies of the Miscellaneous Correspondence of His Majesty the Sixth"; hereafter: His Majesty the VI's Correspondence),* appears a diplomatic archive associated with Pakubuwana VI, the Surakarta king who vanished into exile in 1830. How, then, does Babad Jaka Tingkir, this history of a legendary hero of the sixteenth century, belong to the correspondence of an exiled nineteenth-century king? To
+
+begin to answer this question I turn now to sketch a very brief history of that exiled king's life and times.
+
+I.S.K.S. Pakubuwana VI
+
+Born in 1807 to a secondary wife of Pakubuwana V, Pakubuwana VI was the ruler of the Kraton Surakarta from 1823 to 1830. He was not, apparently, a particularly popular monarch. Elevated to the throne when he was only sixteen years old, at least in part by the machinations of his foster
+
+2. Kupiya Iber Warni-warni Sampéyan-dalem kaping VI (composed Surakarta and Ambon, 1812-48; inscribed [Ambon], ca. 1849). MS. SP 214 Ca; SMP KS 78. Microfilm copies of this manuscript, filmed under the auspices of Cornell University Southeast Asia Program's Surakarta Manuscript Project, are available for reading at the Kraton Surakarta, the National Archives of the Republic of Indonesia, and Cornell University Library (SMP cat. no. KS 78; reel nos. 224/1 and 104/1).
+
+The library of the Sekolah Tinggi Seni Indonesia (S.T.S.1.) owns a photostatic copy of
+
+the portion of the original Kraton manuscript in which the babad is inscribed, a copy acquired by purchase from one Moelyono Sastronaryatmo, a Surakarta manuscript
+
+cullector. Moelyono published a transliteration and Indonesian paraphrase of the babuad under the auspices of the Indonesian Ministry of Education and Culture's Project for the Publication of Indonesian and Regional Literary Works (Babad Jaka Tingkir Babad Pajang, ed. Moelyono Sastronaryatmo [Jakarta: Departemen Pendidikan dan Kebudayaan, Proyek Penerbitan Buku Sastra Indonesia dan Daerah, 1981]). Unfortunately, Moelyono's transliteration is less than flawless. For another transliteration of this MS, see my "Writing the Past, Inscribing the Future: Exile and Prophecy in an Historical Text of Nineteenth-Century Java," vol. 1.
+
+53 THE WRITING OF A HISTORY
+
+father, the powerful Grand Vizier Sasradiningrat II (dates of office, 181246), the young king proved somewhat less tractable than his elders might
+
+have wished. A restless figure, the king (often appearing in Dutch dress, to the dismay of his colonial "guardians") was, it seemed to his detractors, all too often on the road.> Of the king's "dressing Dutch" and his incessant travel, Lieutenant Governor General H. M. de Kock complained: "[he
+
+frequently goes off fishing and hunting, and often dresses up as a European, and has recently had the queen dress likewise; so that it can be said of him that he is doing whatever possible to make himself unpopular. A Mohammedan despot (Mohamedaansch despoot) must, if he is to inspire honor and respect, show himself little outside his Kraton."* Apparently the restless young king-who would not conform to the Dutch ideal of the "Mohammedan despot"-was an avid reader, especially of "traditional Javanese histories"; and it seems he was an accomplished writer as well.
+Of Pakubuwana VI's literary prowess, the hostile de Kock reported: "The
+
+Emperor has little natural intellect, and yet he has picked up an extensive
+
+knowledge of Javanese historical traditions (gebruiken); he writes fluently /smartly (viug), and he has read extensively."" Pakubuwana VI was known to perform occasionally as dhalang, or shadow-puppet master,*® and to waltz poorly."
+
+Pakubuwana VI ascended to the throne in September 1823, shortly after his father's untimely death and the notorious canceling of land rentals in the Principalities-and a scant year and a half before Prince
+
+Dipanagara, elder statesman of the Yogyakarta Palace (Central Java's other royal city), went into open rebellion against the encroachments of colonial domination. At the time of the outbreak of the Dipanagara War in
+
+3. For a chronicle of Pakubuwana VI's movements, see especially Babad Sengkala kang kaurut saking Kagungan-dalem serat Babad (composed and inscribed Surakarta, [ca.
+1831, 1847]) MS. SP 6 Ta; SMP KS 1C.7, part 2, pp. 129-61.
+
+4. H. M. de Kock, "Beschrijving van het karakter en de hoedanigheden van den Keizer de Prinsen en de Rijksbestierder van Socrakarta," 1829. Solo Bundel 166, Arsip Nasional Republik Indonesia.
+
+5. Ibid.
+
+6. Algemeen Rijksarchief (The Hague) [ARA], Coll. H. M. de Kock no. 24, Resident Solo H. MacGillavry aan de Gouverneur-Generaal, 11 January 1826, and Babad Sengkala kang kaurut saking kagungan-dalem serat Babad, p. 89.
+
+7. "Journal of an Excursion to the Native Provinces on Java in the year 1828, during the war with Dipo Negoro," Journal of the Indian Archipelago and Eastern Asia 7 (1853):17.
+
+54 CHAPTER ONE
+
+May 1825, Surakarta's king was barely eighteen years old. The popular Prince Dipanagara garnered a broad base of support for his rebellion: with the aid of a number of other aristocrats (including some from Surakarta) and with the extremely important backing of a powerful network of rural Islamic teachers, he earned the allegiance of a large number of ordinary villagers to his cause. The Dipanagara War, which was to rage for five long years, posed a serious threat to Dutch power in Java and marked the last stand of indigenous royal power against Dutch colonial hegemony. Where did the young Pakubuwana VI stand in this struggle? Although ostensibly supporting his Dutch overlords against the rebels, Surakarta's king was known to have sympathized with, and likely to have secretly assisted, the rebellious Dipanagara."
+
+The war ended in the spring of 1830, when the Dutch finally captured Dipanagara (in the course of ostensible negotiations) and straightway exiled him to Menado and then on to Makassar. After finishing with Dipanagara, the colonial authorities turned to settle with their putative ally, Pakubuwana VI. The victorious Dutch shocked their shifty comrade
+
+in arms by annexing all the outer districts (mancanagara) of both the
+
+Surakarta and Yogyakarta courts. This act provoked the young Pakubuwana to action; he protested the annexation by withdrawing secretly to
+
+the tombs of his ancestors and to the magical embrace of his spiritual consort. Almost certainly preparing for armed rebellion, the twentythree-year-old Pakubuwana VI was arrested in June 1830 on Java's south8. Pakubuwana VI was long suspected of disloyalty to the Dutch colonial government.
+See, for example, Nahuys aan den Minister van Staat, Sourakarta den 28 November 1828, LH.H. (Geheim); Missive van den Komissams Generaal, den 17 Maart 1829 LtP (Geheim); Notes and report of Bousquet on the letter of 17 March 1829, Batavia den 28 Maart 1829, L'H (Geheim) and L'Q (Geheim); all in Solo Bundel 127, Arsip Nasional Republik Indonesia. See also Baron Nahuys van Burgst, Herinneringen uit het Openbare en Bijzondere Leven (Utrecht, 1852), p. 149 ff.; "Journal of an Excursion to the Native Provinces on Java in the year 1828, during the war with Dipo Negoro," Journal of the Indian Archipelago and Eastern Asia 8 (1854):87; and P. B. R. Carey, Babad Dipanagara: An Account of the Outbreak of the Java War, 1825-1830 (Kuala Lumpur: Malaysian Branch of the Royal Asiatic Society, 1981), pp. 292-93. Recently published in Surakarta was a poorly documented volume inscribing Surakarta (court) oral traditions concerning the role of Pakubuwana VI as a partisan of Dipanagara in the war (Sunar Tri Suyanto, Pahlawan Kemerdekaan Nasional Rl: Sinuhun Banguntapa [Surakarta: Tiga
+
+Serangkai, 1984]).
+
+5§ THE WRITING OF A HISTORY
+
+ern coast where he was communing with the spirit Queen of the South
+
+Sea." The young king was deposed and exiled to the remote island of Ambon, located across a great expanse of ocean some 1,200 miles to the east of Central Java. Joining the young ex-king in exile were his favorite wife, Ratu Anom, one of his young daughters, and a tiny handful of faithful retainers.
+
+With the exile of Pakubuwana VI and the ascension to the throne of his
+
+Dutch-favored uncle, Prince Purbaya, as Pakubuwana VII (r. 1830-58), whatever vestiges of political power the Surakarta rulers had managed to retain were finally lost. But at war's end, it was not just the ruling elite who suffered: five years' warfare had brought devastating losses to the people of Central Java. At a time when the population of the entire island of Java numbered but seven million souls, the war had claimed well over 200,000 Javanese lives; Yogyakarta's population was reduced by half."" After the war the Javanese peasantry, under the notorious Cultuur Stelsel, would be pressed into the forced cultivation of export crops, the profits of
+
+whose sale would go into the Dutch colonial treasury. The year 1830 is, then, a watershed year in Javanese history, marking the final end of indigenous royal political power, the defeat of the last serious military challenge to Dutch authority on the island (prior to the Indonesian national revolution), and the beginning of high colonialism in Java." Pakubuwana VI was never allowed to return to Surakarta; he died in
+
+exile in 1849 at the age of forty-two." His remains were not returned to
+
+9. The beach where the king was arrested is Parang Tritis, gateway to the watery abode of Kangjeng Ratu Kidul, spirit Queen of the South Sea and queen (serially) to all the rulers of Mataram. For more on Ratu Kidul, see my "The Badhaya Katawang: A Translation of the Song of Kangjeng Ratu Kidul," Indonesia 53 (April 1992):20-32. For an account of the arrest, see Nahuys van Burgst, Herinneringen uit het Openbare en Bijzondere Leven, pp. 173-85. and Nahuys aan den Gouverneur Generaal, Soerakarta den 10 June 1830 (Secreet H: 80) in Solo Bundel 153, Arsip Nasional Republik Indonesia.
+
+10. Ricklefs, A History of Modern Indonesia, p. 113.
+
+11. For a fine political history of the transitions in the Vorstemlanden, or Principalities, at the end of the Dipanagara War with the contracts of 1830, see the recent works of V. J. H. Houben: "Afstand van Gebied met Behoud van Aanzien" and "Kraton en Kumpeni."
+
+12. There remain questions surrounding the circumstances of Pakubuwana VI's death.
+Based upon an examination of the late king's skull, G. P. H. Djatikusumo holds that Pakubuwana VI died from a gunshot wound to the head ("Sedjarah Politik ingkang
+
+56 CHAPTER ONE
+
+Java until 1957-after the Indonesian Republic had won its independence from the Dutch. In December 1830, six months after his arrest, a son was born to the exiled king by one of the queens he had left behind in Surakarta. That son, who was never to see his father, eventually succeeded to the throne of the Kraton as Pakubuwana IX (r. 1861-93). Over a century after his death, Pakubuwana VI was proclaimed a "Hero of Indonesian
+
+National Independence" by presidential decree in 1964.
+
+Babad Jaka Tingkir, item number sixty-three of the sixty-three items composing His Majesty the VI's Correspondence, somehow belongs to the documentary archive of this Hero of Indonesian National Independence.
+What manner of royal correspondence is compiled in this volume? In
+
+addition to the Tingkir history, the volume comprises a collection of letters and treaties (dated 1812-48) that appear to have been copied from documents in the Kraton Surakarta archives, the genealogy of a certain Sarifi Ibrahim Madyakusuma, two pages of captioned pen and ink drawings, and a single page noting that "this is a commemoration of His Majesty's dream . . ." This chapter explores historically the nature of this
+
+volume of "His Majesty the VI's Correspondence [or dream]."
+
+The Manuscript
+
+His Majesty the VI's Correspondence in manuscript measures 34.5 X 22 cm. and numbers some 304 pages (152 leaves, double-page numbered).
+A single hand, aside from a few duly noted exceptions, inscribes the entire manuscript. That hand writes in a cursive style that was prevalent in and around Surakarta around the middle of the nineteenth century. The
+
+hand appears to have been a fluent and practiced one (figure 4). The
+
+Sinuhun Kangeng Susuhunan Pakubuwana VI," 3 October 1971). According to a
+
+Kraton babad, the exiled king's death was the result of an illness brought on from a horse-cart accident in February 1849 (Serat Babat Sampéyan-dalem ingkang Sinuhun
+
+Kangeng Susuhunan Pakubuwana kaping VI: Sri Naluri [composed Surakarta, 1906; inscribed Surakarta, ca. 1906]. MS. SP 177 Ca; SMP KS 80, pp. 220-21). Day cites a letter from Raden Ayu Timur, the king's daughter who followed him in exile, to his brother K.P.H. Natadiningrat, attributing the death to a "lung infection" ("Meanings of Change," p. 156, note 101).
+
+13. For more on Pakubuwana VI's exile, and on the accession to the throne of his son, see Day, "Meanings of Change," pp. 78-163.
+
+§7 THE WRITING OF a HISTORY
+
+original text is preceded by a five-page table of contents inscribed in a different (likely later nineteenth-century) hand. The spelling and punctuation of the manuscript are consistent with nineteenth-century Surakarta conventions.'* The manuscript is inscribed upon relatively lightweight European paper. There is no watermark. The leaves are brittle, and some are torn. Relatively mild ink bleed-through has perforated a number of the leaves.
+
+The manuscript's binding is distinctive: the boards are covered with plain white cloth; the spine, with red velvet. The bound volume thus evokes the red and white gula-kelapa (sugar-coconut) motif of the royal flags of Java." This use of the gula-kelapa motif in book binding is rare. In all the Surakarta repositories, I found only one other manuscript thus bound.'* That other manuscript, also housed in the Kraton Surakarta
+
+library, resembles His Majesty the VI's Correspondence in other ways as
+
+well. The scripts and the papers of both manuscripts, though not identical, are remarkably similar. And, as it turns out, this other gula-kelapa
+
+manuscript is also associated with the exiled Pakubuwana VI. Inscribed on its cover is the title: Serat Rama: Tilaran-dalem Sampéyan-dalem 1.S.K.S.
+
+Pakubuwana kaping VI ("The Book of Rama: Legacy of H.R.H. Pakubuwana VI"). The manuscript is a copy of Yasadipura's late-eighteenthcentury macapat Serat Rama, which-though written in a Surakarta script, and stored in the library of the Surakarta Palace-was produced on the island of Ambon. The copy was commissioned by the exiled Pakubuwana VI in May 1846," some three years prior to his June 1849 death.
+
+14. See figures 4-5 for reproductions of MS. pp. 39verso and 152 recto, the first and last pages respectively of Babad Jaka Tingkir.
+
+15. According to Kraton Surakarta sources, the gula-kelapa flag motif dates from the kingdom of Majapahit and symbolizes the fertile union of male (white) and female (red) principles. In modern times, this motif has been taken over by the national flag of Indonesia: Sang Merah Putih.
+
+16. R.Ng. Yasadipura 1, Serat Rama: Tilaran-dalem Sampéyan-dalem 1.S.K.S. Pakubuwana kaping VI (composed Surakarta, late 18th century; inscribed Ambon, 1846). MS.
+SP 106 Ca; SMP KS 428.
+
+17. The manuscript opens in Dhangdhanggula: "Wedharing tyas, anénélad sungging / amituhu ing sabda naréndra / kang jumeneng prabu ping nem / ngrat Jawi trah Mentarum / Sinuwun Jeng Suhunan Adi / Pakubuwana Sadrasa / ingkang angadhatun / ing Surakarta Diningrat / keng sudibya don akramanya menuhi / mring abdi kulawarga // Kang salag: karsa mangun tapi / wonten nagri Ngambon murweng dhekah / kebon Batugajah ramé / purwanya duk tinurun / anyju ing ri Sukra Manis / tanggal ping
+
+59 THE WRITING OF A HISTORY
+
+Were, then, both these gula-kelapa volumes produced in Ambon for the exiled Pakubuwana VI and then, following his death, brought home to Surakarta by one of the wives, children, or retainers who, having shared his exile, were repatriated to Java in June 18502
+
+The Compilation
+
+His Majesty the VI's Correspondence comprises some sixty-three textual items, the sixty-third and longest of which is Babad Jaka Tingkir'* Of the remaining sixty-two textual items, sixty-one comprise copies of Javanese language correspondence and archival documents, the overwhelming majority of which relate directly to the royal family and affairs of the Kraton Surakarta. Most of the documents (forty-five) originate from that court. The original documents date from 1812 to 1848, with a preponderance dating from 1823 to 1830, Pakubuwana VI's regnal years. The documents are not, however, copied into the volume in any strict chronological order. Seventeen of the volume's documents (fifteen of these at the close of the compilation) pertain directly to Pakubuwana VI's exile to Ambon. As I noted above, upon first reading, the copies appear to have
+
+been made from original documents that would have belonged to the Kraton Surakarta archives. A more careful examination of these documents, however, proves a very different source was consulted by the compiler of His Majesty the VI's Correspondence.
+
+Royal correspondence constitutes the single largest category of documents copied. Included in this category is correspondence of Pakubuwana IV (r. 1788-1820), Pakubuwana V (r. 1820-23), Pakubuwana VI (r. 182 330; d. Ambon, 1849), and Pakubuwana VII (r. 1830-58). The greater part of this correspondence comprises letters from these kings to colonial officials, Sultans of Yogyakarta, and members of the Surakarta nobility. The tone and content of the letters is formal and official, with the notable exception of the sometimes deeply personal Surakarta- Ambon correspondence of exile at the end of the collection. The final six of these personal
+
+tigawelas / Madilawal tengsu / warsa J¢é kartining sabda / swara tunggal carita pruwa ginupit / Rama kawi jinarwan" (ibid., p. 1).
+
+18. For a narrative description of that repatriation, see Serat Babat Sampéyan-daiem Ingkang Sinuhun Kangieng Susuhunan Pakubuwana kaping VI: Sri Naluri (MS. SP 177 Ca; SMP KS 80), pp. 225~40.
+
+19. For a detailed descriptive listing of all sixty-three items, see Appendix I.
+
+60 CHAPTER ONE
+
+royal letters are composed in macapat verse, three of them by Pakubuwana VI, one by the daughter who had followed him into exile (Gusti Raden Ayu Timur), one by his son (the future Pakubuwana IX), and one
+
+by his brother.
+
+In addition to the correspondence of these kings and their families, the compilation contains several letters that concern land administration and finance in the Surakarta region. Most of these letters were addressed to colonial officials from various ranks of Surakarta royalty and court retainers. There is a single missive from a senior Surakarta prince to a colonial official cum scholar of Javanese letters.
+
+The volume opens with a complete copy of the famous and rather lengthy treaty of 1812 between the ruler of the Kraton Surakarta and the British colonial government. This treaty, which Sir Thomas Stamford Raffles secured by threat of force, seriously compromised the royal power of Surakarta kings-notably removing from them their military troops, their control of tolls and markets, their rights to move their kraton, and a goodly amount of land. When the Dutch regained control over Java in 1816, their first order of business in Surakarta was to ratify this important legal agreement.*" For it was this British treaty of 1812 that was to lay the foundations for the nineteenth-century colonial relationship the Dutch overlords would enjoy with their royal Surakarta vassals. Also copied into this volume are a report submitted by Prince Mangkunagara to the colonial Resident of Surakarta on a (putative) death-bed wish of Pakubuwana IV and copies of Pakubuwana V's accession treaties. Several documents pertain to matters of concern to the Kraton Surakarta during the Dipanagara War.
+
+Another Compilation and Its Copy
+
+In the course of my eight years' research in Java, I had occasion to examine a number of compilations of Javanese language correspondence and archival materials. Most of the compilations 1 reviewed were in manuscript form. One, however, was a published text. That volume, which I found at the Mangkunagaran Palace on the shelf of Surakarta's other
+
+20. See Pratélan Wontenipun Bongsa Eropah angambah Tanah Jawi, tuwin Pratélan Kawontenanipun Karaton Tanah Jawi, anggénipun lajeng Mamitran saha dame! Prajangjiyan akaliyan Tiyang Bongsa Eropah (compiled Surakarta, [late 19th century]; inscribed Surakarta, 1922). MS. SP 179 Na; SMP KS 5, pp. 100-102.
+
+61 THE WRITING OF A HISTORY
+
+royal library, was first published in the Netherlands in 1845. The book was T. Roorda's Javaansche brieven, berigten, verslagen, verzoekschriften, proclamaties, publicaties, contracten, schuldbekentenissen, quitanties, processtukken, pachtbrieven en andere soortgelijke stukken; naar handschriften uitgegeven ("Javanese letters, notices, reports, petitions, proclamations, publications, contracts, 10us, receipts, legal documents, leases and other such documents; published from manuscripts"; later, and hereafter, known as the Brievenboek)."' This publication, comprising a collection of 233 Javanese language documents dated from 1812 to 1843, was produced as a textbook for the Javanese language education of Dutch civil servants bound for the Indies. Roorda opens his preface to the compilation:
+
+It should be unnecessary to waste many words to point out the obvious utility and importance of this collection to any student of Javanese language, institutions, and customary practices-but most especially to him whose study of them is in preparation to become an official in the colonial possessions of the Government of the Netherlands East Indies.?"
+
+How did Roorda, who was himself never to set foot in Java, acquire the documents (most of which were from Surakarta) published in the Brievenboek? Comfortably positioned on his professor's chair in the Netherlands, Roorda relied on colonial officials "in the field" for his materials. In the same preface, he goes on to acknowledge the three individuals who provided the majority of the 233 indigenous documents he had compiled for publication. The generous individuals named by Roorda were Baron Nahuys van Burgst (Resident of Surakarta 1820-22 and 1827-30), J. F. C.
+Gericke (scholar of Javanese letters, Bible translator, and first director of the Surakarta Institute of Javanese Language), and C. F. Winter Sr. (liter atus, scholar of Javanese letters, official translator for the Surakarta Residency, and second director of the above-mentioned Institute).
+
+I first examined the Brievenboek some time after my first encounter with His Majesty the VI's Correspondence at the Kraton, and I found the Dutch publication's sometimes seemingly obscure contents uncannily familiar. After some reflection, I returned to the Kraton archive for an21. T. Roorda, Javaansche brieven, berigten, verslagen, verzoekschriften, proclamaties publicaties contracten, schuldbekentenissen, quitanties processtukken, pachtbrieven en andere soortgelijke stukken; naar handschriften uitgegeven (Amsterdam: Muller, 1845).
+
+22. Ibid., p. i.
+
+62 CHAPTER ONE
+
+other look at His Majesty the VI's Correspondence-this time with a copy of the Brievenboek in hand. A careful comparison of the two volumes demonstrated that the first forty-seven documents copied into the Kraton Surakarta manuscript are identical to documents dispersed through the
+
+233-item published Dutch volume." The first nine documents of His Majesty the VI's Correspondence both match and follow in sequence nine
+
+of the first eleven Brievenboek documents.
+Which, then, of these two texts-one a product of a Dutch publishing house, the other a manuscript of the palace archive-is the more original;
+
+which, the more derivative? As it turns out, priority must be afforded the Dutch published textbook. The forty-seven matching documents in the Dutch publication could not have been copied from the Kraton manuscript: for, as I shall demonstrate below, His Majesty the VI's Correspondence was inscribed a good three or four years after the publication of the Brievenboek. Nor could both compilations have shared a third common Kraton archival source. We can know this with some certainty because there are among those forty-seven matching documents several which would not, it seems, have been housed in the Kraton archives. Take for example MS item no. 31 (Brievenboek 186), a letter from Prince Ngabéhi [(a Surakarta prince who did not reside in the Kraton) to Mr. Gericke in 1834, answering the latter's inquiry on a point of court language use.
+Again there is MS item no. 35 (Brievenboek 219), in which two Surakarta nobles report to Mr. Winter in 1842 on the firing of a rural administrator.
+
+It is, then, almost without a doubt that it was from an exemplar of the published Brievenboek, which had made its way to the Indies, that the
+
+editor-scribe of His Majesty the VI's Correspondence selected out and copied the forty-seven matching documents.
+
+On what grounds did the Javanese scribe make his or her selections?
+The Brievenboek comprises some 233 documents, of which only fortyseven correspond to documents in His Majesty the VI's Correspondence.
+
+Of the 186 published documents which do not appear in the Kraton manuscript, a great many treat the Chinese population and financial relationships between the Chinese and the indigenous nobility. Another large block of documents the Brievenboek does not share with His Majesty the VI's Correspondence concern rural provincial administration. The docu23. Appendix I provides correspondences for the contents of His Majesty the VI's Correspondence and the Brievenboek.
+
+63 THE WRITING OF A HISTORY
+
+ments which do correspond (that is, which were selected for inclusion in the palace manuscript) are concerned primarily with the documentary history of the court, the realm, and the family of the Surakarta kings. It was these forty-seven documents that the compiler of the palace manuscript chose to adopt as the beginning of his or her documentary history of the exiled Pakubuwana VI-an edition of His Majesty the VI's Correspondence that would close with Babad Jaka Tingkir.
+
+The Correspondence of Exile
+
+Following these initial forty-seven items of His Majesty the VI's Correspondence are sixteen additional documents-none of which is to be found in the Brievenboek, and all save one of which are concerned with exile.
+These documents comprise fourteen royal letters that belong to the exile of Pakubuwana VI, the genealogy of an obscure Javano-Arabic character, and (finally and extensively) Babad Jaka Tingkir.
+
+The fourteen letters are significantly different from the preceding correspondence copied from the Brievenboek. The focus of all fourteen is exile itself. The tonality of these letters tends to be less official than that of the preceding forty-seven documents. And these letters tend to convey more personal information than do the copied Brievenboek documents.
+Six of these letters date from the beginning of the deposed king's exile in 1830; their contents convey the poignancy and helplessness of the situation in which the incarcerated and newly deposed king found himself. On 11 June 1830, three days after Pakubuwana VI's arrest, the king's "old friend" Resident Nahuys writes that he "has no time" to visit the king in his prison (item 48). In a letter dated 1 July, one of Pakubuwana VI's uncles describes to the prisoner-king the 14 June coronation of his rival as Pakubuwana VII (item 53). In a farewell letter dated November 1830, the new Pakubuwana VII coldly informs Pakubuwana VI that his entreaty to serve his exile on Java instead of Ambon has been refused. The new Pakubuwana goes on to report that not one of the wives or retainers the prisoner had left behind in the Kraton will agree to join him in exile-and, the usurper adds, they do not even offer proper excuses. Pakubuwana VI's requests to his successor-that he be granted custody of his young daughters, that personal items of jewelry and clothing, as well as his diaries, be sent along to him-are all refused (items 49-50).
+
+The remaining eight documents date from 1847 and 1848, a period
+
+64 CHAPTER ONE
+
+shortly after the 1845 publication of the Brievenboek and just preceding the king's June 1849 death. As noted above, the tone of some of these later
+
+letters is deeply personal; six of the final eight are composed in macapat verse. In a tearful letter to the prisoner-king that is dated October 1847
+
+(item 57), a brother of Pakubuwana VI writes to acknowledge receipt in Surakarta of the king's letter and gifts: among these gifts had been four of the exiled king's teeth. Answering that letter in June 1848 (item 58), Pakubuwana VI, referring to himself as "I.S.K.S. [H.R.H.] Sayiddi Maolana Mokahamat Salim," describes how very desperate his circumstances have become: writing in a rude hut in the middle of the dry fields that he keeps, the forty-one-year-old ex-king says that he feels very old, "like a sun about to set." In the same posting, Pakubuwana VI sends a tender love letter (item 59) to one of the queens he left behind in Surakarta, along with the gift of sarong that he has worn-that she may use it as her pillow.
+To another of his queens the ex-king writes on 27 July 1848 that "it is as though I am no longer of this world, that I am no longer at home in this world-my life hopeless, it were better that I die." He commends to her care their son (the future Pakubuwana IX) and advises her concerning her Islamic religious education. And in a postscript he records the loss of yet another tooth (item 60). The final letter (item 62) is from Pakubuwana VI's daughter Gusti Timur (the one who followed him into exile) to her younger half-brother, Prince Prabuwijaya (the future Pakubuwana IX).
+Writing, on 4 June 1848, with grace and some lyric beauty of her sacred duty to remain an exile with her father, the princess grants her little brother permission to precede her in marriage.
+
+Interposed between the final two of these letters is a document that is apparently not concerned with exile: the macapat verse genealogy of a certain Sarifi [Sharif] Ibrahim Madyakusuma (item 61).** He is called, in Arabic, "al-fakuru illallahu / ghanniyul kammid" ("this poor man of Allah, rich with praise for Allah"), a title appropriate for one who has embarked upon the Sufi way. His name indicates his nobility (a Sharif is a descendant of the Prophet Mohammad) and points toward his mixed ethnicity: Ibrahim is Arabic and Madyakusuma is Javanese. The genealogy records a distinguished lineage for Sarif Ibrahim Madyakusuma, tracing his ancestry back through twenty-nine generations of Sharifs, then through the first seven of the twelve Shi'ite Imams, to the Prophet
+
+24. For a transliteration of the complete poem, see Appendix 11.
+
+65 THE WRITING OF Aa HISTORY
+
+Muhammad, and then continuing on until finally reaching back to Adam
+
+himself(!)."" Who was this man? Could he have been a teacher or a companion in exile of the unfortunate Pakubuwana V1?
+
+On the Dating Provenance, and Authorship of Babad Jaka Tingkir
+
+Let us now turn once again to the final document inscribed in this volume of His Majesty the VI's Correspondence: that is, Babad Jaka Tingkir. By far the longest of the manuscript's sixty-three documents, this anonymous history fills the final 143 of the manuscript's 304 pages. Markedly different from the rest of the royal correspondence, this extended piece of writing is a unique historical poem which offers glimpses of Java's past around the turn of the sixteenth century-the initial period of Java's conversion to Islam. The text of this history is, apparently, incomplete.
+An extended fragment, this Babad Jaka Tingkir ceases abruptly mid-line
+
+and mid-page on the final inscribed leaf of His Majesty the VI's Correspondence (figure 5).
+When and where might this history have been written? And who,
+
+perchance, was its writer? Internally the poem dates its own writing with uncharacteristic hyperbole by no less than four time-reckoning systems:
+
+Javanese solar, Javanese lunar (a).), Hijrah (a.n.), and Gregorian (a.D.).
+
+It was Sunday when this writing of history began
+
+The twenty-second of Safar
+
+At the strike of eleven
+
+The reigning star was
+
+Jupiter at that time
+
+The year was Jimawal
+
+In Sancaya's eight-year turn
+
+In the third month of the solar year
+
+On the sixteenth-in chronogram: "The Excellent Sage Orders the Enormity of the World" [1757]
+
+25. This pedigree would make Ibrahim Madyakusuma a distant relative of the Mataram kings. Royal Surakarta genealogies trace the right-hand descent of the dynasty
+
+from Adam through the Prophet Mohammad and then on through the first five of the twelve Shi'ite Imams ((Ki Padmasusastra) and R.Ng. Wirapratama, Serat Sajarch
+
+Ageng ing Karaton Surakarta [MS. RP B 77; SMP MN 690], pp. 1-18).
+
+66 CHAPTER ONE
+
+In the year of the Prophet's Hijrah Chronogrammed: "The Sage Magical
+
+Is Reverenced by all the World" [1237] In the Dutch month of August
+
+On the twenty-third rendered
+
+In chronogram: "Ever Reverenced Is the Person of the King" [1829]
+
+(Babad Jaka Tingkir 1:2-3).**
+
+Each of the multiple dates, in accord with convention, is rendered not in numerals, but in sangkala (chronograms). Sangkala are aphoristic phrases, the words of which when read backwards signify-by a logical system of conventions-different numerical values.?" To provide dates in sangkala indicates commemoration in time (in addition and contrast to mere temporal documentation). Sangkala work to make time into significant time.
+In the first place, calling attention to themselves as meaningful codes which have to be read (doubly for the discursive significance they might contain and for their numerical value), sangkala provide for the documented event a context in meaningful time. It is because sangkala name a
+
+certain kind of time that significant events are dated by them. To date any event by sangkala is to call it significant-both to inscribe it as worthy of
+
+remembrance and to commemorate it. This procedure for writing's selfinscription / self-commemoration in time is not at all uncommon for tradi26. The Javanese text, in Dhangdhanggula meter reads as follows: "Ing ri Akhad duk wiwit mengeti / kaping kalihlikur sasi Safar / wanci pukul sawalasé / lintang ingkang lumaku / nuju sangat lintang Mustari / pareng warsa Jimawal / Sancayaning windu / lek Jawi Mongsa Katiga / ping nembelas sangkala sang mahamuni [7] / anata [5] goraning [7] rat [1] // Héjrah Nabi tarehnya marengi / sinengkalan pandhita [7] aguna [3] / sinembah [2] ing jagad [1] kabeh / lék Walandi Agustus / kaping tigalikur winarni / sangkala trus [9] sinembah [2] / sariraning [8] ratu [1]."
+
+27. For instance, words associated with eyes or arms (which are two) mean "two." Sembah, the gesture of reverence, indicates "two" because one offers it with his or her two hands. Words associated with fire mean "three" since guna ("fire" or "ability"), in Sanskrit, also means "three." Words associated with holes or openings indicate "nine" because of the nine openings of the (male) body. For a more comprehensive English language introduction to Javanese chronograms, see M. C. Ricklefs, Modern Javanese Historical Tradition: A Study of an Original Kartasura Chronicle and Related Materials (London: soas, University of London, 1978), p. 239 ff. The best explication of the sangkala dating system is still R. Bratakésawa's Katrangan Tjandrasangkala (Jakarta: Balai Pustaka, 1952).
+
+68 CHAPTER ONE
+
+tional Javanese poetic texts (including more typical historical texts, or babad). Nonetheless, by dating its writing four times over, Babad Jaka Tingkir overplays the conventional sangkala in a way that significantly intensifies its commemorative effect.
+
+The redundant dating produces other effects as well: such a superfluity of systems all grinding together to commemorate a single moment (that is, 11:00 a. M., Sunday, 23 August 1829) lends an almost scientific sense of authority to the truth of this dating. However, this seeming precisionand, too, its truth-is contested by contradictions among the dates of these several systems. The Javanese lunar date of 22 Sapar Jimawal 1757 a J. fell in the eight-year turn (windu) of Sangara, not Sancaya, and in the Hijrah year of 1245, not 1237. The date 22 Safar 1237 a.n. was 22 Sapar Jimawal 1749, windu Kunthara (and 18 November 1821 The sixteenth day of the third Javanese solar month is 9/10 September, rather than 23 August.
+
+These several contradictions among the dates of these multiple timereckoning systems, call into question, then, what had seemed the virtually mechanical certainty of the text's writing at a unique moment in August 1829.
+
+But there is more. The hyperbolic dating of the text opens: "It was Sunday when this writing of history began" (Ing ri Akhad duk wiwit mengeti). What would seem the immediate presence of the history's writing is already at the outset located in the past. With the little word duk, marking past time, the writer casts his or her writing out of the present, thereby distancing its inscription from the authority of authorial immediacy. I shall return to these special features which bear upon Babad Jaka Tingkir's date of composition in a moment-after a brief detour to consider the history's provenance and authorship.
+
+The linguistic and poetic idiom of this history situate it squarely in a tradition of writing associated with the court and city of Surakarta. The style is distinctly what is now considered "Surakarta renaissance" -that
+
+is, Surakarta writing of the late-eighteenth through the mid-nineteenth century. Even more definitively, the poem contains numerous citations,
+
+some of them lengthy, from texts that we know were written in, or around, the Surakarta court at that time. Notably, toward the end of this
+
+Tingkir history are extended passages, selectively quoted and strategically edited, from more mainstream texts of historical writing associated
+
+with the royal Surakarta palaces.
+The text of Babad Jaka Tingkir contains a number of court scenes that
+
+69 THE WRITING OF A HISTORY
+
+are ostensibly set in the palaces of the ancient kingdoms of Majapahit and Demak. The palace described, however, is always the Kraton Surakarta.
+The poem incessantly maps the Surakarta palace, but it does so always elsewhere. On one occasion mapping the most interior geography of that palace, the poet provides intimate details about the Kraton's very private women's quarters (keputren), details that could not have been known to many. In the nineteenth-century Kraton Surakarta, only the king's women, their minor children, their female retainers, and the king himself had access to the keputren.
+
+Babad Jaka Tingkir was, perhaps, composed in August 1829, apparently in Surakarta, and quite possibly at the Kraton Surakarta. We can say with some certainty that its writer knew the Kraton-including the zenanaintimately, that he or she was fully conversant with the Surakartan literary idiom, and that he or she had with him or her at least several other texts of that tradition from which he/she quoted. But could not this history have been written by someone of Surakarta who had been transported to somewhere else?
+
+The Interpolations
+
+Twenty-five pages into Babad Jaka Tingkir are six interpolated pages on three leaves of paper that materially rupture the text of the history." Three surfaces of those leaves boast some remarkable inscription; the other three surfaces are blank. Drawn upon the first two of these leaves (back and front surfaces, respectively) are four pen and ink drawings: the portrait of a single figure on the first leaf (figure 6), and three smaller portraits on the second (figure 7). Such drawings were extremely uncommon in Javanese manuscripts. Aside from a book of portraits of Dutch governors general stored in the Mangkunagaran library,"" this is the only example of such portraits among all the manuscripts of the three major Surakarta repositories. The third leaf is empty of writing save the following inscription: "This is a commemoration of His [or Her] Majesty's dream in the month of Mulud, in the year of Wawu, at the time of the west
+
+28. MS. pp. qiverso-g3recto; see figures 6-8.
+29. Serat Gambaripun para Gupernur Jendral ing tanah Jawa (compiled and inscribed
+
+Surakarta, ca. 1926). MS. RP B116; SMP MN 270.
+
+70 CHAPTER ONE
+
+monsoon, in the year 1777 [February 1849]."* Following this "dream commemoration," it appears that a single leaf has been cut from the volume.
+
+The interpolations bear no obvious relation to the text they interrupt; they are, however, shall we say, suggestive. The interpolated pages cut mid-line into a passage that relates the reading of a letter. The letter's reader and addressee is an exiled prince, who is himself a portrait painter.
+
+The letter the prince reads is from the jealous royal father who had banished him. The letter is interrupted by these interpolations as it writes of exile itself-more precisely at the very moment it writes of the utility of exile for the generation of future greatness."
+
+Bearing that text in mind, let us now examine these interpolations more carefully. The first ink drawing is a portrait, in frontal pose, of an unknown bearded man, wearing robes (jubah), turban, and a large medal in the form of an eight-pointed star (figure 6). The drawing is not captioned. The unknown character is definitely of an "Arabic-Islamic" cast. Could this be a portrait of the mysterious Sarifi Ibrahim Madyakusuma?-or is it perhaps an iconographic representation of one of the exiled heroes of the Dipanagara War: the charismatic Kyai Maja or even Prince Dipanagara himself?
+
+The portraits on the facing page are captioned; the captioning hand, however, is not the hand that writes the rest of the manuscript. The portraits are of three figures (figure 7): a central, larger figure of a handsome man in frontal pose ("Sultan Malikil Saleh Banjarmas"), flanked by two smaller male figures in profile ("Pengéran Purbaya" and "Pengéran Harya Mentaram"). The central figure, which appears to be that of a Surakarta king, wears the regal kanigara fez, and sikepan ageng blouse and jacket. On his chest is a large multipointed, diamond-studded star strongly reminiscent of the Surakarta kings' medal of office, Kangjeng Kyai Suryawisésa. The portrait is captioned "Sultan Malikil Saléh Banjarmas." The name, or title, is Arabic and would translate, "Sultan Pious
+
+30. "Punika pémut supenan-dalem, ing wulan Mulud taun Wawu, Mangsa Barat, angkaning warsa: 1777" (His Majesty the VI's Correspondence, p. g3recto). The lunar month of Mulud in the year of Wawu 1777 spanned a period from 25 January to 23
+
+February 1849.
+31. See below, Babad Jaka Tingkir, V: 38.
+
+71 THE WRITING OF A HISTORY
+
+Ruler [of] Banjarmas." To my knowledge there was never a Banjarmasin Sultan by that name. There were, however, two nineteenth-century Surakarta kings whose names, at different points in the courses of their very different lives, were similar to that of the mysterious Sultan Malikil Saléh
+
+Banjarmas. Pakubuwana VII was born B.R.M.G. Malikisalikin. As we mentioned above, shortly before his death, the exiled Pakubuwana VI called himself by the Arabic name: 1.S.K.S. Sayiddi Maolana Mokhamat Salim."
+
+Behind and slightly above the central royal figure's right shoulder, the first of the two smaller flanking figures looks out in profile, away from the central figure into the spine of the book and hence toward the turbanned figure on the facing page. This smaller figure is a somewhat sinister looking man, with narrow eyes and a face blemished by spots. The man is wearing a military jacket with gold braid at his neck and a Javanese dhesthar (head-cloth). The figure is captioned "Pengéran Purbaya." Pangéran Purbaya was the uncle, enemy, and successor of Pakubuwana VI.
+Purbaya was enthroned by the Dutch as Pakubuwana VII in June 1830, as his nephew was en route to exile in Ambon. As I mentioned above, His Majesty the VI's Correspondence includes the "fairwell letters" that Pakubuwana VII sent Pakubuwana VI as the young ex-king sailed off into
+
+exile.
+
+Partially behind the central figure's left shoulder, the second of the two smaller figures in profile gazes with determined eyes in the direction of that central figure. Unlike the other flanking figure, this figure seems to be on the same level as the larger central figure. The figure is a strongly handsome man wearing military uniform with epaulettes and a Javanese dhesthar; the portrait is captioned "Pengéran Harya Mentaram." The elder Harya Mataram (whose name was changed to Prince Mangkubumi in 1790)" was a younger brother of Pakubuwana IV; he was, therefore, an uncle of Pakubuwana VII and grand-uncle of Pakubuwana VI. Always a rebellious figure, Mangkubumi was exiled to Ambon in 1816 for his part
+
+32. His Majesty the VI's Correspondence (item 58), p. 72.
+
+33. Ann Kumar, "Javanese Court Society and Politics in the Late Eighteenth Century: The Record of a Lady Soldier. Part II: Political Developments: The Courts and the Company, 1784-1791," Indonesia 30 (October 1980):88 ff. Kumar describes how, in 1790, Pakubuwana IV's choice of the name Mangkubumi for this brother nearly provoked Yogyakarta to war.
+
+74 CHAPTER ONE
+
+in an anti-European conspiracy. In late 1825 Mangkubumi was allowed to return to Surakarta, where he died in 1826. For that brief period of repatriation, the elderly Mangkubumi lived with his son, the younger Harya Mataram." Following his father's death, that son was elevated to princely status with his late father's name. The younger Harya Mataram died K.P.H. Mangkubumi !I in 1863. He was the brother-in-law and cousin of Pangéran Purbaya (Pakubuwana VII) and generational "uncle" of Pakubuwana VI. Unlike his rebellious father, this younger Harya Mataram was evidently loyal to the Dutch overlords."
+
+This is a commemoration of His Majesty's dream in the month of Mulud, in the year of Wawu, at the time of the west monsoon, in the
+
+year 1777 [February 1849] (His Majesty the VI's Correspondence, p. g3recto).
+
+The note recording that "this" is a commemoration of "His Majesty's Dream" is at the head of a page otherwise empty of inscription. Behind and below the inscription looms the ghostly impression of a Javanese king: in fact the shadow of the central royal figure on MS p. g2recto whose image appears to have migrated through the manuscript pages in order to witness this haunting commemoration (figures 8 and 9). The words that float above this royal ghost to commemorate "His Majesty's dream" are not inscribed in the captioning hand of the previous two pages, but rather in the same Surakarta cursive hand as the body of the manuscript. Which Majesty's dream, or what he dreamt, is not specified. However, the form of the dating of that unspecified dream provides a clue as to whose dream "this" commemorates, and where that dream was dreamt.
+
+The dream is dated to the month of Mulud, in the year of Wawu 1777 (February 1849), "at the time of the west monsoon" (mangsa barat).
+Reckoning time in terms of the monsoons was not common practice in
+
+34. See Peter Carey, "The Sepoy Conspiracy of 1815 in Java," BKI 133, nos. 2-3 (1977):294-322.
+
+35. Serat Babad Sengkala: Kawit Pulo Jawi dipuniséni tiyang nalika taun ongka 1 dumugi taun 1854 (composed Surakarta, s.a.; inscribed Surakarta, 1924). MS. SP 220 Ca-A; SMP KS 1A, pp. 132-36.
+
+36. H. M. De Kock, "Beschrijving van het karakter en de hoedanigheden van den Keizer de Prinsen en de Rijksbestierder van Soerakarta," 1829. Solo Bundel 166, Arsip Nasional Republik Indonesia.
+
+75 THE WRITING OF Aa HISTORY
+
+
+
+gure 9. Interpolation in Babad Jaka Tingkir: migrating royal figures and the mmemoration of His Majesty's dream in February 1849, in Kupiya Iber /ami-warni Sampéyan-dalem kaping VI, p. 92 verso-93 recto. Courtesy of ie Kraton Surakarta.
+
+ineteenth-century Central Java. Of the 233 documents that comprise the vaansch Brievenboek, not one is so dated. However, a survey of the ocuments in this compilation of His Majesty the VI's Correspondence ields three such monsoon-dated letters: MS item nos. 58, 60, and 62, all f which are letters in macapat verse sent from Ambon to Surakarta. The tters date from the "east monsoon" (mangsa timur), in the lunar months
+
+f Rejep and Ruwah 1776 (June and July 1848). Two of the letters were mitten by Pakubuwana VI himself; the other, by his daughter R. Ayu
+
+imur. Evidently the monsoons were of some import to these exiles on the ny island of Ambon, who depended on the sea for whatever contact
+
+emained with Java and the rest of the outside world. Given the monsoon ating of this dream's recording, and the situation of the record in the ontext of this particular volume of royal correspondence, it may be asumed that Pakubuwana VI was the royal dreamer indicated here, and that
+
+he dream was dreamt on Ambon. May we then presume that his shade as moved onto the page in order to lay claim to that dream ?
+
+77 THE WRITING OF A HISTORY
+
+"This is a commemoration of His Majesty's dream" heads a blank page shadowed by a royal ghost, a page interposed in the middle of the text of Babad Jaka Tingkir. To what does that "this" refer? What was the nature of the dream the deposed king drearnt in February 1849, a mere four months prior to his death? And what form does its commemoration take? Allow me to suggest here that, for the Javanese writer who compiled this volume of His Majesty the VI's Correspondence (almost certainly in Ambon), the soon-to-be-departed exiled king's dream of the 1849 "west monsoon" was
+
+none other than Babad Jaka Tingkir. This book, then, is an exploration of the meaning of that dream.
+
+Dating and Situating the Manuscript of the History
+
+Because of the correspondence of exile preceding the text and the monsoon-dated dream which interrupts it, it is reasonable to conclude that this manuscript witness of Babaed Jaka Tingkir was inscribed on the island of Ambon, sometime between August 1848 and June 1850. The inscription of the history could not have been begun prior to August 1848: in the manuscript the Tingkir text follows the copy of a letter written by Pakubuwana VI on 27 July 1848. Twenty-five pages into the text of the history, the poem is broken by the drawings and "dream-commemoration" discussed above. I have demonstrated that this "dream-commemoration," which is dated Mulud 1777 (February 1849), was almost surely inscribed on Ambon. Following Pakubuwana VI's death on 3 June 1849, the family and retainers who had shared his exile were repatriated to Java." In June 1850, they returned to Surakarta, presumably with at least two of the late prisoner-king's manuscripts, His Majesty the VI's Correspondence and His Majesty the VI's Book of Rama, in hand.
+
+How, then, was the manuscript produced? From his or her exile in Ambon, the Javanese writer (editor/scribe) worked from a variety of sources to compile His Majesty the VI's Correspondence. She or he had before her/himself an 1845 Dutch-published textbook compilation of
+
+Javanese letters (perhaps the gift of a thoughtful Dutch jailer), some original Surakarta-Ambon correspondence, a genealogy, and (perhaps) the text of a unique version of the Babad Jake Tingkir. From these sources
+
+37. There were, among these "returnees," some who were coming to Surakarta for the first time, i.e., wives Pakubuwana VI had married in Ambon and their children.
+
+78 CHAPTER ONE
+
+the writer constructed his or her His Majesty the VI's Correspondence as a kind of documentary history of an exiled king.
+
+Let us now consider further the dating and provenance of this somewhat fanciful babad which concludes a history that was "introduced" with a selection of archival documents from a Dutch textbook. In the manuscript copy produced by this presumed editor on Ambon, the babad dates itself August 1829. However, as we have seen above, contradictions among dates from the several time-reckoning systems employed by the poet problematicize the veracity of this dating. One would assume that information indicating the day's correct Hijrah year and the correct windu would have been easily accessible to a poet /scribe beginning his/her writing in Surakarta on 23 August 1829. How then might we understand the discrepancies in the dating?
+
+The confusion in the internal dating of Babad Jaka Tingkir invites several readings. The mistake could indicate nothing more than a carelessness in chronology on the part of the poet and/or the scribe. Or perhaps the opening section of the manuscript's Surakarta prototype, which had been carried or sent off to Ambon, was damaged. Indeed, the most likely pages to be damaged or missing in Javanese manuscripts are the opening ones. Perhaps the editor on Ambon erred in his or her attempt to provide readings for illegible portions of a damaged prototype. Access to accurate Javanese time-reckoning tables in late-1840s Ambon may well have been limited. Or perhaps the confusion in the dating points toward a willful antedating of the composition of the poem. We remember how the commemoration of the commencement of the text's writing begins in past tense. Perhaps rather than scribe of the poem, the writer of this late-1840s
+
+Ambonese compilation was instead its composer. This reading would suggest that for some reason the history's Ambonese-Javanese composer chose both to conceal his or her authorship and to push the date of the poem's composition back some twenty years to 1829-to a time preceding
+
+Pakubuwana VI's exile. There can be no definitive answer to this question of reading the babad's dating. The implications of these various readings
+
+will be explored in the book's conclusion.
+
+The single surviving manuscript witness of the Babad Jaka Tingkir presented here was inscribed in Ambon by an exile. It was written as the conclusion to a documentary history of Pakubuwana VI, large portions of which were in turn selected and copied from a Dutch-published textbook
+
+79 THE WRITING OF A HISTORY
+
+meant for the Javanese language education of colonial civil servants. We cannot be sure when or where the text was composed, or who its composer was. It could well have been composed in the 1840s on Ambon. Perhaps its writer was Pakubuwana VI's daughter, Raden Ayu Timur. Or, its composer could very well have been Pakubuwana VI himself, admittedly a "Auent writer" with an "extensive knowledge of traditional history," who then wrote this history (for the future) by creatively piecing and binding together the materials available to a nineteenth-century royal exile. Perhaps.
+
+In this chapter I have considered the historical production of the single extant manuscript of a unique Babad Jaka Tingkir; and in so doing I have suggested that this text in manuscript somehow commemorates the dream of a royal exile. I cast my narrative purposely in the mode of a mystery story, in which clues and teases are serially presented and then (tentatively) read. The mystery remains unsolved at chapter's end. I have ulterior motives. Among these: by playing on the mystery, I wish to replicate for my readers some of the haunting attraction this text has
+
+exercised upon me from the time of my first encounter with it-thereby to provoke in readers the desire to read, seriously and critically, the text of Tingkir themselves. I expect that such readings will generate understandings of the poem which will be other and likely counter to my own, and 1 welcome the projected extension of the dialogue. My analysis may be found in the chapters following the translation. But 1 strongly advise the reader to defer reading my critical analysis of the text until after completing his or her own thoughtful reading of this remarkable nineteenth century Javanese (re)reading of a Javanese past.
+
+80 CHAPTER ONE

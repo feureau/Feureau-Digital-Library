@@ -1,211 +1,44 @@
-
-Ja ko b S u m a r d j 0
-
-E $ T E TI K A
-
-PARADOKS
+# Estetika Paradoks
+oleh Jakob Sumardjo
 
 Konsep pradaksinam-prasavyam, atas dan bawah, laki-laki dan perempuan, gunung dan lautan, kaja dan kelod, kanan dan kiri, sakala dan niskala, laukika dan lokottara, sana dan sini, makrokosmos dan mikrokosmos, dan lain-lain memang sangat penting dan perlu diteliti lebih seksama lagi.
 Dengan pengetahuan dasar konsep itu beberapa masalah purbakala kadang-kadang dapat dipecahkan dengan mudah
 
-M.M. Sukarto K. Atmodjo Arkeolog, 1983
+M.M. Sukarto K. Atmodjo. Arkeolog, 1983
 
-Cot
+## Prakata
 
-J a ko b S u m a r d j 0
+Buku ini asalnya saya tulis tahun 2006, kemudian saya kembangkan tahun 2010, dan tahun 2014 ini saya kembangkan lagi. Apa yang saya sebut "mengembangkan" sebenarnya hanya menambah tulisan-tulisan yang sudah terbit sebelumnya. Dengan demikian buku ini akan sering mengulang apa yang sudah diterbitkan sebelumnya, hanya kadang sudah terjadi pengembangan tafsir yang lebih baru.
 
-E $ T E T | K A
+Pada dasarnya buku ini punya "sejarah" sendiri, yaitu semacam riwayat bagaimana saya melihat dan menemukan hal-hal baru dari bahan-bahan yang sama. Hal-hal baru itu dapat berupa bahan-bahan lama yang saya luput mencatatnya sebagai hal yang ternyata esensial. Atau saya memperoleh masukan-masukan bahan baru dari kunjungan ke berbagai daerah atau ke berbagai situs purba, bahkan yang berasal dari para mahasiswa saya yang mengenal betul bahan-bahan yang dilaporkannya dalam tugas perkuliahan.
 
-PARADOKS
+Buku ini lebih bersifat provokatif untuk menggugah para pembacanya bahwa Indonesia kaya dengan peninggalan-peninggalan artefak budaya, berwujud apa pun, yang tak terhitung banyaknya, yang mengandung alam pikiran kolektif sezaman. Bahwa tersirat adanya pengulangan pola hubungan yang membangun makna tertentu dari setiap zamannya, Bahwa yang banyak dan aneka ragam budaya itu dapat ditarik pada pola-pola dasarnya yang kurang lebih sedikit perubahannya.
 
-Kell:
+Saya sebut provokatif karena saya hanya memperoleh beberapa puluh artefak budayanya saja untuk ditafsirkan berdasarkan pola-pola tersebut, sedangkan Indonesia kaya raya dengan jutaan artefak. Buku ini tetap berupa tafsir sementara yang lintas zaman pada setiap masyarakat adat di Indonesia. Untuk menulis buku yang lebih komprehensif diperlukan penelusuran artefak dari berbagai zaman untuk setiap masyarakat adat. Dengan demikian akan tersusun semacam sejarah estetika atau filsafat suku sejak masa primordialnya sampai zaman modern ini. Misalnya estetika Jawa harus ditelusur berdasarkan sejarah artefak seninya sejak prasejarah, zaman Hindu-Budha, zaman Islam, dan zaman modernnya. Masing-masing zaman akan memiliki filosofi dasar budaya dan seninya akibat perubahanperubahan sosio-budaya sepanjang sejarahnya. Untuk satu suku saja diperlukan satu buku tersendiri, bahkan beberapa buku.
 
-Jakob Sumardjo E$TETIEKA
+Berdasarkan pengalaman mengajar saya selama ini, dalam judul Filsafat Seni Nusantara, rata-rata para mahasiswa masih kebingungan untuk memahaminya, padahal contoh-contoh penafsiran artefak seni etnik sudah cukup banyak saya berikan. Mungkin karena jumlah artefak seni begitu banyaknya di Indonesia, sedang saya hanya sempat mengambil satu atau dua contoh artefak etnik untuk dibahas, maka kesimpang siuran memahami pola-popa dasarnya terjadi. Itulah sebabnya saya selalu mengembangkan buku ini dengan maksud membikin jelas apa yang sudah saya dapatkan.
 
-PARADOKS
+Buku ini tetap belum final. Kemungkinan harus ditulis buku lain yang berupa evaluasi ulang seluruh riwayat pembacaan saya atas artefak-artefak seni etnik ini. Kalau filsafat etnik Indonesia ini harus disusun, maka diperlukan kajian-kajian berikut, kajian ontologi atau metafisika etnik yang tersimpan dalam banyak mitologimitologi sukunya. Mitologi ini kadang banyak mengikuti perkembangan dan kebutuhan zamannya sendiri. Artinya mitologi metafisika suku itu tidak satu. Meskipun demikian dapat ditelusur esensi (yang tak berubah yang menjadi ciri keberadaannya) dari berbagai mitologi asal usul Ada suku tersebut.
 
-Diterbitkan Pertamakali dalam Bahasa Indonesia Oleh Penerbit Kelir, Juli 2014
+Kedua, kajian kosmologi atau susunan keberadaan, yang menjelaskan hubungan saling menghidupi antara dunia manusia, alam dunia, dan alam metakosmosnya. Ini pun pada setiap suku juga dapat berubah-ubah, namun tetap harus dicari esensi kosmologinya. Ini juga bersumber pada mitologi dan tutur adat.
 
-Hak Cipta Dilindungi Undang-Undang All Right Reserved
+Ketiga, antropologia suku, yang menjawab apakah atau siapakah manusia suku itu. Bagaimana manusia pertama muncul? Apakah manusia pertama itu lelaki atau perempuan atau keduanya muncul bersamaan? Bagaimana kedudukan manusia di dunia dan alam raya serta alam metafisika ini? Apa makna manusia berada di dunia ini? Menuju kemanakah manusia setelah kematiannya? Potensi apa yang dimiliki manusia suku, keterbatasan dan ketidak terbatasannya? Bagaimana perannya dalam hidup bersama?
 
-Desain Sampul R.Y. Adam Panji P.
+Keempat, etika suku yang biasanya diatur dalam hukum adat suku. Adat istiadat ini semakin ditinggalkan manusia modern suku. Kalau modernisasi telah lengkap dan selesai, maka hukum adat atau adat istiadat suku ini dengan sendirinya ikut lenyap, karena adat istiadat berkembang secara lisan saja, dari satu generasi ke generasi berikutnya. Adat istiadat ini pun juga berubah-ubah. Namun tetap dapat ditelusur esensi adatnya.
 
-Desain Isi Harmis Sukristian
+Kelima, estetika suku. Apa yang disebut indah pada setiap suku di Indonesia tergantung dari mengandung etika suku tidak. Keindahan itu tidak penting, yang penting adalah kebenaran etik sukunya yang berdasarkan metafisika dan kosmologi suku. Kalau benar pasti indah. Keris yang indah kalau tidak benar secara metafisika tetap dinilai tidak indah karena tidak etis. Sumbernya adalah artefak seni adat.
 
-Pra Cetak De N'da, Ethez
-
-Perpustakaan Nasional RI: Katalog Dalam Terbitan (KDT) Estetika Paradoks/Jakob Sumardjo, 2014, cet. | Bandung: Penerbit Kelir/2014 halaman: xii - 560 Ukuran: 15,8 cm x 24 cm ISBN 978-602-17836-4-1 1. Filsafat Budaya 1. Judul
-
-OHak Pengarang Dilindungi oleh Undang-undang. Dilarang memperbanyak
-
-sebagian maupun seluruh isi buku ini dalam bentuk apapun tanpa izin dari pernerbit.
-
-Pasal 44.
-
-Barang siapa dengan sengaja dan tanpa hak mengumumkan atau memperbanyak suatu ciptaan atau memberi izin untuk itu, dipidana penjara paling lama 7 (tujuh) tahun dan/atau denda paling banyak Rp 100.000.000,00 (seratus juta rupiah) Barang siapa dengan sengaja menyiarkan, memamerkan, mengedarkan, atau menjual kepada umum suatu ciptaan atau barang hasil pelanggaran Hak Cipta sebagai dimaksud dalam ayat (1), dipidana dengan pidana penjara paling
-
-lama 5 (lima) tahun dan/atau denda paling banyak Rp. 50.000.000,00 (lima puluh juta rupiah).
-
-PRAKATA
-
-BUKU ini asalnya saya tulis tahun 2006, kemudian saya kembangkan tahun 2010, dan tahun 2014 ini saya kembangkan lagi. Apa yang saya sebut "mengembangkan" sebenarnya hanya menambah tulisan-tulisan yang sudah terbit sebelumnya. Dengan demikian buku ini akan sering mengulang apa yang sudah diterbitkan sebelumnya, hanya kadang sudah terjadi pengembangan tafsir yang lebih baru.
-
-Pada dasarnya buku ini punya "sejarah" sendiri, yaitu semacam riwayat bagaimana saya melihat dan menemukan hal-hal baru dari bahan-bahan yang sama. Hal-hal baru itu dapat berupa bahan-bahan lama yang saya luput mencatatnya sebagai hal yang ternyata esensial. Atau saya memperoleh == masukan-masukan bahan - baru - dari kunjungan ke berbagai daerah atau ke berbagai situs purba, bahkan yang berasal dari para mahasiswa saya yang mengenal betul bahan-bahan yang dilaporkannya dalam tugas perkuliahan.
-
-Buku ini lebih bersifat provokatif untuk menggugah para pembacanya bahwa Indonesia kaya - dengan peninggalan-peninggalan artefak budaya, berwujud apa pun, yang tak terhitung banyaknya, yang mengandung alam pikiran kolektif sezaman. Bahwa tersirat adanya pengulangan pola hubungan yang membangun makna tertentu dari setiap zamannya, Bahwa yang banyak dan aneka ragam budaya itu dapat ditarik pada pola-pola
-
-dasarnya yang kurang lebih sedikit perubahannya.
-
-Saya sebut provokatif karena saya hanya memperoleh beberapa puluh artefak budayanya saja untuk ditafsirkan berdasarkan pola-pola tersebut, sedangkan Indonesia kaya raya dengan jutaan artefak. Buku ini tetap berupa tafsir sementara yang lintas zaman pada setiap masyarakat adat di Indonesia. Untuk menulis buku yang lebih komprehensif diperlukan penelusuran artefak dari berbagai zaman untuk setiap masyarakat adat. Dengan demikian akan tersusun
-
-Estetika Paradoks " v " Jakob Sumardjo
-
-semacam sejarah estetika atau filsafat suku sejak masa primordialnya sampai zaman modern ini. Misalnya estetika Jawa harus ditelusur berdasarkan sejarah artefak seninya sejak prasejarah, zaman Hindu-Budha, zaman Islam, dan zaman modernnya. Masing-masing zaman akan memiliki filosofi dasar budaya dan seninya akibat perubahanperubahan sosio-budaya sepanjang sejarahnya. Untuk satu suku saja diperlukan satu buku tersendiri, bahkan beberapa buku.
-
-Berdasarkan pengalaman mengajar saya selama ini, dalam judul Filsafat Seni Nusantara, rata-rata para mahasiswa masih kebingungan untuk memahaminya, padahal contoh-contoh penafsiran artefak seni etnik sudah cukup banyak saya berikan. Mungkin karena jumlah artefak seni begitu banyaknya di Indonesia, sedang saya hanya sempat mengambil satu atau dua contoh artefak etnik untuk dibahas, maka kesimpang siuran memahami polapopa dasarnya terjadi. Itulah sebabnya saya selalu mengembangkan buku ini dengan maksud membikin jelas apa yang sudah saya dapatkan.
-
-Buku ini tetap belum final. Kemungkinan harus ditulis buku lain yang berupa evaluasi ulang seluruh riwayat pembacaan saya atas artefak-artefak seni etnik ini.
-Kalau filsafat etnik Indonesia ini harus disusun, maka diperlukan kajian-kajian berikut, kajian ontologi atau metafisika etnik yang tersimpan dalam banyak mitologimitologi sukunya. Mitologi ini kadang banyak mengikuti perkembangan dan kebutuhan zamannya sendiri. Artinya mitologi metafisika suku itu tidak satu. Meskipun demikian dapat ditelusur esensi (yang tak berubah yang menjadi ciri keberadaannya) dari berbagai mitologi asal usul Ada suku tersebut.
-
-Kedua, kajian kosmologi atau susunan keberadaan, yang menjelaskan hubungan saling menghidupi antara dunia manusia, alam dunia, dan alam metakosmosnya. Ini pun pada setiap suku juga dapat berubah-ubah, namun
-
-Estetika Paradoks " vi " Jakob Sumardjo
-
-tetap harus dicari esensi kosmologinya. Ini juga bersumber pada mitologi dan tutur adat.
-
-Ketiga, antropologia suku, yang menjawab apakah atau siapakah manusia suku itu. Bagaimana manusia pertama muncul? Apakah manusia pertama itu lelaki atau perempuan atau keduanya muncul bersamaan? Bagaimana kedudukan manusia di dunia dan alam raya serta alam metafisika ini? Apa makna manusia berada di dunia ini?
-Menuju kemanakah manusia setelah kematiannya? Potensi apa yang dimiliki manusia suku, keterbatasan dan ketidak terbatasannya? Bagaimana perannya dalam hidup bersama?
-
-Keempat, etika suku yang biasanya diatur dalam hukum adat suku. Adat istiadat ini semakin ditinggalkan manusia modern suku. Kalau modernisasi telah lengkap dan selesai, maka hukum adat atau adat istiadat suku ini dengan sendirinya ikut lenyap, karena adat istiadat berkembang secara lisan saja, dari satu generasi ke generasi berikutnya. Adat istiadat ini pun juga berubah-ubah.
-Namun tetap dapat ditelusur esensi adatnya.
-
-Kelima, estetika suku. Apa yang disebut indah pada setiap suku di Indonesia tergantung dari mengandung etika suku tidak. Keindahan itu tidak penting, yang penting adalah kebenaran etik sukunya yang berdasarkan metafisika dan kosmologi suku. Kalau benar pasti indah.
-Keris yang indah kalau tidak benar secara metafisika tetap dinilai tidak indah karena tidak etis. Sumbernya adalah artefak seni adat.
-
-Begitulah kerangka makro dari penjelasan nilai-nilai budaya suku. Tetapi suku-suku bangsa di Indonesia ini ratusan jumlahnya. Idealnya setiap suku dikaji secara falsafi seperti ditunjukkan di muka. Namun pengalaman menunjukkan bahwa meskipun jumlah sukunya begitu banyak, namun tetap dapat ditemukan esensi kelompok sukunya. Misalnya budaya Flores yang terdiri dari 8 atau 9 suku seperti Manggarai, Riung, Bajawa, dan lain-lain, akan ditemukan kefloresannya. Kefloresan ini pun mengandung esensi Nusa Tenggaranya. Nusa Tenggara mengandung
-
-Estetika Paradoks " vii " Jakob Sumardjo
-
-esensi maritim dan kepulauannya, termasuk kepulauan Maluku, begitu seterusnya sampai menemukan esensi keindonesiannya. Dan keindonesiaan ini masih dapat ditemukan _esensi Asia Tenggaranya - sampai - ke Austronesianya.
+Begitulah kerangka makro dari penjelasan nilai-nilai budaya suku. Tetapi suku-suku bangsa di Indonesia ini ratusan jumlahnya. Idealnya setiap suku dikaji secara falsafi seperti ditunjukkan di muka. Namun pengalaman menunjukkan bahwa meskipun jumlah sukunya begitu banyak, namun tetap dapat ditemukan esensi kelompok sukunya. Misalnya budaya Flores yang terdiri dari 8 atau 9 suku seperti Manggarai, Riung, Bajawa, dan lain-lain, akan ditemukan kefloresannya. Kefloresan ini pun mengandung esensi Nusa Tenggaranya. Nusa Tenggara mengandung esensi maritim dan kepulauannya, termasuk kepulauan Maluku, begitu seterusnya sampai menemukan esensi keindonesiannya. Dan keindonesiaan ini masih dapat ditemukan esensi Asia Tenggaranya - sampai - ke Austronesianya.
 
 Dengan segala keterbatasan saya di atas diharapkan para pembaca buku ini maklum akan berbagai cacad keilmuan dalam buku ini. Mudah-mudahan buku ini sesuai dengan bunyi pepatah Melayu, bahwa tiada rotan akar pun berguna.
 
 Bandung, Juni 2014
 
-DAFTAR ISI
+## Pendahuluan
 
-PRAKATA - v DAFTAR ISI - ix I. PENDAHULUAN -:
+Indonesia adalah kesatuan dalam keberagaman yang dinyatakan dalam semboyan negara Republik Indonesia: Bhineka Tunggal Ika. Arti kesatuan sudah amat diketahui, yakni berdirinya negara kesatuan Republik Indonesia, yang berarti kesatuan politik dalam negara modern. Secara resmi negara kesatuan itu dinyatakan pada tahun 1945, meskipun dunia internasional umumnya baru mengakui tahun 1950. Sebelum tahun itu Indonesia sudah disatukan oleh pemerintahan kolonial Belanda pada tahun 1800, yang juga berupa negara kesatuan Hindia-Belanda. Bahkan pada awal abad 20 pemerintah kolonial Belanda telah berani memaklumkan adanya Pax Neerlandica atau pemerintahan damai Hindia-Belanda. Karena proklamasi kemerdekaan Indonesia bertujuan membebaskan Indonesia dari kolonialisme Belanda, maka seluruh wilayah yang dahulu dinamakan Hindia-Belanda akhirnya diakui sebagai Republik Indonesia.
 
-II. FILSAFAT PARADOKS - 11 A. Filsafat Indonesia - 1 B. Epistemologi Indonesia - 15 C. Nalar Primordial - 20 D. Konsep Kosong - 23 1. Halus dan Kosong dalam Seni - 28 2. Alam Pikiran Paradoks - 32 E. Konsep Maha Esa - 39 F. Dualisme Antagonistik - 46 G. Metakosmos, Makrokosmos, dan Mikrokosmos - 53 H. Identitas Pola - 58 1. Negara Kerajaan Sunda - 68 2. Identitas Budaya Sunda -73 I. Kata Seni - 74 ]. Simbol Seni - 78 K. Seni Ritual - 81 L. Seni Pertunjukan Indonesia - 88 1. Tempat Pertunjukan - 89 2. Penonton - 90 3. Seniman Pelaku Pertunjukan - 91 4. Waktu Pertunjukan - 92 5. Sponsor Pertunjukan - 92 6. Sesajen - 93 7. Mantera - 94 8. Konteks Budaya - 98 M.Kosong-Halus dalam Seni - 100
-
-N. Tabu Seni - 104 Estetika Paradoks " ix " Jakob Sumardjo
-
-1. Seni Tabu dan Konteksnya - 106 2. Monisme dan Emanasi - 108
-
-3. Completio Oppositorum - 10
-
-4. Seni Tabu - in
-
-III. POLA-POLA DASAR - 119 A. Pola Dua - 119
-
-1. Mitologi dan Kosmologi - 119 2. Mitologi Pola Dua - 122
-
-2.1. Mitologi Asmat - 122
-
-2.2. Mitologi Riung - 124
-
-2.3. Mitologi Menado - 126
-
-2.4. Mitologi Nias - 128
-
-Pola Dua - 132
-
-4. Estetika Pola Dua - 138
-
-4.1. Seni Pertunjukan Papua dan Wedoid - 153
-
-4.1.1. Biak Numfor - 153 4.1.2. Estetika Purba - 158 4.1.3. Tari Syukuran - 159 4.1.4. Suku Dani - 160 4.1.5. Suku Asmat - 161 4.1.6. Suku Tehit (Sorong) - 162 4.1.7. Rumpun Negritto/Wedoid - 164 4.1.8. Suku Sakai - 166 4.1.9. Wedoid - 168 4.1.10. Kesimpulan - 170
-
-kani
-
-B. Pola Tiga - 171
-
-1. Mitologi Pola Tiga - 171 11. Mitologi Sunda - 171 1.2. Mitologi Minangkabau - 178 1.3. Mitologi Bugis - 185 1.4. Mitologi Batak - 193
-
-2. Pola Tiga - 197
-
-3. Estetika Pola Tiga - 209 3.1. Simbol Atap - 210 3.2. Rumah Adat Orang Bajawa di Flores - 222
-
-Estetika Paradoks " x " Jakob Sumardjo
-
-3.3. Rumah Adat Sunda - 223 3.4. Rumah Adat Jambi - 224 3.5. Ulos Batak Toba - 229
-
-C. Pola Empat - 241 1. - Mitologi Pola Empat - 241
-
-1.1.
-
-1.2.
-1.3.
-
-Mitologi Melayu - 241 Mitologi Kerinci - 246 Mitologi Ternate - 250
-
-2. Pola Empat - 252 3. Estetika Pola Empat - 257
-
-3.1.
-
-Batik Jambi - 263
-
-3.1.1. Motif Segi Empat - 263
-
-3.1.2. Motif Kapal Sanggat - 265 3.1.3. Motif Daun Keladi - 268
-
-3.1.4. Motif Batanghari - 269
-
-3.1.5. Motif Angso Duo - 270
-
-3.1.6. Motif Merak Ngeram - 271 3.1.7. Motif Duren Pecah - 272
-
-3.1.8. Motif Bungo Kaco Piring - 274 3.1.9. Penutup - 275
-
-3.2. Patung-Patung Pasemah - 276
-
-D. Pola Lima - 282 1. - Mitologi Pola Lima - 282 1.1. Manikmaya - 282
-
-1.2.
-
-1.1.1. Naskah Manik Maya - 283
-
-1..1.2. Penafsiran - 293
-
-1.1.3. Tentang Jahat dan Baik - 301
-
-1.1.4. Agama Jawa - 302
-
-1.1.5. Kesejahteraan - 310
-
-Mitologi Bali - 312
-
-1.2.1. Mitos Oedipus-Watugunung - 317 1.2.1.1. Mitos Oedipus - 317 1.2.1.2. Mitos Watugunung - 318 1.2.1.3. Perbandingan - 320 1.2.1.4. Ibu dan Anak - 326
-
-Estetika Paradoks " xi " Jakob Sumardjo
-
-2. Pola Lima - 330 3. Estetika Pola Lima - 335 3.1. Batik - 340 3.2. Keris - 346 3.3. Wayang Kulit - 349 3.4. Falsafah Wayang - 356 3.4.1. Pendahuluan - 356 3.4.2. Pentas Wayang sebagai Tempat Ritual - 358 3.4.3. Sesajen - 359 3.4.4. Kotak Wayang - 360 3.4.5. Gunungan - 361 3.4.6. Tetalu - 363 3.4.7. Pembabakan Lakon - 364 3.4.8. Penutup - 367 3.5. Gunungan Wayang - 368 3.6. Wayang Wong - 375 3.6.1. Wayang Wong Kraton - 376
-
-3.6.2. Wayang Wong Pendhapa - 379 3.6.3. Wayang Wong Proscenium - 381
-
-IV. PENUTUP - 399 A. (X) Sebagai Identitas - 399 B. Penutup - 41 V. RINGKASAN DAN RUMUSAN - 415
-
-VI. DAFTAR PUSTAKA - 431
-
-INDEKS - 441
-
-Estetika Paradoks - xii - Jakob Sumardjo
-
-I PENDAHULUAN
-
-INDONESIA adalah kesatuan dalam keberagaman yang dinyatakan dalam semboyan negara Republik Indonesia: Bhineka Tunggal Ika. Arti kesatuan sudah amat diketahui, yakni berdirinya negara kesatuan Republik Indonesia, yang berarti kesatuan politik dalam negara modern. Secara resmi negara kesatuan itu dinyatakan pada tahun 1945, meskipun dunia internasional umumnya baru mengakui tahun 1950. Sebelum tahun itu Indonesia sudah disatukan oleh pemerintahan kolonial Belanda pada tahun 1800, yang juga berupa negara kesatuan Hindia-Belanda. Bahkan pada awal abad 20 pemerintah kolonial Belanda telah berani memaklumkan adanya Pax Neerlandica atau pemerintahan damai Hindia-Belanda. Karena proklamasi kemerdekaan Indonesia bertujuan membebaskan Indonesia dari kolonialisme Belanda, maka seluruh wilayah yang dahulu dinamakan Hindia-Belanda akhirnya diakui sebagai Republik Indonesia.
-
-Tetapi apakah arti keberagaman Indonesia?
+### Tetapi apakah arti keberagaman Indonesia?
 
 Sebelum Hindia-Belanda dan Republik Indonesia menyatukan Indonesia di bawah satu pemerintahan tunggal yang tersentralisir di Batavia, kemudian menjadi Jakarta, kepulauan Nusantara ini berdiri berbagai kerajaan yang masing-masing berdaulat sendiri, seperti Aceh, Banten, Cirebon, Mataram, Madura, Bali, Makassar, Ternate, Banjarmasin, Palembang, dan berbagai kerajaan-kerajaan kecil yang lokal.
 
@@ -1169,9 +1002,9 @@ Orang bisa saja melukis wujud Wayang Kulit dalam lukisan modern, tetapi karena p
 
 Estetika Paradoks " 59 " Jakob Sumardjo
 
- 
 
- 
+
+
 
 i f |
 
@@ -1230,7 +1063,7 @@ sebagai berikut:
 
 INPUT SUNDA POLA SUNDA OUTPUT SUNDA
 
-X ---------> f(X) -------»> A (Rumah Sunda) X ---> g(X) ---> B (senjata kujang) X ---> h(X) ---> C (kampung Sunda) X -->->->->->->--------> i(X) ----------> D (silat Sunda)
+X ---------> f(X) -------ï¿½> A (Rumah Sunda) X ---> g(X) ---> B (senjata kujang) X ---> h(X) ---> C (kampung Sunda) X -->->->->->->--------> i(X) ----------> D (silat Sunda)
 
 Dalam pola sistem hubungan (X) yang difungsikan atau dioperasikan pada konteks f (rumah Sunda), maka akan terlihat bentuk nyata (kuantitas ) rumah Sunda yang bermacam ragam wujudnya namun tetap bersistem hubungan X, atau berpola X, yaitu tritangtu.
 
@@ -1259,7 +1092,7 @@ tuan yang disebut rumah Sunda. Jadi, satu itu adalah tiga yang memiliki hubungan
 
 Senjata Kujang
 
- 
+
 
 Pola
 
@@ -1267,7 +1100,7 @@ Seperti Rumah Sunda, Kujang juga berpola tiga. Bagian bawah terdiri dari alat pu
 
 )
 
-tematik --- rara ? ”&; 8
+tematik --- rara ? ï¿½&; 8
 
 Kampung Sunda
 
@@ -1291,7 +1124,7 @@ Boboko
 
 Boboko adalah wadah nasi yang dibuat dari jalinan bambu, jadi bersifat tertutup (padat) dan terbuka (berlubang tipis), yaitu paradoks. Wujudnya pembagian tiga sebagai berikut:
 
-g _ y =» LC) ATAS = [nunda
+g _ y =ï¿½ LC) ATAS = [nunda
 
 28 anal (9) TEHGAH _ >) bajak sangkan (4) DADA
 
@@ -1379,7 +1212,7 @@ Gambar pola hubungan Negara Galuh berdasarkan kabuyutannya adalah sebagai beriku
 
 dA situ Penjali 4 GQJ|O (kadonqdo "4
 
- 
+
 
 terulhka -- c Cibulan Ciqaru "aga ag
 
@@ -1560,7 +1393,7 @@ dan lain-lain.
 
 Dalam seni musik harus diketahui dibunyikan dalam upacara apa? Siapa yang boleh memainkannya? Di mana boleh dimainkan? Bagaimana peralatan itu dapat diatur dalam sebuah komposisi ruangnya? Apa yang dilakukan sebelum upacara dan sesudahnya? Barulah kita simak repertoir musiknya sendiri.
 
- 
+
 
 Estetika Paradoks "83" Jakob Sumardjo
 
@@ -2180,7 +2013,7 @@ Bahkan cerita-cerita tertentu tak boleh di berikan kepada sembarang orang, takut
 
 * Baca lebih jauh buku P.). Zoetmulder, Manunggaling Kawula Gusti, Gramedia, 1990. Sejarah Monisme dan Pantheisme di Jawa diuraikan panjang kebar dengan peralatan filsafat yang rumit dan sukar.
 
- 
+
 
 Dalam tulisan ini pemahaman amat disederhanakan, hanya untuk pengantar pemahaman mengenai tabu dalam seni.
 
@@ -2196,7 +2029,7 @@ hami sikap monistik-pantheistik Indonesia ini, orang harus tidak bias dengan sis
 
 Yang Esa
 
-» Ungkapan paradoks disini jangan dikacaukan dengan sinthesis atau sinkretis.
+ï¿½ Ungkapan paradoks disini jangan dikacaukan dengan sinthesis atau sinkretis.
 
 Paradoks adalah paradoks. Dua tetapi satu, satu tetapi dua. Roroning atunggal, tunggale ora sawiji. Jadi kondisi paradoks tidak permanen, hanya eksidental, hanya kalau diperlukan. Kondisi paradoks tidak permanen karena hidup ini imanen. Yang Transenden atau Yang Esa itu baru dapat dihadirkan dalam waktu dalam ruang tertentu dan untuk kepentingan tertentu pula; Setelah tujuan tercapai, maka kondisi hidup dilenyapkan kembali; Benda seni disimpan kembali. Ritual itu hanya kadang kala, tidak terus menerus dilakukan. Meskipun yang transenden itu menyertai yang imanen, namun hanya sifat keillahiannya saja.
 P.]. Zoetmulder dalam bukunya Kalangwan, Djambatan, Jakarta, 1983, menyebutkan: Zat ke-Tuhanan dipandang baik sebagai transenden maupun sebagai imanen. Ia bersifat acintya, artinya di atas jangkauan angan-angan dan tak bisa disentuh oleh akal budi. Ia bersifat niskala, tidak berbentuk material, atau harafiah, tidak memiliki bagian-bagian. Ia bersifat nirasraya, tidak didasarkan atas atau ditopang oleh sesuatu yang lain..... Biarpun imanensiNya meliputi segala sesuatu, namun Yang Mutlak Illahi dapat memilih sarana-sarana tertentu untuk menempatkan diri, dengan "meraga" ke dalam sarana tertentu untuk menampilkan diri atau menghuninya secara istimewa, entah terus menerus entah untuk batas waktu tertentu atau dalam keadaan tertentu yang istimewa.... Yang terjadi bukanlah suatu unifikasi atau penyatuan, melainkan suatu kesadaran tentang kebersatuan yang telah ada, mengapa dan apa yang telah, merupakan keadaannya.
@@ -2527,11 +2360,11 @@ Yang berbalikan maupun yang berhadapan hadir dalam satu kesatuan. Satu tetapi du
 
 Estetika Paradoks " 139 " Jakob Sumardjo
 
- 
+
 
 ana -- *- =>
 
- 
+
 
 bukan dwitunggal harmoni, tapi dwitunggal pasangan pertentangan. Yang disebut "Ada" itu paradoksal, maka simbol-simbol paradoks ada di mana-mana.
 
@@ -2539,9 +2372,9 @@ Lihatlah wujud simbol-simbol paradoks yang mengambil referen "manusia" di Papua.
 
 -> ke
 
- 
 
- 
+
+
 
 Dua Orang menjadi satu: Lambang Paradoks
 
@@ -2549,13 +2382,13 @@ Garis-garis pada tubuh, melambangkan bulu-bulu burung: makhluk langit yang diyak
 
 Varian huruf S terbalik yang melambangkan paradok semesta.
 
- 
+
 
 Motif burung yang digambarkan simetri secara diagonal konsep dualistik
 
 Penyu - lambang Dunia Bawah
 
- 
+
 
 Estetika Paradoks " 140 " Jakob Sumardjo
 
@@ -2567,7 +2400,7 @@ Di sini jelas terlihat bahwa bentuk-bentuk simbol mengacu pada realitas kesadara
 Desain-desain begini lebih banyak digambar dalam alat perang mereka, yakni perisai perang, tifa (genderang) upacara, alat musik (seruling), dan sebagainya. Salah satu contoh desain semi abstrak pada perisai orang Asmat adalah gambar manusia.
 Beginilah bentuknya:
 
- 
+
 
 Pein; 3 MANG FIA
 
@@ -2602,7 +2435,7 @@ dium keramat yang menyatukan Tiga Dunia untuk kepentingan perlindungan keselamat
 
 Akan tetapi umumnya hiasan perisai terdiri dari desaindesain abstrak yang merupakan "kesatuan-berbalikan". Yang paling populer adalah pola huruf "S", huruf "C", huruf "W", dan huruf "X". Menilik bentuk-bentuk huruf itu jelas terlihat adanya "pola dua berbalikan". Motif huruf "S" adalah motif paling tua di Indonesia, karena motif tersebut telah ada pada zaman prasejarah, yakni ragam Hias pada benda perunggu yang dinamai Bejana Kerinci. Beginilah kira-kira bentuknya:
 
- 
+
 
 Motif huruf S atau huruf S terbalik ini, simbol dari bentuk paradoks laki perempuan yang bermakna jamak, seperti langitbumi, terang-gelap, hulu-hilir, pihak dalam-pihak luar, basahkering, suami-isteri, pihak kawan-pihak lawan, dan seterusnya.
 Makna simboliknya tergantung dari fungsi benda pakainya.
@@ -2616,7 +2449,7 @@ dn wan
 
 => 54%
 
- 
+
 
 menu. retakar
 
@@ -2636,7 +2469,7 @@ Esteti ka Paradoks - 144 " Jakob Sumardjo
 
 Pola-pola dualistik yang lain diambil dari referen wajah manusia. Sebagaimana gambar-gambar mengenai tiga wajah manusia ini, bagaimana pola dualistik wajah dipindahkan ke perisai:
 
- 
+
 
 Meskipun perang adalah perang, namun perang juga upacara, atau dalam sebuah upacara ada adegan perangperangan. Adakah perbedaan struktur antara perisai untuk perang dan perisai untuk upacara? Yang mana yang berhadapan, dan yang mana berbalikan? Namun hampir semua motif selalu diberi tanda "pemisah". Tanda pemisah semacam itu sudah terdapat sejak zaman Bejana Kerinci.
 
@@ -2677,7 +2510,7 @@ berhasil melindungi pemakainya, tifa berhasil mendatangkan daya-daya kosmik.
 
 PASHA pt AL < ras A) =-- dy Pita
 
-C““W - AIDIL
+Cï¿½ï¿½W - AIDIL
 
 Tradisi demikian ada di semua kebudayaan religius. Mereka selalu membuat patung-patung yang sama, gambar-gambar yang sama, tanda-tanda yang sama, yang merupakan simbol-simbol agamanya. Memang ada yang bermutu seni menurut penilaian orang modern, namun banyak juga yang kurang berseni.
 Ekspresi estetik pribadi mungkin saja terjadi, tetapi itu sama nilainya dengan yang kurang ekspresif. Karena mereka bekerja berdasarkan rasa pengabdian dan kepercayaan yang dalam, maka hasilnya sering kali sangat ekspresif. Jiwa terdalam tertuang dalam wujud-wujud yang sama.
@@ -2734,9 +2567,9 @@ Terang untuk lelaki, gelap untuk perempuan. Gersang untuk lelaki, subur untuk pe
 
 Estetika Paradoks " 150 " Jakob Sumardjo
 
-€ D setau
+ï¿½ D setau
 
- 
+
 
 Dalam pandangan religi asli etnik pra-modern, ruang dan waktu tidak homogen seperti pandangan orang modern. Ada waktu dan ruang transenden, ada juga waktu dan ruang imanen.
 Transenden mengandung kualitas paradoks, sedangkan imanen bersifat dualistik, pasangan kembar oposisi.
@@ -2748,7 +2581,7 @@ Estetika kaum peramu yang berpola dua ini memang amat menggejala di masyarakat P
 
 Estetika Paradoks " 1517 Jakob Sumardjo
 
- 
+
 
 Estetika paradoks budaya pola dua menekankan pasangan oposisi kembar pada karakter pertentangannya, bukan saling melengkapinya. Ruang selalu dibagi dua. Apabila terdapat ruang lain di antara keduanya bukan berarti "penghubung" tetapi "batas" atau "pisah". Dalam beberapa suku Papua yang di utara atau arah barat, ruang ketiga itu kadang bermakna "Penghubung", akibat persentuhannya dengan budaya ladang di Indonesia Timur.
 
@@ -3051,11 +2884,11 @@ Estetika Paradoks " 171" Jakob Sumardjo
 [ %.
 i
 
-| bi 1 * » 1> 3 a. 7 Soa
+| bi 1 * ï¿½ 1> 3 a. 7 Soa
 
- 
 
- 
+
+
 
 pada mulanya hanya ada Kosong yang disebut awang-awang uwung-uwungan. Ada dalam tiada. Dari Kosong itu muncul air yang semakin lama semakin mengental setipis sayap nyamuk, kemudian membesar dan mengeras sebesar buah cariu ading.
 Benda ini semakin membesar dan membesar sehingga menjadi bumi ini.
@@ -3212,23 +3045,23 @@ Sistem hubungan tiga sebagai kekuasaan dinamis ini dengan jelas ditulis dalam ta
 
 dan kekerabatan. Gambaran pola tiganya seperti terlihat pada ilustrasi di bawah ini.
 
-=+——»
+=+ï¿½ï¿½ï¿½
 
- 
 
- 
 
- 
 
- 
+
+
+
+
 
 | Luak Agam Luak Tanah Datar __ | = Luak Lima Puluh Koto J Bapak Ibu Mamak Anak Sulung Anak Bungsu Anak Tengah Hulu Balang Raja Penghulu Juara Pendekar Cerdik Pandai Kaya Tuah Hormat Hitam Kuning Merah Air Keruh Air Jernih Air Manis Ikan Liar Ikan Jinak Ikan Banyak Tanah Hangat Tanah Dingin Tanah Tawar Penjaga Pemilik Pemakai
 
 [ Kekuatan Kehendak | Pikiran
 
- 
 
- 
+
+
 
 Itulah sistem hubungan tiga dalam budaya Minang. Sistem hubungan tersebut dapat diperpanjang dalam hubungan kualitas-kualitas lain seperti terlihat dari hubungan kuantitasnya. Misalnya dalam pengaturan rumah gadang, ada ruang luar yang bersifat lelaki dan ruang dalam yang bersifat perempuan. Antara keduanya terdapat ruang lelaki-perempuan. Dalam urusan warisan juga memakai sistem hubungan ini, misalnya ibu sebagai pemilik, bapak hanya pemakai, dan yang mengurus warisan
 
@@ -3257,15 +3090,15 @@ Pola hubungan tiga Minang, yakni Tanah Datar, Agam, dan Limapuluh Koto, disalin 
 
 Kubang Anjing Tanah Datar Raja
 
- 
+
 
 inak
 
- 
+
 
 5oKoto Kambing
 
- 
+
 
 Gana Kotalawas Kucing
 
@@ -3518,13 +3351,13 @@ Garis Transendental
 
 Asal
 
- 
+
 
 Fenomena
 
 Kembah ke Asal
 
- 
+
 
 Itulah pandangan manusia tani, dan manusia ladang yang masih dikepung oleh rimba belantara tropis ini menyaksikan pluralisme yang luar biasa. Realitas faktual alam tropis ditanggapi oleh realitas kesadaran manusia. Hasilnya adalah pola pikir tritunggal. Kosmologinya terdiri dari tiga entitas. Pola tiga.
 
@@ -3544,7 +3377,7 @@ A = Asas Perempuan
 
 B = Asas LAki-laki T=L- P
 
- 
+
 
 SUNDA
 
@@ -3566,7 +3399,7 @@ Gambar kosmologi I La Galigo sebagai berikut":
 
 Estetika Paradoks " 202 " Jakob Sumardjo
 
- 
+
 
 Contoh-contoh ini menunjukkan bahwa kosmologi kaum peladang tetap berpola tiga, meskipun banyak variannya. Indonesia pra-modern didominasi oleh keberagaman pola tiga, seperti pada kebudayaan Sunda, Minang, Batak, Melayu, Nias, Mentawai, Madura (Tegalan), Nusa Tenggara, Maluku selatan, Dayak, Sulawesi Utara, Sulawesi Tengah, Sulawesi Selatan, dan lain-lain.
 
@@ -3632,13 +3465,13 @@ unungan juga disebut Kayon yang berarti Pohon Hayat. Dalam unungan ada bagian pa
 
 Pohon Hayat adalah gejala pemikiran purba Indonesia akan entingnya perantara yang menghubungkan manusia dengan dunia Atas rohani. Perantara, dan batas itu penting bagi budaya
 
- 
+
 
 Estetika Paradoks " 207 " Jakob Sumardjo
 
 peladang. Batas adalah fenomena paradoks, karena ia memisahkan sekaligus menyatukan. Batas adalah transformasi, saat-saat dalam ruang perubahan. Situasinya amat gawat. Kritis, karena dapat berhasil tapi juga dapat gagal. Batas itu menghubungkan sekaligus memisahkan. Pohon Kematian memisahkan, Pohon Hayat menyatukan. Keduanya sejajar dalam pasangan oposisi saling melengkapi seperti terlihat dalam tenun Sumba berikut ini:
 
- 
+
 
 Bahwa batas itu angker, sakral, paradoks, dapat kita saksikan dalam mitos Cindur Mata dari Minang. Cindur Mata sebagai penghulu melaksanakan tugas Bunda Kandung untuk pergi ke Sungaingiang. la diiringi oleh dua pembantunya, dan menunggang kudanya yang sakti Si Gumarang. Cindur Mata berangkat dari Pagaruyung menuju Sungaingiang, dan harus melewati bukit yang namanya Tambuntulang. Di bukit itu banyak terdapat kerangka manusia."
 
@@ -3718,13 +3551,13 @@ Kolong rumah peladang cukup tinggi. Ini simbol Dunia Bawah, kosmos bumi. Pada or
 Di banyak budaya suku peladang, logam simbol lelaki, karena "keras", "kaku". Simbol perempuan kain. Inilah sebabnya dalam upacara-upacara tertentu kain panjang selalu digantungkan dari atap ke arah ruang manusia. Juga simbol-simbol yang bersifat perempuan (kesuburan) digantungkan dari batas atap mengarah ke ruang rumah, biasanya juga berbahan kain.
 
 ai?
-”until
+ï¿½until
 
- 
+
 
 Estetika Paradoks " 212 " Jakob Sumardjo
 
- 
+
 
 S- - me oma DT,
 
@@ -3735,7 +3568,7 @@ ARAH ATAP /MENJO LOK LANGIT (Qt 4.
 AmAst .
 Pe mb agian ruang
 
- 
+
 
 Kosmologi kaum peladang
 
@@ -3779,7 +3612,7 @@ Ruang utama rumah gadang Tanah Datar ada di tengah, yang terbagi menjadi empat b
 
 Estetika Paradoks " 215" Jakob Sumardjo
 
- 
+
 
 is mundi , Paradoks Rohani 9 Transeden duniawi manusia imanen
 
@@ -3795,7 +3628,7 @@ Estetika Paradoks " 216 " Jakob Sumardjo
 
 "raja", dan "pemilik adat" seperti disebut dalam Tambo Minangkabau.
 
- 
+
 
 Bentuk rumah gadang Limapuluh Koto lebih sederhana.
 Hanya boleh memakai empat gonjong saja. Dan masih boleh memasang anjuang. Ruang utama tetap berlanjar empat dengan lima bilik di belakang. Dengan demikian rumah gadang ini memiliki tujuh ruang, dengan dua ruang terletak di anjuang buritan dan haluan.
@@ -3844,9 +3677,9 @@ Rumah adat tidak dapat "diambil alih" begitu saja oleh kelompok lain. Isi yang b
 
 Rumah adat Sumatera yang lain adalah = lontiok"", rumah orang Melayu di tepi sungai Kampar. Rumah lontiok disebut rumah lancang atau pincalang, yakni rumah struktur perahu (lancang). Seperti perahu Melayu yang terdiri dari dua ujung, depan dan belakang, haluan dan buritan, begitu pula dengan rumah lontiok terdiri dari dua oposisi biner, yakni bagian pangkal rumah, dan ujung rumah. Bagian buritan atau pangkal adalah ruang pemilik perahu atau rumah, dan bagian haluan atau ujung. Jadi pasangan paradoksal. Pusat paradoks rumah ada di sekitar tiang tuo. Di tengah-tengah antara ruang pangkal dan ruang ujung. Dalam perahu, itulah tiang layar. Tiang tuo ada dua pasang, laki-laki dan perempuan. Itulah axismundi rumah, axismundi mikro maupun makrokosmos. Pola dasarnya seperti gambar di atas.
 
- 
 
- 
+
+
 
 Di lihat secara empirik, atap rumah Melayu-Riau ini memang mirip bentuk perahu. Ini tidak berarti perahu menjadi sumber inspirasinya, karena nenek moyang Indonesia adalah pelaut. Sebagian besar orang Indonesia itu hidup dari bertani.
 
@@ -3878,7 +3711,7 @@ Ruang-ruang rumahnya juga dibagi tiga secara dualistik, bagian belakang yang sak
 
 Di sini ingatan pada bentuk perahu sama sekali tidak nampak. Yang mereka pentingkan tetap kedua ujung atap yang harus menyimbolkan dualisme antagonistik yang merupakan pasangan oposisi yang kalau dihubungkan, tengah-tengahnya merupakan harmoni paradoks yang diharapkan oleh pemilik rumah. Kehadiran yang paradoks, yang esa, yang absolut, akan membawa keselamatan dan kesejahteraan. Inilah sebabnya atap selalu "melindungi" penghuni rumah.
 
- 
+
 
 Estetika Paradoks " 222 " Jakob Sumardjo
 
@@ -3891,7 +3724,7 @@ Ruang paling depan adalah ruang lelaki tempat orang luar
 
 diterima di rumah.
 
- 
+
 
 Bila diperhatikan bahwa ruang perempuan terletak di belakang, tetapi di bagian kanan. Sedangkan ruang tempat tamu dan laki-laki ada di depan bagian kiri. Di sinilah alat-alat pertanian logam disimpan (simbol lelaki). Kolong rumah Sunda tidak setinggi rumah-rumah di Sumatera, yang menunjukkan sifat peladangnya yang lebih kuat daripada maritim.
 
@@ -3910,17 +3743,17 @@ Tata ruang percandian Melayu semacam itu juga terdapat pada Candi Gumpung di Jam
 Menilik tata ruang kompleks candi-candi Budhis yang demikian itu, candi-candi Budhis di Jawa Tengah, seperti candi Sari, dan candi Plaosan yang dibangun oleh Dinasti Syailendra, yang asalnya dari Melayu, menunjukkan ciri ruang yang sama.
 Perhatikan relief candi Borobudur yang antara lain melukiskan rumah-rumah Melayu (berkolong) adalah khas Sumatera.*
 
- 
+
 
 Perempuan (dalam) . DAL-AM I < I tengan kang eng
 
 Estetika Paradoks " 224 " Jakob Sumardjo
 
- 
+
 
 JALAM / - Luan
 
-191 161 kate - KOSONG LEAD TUA 1. CAN Dungu IMAM 3 CAM MAHLIGAI ? |") rangau 1, ardi PELAMGE A yan 5. MA€xAT T car 6. I ANG AAA SML rengan JAMBI] DALAHM +Pn4 M b , Lon T Oie
+191 161 kate - KOSONG LEAD TUA 1. CAN Dungu IMAM 3 CAM MAHLIGAI ? |") rangau 1, ardi PELAMGE A yan 5. MAï¿½xAT T car 6. I ANG AAA SML rengan JAMBI] DALAHM +Pn4 M b , Lon T Oie
 
 Begitu pula gambar relief kapal di Borobudur menunjukkan ciri Melayunya yang ladang-maritim. Mungkinkah seniman Jawa yang petani sawah mampu melukiskan kapal yang begitu detail? Relief-relief di candi Sewu juga menunjukkan karakter maritimnya. Perhatikan juga bentuk candi Sari yang seolah-olah terdiri atas tiga tingkat, meskipun kenyataannya hanya dua tingkat (ada sekat kayu antara ruang candi dengan atap candi).
 Bukankah ini bentuk rumah adat Melayu yang juga terdiri atas tiga tingkat, yakni kolong, badan rumah dan atap rumah?
@@ -3947,7 +3780,7 @@ TENGAH
 
 kawan -kKAKI
 
- 
+
 
 | 9 | 5 |i5 | PAM (sakkal)
 
@@ -3955,9 +3788,9 @@ TENGAH LUAR
 
 Denah Candi Sari
 
- 
 
-44 AA Lada L ab.“ |_“:- iku 2340? kn & 4€ | Aq secm + Denah Candi Plaosan
+
+44 AA Lada L ab.ï¿½ |_ï¿½:- iku 2340? kn & 4ï¿½ | Aq secm + Denah Candi Plaosan
 
 sudah. Inilah saat-saat gawat dan penuh kehadiran daya-daya adikodrati di dunia manusia. Dengan demikian makna totalitas juga meliputi waktu sebelum upacara, dan waktu sesudah upacara.
 
@@ -4007,11 +3840,11 @@ Batak.
 
 Estetika Paradoks " 229 " Jakob Sumardjo
 
- 
+
 
 Bahwa "yang satu" itu asalnya dari dua, dan yang dua itu menghasilkan entitas ketiga yang paradoks. Jadi, ulos itu "satu" tetapi juga "tiga"; yang satu itu tiga, yang tiga itu satu. Lihat polapola ragam hias semacam itu dan berbagai suku:
 
- 
+
 
 Dapat dilihat segi "vertikal" ulos yang memanjang itu, dikatakan vertikal karena pemakaiannya memang vertikal, yakni sisi ulos disampirkan pada bahu di bagian badan depan pemakainya. Sedangkan sisi yang lain tersampir di bagian badan belakang si pemakainya. Pada segi vertikalnya, ulos biasanya terbagi dalam tiga bidang, dengan bidang tengah yang terbesar.
 Bila demikian, maka bagian tengah inilah pusat ulos, yang berarti
@@ -4026,13 +3859,13 @@ A-B =satu - warna D un ia Atas Du nia Ten gah C =Warn a lai Dun iaba wah
 
 2 = =t anda harmo ni
 
- 
+
 
 3. Sim bok-si m bo I duniam anu sia
 
 Selain pembagian tiga secara vertikal, yang bidang kiri dan bidang kanannya berwarna sama, terdapat garis-garis horisontal yang membelah ketiga bidang vertikalnya. Inilah garis-garis horisontal yang mengarah pada yang imanen. Simbol-simbol dalam bidang horisontal dapat ditafsirkan secara imanen, misalnya pola-pola sembilan, empat, lima, enam dan tujuh. Bagaimana simbol-simbol itu disusun pada masing-masing bidang bidang horisontalnya, dapat menuntun kita menafsirkan maknanya. Akan tetapi ada ulos yang sama sekali tidak ada garis horisontalnya, melulu pembagian vertikal, dan tidak terdapat garis pembatas di tengah-tengah ulos yang vertikal. Ulos semacam ini hanya terdiri atas pembagian vertikal dari ujung ke ujung tanpa pembatas garis apa pun. Misalnya pada ulos Sibolang yang antara lain digunakan untuk menutupi jenazah seperti di bawah ini:
 
- 
+
 
 Ulos Sibolang
 
@@ -4092,7 +3925,7 @@ Rupanya masyarakat Sunda mengenal dua pola fikir, yakni 'pola tiga' dan 'pola li
 Seni tutur masyarakat ladang yang lain adalah datendate dari daerah budaya Donggala, Sulawesi Tengah. Arti datendate adalah "nyanyian panjang". Di sini bukan cerita mitos yang dijadikan pokok pertunjukan, tetapi kosmologi yang disimbolkan dalam bentuk sebuah tiang yang disebut vyunya. Tiang dibuat dari batang pinang atau batang kayu lurus yang menjulang tinggi ke langit dan tertanam di dalam tanah. Tiang ke atas dari permukaan tanah dibagi ke dalam tujuh bagian (penamaan), dan yang di bawah tanah terbagi pula dalam tujuh bagian penamaan.
 Hal ini menunjukkan kosmologi orang Sulawesi pada umumnya yang membagi Dunia Atas dan Dunia Bawah dalam tujuh tingkatan masing-masing. Di pucuk tiang vunya dipaku atau diikat erat-erat sebentuk burung yang dinamakan tonji-tonji.
 
- 
+
 
 Inti ritual, adalah tanya jawab tentang nama-nama bagian kosmologi Dunia Bawah dan Dunia Atas yang terbagi dalam empat belas nama tersebut. Pertanyaan, dan jawaban dilakukan dalam pantun teka-teki yang dilagukan. Penuturnya terdiri atas empat orang, laki-laki dan perempuan. Iringan musik dilakukan oleh sekelompok penabuh.
 
@@ -4107,17 +3940,17 @@ Bagian paling bawah (dalam tanah) adalah Yukunis, unsur tanah yang bermakna rahi
 sumber makanan yang menghidupkan. Mundila, nama untuk peralatan logam pertanian, simbol "kerja", dan "laki-laki".
 Nabimbave, nama pelepah daun kelapa, bermakna keterkaitan unsur-unsur pertanian. Sanidi, nama unsur lidi. Nabintoya nama unsur daun kelapa. Nabinuntu, nama unsur tiang (bambu kuning atau kayu) bermakna penis laki-laki. Nabimpola, nama unsur kaso, dua yang melintang, namun tidak ditemukan di titik yang sama; nabimpola yang mengarah timur-barat. Sedangkan Nabisoro yang melintang utara-selatan. Nabilosa adalah unsur lubang untuk kaso, tempat rohroh nenek moyang. Ndulandula/Raja Palila, roh-roh raja zaman dahulu. Daemanaru, nama unsur untaian padi, bermakna mitos padi. Tonji-tonji adalah rohroh nenek moyang perintis daerah setempat.
 
-DUNIA ATA ( end“)
+DUNIA ATA ( endï¿½)
 
 Tore]i
 
 - M AH UQ t4 - NDULA - MIJULA
 
-- NABI iCHRA -»4» tiad Dot d.
+- NABI iCHRA -ï¿½4ï¿½ tiad Dot d.
 
 - N ATI NUUNTU
 
- 
+
 
 _NABNTOYA ( 1nwaa h PK
 
@@ -4125,7 +3958,7 @@ i 1; - sAHHDI !* - nabinbe bE
 
 14 - yag !) - mutu aga Dr
 
-, n " ”D'Lllnu ' .- BAMGA4L I I s * -> YA betirit 4
+, n " ï¿½D'Lllnu ' .- BAMGA4L I I s * -> YA betirit 4
 
 Paria DAUMAH n_icnddh)
 
@@ -4135,7 +3968,7 @@ Nama-nama unsur yunya itulah yang harus dijawab secara tepat dan lengkap maknany
 
 Yang menarik adalah bagian Nabisoro dan Nabimpola yakni kaso arah utara-selatan, dan barat-timur. Dua kaso itu tidak ditemukan di satu pusat, tetapi masing-masing mempunyai "pusat" sendiri. Inilah gejala "dunia tengah", harmoni dari dua pasangan bertentangan, yang merupakan pola tiga suku peladang. Dalam masyarakat primordial sawah, keempat mata angin itu disatukan di satu pusat. Inilah harmoni ganda dan empat pasangan oposisi yang disatukan di titik pusat.
 
- 
+
 
 I DuNA JAwAt
 
@@ -4145,7 +3978,7 @@ Estetika Paradoks " 238 " Jakob Sumardjo
 
 Masih dalam seni helaran di Rancakalong, Tanjungsari, Sumedang, terdapat kuda rotan (kuda lumping) yang berpola tiga." Kuda rotan ini "dinaiki" oleh pawangnya, yang kalau ada orang berani mencoleknya dari belakang, akan kena sepakan si penunggang. Dalam pertunjukan, si penunggang rotan memang dalam keadaan trance atau kesurupan.
 
- 
+
 
 Pada tiang vunya. Pada bagian atas, mulai dari kaso-kaso sampai puncak yunya di atasnya bertengger burung tonji-tonji, hal ini jelas menampakkan simbol paradoks. Kaso arah timur barat digantungi boneka, simbol raja-raja zaman dahulu kala.
 Arah timur dan barat adalah arah duniawi, kelahiran dan kematian (barat). Ini merupakan simbol roh raja-raja yang telah mendahului generasinya, pernah lahir, memerintah dan meninggal dunia.
@@ -4166,10 +3999,10 @@ lilin-lilin), membawa enam % O -- Mangkok di kedua lengan8 o o 8
 
 C
 
-o -=m=tkak ka. - Nya secara tidak seimbang, ba-?r lii . » A = 4=»ari yakni empat mangkok di lengan kiri, dan satu mangkok di lengan kanan, satu di atas kepala. Ia menari menapak keenam piring yang bertangkah. I ada dalam jajaran lurus di depannya. Sesampai di piring paling ujung, ia kembali
+o -=m=tkak ka. - Nya secara tidak seimbang, ba-?r lii . ï¿½ A = 4=ï¿½ari yakni empat mangkok di lengan kiri, dan satu mangkok di lengan kanan, satu di atas kepala. Ia menari menapak keenam piring yang bertangkah. I ada dalam jajaran lurus di depannya. Sesampai di piring paling ujung, ia kembali
 
 lagi ke tempat semula.
-lang A I. Kemudian keenam marmgat mangkok diletakkan secara berimbang, yakni masingmasing lengan menyangga tiga mangkok. Ia memulai menapaki keenam piring di 27775907 depannya, kemudian berbalik kembali ke tempat semu£
+lang A I. Kemudian keenam marmgat mangkok diletakkan secara berimbang, yakni masingmasing lengan menyangga tiga mangkok. Ia memulai menapaki keenam piring di 27775907 depannya, kemudian berbalik kembali ke tempat semuï¿½
 
 Estetika Paradoks " 240" Jakob Sumardjo
 
@@ -4333,27 +4166,27 @@ Kembali pada mitos Ternate di atas yang dapat dibaca
 
 makna pembagian kekuasaan dalam pola kesatuan empat sebagai berikut.
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
 
- 
+
+
+
+
+
+
+
+
 
 [ Urutan I II II IV | Anak Sulung Anak Kedua Anak Ketiga Bungsu Buka Derajat Sahajat Malamo Simbol = Buncak Kayu Kursi Kopiah Kuasa Pohon Apung _ Batu Langit Makna == Tanjung Teluk Gunung Tahta Kuasa WILAYAH - Makian- Moti- Tidore Ternate Bacan Jailolo Status Pindah Pindah Menetap Menetap Tafsir Urusan Urusan Adat Pemerintahan Dalam Luar
 
- 
 
- 
+
+
 
 2. Pola Empat
 
@@ -4365,7 +4198,7 @@ Bahwa segala sesuatu merupakan kesatuan kesempurnaan yang terdiri dari empat pas
 
 Estetika Paradoks " 252 " Jakob Sumardjo
 
- 
+
 
 makhluk-makhluk dari "luar" ini kemudian mulai mendirikan kerajaan. Pada mulanya sang raja bertualang menembus bumi dan mengawini puteri raja bumi. Setelah itu ia akan meneruskan petualangannya memasuki dasar samudera, dan mengawini puteri raja samudera. Kemudian sang raja akan terbang ke langit, dan mengawini puteri raja langit. Baru kemudian ia turun ke daratan (dunia manusia) kembali dan mengawini salah seorang puteri raja di muka bumi ini. Raja yang demikian itulah merupakan raja ideal bagi masyarakat maritim (kelautan).
 
@@ -4384,13 +4217,13 @@ saka milik negara kampung yang terdiri dan 4 kelompok tersebut
 
 PAS
 
- 
 
-ARAH 1 Pext. A + Al*“n oe MCTAF4|SIS
+
+ARAH 1 Pext. A + Al*ï¿½n oe MCTAF4|SIS
 
 me maya M )
 
- 
+
 
 1 MILIm ( )
 
@@ -4465,7 +4298,7 @@ belakang merupakan ruang tertutup (rumah perahu), tempat menyimpan ikan hasil ta
 
 Perahu adalah juga tritunggal, karena persis di tengahtengah badan perahu dipasang tiang layar.
 
- 
+
 
 ra.. _
 
@@ -4487,7 +4320,7 @@ Pantun semula ditafATAP sirkan berasal dari kata
 
 "padi". Di Jawa dan
 
-_» tuburng ANGIn Sunda memang kata "pantun" - merupakan
+_ï¿½ tuburng ANGIn Sunda memang kata "pantun" - merupakan
 
 bahasa halus sari "padi". Tetapi bagaimana
 
@@ -4505,9 +4338,9 @@ LeBang ANGIN sehingga "pantun" dapat berarti "yang memberi - tuntunan" seAR hing
 
 "santun". Orang yang
 
-- beradab, yang sopan QQ“… AP: - santun, tentu mematuhi tuntunan normatif masyarakatnya. Ada
+- beradab, yang sopan QQï¿½ï¿½ AP: - santun, tentu mematuhi tuntunan normatif masyarakatnya. Ada
 
-19 tougt€) T juga - kata - "santun"
+19 tougtï¿½) T juga - kata - "santun"
 
 Estetika Paradoks " 260" Jakob Sumardjo
 
@@ -4542,7 +4375,7 @@ sayang", kasih sayang disimbolkan burung punai. Apabila hal ini dilengkapi denga
 
 Dengan begitu jelaslah bahwa arti Pantun itu sama sekali tersembunyi dalam "pola empat" ini. Arti umum yang biasa kita jumpai adalah "cinta tumbuh dari mata turun ke hati" atau "cinta ada pandangan pertama". Lantas apa gunanya susah payah membuat baris pertama dan kedua bila tidak ada artinya bagi Pantun? Pola empat pada pantun distruktur sama dengan pola empat pada 'tudung angin' dan "lubang angin' rumah adat Bugis, bahkan dengan pola pengaturan perkampungan di Nusa Tenggara timur. Penjelasannya sebagai berikut:
 
- 
+
 
 SAKRAL 1u ] gAMPIRAHN - 1 S1 SAMMEANM -AF1
 
@@ -4573,7 +4406,7 @@ juga pada kain songketnya, baik untuk kain, selendang, atau ikat kepala. Gambar-
 
 Inilah salah satu contohnya :
 
- 
+
 
 3.1.2. Motif Kapal Sanggat
 
@@ -4591,7 +4424,7 @@ Marilah kita perhatikan apakah ada pola-pola tertentu
 
 yang berhubungan dengan pola maritim dan pola lain. Inilah gambar motif Kapal Sanggat Jambi :
 
- 
+
 
 Dlotf Kapal Sanggar
 
@@ -4599,13 +4432,13 @@ Penafsiran Penulis sebagai berikut :
 
 a) Lunas kapal: ternyata terdiri dari tiga baris ho- 1 rizontal, jadi berpola ti- eu ga kaum peladang Jambi <=.=3 (pedalaman).
 
- 
+
 
 b) Pagar kapal: juga terdiri dari tiga bentuk vertikal yang berpola tiga kaum peladang pula.
 
 c) - Buritan kapal: terdiri dari lima lengkungan, tiga lengkungan besar, dua lengkungan kecil. Garis lengkung menandakan sifat "perempuan" dan itulah saya sebut sebagai "buritan kapal" karena ruang buritan untuk menyimpan barangbarang, tempat istirahat, tempat menimbun seperti halnya lumbung padi, yakni ruang yang karakternya "diam".
 
- 
+
 
 Estetika Paradoks " 266 " Jakob Sumardjo
 
@@ -4613,11 +4446,11 @@ d)
 
 Haluan kapal: adanya di sebelah kiri, berbalikan dengan buritan yang ada di kanan. Garis-garisnya lurus terdiri dari tiga bagian, dalam posisi diagonal, aktif, bergerak. Itulah Penulis namakan haluan kapal karena haluan ruang aktivitas anak buah kapal, bersifat "lelaki" yang sesuai dengan bentuknya yang tiga tegak lurus, berbalikan dengan buritan yang penuh lengkungan lunak. Inilah pola tiga kaum peladang pula.
 
- 
+
 
 Tiang kapal dan layar: kedua tiang kapal terdiri dari tiang depan yang lebih pendek dari tiang belakang yang lebih tinggi, inilah pasangan "lelaki-perempuan" semua keberadaan. Layarnya pada kedua tiang digambar dengan garis-garis lengkung seperti buritan. Layar digambar dalam sifat "perempuan" karena kain adalah simbol perempua, pembatik dan penenun selalu perempuan. Garis-garisnya juga tiga lengkungan yang berpola tiga.
 
- 
+
 
 Bendera: adanya tiga bendera menunjukkan pola tiga keberadaan. Sedangkan 4 bendera menunjukkan pola empat kaum maritim. Pada motif Kapal Sanggat yang di dasar laut arah bendera justru berbalikan, yang haluan menghadap ke depan, yang buritan menghadap ke belakang.
 
@@ -4677,7 +4510,7 @@ kelipatan Pola Tiga?
 
 Motif ini diilhami oleh mitos Angso Duo yang memberikan petunjuk dimana negeri Tanah Pilih, awal kerajaan Islam di Jambi didirikan. Setelah raja Tun Telanai, raja Jambi dari Mataram Hindu dibunuh oleh anaknya I SPd 22032 sendiri, kosonglah pemerintahan di Jambi, sampai datangnya Puteri Selara Pinang Masak dari Minangkabau, Pagaruyung, dan diangkat sebagai penguasa oleh rakyat di Tanjung Jabung.
 
- 
+
 
 Estetika Paradoks " 270" Jakob Sumardjo
 
@@ -4740,7 +4573,7 @@ caknya diatas justru dibalik ke bawah. Kedua segi-tiga "naik" dan
 
 "turun" ini kalau dijadikan satu membentuk segi-lima. Inilah gambarannya.
 
- 
+
 
 Jenis pentagonal ini ditemukan juga pada situs megalitik Gunung Padang di Cianjur, Jawa Barat. Memang tidak seluruh batu yang berupa balok-balok berpenampang segi-lima, ada yang segi enam dan segi-empat pula, namun penampang segi lima lebih banyak. Gunung Padang sendiri berupa bukit yang diatasnya dibangun situs megalitik raksasa terdiri dari lima halaman besar dan kecil. Namun sebelum sampai ke situs di puncak, terdapat tangga naik yang hampir vertikal dengan ratusan anak tangga batu seolah kita sedang menaiki tangga ke langit. Makna yang dapat ditafsirkan adalah bahwa manusia dapat bertemu dengan sesuatu "di langit", Dunia Atas, kalau kita "naik" dan Dia "turun", dan manusia bertemu dengan Dia di Gunung Padang bagian puncaknya.
 
@@ -4756,7 +4589,7 @@ Inilah = gambaran simbol mandala yang dahulu terkenal dalam faham Budha dan Hind
 
 Yang menarik adalah bahwa justru bunga yang berkelopak empat dijadikan pusat mengesanya, sedangkan anggota-anggota kelompok oposisinya digambarkan dalam 8 kelopak bunga. Dari kenyataan ini kita dapat belajar dari kearifan nenek moyang kita dahulu bahwa semakin mengecil kesatuannya semakin tinggi tingkat transendensinya. Jadi kalau ditelusur hierarki dari tingkat transenden dapat digambarkan sebagai berikut:
 
- 
+
 
 Esa (Tunggal) - dua --- empat - delapan - tiga puluh dua - enam puluh empat--- dst.
 
@@ -4818,13 +4651,13 @@ Dengan demikian gambar-gambar manusia-binatang dalam tiga warna tadi meng-isyara
 
 Estetika Paradoks " 279 " Jakob Sumardjo
 
- 
+
 
 Estetika Paradoks - 280 " Jakob Sumardjo
 
 Yang menarik dari situs-situs purbakala Kerinci di Pasemah adalah batu-batu segi empat yang berlubang-lubang. Gejala ini jelas sekali berhubungan dengan mitologi dalam kunun-kunun Kerinci. Semuanya menggambarkan varian hubungan dari 4 bersaudara yang dari satu orang tua. Inilah beberapa di antaranya:
 
- 
+
 
 Estetika Pola 4 dasarnya adalah pandangan dunia kaum maritim yang kesatuan empat. Kesatuan empat ini meliputi yang mikrokosmos, makrokosmos, dan metakosmos. Metakosmosnya ada di langit, Dunia Atas, yang dalam mitos Ternate berwujud bidadari dan pada Kerinci berwujud Puteri Bungsu, makrokosmosnya adalah anak lelaki sulung yang menguasai daratan (tanjung) dan anak lelaki kedua yang menguasai lautan (teluk).
 Ini dapat dikembalikan pada kekuasaan mengurus dalam negeri dan luar negeri (teluk). Sedang anak lelaki kakak si bungsu menguasai gunung yang berarti adat istiadat. Sedang mikrokosmos manusia berwujud kekuasaan raja yang dipegang oleh si bungsu.
@@ -5670,7 +5503,7 @@ digaris persis bagian tengahnya secara vertikal maupun horizontal. Dengan demiki
 
 dapat diperluas menjadi mandala 8 bagian dengan cara membelah tiap bagian mandala dengan cara yang sama pada mandala 4 bagian. Selanjutnya mandala 8 bagian dapat dijadikan mandal'a 16 bagian, mandala 32 bagian, mandala 64 bagian. Dalam batik 64 bagian, mandala akan didapatkan 64 motif yang diulangulang sampai seluruh kain dipenuhi motif yang sama. Orang tinggal mencari mana bagian pusat mandalanya.
 
- 
+
 
 Estetika Paradoks " 342 " Jakob Sumardjo
 
@@ -5680,7 +5513,7 @@ Batik juga menggambarkan pasangan kembar mandala dalam satu kain. Nampaknya hany
 
 Di samping pola mandala, batik juga mengenal pola parang atau miring, berupa garis diagonal yang memenuhi seluruh bidang kain batik. Pola parang juga gambaran paradoks. Dalam bab terdahulu pernah disinggung mengenai makna garis diagonal. Garis diagonal merupakan harmoni antara garis vertikal dan garis horisontal. Garis diagonal adalah garis vertikal sekaligus garis horisontal.
 
- 
+
 
 Pembagian pola parang sama dengan pembagian pola mandala, yakni satu kacu dibagi 2, kemudian 4, 16, 32, 64. Banyaknya garis miring atau diagonal dalam satu kacu dan dalam satu lembar batik tergantung dan pembagian mandalanya, apakah mandala 4 bagian, 16 bagian, dan seterusnya Pengisian bidang-bidang miring biasanya pola dualisme antagonistik. Kehadiran pasangan dualistik semacam ini juga bermakna paradoks, karena bentuk
 
@@ -5697,7 +5530,7 @@ Lembar batik seluas apapun tetap berisi pengulangan pengulangan motif yang memen
 
 Flora dan fauna juga simbol. Ada binatang-binatang tertentu yang merupakan simbol budaya. Naga untuk bumi dan burung untuk langit. Begitu pula jenis bunga tertentu memiliki arti simbolis dalam budaya Jawa. Menemukan arti simbol itu harus di
 
- 
+
 
 Estetika Paradoks " 344 " Jakob Sumardjo
 
@@ -5710,7 +5543,7 @@ Batik merupakan pasangan kembar dua mandala atau papat kalimo pancer, yakni untu
 
 Paradoks batik juga digambarkan lewat motif dasar parang atau pola miring-diagonal. Paradoks digambarkan pula dalam bentuk mandala, yakni lingkaran (sakral) dalam bujur sangkar (profan) atau bujur sangkar dari lingkaran (wujud profan dari yang sakral).
 
- 
+
 
 Moot: mama - Juturng Pana0exk! mam Ata3 - JAJAN
 
@@ -5748,7 +5581,7 @@ Estetika Paradoks " 347 " Jakob Sumardjo
 
 Sedangkan pada keris ageman (yang tidak "diisi" daya-daya transenden) lebih mementingkan segi estetiknya.
 
- 
+
 
 Keris tayuhan (pusaka) dibuat oleh seorang empu keris dengan ritual tertentu. Persiapan untuk menyediakan bahan-bahan yang diperlukan, seperti besi, baja, bahan pamor, dan perkakas serta tempat menempa bilah keris, telah dilakukan selama 6 hari sebelum pembuatan. Selama 6 hari itu empu melakukan persiapan-persiapan sebagai berikut, hari pertama, membersihkan tempat penempaan yang biasanya berada jauh dari tempat hunian, di tempat yang sepi. Hari kedua, memilih pembantu-pembantunya yang terpercaya menjaga rahasia. Hari ketiga, kembali memeriksa peralatan dan dibersihkan (disucikan). Hari keempat, empu mengajak pembantu pembantunya keluar rumah di tempat sunyi, biasanya malam hari, untuk membicarakan keris yang akan ditempa. Hari kelima, diselenggarakan slametan dengan mengundang tetangga minta doa restu mereka agar pembuatan keris berlangsung lancar tanpa halangan. Hari keenam, bahan dan peralatan dibersihkan kembali, dan empu menetapkan mantra-mantra apa yang akan dimasukkan ke dalam keris tayuhan. Mantra-mantra ini harus dihafalkan oleh para pembantunya.
 
@@ -5790,7 +5623,7 @@ Panggung pertunjukan Wayang juga mengandung paradoks. Layar putih di mana Wayang
 
 Dilihat dari sisi dalang, layar tersebut memberitahukan lakon apa yang akan dipertunjukkan. Kalau lakon hanya mengenai dewa-dewa, maka layar putih bertepi lapis hitam akan dipasang. Kalau lakon mengenai pahlawan-pahlawan budaya (Mahabarata dan Ramayana), maka layar putih bertepi lapis warna merah akan dipasang, Warna merah atau hitam, di balik layar tetap berwarna hitam. Ini memperkuat dugaan bahwa pertunjukan Wayang memang pertunjukan bayang-bayang dan bersifat sakral (rohani).
 
- 
+
 
 P
 
@@ -5808,7 +5641,7 @@ Pangkal simbol Dunia Bawah, pucuk lambang Dunia Atas, dan
 
 keduanya saling menyatu dalam harmoni berbentuk garis lurus penuh.
 
- 
+
 
 Wayang-wayang terhormat ditancapkan di batang bagian atas, yang kurang terhormat di batang bagian bawah. Bekas tancapan tokoh Wayang yang amat dihormati, yakni Batara Guru (Dewa Siwa) tabu untuk ditancapi tokoh Wayang yang lain.
 Kadang bekas tancapan Wayang Batara Guru dinilai amat sakral, sehingga dapat menjadi 'sumber berkat' bagi tuan rumah penanggap Wayang. Susunan batang pisang yang demikian itu memang secara rasional hanya mengejar fungsi estetik dan teknis.
@@ -6165,7 +5998,7 @@ Struktur horisontalnya berisi gambar-gambar simbol dan bawah ke atas yang bersif
 
 Estetika Paradoks " 369 " Jakob Sumardjo
 
- 
+
 
 dalam diri-Nya. Di sana Yang Maha Ada bertahta, tetapi sekaligus juga Yang Tiada. Sang Mataya (Matoyo), Teu Aya (Sunda).
 Sang Maha Ada itu tidak terjangkau oleh pengalaman manusia, karena memang amat berbeda dengan pengalaman manusia di dunia ini. Dialah Tiada itu, Kosong itu, namun sekaligus Segalanya yang ada dan yang mungkin ada, kosong namun isi sepenuhnya. Manusia, dunia, dan semesta berasal dari sana.
@@ -6227,7 +6060,7 @@ Qugkareg meb:iTafi |
 
 DANMAF PATI CSAETAL ) sukga LANGIT
 
- 
+
 
 tekor HAYAT Pucuk
 
@@ -6482,7 +6315,7 @@ Kebanyakan permainan rakyat ini tidak mengandung unsur musik, tetapi sering menj
 
 * Dikutip dari C. Hooykaas, Zakelijk Proza in Bahasa Indonesia (JB Wolters, Jakarta 1949), yang berisi karangan-karangan dalam majalah Panji Pustaka terbitan tahun 1920-an dan 1930-an.
 
-» Lihat Parsudi Suparlan, Masyarakat Sakai di Riau, dalam Koentjaraningrat, Mayarakat Terasing di Indonesia.
+ï¿½ Lihat Parsudi Suparlan, Masyarakat Sakai di Riau, dalam Koentjaraningrat, Mayarakat Terasing di Indonesia.
 
 * Lihat Curt Sachs, World History of The Dance, WW Norton Company, New York, 1963, hal. 22-23.
 
@@ -6582,7 +6415,7 @@ sehingga karakter budaya peramu dan peladang menyatu dalam budaya kelautannya.
 
 " Tentang budaya maritim Melayu ini dibicarakan dalam buku Y. Boelaars, Kepribadian Indonesia Modern (Gramedia, 1984).
 
-»" Baca penjelasan R.M.Ng. Poerbatjaraka dan Tardjan Hadidjaja dalam Kepustakaan Jawa (Djambatan, 1952), hal.57-61. Beberapa bagian dari uraian mereka mengenai Tantu Panggelaran ternyata dimuat pula dalam Manik-Maya, seEstetika Paradoks " 393 " Jakob Sumardjo
+ï¿½" Baca penjelasan R.M.Ng. Poerbatjaraka dan Tardjan Hadidjaja dalam Kepustakaan Jawa (Djambatan, 1952), hal.57-61. Beberapa bagian dari uraian mereka mengenai Tantu Panggelaran ternyata dimuat pula dalam Manik-Maya, seEstetika Paradoks " 393 " Jakob Sumardjo
 
 perti pemindahan gunung dari barat pulau Jawa ke arah timur. Bedanya, gunung itu berasal dari India, sedangkan Manik-Maya menyebutkan berasal dari pulau Jawa, setelah Batara Guru mengheningkan cipta. Juga disebutkan raja pertama Jawa di Medang, penjelmaan Dewa Wisnu, hanya Tantu Panggelaran menyebut raja pertama itu Kandiawan, sedangkan Manik-Maya menyebut Mangukuhan (putra Kandiawan). Rupanya, Manik-Maya memakai Tantu Panggelaran sebagai salah satu sumbernya.
 
