@@ -1,11 +1,9 @@
 # Beauty In Kant And Confucius A First Step
 By Christian Helmut Wenzel  
-associate professor, Department of Foreign Languages and Literature, National Chi Nan University,Taiwan. Specialities: Kant, Aesthetics, Analytic Philosophy. E-mail: wenzel@ncnu.edu.tw ©2006, Journal of Chinese Philosophy
+Associate professor, Department of Foreign Languages and Literature, National Chi Nan University,Taiwan. Specialities: Kant, Aesthetics, Analytic Philosophy. E-mail: wenzel@ncnu.edu.tw ©2006, Journal of Chinese Philosophy
 
 <!-- TOC START min:2 max:6 link:true update:true -->
-  - [1](#1)
-  - [2.](#2)
-  - [3](#3)
+
 
 <!-- TOC END -->
 
@@ -17,7 +15,7 @@ The first problem one faces is the following: Kant writes about beauty (Schönhe
 
 Aesthetics is not only about beauty but also about the arts. Thus, we could look at passages where Confucius talks about the arts (yi), the polite arts (wen), music (yue), and archery (she). This will lead us further.
 
-The second problem arises from the following fundamental asymmetry: Kant offers a whole theory about aesthetics. Apart from the early article “Observations on the Feeling of the Beautiful and the Sublime” (1764), Kant wrote a systematic analysis of the subject, the “Critique of the Aesthetic Power of Judgment,” which fills almost 200 pages in the Critique of the Power of Judgment (1790). Confucius does not present such a theory, either in the Analects or in other writings attributed to him.He merely offers some comments, descriptions, and suggestions dispersed here and there, about the relevance of mei in various circumstances. This asymmetry places these two thinkers onto very different levels of abstraction and theorizing to start with.
+The second problem arises from the following fundamental asymmetry: Kant offers a whole theory about aesthetics. Apart from the early article “Observations on the Feeling of the Beautiful and the Sublime” (1764), Kant wrote a systematic analysis of the subject, the “Critique of the Aesthetic Power of Judgment,” which fills almost 200 pages in the Critique of the Power of Judgment (1790). Confucius does not present such a theory, either in the Analects or in other writings attributed to him. He merely offers some comments, descriptions, and suggestions dispersed here and there, about the relevance of mei in various circumstances. This asymmetry places these two thinkers onto very different levels of abstraction and theorizing to start with.
 
 Although Kant, too, gives examples and descriptions, these do not constitute the heart of his mature aesthetics, which is part of his transcendental philosophy and therefore more abstract and theoretical in nature: Kantian aesthetics is based on an analysis of the judgment of taste, and this analysis is guided by the “categories,” more precisely, by the “logical functions of judging,” which are taken from the first Critique. This involves rather complicated ideas, such as the “a priori principle of subjective purposiveness” and the “free play of imagination and understanding.” There is nothing so elaborate in Confucius that we could draw on to make comparisons at an equal level. Instead, what I think naturally offers itself here is to apply Kant’s theory of aesthetics to what Confucius says about mei and the arts. This, we should keep in mind, is then not a way of drawing parallels at the same level, so to speak horizontally. Rather, the comparison is more along a diagonal, from a theory to a phenomenon unfamiliar to that theory. It would be an application and at the same time a test of Kant’s theory.
 
