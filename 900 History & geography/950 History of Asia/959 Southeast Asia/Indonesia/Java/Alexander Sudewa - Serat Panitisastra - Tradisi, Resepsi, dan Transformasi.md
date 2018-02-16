@@ -1,12 +1,13 @@
 #Serat Panitisastra: Tradisi, Resepsi, dan Transformasi
 oleh Alekander Sudewa
 
-PRAKATA
+Prakata
 
-Dengan memanjatkan puji syukur ke hadapan Tuhan Yang Mahaesa akhirnya tulisan ini dapat vselesai dan terwujud sebagai yang disajikan disini.
+Dengan memanjatkan puji syukur ke hadapan Tuhan Yang Mahaesa akhirnya tulisan ini dapat selesai dan terwujud sebagai yang disajikan disini.
 
 Tulisan ini merupakan hasil penelitian yang berawal dari perkenalan saya dengan Prof.Dr.A.Teeuw pada tahun 1983.Semangat beliau untuk mencari dan mendidik peneli- ti bahasa dan sastra Indonesia mendorong beliau untuk minta kepada Rektor IKIP Sanata Dharma agar! saya diberi kesempatan untuk mengadakan penelitian Awal.
-Penelitian awal ini akan mengarah ke genre sastra piwulang terutama berkat bimbingan Prof.Pr.Sartono Kartodirdjo. Atas jasa kedua beliau itu pulalah saya dapat melanjutkan penelitian awal ini di Universitas Kerajaan di Leiden, Negeri Belanda, pada tahun 19851986, dengan bea siswa dari Ministrie van Onderwijs en Wetenschappen Pemerintah Belanda. :
+
+Penelitian awal ini akan mengarah ke genre sastra piwulang terutama berkat bimbingan Prof. Pr. Sartono Kartodirdjo. Atas jasa kedua beliau itu pulalah saya dapat melanjutkan penelitian awal ini di Universitas Kerajaan di Leiden, Negeri Belanda, pada tahun 19851986, dengan bea siswa dari Ministrie van Onderwijs en Wetenschappen Pemerintah Belanda. :
 
 Dari penelitian awal ini perhatian kepada genre sastra piwulang lebih terarah kepada_SèzaL Panitisastra, yang kemudian menjadi usulan disertasi. Usulan disertasi ini diterima oleh Fakultas Pasca Sarjana pada bulan Februari 1987. Sebagai peserta program doktor saya mendapat biaya dari TMPD.
 

@@ -30,6 +30,16 @@ Oleh Kamajaya (Karkono Partokusumo)
   - [Serat Sabdajati](#serat-sabdajati)
   - [Serat Sabdatama](#serat-sabdatama)
   - [Serat Jaka Lodhang](#serat-jaka-lodhang)
+    - [Bubuka](#bubuka-1)
+    - [Isi Serat Jaka Lodhang](#isi-serat-jaka-lodhang)
+      - [Bagian Ke 1 Tembang Gambuh 3 Bait](#bagian-ke-1-tembang-gambuh-3-bait)
+      - [Bagian Ke 2 Tembang Sinom 3 Bait](#bagian-ke-2-tembang-sinom-3-bait)
+      - [Bagian Ke 3 Tembang Megatruh 3 Bait](#bagian-ke-3-tembang-megatruh-3-bait)
+  - [Serat Wedharaga](#serat-wedharaga)
+  - [Kepustakaan](#kepustakaan)
+  - [Kamus](#kamus)
+  - [Penulis Buku Ini](#penulis-buku-ini)
+    - [Kamajaya](#kamajaya)
 
 <!-- TOC END -->
 
@@ -483,7 +493,7 @@ TAMAT
 
 ## Serat Jaka Lodhang
 
-Serat Jaka Lodhang ini dimulai dengan Bubuka (Pendahuluan) berupa dua 'pada"(bait) geguritan atau sanjak. Masing-masing bait terdiri dari lima gatra (bagian).
+Serat Jaka Lodhang ini dimulai dengan Bubuka (Pendahuluan) berupa dua "pada"(bait) geguritan atau sanjak. Masing-masing bait terdiri dari lima gatra (bagian).
 
 Bubuka ini ada yang menyebut dengan nama Serat Kalut (kalut = kacau) sebagai serat tersendiri.
 
@@ -491,1024 +501,108 @@ Kata-kata dan kalimat-kalimat geguritan tersebut berdasarkan susunan dan arti ha
 
 Sebagai telah diuraikan dalam Kata Pengantar buku ini, penterjemah mengutamakan terjemahan, yaitu memberikan arti katakata yang tersurat dengan di sana-sini melengkapi kalimat-kalimat sehingga dapat dan mudah dipahami oleh para pembaca segala tingkat kecerdasan.
 
-Tentang yang tersirat atau makna, tafsir dari kata-kata dan
+Tentang yang tersirat atau makna, tafsir dari kata-kata dan kalimat-kalimat bersayap terserah kepada kearifan para pembaca.
 
-kalimat-kalimat bersayap terserah kepada kearifan para pembaca.
 Di dalam dua bait Geguritan itu terdapat sandiasma dari pengarangnya yang dijelaskan sebagai berikut:
 
-1. Dalam Geguritan ke-1 rangkaian sukukata-sukukata pertama dari tiap-tiap gatra berbunyi rongga warsita.
-Rangkaian dari sukukata-sukukata terakhir dari tiap-tiap gatra berbunyi: basa kadhaton.
+1. Dalam Geguritan ke-1 rangkaian sukukata-sukukata pertama dari tiap-tiap gatra berbunyi rongga warsita. Rangkaian dari sukukata-sukukata terakhir dari tiap-tiap gatra berbunyi: basa kadhaton.
 
-2. Dalam Geguritan ke-2 rangkaian sukukata-sukukata pertama dari tiap-tiap gatra berbunyi: basa kadhaton.
-
-Rangkaian sukukata-sukukata terakhir dari tiap-tiap gatra
-
-berbunyi: ronggawarsita.
-Basa kadhaton = basa (ing) kraton = bahasa (di) istana = pujangga (yang menggunakan) memahami bahasa istana.
-
-78
+2. Dalam Geguritan ke-2 rangkaian sukukata-sukukata pertama dari tiap-tiap gatra berbunyi: basa kadhaton. Rangkaian sukukata-sukukata terakhir dari tiap-tiap gatra berbunyi: ronggawarsita. Basa kadhaton = basa (ing) kraton = bahasa (di) istana = pujangga (yang menggunakan) memahami bahasa istana.
 
 Serat Jaka Lodhang ini adalah Serat Jangka, yaitu Ramalan, sebab di dalamnya terdapat angka tahun yang berbentuk Candrasangkala. Ramalan itu menunjukkan (akan) terjadinya berbagai peristiwa.
 
-BUBUKA
+### Bubuka
 
 Geguritan 2 bait
 
-1. Rongeh  jleg tumiba, 2. Barang-barang ngerong, gagaran santosa, saguh tanpa raga, wartane meh teka, katali kawawar, sikara karodha, dhadhal amekasi, tatage tan katon. tondha murang tata.
+No. |Javanese|Jarwa| Indonesian  |Notes
+--|--|--|--|--
+1. |Rongeh jleg tumiba, gagaran santosa, wartane meh teka, sikara karodha, tatage tan katon.|Kaanan kang sarwa ora nentremake teka padha sanalika, (iku) dadi paugeran kang kuwat, (ing bab kang) kabare meh teka, (yaiku) tindak sawenang-wenang, (saengga) tatage atining wong ora katon.|Keadaan yang menggelisahkan terjadi tiba-tiba, (itu) menjadi pedoman kuat, (akan hal yang) kabarnya hampir tiba, (yaitu) tindak sewenang-wenang, (sehingga) ketabahan hati orang tidak tampak.|Perkataan rongeh, penulisannya dengan huruf Jawa umumnya (sekarang) adalah: ro + ngeh tetapi perkataan itu di sini harus memenuhi kepentingan sandiasma; ronggawasita. Oleh karenanya penulisannya dengan huruf Jawa adalah; rong + eh. Keterangan mengenai soal ini seperti dapat dibaca dalam catanan dalam Serat Sabdajati bait ke-14 dan bait ke-22.
+2. |Barang-barang ngerong, saguh tanpa raga, katali kawawar, dhadhal amekasi, tondha murang tata.|Apa (lan sapa) bae kang padha ndhelik, saguh tekad pati, (nadyan) kabanda kasigar-sigar, (marga percaya lalakon mau) wekasane (bakal) ambyar, (jalaran) nyata nerak tatanan (kamanungsan).|Apa (dan siapa) pun yang bersembunyi, sanggup bertekad mati, (sekalipun) dibelenggu dipecah-pecah, (sebab percaya peristiwa itu) akhirnya (akan) hancur, (karena) nyata-nyata melanggar tata (kemanusiaan).|rongeh = tidak tenteram, serba gelisah.<br>jleg = datang, jatuh, muncul dengan tiba-tiba.<br>gagaran, dari: garan = pegangan, pedoman.<br>sikara karodha =- menyiksa<br>dengan bernafsu = sewenang-wenang.<br>ngerong = masuk dalam liang, bersembunyi.<br>tanpa raga = tanpa badan/ tubuh, mati.<br>katali = diikat, dibelenggu.<br>kawawar, dari: wawar = sigar = pecah, pecah-belah.<br>murang tata = melanggar peraturan.
 
-1. Kaanan kang sarwa ora nentremake teka padha sanalika, (iku) dadi paugeran kang kuwat, (ing bab kang) kabare meh teka, (yaiku) tindak sawenang-wenang, (saengga) tatage atining wong ora katon.
+### Isi Serat Jaka Lodhang
 
-2. Apa (lan sapa) bae kang padha ndhelik, saguh tekad pati, (nadyan) kabanda kasigar-sigar, (marga percaya lalakon mau) wekasane (bakal) ambyar, (jalaran) nyata nerak tatanan (kamanungsan).
+Isi Serat Jaka Lodhang setelah Bubuka tersebut terdiri dari 3 bagian, yaitu:
 
-1. Keadaan yang menggelisahkan terjadi tiba-tiba, (itu) menjadi pedoman kuat, (akan hal yang) kabarnya hampir tiba, (yaitu) tindak sewenang-wenang, (sehingga) ketabahan hati orang tidak tampak.
+- Bagian ke-1 berupa tembang Gambuh 3 bait;
+- Bagian ke-2 berupa tembang Sinom 3 bait;
+- Bagian ke-3 berupa tembang Megatruh 3 bait.
 
-2. Apa (dan siapa) pun yang bersembunyi, sanggup bertekad mati, (sekalipun) dibelenggu dipecah-pecah, (sebab percaya peristiwa itu) akhirnya (akan) hancur, (karena) nyata-nyata melanggar tata (kemanusiaan).
+#### Bagian Ke 1 Tembang Gambuh 3 Bait
 
-oia
+No. |Javanese|Jarwa| Indonesian  |Notes
+--|--|--|--|--
+1. |Jaka Lodhang gumandhul, aneng ngepang ngethengkrang sru muwus, eling-eling pasthi karsaning Hyang Widdhi, gunung mendhak jurang mbrenjul, ingusir praja prang kasor. | Jaka Lodhang (Ki Pujangga) gumandhul ing uwit, ana ing epang ngethengkrang (banjur) ngucap seru, (padha) eling-elingen karsaning Allah wis mesthi, gunung-gunung (kang dhuwur) padha mendhak (jugrug), Jurang (kang jero) padha mbrenjul, (ana wong) keplayu saka negarane (marga) kalah perang.|Jaka Lodhang (Ki Pujangga) bergantungan di pohon, di atas dahan duduk santai (lalu) berkata keras, ingat-ingatlah (semua) kehendak Tuhan sudah pasti, gunung-gunung (yang tinggi) merendah (runtuh), jurang-jurang (yang dalam) membusut (bergundukan), (ada orang-orang) terusir dari negerinya (karena) kalah perang.|Jaka Lodhang berasal dari kata jaka = jejaka, lelaki muda + lodhang atau ludhang = rampung, selesai, sudah selesai dengan suatu pekerjaan = bebas dari sesuatu kewajiban. Jaka Lodhang berperan di dalam Serat ini sebagai juru bicara pengarangnya, atau sebagai nama samaran pengarangnya dalam karya ini.<br>sru muwus = keras berucap = berkata keras.<br>mendhak = merendah, merunduk.<br>brenjul = membusut, bergundukan tanah.<br>ingusir = terusir.<br>praja = negeri, negara.<br>kasor = alah, kalah.
+2. |Nanging aywa keliru, sumurupa kandha kang tinamtu, nadyan mendhak mendhaking gunung wus pasthi, masih katon tabetipun, beda lawan jurang gesong.|Nanging aja padha kleru (tampa), sumurupa ujar kang bener, nadyan mendhak (nanging) mendhaking gunung (iku) wus mesthi, isih katon tilase, beda karo jurang kang ngesong.| Tetapi janganlah keliru (terima), ketahuilah kata-kata yang benar, meskipun menjadi rendah (tetapi) rendahnya gunung sudah pasti, masih kelihatan bekasnya, berbeda dengan jurang yang menggeronggong.|tabet bekas.<br>jurang gesong = jurang yang menggeronggong, menjadi lobang di dalam tanah.<br>gesong, dari song, esong = lobang di dalam tanah, menggeronggong.
+3. |Nadyan bisa mbarenjul, tanpa tawing enggal jugrugipun, kalakone karsaning Hyang wus pinasthi, yen ngidak sangkalanipun, Sirna tata esthining wong.|Nadyan (jurang) bisa mbarenjul, tanpa kekuatan alingaling (mesthi) enggal jugrug, (kaanan mangkono iku) kalakone karsaning Allah wis pinansthi, (yaiku) yen wis tumapak Candrasangkalane (wektune) Sirna tata esthining wong.|Meskipun (jurang) membusut, tanpa kekuatan dinding (tentu) cepat runtuh, (keadaan demikian itu) terjadi karena kehendak Allah telah pasti (yaitu) setelah menginjak waktunya dengan Candrasangkala: Sirna tata esthining wong.|Sirna tata esthining wong = Musnalah tata (cara) tujuan orang. Candrasangkala itu berarti tahun Jawa 1850. Tahun Jawa 1850 ialah dari tanggal 1 Sura (Jum'at wage) sampai dengan 29 Besar (Selasa Kliwon) 1850 = tahun Masehi tanggal 26 September 1919 sampai dengan 14 September 1920.<br>tawing = aling-aling, batas, dinding, pagar.<br>ngidak sangkalanipun = menginjak Candrasangkalannya =- memasuki tahunnya.
 
- Perkataan rongeh, penulisannya dengan huruf Jawa umumnya (sekarang) adalah: ro + ngeh (77475),
+#### Bagian Ke 2 Tembang Sinom 3 Bait
 
-79
+No. |Javanese|Jarwa| Indonesian  |Notes
+--|--|--|--|--
+1. |Sasedyane tanpa dadya, sacipta-cipta tan polih, kang raratonraton rantas, mrih luhur asor pinanggih, bebendu gung nekani, kongas ing kanisthanipun wong agung nis gungira, sudireng wirang jrih lalis, ingkang cilik tan tolih ring cilikira.|(Wiwit tahun 1850 kasbut) sasedyaning wong ora ana kang kalakon, apa bae kang digayuh ora ana kang kalakon, kang padha gawe gerombolan kabeh bubar, ngudi kaluhuran tinemu asor, dudukaning Allah kang nemen nekani, kondhang kanisthaning wong, wong luhur ilang kaluhurane, wani isin wedi mati, sing (wong) cilik ora ngrumangsani cilike.|(Mulai tahun Jawa 1850 tersebut) semua cita-cita (orang) tak ada yang berhasil, apapun yang dikehendaki tak ada yang tercapai, yang membuat gerombolan bubar semuanya, mengusahakan derajat luhur memperoleh kehinaan, kutuk Tuhan yang keras tibalah, menonjollah kerendahan budi orang, orang bermartabat tinggi hilang martabatnya, berani malu takut mati, yang (golongan) kecil tak mau tahu diri.|tanpa dadya = tak ada yang jadi, tak ada yang terlaksana.<br>sacipta-cipta = segala, apapun yang dicita-citakan.<br>tan polih = tanpa olih/oleh = tak ada yang berhasil.<br>mrih luhur = murih luhur = menghendaki, mengingini keluhuran.<br>asor = rendah, hina.<br>bebendu gung = kutuk Tuhan yang keras.<br>kongas = terkenal, menonjol.<br>kanisthanipun = kerendahan budinya.<br>raraton, dari: ratu = raja, kepala negara. Raraton = membuat ratu-ratuan =- membuat gerombolan/perkumpulan dengan<br>mengangkat kepalanya/<br>pemimpinnya.<br>rantas = hancur, bubar, rusak.<br>nis = hilang.<br>sudireng wirang = sudira + ing wirang = berani berbuat malu.<br>jrih lalis = takut mati.<br>tan tolih ring = tidak menoleh kepada (hakekatnya), tak mau tahu diri.
+2. |Wong alim-alim pulasan, njaba putih njeru kuning, ngulama mangsah maksiyat, madat madon minum main, kaji-kaji ambanting, dulban kethu putih mamprung, wadon nir wadonira, prabaweng salaka rukmi, kabeh-kabeh mung marono tingalira.|Wong (ngaku) pinter (sateme) palsu, njabane katon suci (putih, nanging) njerone reged (kuning), ahli ilmu agama Islam nerak laranganing Allah, madat madon ngombe (minuman keras) ngabotohan, kaji-kaji padha ninggal, sorban kethu putihe kabur, wanita ilang kawanitane, (awit) dayane salaka lan emas, kabeh wong mung padha nggatekake rajabrana.|Orang (yang mengaku) pandai (sebenarnya) palsu, di luarnya tampak suci (putih) di dalamnya kotor (kuning) ahli ilmu agama Islam melanggar larangan Tuhan, madat melacur minum-minuman keras dan berjudi, haji-haji meninggalkan, sorban kopiah putihnya beterbangan, wanita hilang kewanitaannya, (karena) daya pengaruh perak dan emas, semua orang hanya memperhatikan hartabenda.|pulasan = diwarnai (cat) = bukan yang sesungguhnya warna palsu.<br>putih = lambang kesucian.<br>kuning = lambang warna, tidak putih, tidak bersih, tidak suci, kotor.<br>ngulama, dari: 'ulama (Ar.) orang ahli ilmu agama Islam.<br>mangsah = menempuh menerjang melanggar.<br>maksiyat = larangan Tuhan<br>minum-minuman keras, berjudi.<br>Terkenal istilah Jawa. ma lima; ma yang kelima ialah: maling.<br>dulban, dari: tulband (Bld.) = penutup kepala, kopiah, peci.<br>mamprung = terbang, beterbangan.<br>nir = hilang.<br>prabaweng, dari: prabawa = daya pengaruh.<br>salaka rukmi = perak dan emas, hartabenda.
+3. |Para sudagar ingargya, jroning jaman keneng sarik, marmane saisining rat, snagsarane saya mencit, Nir sad esthining urip iku ta sangkalanipun, pantoging nandhang sudra, yen wis tobat tanpa mosik,sru nalangsa narima ngandel ring Suksma.|Para sudagar kang (mesthine) diajeni, (urip) ing Jaman kang kena bebendu (ning Allah), mula saisining jagad, sangsarane saya nemen banget (wigatekna) Nir sad esthuning urip, yaiku wektune (Candrasangkalane), entekentekane nandhang nistha, yen wus tobat tanpa obah (batine), nalangsa banget (kanthi) panarima ngandel marang (kuwasaning) Allah.|Para saudagar yang (mestinya) dihormati, (hidup) dalam jaman yang terkutuk (oleh Tuhan), maka seisi dunia, sengsaranya makin memuncak, (perhatikanlah) Nir sad esthining urip, itulah waktunya (Candrasangkalanya), puncaknya menderita hinga, (yaitu) bilamana (orang) sudah bertobat tantanpa gerak (batinnya), amat menyesali diri (dan) sadar percaya kepada (kekuasaan) Tuhan.|Nir sad esthining urip = Hilang kering cita-cita hidup, adalah kalimat Candrasangkala yang berarti tahun Jawa 1860. Tahun Jawa 1860 ialah mulai tanggal 1 Sura (Ahad Pon) sampai dengan 29 Besar (Kamis Pahing) 1860 = tahun Masehi tanggal 9 Juni 1929 sampai dengan 29 Mei 1930. Sad = enam; sebagai kata bersayap, dapat diartikan sebagai: sat = asat = kering, habis.
 
-tetapi perkataan itu di sini harus memenuhi kepentingan sandiasma; ronggawasita. Oleh karenanya penulisannya dengan huruf Jawa adalah; rong + ceh (Z77+7&25).
 
-Keterangan mengenai soal ini seperti dapat dibaca dalam catanan dalam Serat Sabdajati bait ke-14 dan bait ke-22
+#### Bagian Ke 3 Tembang Megatruh 3 Bait
 
-di muka.
+No. |Javanese|Jarwa| Indonesian  |Notes
+--|--|--|--|--
+1. |mBok Parawan sangga wang duhkiteng kalbu, Jaka Lodhang nabda malih, nanging ana parmanipun, ing weca kang wus pinasthi, esthinen murih kalakon.|mBok Parawan sangga wang sedhih atine, Jaka Lodhang ngucap maneh, nanging ana pangeman (-ing Gusti Allah), (yaiku) ing dalem jangka kang wis katemtoake, (iku) udinen supaya kalakon.| mBok Parawan bertupang dagu (karena) sedih, Jaka Lodhang berkata lagi, tetapi ada kasih-sayang (Tuhan), (yaitu) di dalam ramalan yang sudah dipastikan, usahakanlah agar (itu) terjadi.|mbok = sebutan untuk perempun yang sudah kawin.<br>mBok Ayu = kakak perempuan.<br>parawan = gadis.<br>mBok Parawan adalah sebutan yang tidak biasanya.<br>Mungkin dimaksudkan sebagai sebuah kata lambang mengejek, tetapi mungkin juga menghormat.<br>sanggawang = bertupang<br>dagu.<br>duhkiteng kalbu = kesedihan hati.<br>parimarma = palimarma, palimirma = sayang, kasih sayang; juga: anugerah.<br>weca = ramalan, sabda pendeta dan sebagainya.
+2. |Sangkalane maksih nunggal jamanipun, neng sajroning madya akir, _Wiku sapta ngesthi ratu,_ ngadil parimarmeng dasih, ing kono karsaning Manon.|(Kalakone jangka mau) wektune (Candrasangkalane) isih nunggal jamane, ana ing sajrone madya akir (-ing jaman), (Candrasangkalane) Wiku sapta ngesthi ratu, kang adil asih tresna marang kawula, ing kono karsaning Allah.| (Terjadinya ramalan itu) waktunya masih dalam jaman, di pertengahan-akhir (abad), (Candrasangkalanya) Wiku sapta ngesthi ratu, yang adil kasih-sayang kepada rakyatnya, di sanalah kehendak Tuhan.| wiku sapta ngesthi ratu, = Tujuh orang pendeta menghendaki seorang raja. Candrasangkala ini berarti tahun Jawa 1877. Tahun Jawa 1877 ialah mulai tanggal 1 Sura (Kemis Paing) sampai dengan 29 Besar (Ahad Paing) 1877 = tahun Masehi tanggal 6 Desember 1945 sampai dengan 25 Nopember 1946.
+3. |Tinemune wong ngantuk anemu kethuk, malenuk samargimargi, marmane bungah kang nemu, marga jroning kentuk isi, kancana sosotya abyor.|Kalakone wong ngantuk anemu kethuk, melenuk sadalan-dalan, mulane bungah kang nemu; marga sajroning kethuk isi, emas inten barleyan (sarwa) gumebyar.|Terjadilah orang mengantuk menemukan kethuk, terdapat di sepanjang jalan, maka senanglah yang menemukannya, karena kethuk itu berisi, emas intan berlian (serba) gemerlapan.|kethuk = kenong kecil, bagian dari seperangkat gamelan.<br>kancana = emas.<br>sosotya = intan berlian.<br>abyor = gemerlapan.
 
-rongeh = tidak tenteram, serba gelisah.
-
-jleg = datang, jatuh, muncul dengan tiba-tiba.
-
-gagaran, dari: garan = pegangan, pedoman.
-sikara karodha =- menyiksa
-
-dengan bernafsu = sewenang-wenang.
-
-ok oe oke
-
-ngerong = masuk dalam liang, bersembunyi.
-
-tanpa raga = tanpa badan/ tubuh, mati.
-
-katali = diikat, dibelenggu.
-
-kawawar, dari: wawar = sigar = pecah, pecah-belah.
-
-murang tata = melanggar peraturan.
-
-ISI SERAT JAKA LODHANG
-
-Isi Serat Jaka Lodhang setelah Bubuka tersebut terdiri dari 3
-
-bagian, yaitu:
-
-Bagian ke-1 berupa tembang Gambuh Bagian ke-2 berupa tembang Sinom Bagian ke-3 berupa tembang Megatruh
-
-3 bait; 3 bait; 3 bait.
-
-BAGIAN KE-1 Tembang Gambuh 3 bait.
-
-1. Jaka Lodhang  gumandhul, aneng ngepang ngethengkrang sru muwus, eling-eling pasthi karsaning Hyang Widdhi, gunung mendhak jurang mbrenjul, ingusir praja prang kasor.
-1. Jaka Lodhang (Ki Pujangga) gumandhul ing uwit, ana ing
-
-epang ngethengkrang (banjur) ngucap seru, (padha) eling80
-
-elingen karsaning Allah wis mesthi, gunung-gunung (kang dhuwur) padha mendhak (jugrug), Jurang (kang jero) padha mbrenjul, (ana wong) keplayu saka negarane (marga) kalah perang.
-
-1. Jaka Lodhang (Ki Pujangga) bergantungan di pohon, di atas dahan duduk santai (lalu) berkata keras, ingat-ingatlah (semua) kehendak Tuhan sudah pasti, gunung-gunung (yang tinggi) merendah (runtuh), jurang-jurang (yang dalam) membusut (bergundukan), (ada orang-orang) terusir dari negerinya (karena) kalah perang.
-
-*
-
-Jaka Lodhang berasal dari kata jaka = jejaka, lelaki muda + lodhang atau ludhang = rampung, selesai, sudah selesai dengan suatu pekerjaan = bebas dari sesuatu kewajiban.
-Jaka Lodhang berperan di dalam Serat ini sebagai juru bicara pengarangnya, atau sebagai nama samaran pengarangnya dalam karya ini.
-
-?k
-
-sru muwus = keras berucap ingusir = terusir.
-= berkata keras. praja = negeri, negara.
-mendhak = merendah, kasor = alah, kalah.
-merunduk.
-
-brenjul = membusut, bergundukan tanah.
-
-ok ok *
-
-2. Nanging aywa keliru, sumurupa kandha kang tinamtu, nadyan mendhak mendhaking gunung wus pasthi, masih katon tabetipun, beda lawan jurang gesong.
-
-2. Nanging aja padha kleru (tampa), sumurupa ujar kang bener, nadyan mendhak (nanging) mendhaking gunung (iku) wus mesthi, isih katon tilase, beda karo jurang kang
-
-ngesong.
-
-LIMA KARYA PUJANGGA RANGGAWARSITA - 6 81
-
-2. Tetapi janganlah keliru (terima), ketahuilah kata-kata yang benar, meskipun menjadi rendah (tetapi) rendahnya gunung sudah pasti, masih kelihatan bekasnya, berbeda dengan
-
-jurang yang menggeronggong.
-
-K
-
-bekas. jurang gesong = jurang yang menggeronggong, menjadi lobang di dalam tanah.
-gesong, dari song, esong = lobang di dalam tanah, menggeronggong.
-
-tabet
-
-* ok %
-
-3. Nadyan bisa mbarenjul, tanpa tawing enggal jugrugipun, kalakone karsaning Hyang wus pinasthi, yen ngidak sangkalanipun, Sirna tata esthining wong.
-
-3. Nadyan (jurang) bisa mbarenjul, tanpa kekuatan alingaling (mesthi) enggal jugrug, (kaanan mangkono iku) kalakone karsaning Allah wis pinansthi, (yaiku) yen wis tumapak Candrasangkalane (wektune) Sirna tata esthining wong.
-
-3. Meskipun (jurang) membusut, tanpa kekuatan dinding (tentu) cepat runtuh, (keadaan demikian itu) terjadi karena kehendak Allah telah pasti (yaitu) setelah menginjak waktunya dengan Candrasangkala: Sirna tata esthining wong.
-
-se
-
-Sirna tata esthining wong = Musnalah tata (cara) tujuan orang. Candrasangkala itu berarti tahun Jawa 1850. Tahun Jawa 1850 ialah dari tanggal 1 Sura (Jum'at wage) sampai dengan 29 Besar (Selasa Kliwon) 1850 = tahun Masehi tanggal 26 September 1919 sampai dengan 14 September
-
-1920.
-
-82
-
-tawing = aling-aling, batas, ngidak sangkalanipun = dinding, pagar. menginjak Candrasangkalannya =- memasuki tahunnya.
-» » ok BAGIAN KE-2
-
-Tembang Sinom 3 bait
-
-1. Sasedyane tanpa dadya, sacipta-cipta tan polih, kang raratonraton rantas, mrih luhur asor pinanggih, bebendu gung nekani, kongas ing kanisthanipun wong agung nis gungira, sudireng wirang jrih lalis, ingkang cilik tan tolih ring cilikira.
-
-1. (Wiwit tahun 1850 kasbut) sasedyaning wong ora ana kang kalakon, apa bae kang digayuh ora ana kang kalakon, kang padha gawe gerombolan kabeh bubar, ngudi kaluhuran tinemu asor, dudukaning Allah kang nemen nekani, kondhang kanisthaning wong, wong luhur ilang kaluhurane, wani isin wedi mati, sing (wong) cilik ora
-
-ngrumangsani cilike.
-
-1. (Mulai tahun Jawa 1850 tersebut) semua cita-cita (orang) tak ada yang berhasil, apapun yang dikehendaki tak ada yang tercapai, yang membuat gerombolan bubar semuanya, mengusahakan derajat luhur memperoleh kehinaan, kutuk Tuhan yang keras tibalah, menonjollah kerendahan budi orang, orang bermartabat tinggi hilang martabatnya, berani malu takut mati, yang (golongan) kecil tak mau tahu diri.
-
-tanpa dadya = tak ada yang jadi, tak ada yang terlaksana.
-
-sacipta-cipta = segala, apapun yang dicita-citakan.
-
-tan polih = tanpa olih/oleh = tak ada yang berhasil.
-
-mrih luhur = murih luhur = menghendaki, mengingini keluhuran.
-
-asor = rendah, hina.
-
-83
-
-bebendu gung = kutuk Tuhan yang keras.
-
-kongas = terkenal, menonjol.
-
-kanisthanipun = kerendahan budinya.
-
-raraton, dari: ratu = raja, kepala negara. Raraton = membuat ratu-ratuan =- membuat gerombolan/perkumpulan dengan
-
-ok ok ok
-
-mengangkat pemimpinnya.
-
-rantas = hancur, rusak.
-
-nis = hilang.
-
-sudireng wirang = sudira + ing wirang = berani berbuat malu.
-
-jrih lalis = takut mati.
-
-tan tolih ring = tidak menoleh kepada (hakekatnya), tak mau tahu diri.
-
-kepalanya/
-
-bubar,
-
-2. Wong alim-alim pulasan, njaba putih njeru kuning, ngulama mangsah maksiyat, madat madon minum main, kaji-kaji ambanting, dulban kethu putih mamprung, wadon nir wadonira, prabaweng salaka rukmi, kabeh-kabeh mung marono
-
-tingalira.
-
-2. Wong (ngaku) pinter
-
-Suci
-
-(sateme) palsu, njabane katon (putih, nanging) njerone reged (kuning), ahli
-
-ilmu agama Islam nerak laranganing Allah, madat madon ngombe (minuman keras) ngabotohan, kaji-kaji padha ninggal, sorban kethu putihe kabur, wanita ilang kawanitane, (awit) dayane salaka lan emas, kabeh wong mung padha nggatekake rajabrana.
-
-2. Orang (yang mengaku) pandai (sebenarnya) palsu, di luarnya tampak suci (putih). di dalamnya kotor (kuning) ahli ilmu agama Islam melanggar larangan Tuhan, madat melacur minum-minuman keras dan berjudi, haji-haji meninggalkan, sorban kopiah putihnya beterbangan, wanita hilang kewanitaannya, (karena) daya pengaruh perak dan emas,
-
-emua
-
-orang hanya memperhatikan hartabenda.
-
-tabenda.
-
-wong alim = orang pandai agama Islam.
-
-84
-
-sk
-
-madat madon minum main = makan candu, melacur,
-
-pulasan = diwarnai (cat) = minum-minuman keras,
-
-bukan yang sesungguh- berjudi.
-
-nya warna palsu. Terkenal istilah Jawa. ma putih = lambang kesucian. lima; ma yang kelima kuning = lambang warna, ialah: maling.
-
-tidak putih, tidak bersih, dulban, dari: tulband (Bld.) =
-
-tidak suci, kotor. penutup kepala, kopiah, ngulama, dari: 'ulama (Ar.) peci.
-
-orang ahli ilmu agama mamprung = terbang, beterIslam. bangan.
-mangsah = menempuh me- nir = hilang.
-
-nerjang melanggar. prabaweng, dari: prabawa =
-
-maksiyat = larangan daya pengaruh.
-
-Tuhan salaka rukmi = perak dan
-
-emas, hartabenda.
-
-ok ok ok
-
-3. Para sudagar ingargya, jroning jaman keneng sarik, marmane saisining rat, snagsarane saya mencit, Nir sad esthining urip iku ta sangkalanipun, pantoging nandhang sudra, yen wis tobat tanpa mosik,sru nalangsa narima ngandel ring Suksma.
-
-3. Para sudagar kang (mesthine) diajeni, (urip) ing Jaman kang kena bebendu (ning Allah), mula saisining jagad, sangsarane saya nemen banget (wigatekna) Nir sad esthuning urip, yaiku wektune (Candrasangkalane), entekentekane nandhang nistha, yen wus tobat tanpa obah (batine), nalangsa banget (kanthi) panarima ngandel marang (kuwasaning) Allah.
-
-3. Para saudagar yang (mestinya) dihormati, (hidup) dalam jaman yang terkutuk (oleh Tuhan), maka seisi dunia, sengsaranya makin memuncak, (perhatikanlah) Nir sad esthining urip, itulah waktunya (Candrasangkalanya), puncaknya menderita hinga, (yaitu) bilamana (orang) sudah bertobat tantanpa gerak (batinnya), amat menyesali diri (dan) sadar percaya kepada (kekuasaan) Tuhan.
-
-oke
-
-85
-
-") Nir sad esthining urip = Hilang kering cita-cita hidup,
-
-adalah kalimat Candrasangkala yang berarti tahun Jawa 1860.
-Tahun Jawa 1860 ialah mulai tanggal 1 Sura (Ahad Pon) sampai dengan 29 Besar (Kamis Pahing) 1860 = tahun Masehi tanggal 9 Juni 1929 sampai dengan 29 Mei 1930.
-Sad =- enam; sebagai kata bersayap, dapat diartikan sebagai: sat = asat = kering, habis.
-
-XC
-
-ingargya, dari argya = harga, pantog, dari: tog = habis (bahormat; dihargai, dihor- tas ) = tinggi sampai di mati. puncak.
-
-sarik = kutuk Tuhan, murka sudra = hina, rendah, sengTuhan. sara,
-
-saisining rat = seisi dunia. mosik = gerak, bergerak.
-
-saya mencit = makin memun- sru nalangsa = amat menyecak. sali diri.
-
-Suksma = jiwa, yang menguasai jiwa = Tuhan.
-
-ok ok ok
-
-BAGIAN KE-3 Tembang Megatruh 3 bait
-
-1. mBok Parawan sangga wang duhkiteng kalbu, Jaka Lodhang nabda malih, nanging ana parmanipun, ing weca kang wus pinasthi, esthinen murih kalakon.
-
-1. mBok Parawan sangga wang sedhih atine, Jaka Lodhang ngucap maneh, nanging ana pangeman (-ing Gusti Allah), (yaiku) ing dalem jangka kang wis katemtoake, (iku) udinen supaya kalakon.
-
-1. mBok Parawan bertupang dagu (karena) sedih, Jaka Lodhang
-
-. berkata lagi,. tetapi ada kasih-sayang (Tuhan), (yaitu) di dalam
-
-ramalan yang sudah dipastikan, usahakanlah agar (itu) terjadi.
-
-86
-
-mbok = sebutan untuk pe- tetapi mungkin juga
-
-rempun yang sudah menghormat.
-kawin. sanggawang =- bertupang mBok Ayu = kakak perem- dagu.
-puan. duhkiteng kalbu = kesedihan parawan = gadis. hati.
-mBok Parawan adalah sebut- parimarma =- palimarma, an yang tidak biasanya. palimirma = sayang, Mungkin dimaksudkan kasih sayang; juga: sebagai sebuah kata lam- anugerah.
-bang mengejek, tetapi weca = ramalan, sabda penmungkin juga menghor- deta dan sebagainya.
-mat.
-
-ok ok ok
-
-2. Sangkalane maksih nunggal jamanipun, neng sajroning
-
-madya akir, Wiku sapta ngesthi ratu, ngadil parimarmeng dasih, ing kono karsaning Manon.
-
-2. (Kalakone jangka mau) wektune (Candrasangkalane) isih nunggal jamane, ana ing sajrone madya akir (-ing jaman), (Candrasangkalane) Wiku sapta ngesthi ratu, kang adil asih tresna marang kawula, ing kono karsaning Allah.
-
-. (Terjadinya ramalan itu) waktunya masih dalam jaman, di pertengahan-akhir (abad), (Candrasangkalanya) Wiku sapta ngesthi ratu, yang adil kasih-sayang kepada rakyatnya, di sanalah kehendak Tuhan.
-
-ok
-
- wiku sapta ngesthi ratu, = Tujuh orang pendeta menghendaki seorang raja. Candrasangkala ini berarti tahun Jawa 1877. Tahun Jawa 1877 ialah mulai tanggal 1 Sura (Kemis Paing) sampai dengan 29 Besar (Ahad Paing) 1877 = tahun Masehi tanggal 6 Desember 1945 sampai dengan
-
-25 Nopember 1946.
-
-ik
-
-. Tinemune wong ngantuk anemu kethuk, malenuk samargimargi, marmane bungah kang nemu, marga jroning kentuk isi, kancana sosotya abyor.
-
-87
-
-3. Kalakone wong ngantuk anemu kethuk, melenuk
-
-sadalan-dalan, mulane bungah kang nemu; marga sajroning kethuk isi, emas inten barleyan (sarwa) gumebyar.
-
-3. Terjadilah orang mengantuk menemukan kethuk, terdapat di sepanjang jalan, maka senanglah yang menemukannya, karena kethuk itu berisi, emas intan berlian (serba) gemerlapan.
-
-oke
-
-kethuk = kenong kecil, kancana = emas.
-bagian dari sepe- sosotya = intan berlian.
-rangkat gamelan. abyor = gemerlapan.
 TAMAT
 
-88
-
-V
-
-SERAT WEDHARAGA
+## Serat Wedharaga
 
 Tembang Gambuh 38 bait
 
-1. Ki Gambuh karya pemut, limuting tyas rare kang kalimput, lacut maring reh sumirang murang niti, tantan tuman amamatuh, temah lumaku ginuron.
-
-1. Ki Gambuh (Ki Pujangga) aweh peling, (bab) bocah kang atine peteng (marga) katutupan, kabacut patrape nrajang (lan) nyimpang saka tatanan, tetep mangkono (jalaran wis) kapatuh, temahan nindakake dadi guru.
-
-1. Ki Gambuh (Ki Pujangga) memberi peringatan, (tentang) anak muda yang kegelapan hatinya karena tertutup, terlanjur menempuh (dan) melanggar kesopanan, tetap demikian (karena) terbiasa, akhirnya (bahkan) bertindak menjadi
-
-guru.
-sk wedharaga = buku pedoman pemut = peringatan, catatan.
-diri (agar selamat). limut = gelap, buntu pikiran.
-Ki Gambuh = (nama samar- kalimput = tertutup.
-an) Ki Pujangga penga- lacut = terlanjur.
-rang serat Wedharaga. murang = melanggar.
-gambuh = biasa, tangkas, niti = peraturan, undang-uncekatan. Nama tembang dang. Juga = kelakuan, macapat. sopan santun.
-
-tantan tuman = tetap, tahan.
-
-we oke *
-
-2. Trakadhang amardhukun, dhokohan tyas asring ngumbar sanggup, iku aja kongsi mangkono yen keni, kinira-kira kang patut, apa kalumrahaning wong.
-
-89
-
-2. Terkhadang madhukun, atine dhokoh kerep adol sanggup, iku aja mangkono yen kena (dipituturi) (tumindaka) kang kira-kira patut, apa kalumrhaning wong.
-
-2. Kadang-kadang berdukun, hatinya bernafsu sering menyatakan serba sanggup, janganlah demikian kalau boleh (dinasehati), berbuatlah yang kira-kira patut, (seperti) apa yang biasanya dilakukan orang.
-
-dhokohan, dhokoh = lahap ngumbar sanggup = menjual (makan), bernafsu (tinda- kesanggupan, serba sangkan). gup.
-
-3. Kang wus kaprah kalaku, inganggoa sapakolehipun, mung patrape den sumendhe aja kibir, manawa kena sisiku, wekasan rinasan ing wong.
-
-3. Kang wis kaprah dilakoni (wong akeh), (iku) anggonen samupakate, mung patrape sumendhea (marang Allah lan) aja kibir, manawa kena deduka(ning Allah), wekasan dirasani uwong.
-
-3. Yang sudah lumrah terjadi, pakailah itu sedapat-dapatnya,
-
-hanya caranya hendaklah bersandar (kepada Tuhan) dan janganlah sombong, (sebab) kalau kena murka (Tuhan) akhirnya dipergunjingkan orang.
-
-k
-
-sumendhe = bersandar. sisiku, siku = marah, murka kibir = sombong, angkuh. (Tuhan).
-
-ok ok ok
-
-4. Nadyan dadia dhukun, lamun ana masakalanipun, pinilala dening wong agung kang wajib, samonoa durung patut, wong anom ahlul mangkono. 90
-
-4. Nadyan dadia dhukun, yen ana wektune (kang becik), dipilih dening wong agung kang wajib, mangkono iku satemene ya durung patut, wong anom dadi ahli (padhukunan).
-
-4. Meskipun menjadi dukun, kalau (dapat) pada saatnya, dipilih orang besar yang wajib, itu pun belum pantas, orang muda (seolah-olah) berkeahlian demikian.
-
-*
-
-pinilala, dari pilala = pilih, - ahlul = ahli hal tertentu.
-pelihara.
-
-ok ok ok
-
-5. Ing tembe yen wus pikun, pantes bae ulah idu wilut, bangsa bincil ambabatang ngusadani, mbok munia theyot theblung, tan ana wong amaido.
-
-5. (Ewadene) mbesuk yen wis pikun, pantes bae ulah ampuhing idu, ngetung-ngetung miturut primbon (lan) mbethek (kaanan utawa lalakon sarta) nenambani, arepa muni apa bae, ora ana sing maido.
-
-5. Kemudian kalau sudah tua renta, pantas sajalah mengerjakan (bidang) ludah bertuah, soal-soal perhitungan primbon menebak-nebak (kejadian/lelakon dan) memberi obat, berkata apapun, tak ada orang mendustakannya.
-
-ok
-
-pikun = tua renta. bincil = berbagai perhitungan idu wilut = ludah ampuh, menurut buku primbon ludah dukun. (simpanan, wasiat lelu* hur).
-theyot theblung = bunyi
-
-katak beramai-ramai.
-
-* ok ok ok
-
-91
-
-6. Mangkene patrapipun, wiwit anom amendenga laku, ngungurangi mangan turu sawatawis, amemekak hawa napsu, dhasarana andhap asor.
-
-6. Mangkene patrape (kang becik), wiwit anom ngulinakna patrap, ngengurangi mangan turu sawatara, mekak hawa napsu, dhasarana andhap asor.
-
-6. Beginilah cara (baiknya, sejak muda memusatkan tindakusaha, (dengan) mengurangi makan-minum sekedarnya, mengekang hawa nafsu, hendaklah didasari berendah diri.
-
-24
-
-amendenga, dari mendeng = andhap asor = merendahkan memandang terus-mene- diri, sopan-santun.
-rus, membiasakan.
-
-amemekak = mengendalikan.
-ok ok ok
-
-7. Akanthi awas emut, aja tinggal wiweka ing kalbu, mituhua wawarah kang makolehi, den taberi anguguru, aja isin atatakon.
-
-7. Kanthi awas lan eling (marang Gusti Allah), aja tinggal pangati-ati sajroning ati, nuruta marang pitutur kang migunani, padha sregepa maguru, aja isin takon-takon.
-
-7. Dengan awas dan ingat (kepada Tuhan), janganlah meninggalkan sikap hati-hati, ikutilah nasehat yang berguna, rajinrajinlah berguru, janganlah malu bertanya-tanya.
-
-*
-
-|]
-
-wiweka, weweka penghati- mituhu =- menuruti, mehati. matuhi.
-
-ok ok ok
-
-92
-
-8. Wong amarsudi kawruh, titirona ing reh kang rahayu, aja kesed sungkanan sabarang kardi, sakadare angingimpun, nimpeni kagunaning wong.
-
-8. Wong ngudi kawruh, nenirua patrap murih slamet, aja kesed sungkanan marang pagawean apa bae, sakadare (minangka sarana) klumpuk-klumpuk kawruh, migunakake kapinteraning wong.
-
-8. Orang menuntut pengetahuan, tirulah cara yang selamat, jangan malas (dan) enggan segala pekerjaan, (untuk sekedar menghimpun, memanfaatkan kecakapan orang.
-
-Ac
-
-amarsudi, dari parsudi = nimpeni = memanfaatkan.
-mengusahakan sung- kagunan = kelebihan, kepanguh-sungguh. dalan. Piguna = faedah.
-
-sungkanan, dari sungkan =
-
-enggan .
-
-fe oe ok
-
-9. Tinimbang lan anganggur, kaya becik ipil-ipil kawruh, angger datan ewan panasten sayekti, kawignyane wuwuhwuwuh, wekasan kasub kinaot.
-
-9. Tinimbang nganggur, luwih becik ngumpulake kawruh saka sathithik, angger aja ewan panasten (iku) mesthi, kapinterane tambah-tambah, wekasane kondhang kaluwihane.
-
-9. Lebih baik dari menganggur, kiranya baik mengumpulkan pengetahuan dari sedikit, asal tidak serba tak suka pada orang lain dan tidak dengki tentulah, kepandaiannya bertambah-tambah, akhirnya terkenal unggul.
-
-k
-
-ipil-ipil = | mengumpulkan kawignyan = kepandaian.
-dari sedikit. kasub = terkenal.
-
-93
-
-ewan = serba tak suka pada kinaot = lebih (unggul) dari orang lain. yang lain-lain.
-
-panasten = panas hati, dengki.
-
-X ok
-
-10. Lamun wus sarwa putus, kapinteran simpenen ing pungkur, bodhonira katokna ing ngarsa yekti, gampang traping tindak-tanduk, amawas pambekaning wong.
-
-10. Yen wis sarwa ngrampungi (ahli), kapinterap (iku) simpenen (ing) mburi, bodhomu katokna ing ngarep (iku) temenan, anggampangake tindak-tandukmu, mawas
-
-watak kalakuaning wong.
-
-10. Bilamana sudah serba ahli, hendaklah kepandaian disembunyikan (di belakang), perlihatkanlah kebodohanmu di muka (itu) tentulah, memudahkan langkah lakumu, (untuk) memahami perangai orang.
-
-K
-
-sarwa putus = serba pandai, tindak-tanduk = tingkahserba unggul. laku.
-pungkur = belakang. pambekan = watak, tabiat.
-
-ngarsa, ngarep = muka.
-
-yeokook
-
-11. Karana ing tumuwuh, akeh lumuh katona mbalilu, marma tansah mintonken kawruh pribadi, amrih den alema punjul, tan wruh bakal kajalomprong.
-
-11. Sabab ing ngaurip iku, akeh-akehing wong lumuh katon bodhone, mulane tansah padha ngatonake kawruhe dhewe-dhewe, supaya dialem pinter banget, ora weruha yen bakal kajiomprong (kesasar).
-
-11. Sebab didalam hidup, banyak orang segan kelihatan bodoh, maka selalu menunjukkan pengetahuannya sendiri, agar di94
-
-puji sebagai orang unggul (pengetahuannya), tak tahunya akan terjerumus.
-
-tumuwuh = tumbuh, hidup, pribadi = (diri) sendiri.
-makhluk. balilu = bodoh.
-lumuh = malas. punjul = lebih.
-
-kajalomprong = terjerumus.
-» ok ok
-
-12. Lamun pinter satuhu, tan mangkono ing reh patrapipun, kudu nganggo watara duga prayogi, pinter angaku balilu, dennya met kagunaning wong.
-
-12. Yen mula pinter temenan, ora . mangkono cara (lan) patrape, kudu nganggo duga kira (lan) prayoga, bisoa ngaku bodho, (iku) kanggo ngalap kapinteraning wong.
-
-12. Kalau benar-benar pandai, tidak demikianlah kelakuannya, haruslah dengan kira-kira betapa baiknya, pandai-pandailah mengaku bodoh, (agar) dapat memanfaatkan kepandaian
-
-orang.
-ok watara duga prayogi = kira- kagunan, dari guna = kekira betapa baiknya. pandaian.
-met = mengambil, memanfaatkan.
-
-** ok ok
-
-13. Angarah warah wuruk, lamun seje murad maksudipun,
-
-rasakena ing ati dipun nastiti, aja pijer umbak umuk, mundhak kawiyak yen bodho.
-
-13. Kepengin (bisane) oleh pitutur lan tuntunan, (dene) yen seje maksud tujuane, eningna jroning ati kanthi nastiti,
-
-aja tansah gumedhe (lan) umuk, mudhak konangan yen bodho.
-
-95
-
-13. Menginginkan nasehat (dan) ajaran, bila berlainan maksud tujuannya, renungkanlah di dalam hati dengan teliti, janganlah selalu besar mulut (dan) sombong, niscaya terungkap
-
-kebodohanmu.
-* angarah = menghendaki, maksud = maksud tujuan.
-menuju. umbak umuk = mulut warah wuruk = ajaran, nase- omong besar, sombong.
-hat. kawiyak = terbuka, terbongmurad = maksud, tujuan. kar.
-
-X o Kk
-
-14. Panengeraning wong iku, adat ana panggrayanganipun, peten saking sambang liring nayeng wadi, yen wong ngaku sarwa putus, iku mratandhani bodho.
-
-14. Ciri-cirine wong iku, adate katon tandha-tandhane, jupuken saka klebat pasemone kang mangku wadi{ning) watake, yen wong ngaku sarwa pinter banget, iku mratandhani bodhone.
-
-14. Cirinya orang itu, biasanya ada tanda-tandanya, dapatkanlah dari kilasan air mukanya yang mengandung rahasia (sifatnya), bila orang mengaku serba ahli, itu tandanya ia
-
-bodoh.
-yie panengeran, dari: tenger = nayeng wadi, dari: naya = ciri, tanda. ing + wadi = air muka panggrayang, dari : grayang = + yang (mengandung) meraba, kira-kira. rahasia.
-sambang liring = sekilas pandang.
-
-ok ok ok
-
-96
-
-15.
-
-15.
-
-Lamun wong ngaku cukup, mratandhani kukurangan iku, wong ngungasken kakendelan tandha jirih, wong angaku kiyat pengkuh, tandha apes amalendo.
-
-15. Yen wong ngaku sugih, mrantandhani kemlaratane, wong kang ngatonake kekendelane (iku) tandhane jirih,
-
-wong ngaku kuat sentosa, iku tandhane ringkih ora kena diandelake.
-
-Bila orang mengaku kaya, menandakan ia kekurangan, orang yang menunjukkan keberaniannya tandanya ia penakut, orang mengaku kuat sentosa, tandanya ia lemah dan tak dapat diandalkan.
-
-ngungasken = menunjukkan. amalendo = tak dapat diperjirih = penakut. caya, mengecewakan, tak
-
-apes
-
-16.
-
-16.
-
-= lemah. dapat diandalkan.
-
-ok ok ak
-
-Wong ngaurip wus tamtu, akeh padha arebut piyangkuh, lumuh lamun kasor kaseser sathithik, nanging singa peksa unggul, ing wekasan dadi saor.
-
-16. Wong urip iku wis.mesthi, akeh padha rebut deg, wegah yen kalah (lan) mingsed sathithik, nanging sapa kang kumudu unggul, wekasane dadi asor.
-
-Orang hidup tentulah, banyak berebut kebanggaan, tak mau alah (dan) bergeser sedikit pun, tetapi siapa yang memaksa unggul, akhirnya menjadi hina.
-
-
-piyangkuh = kebanggaan. singa = siapa lumuh = malas, tidak mau. unggul = lebih, menang, terkasor keseser = alah terge- pandai.
-
-LIMA KARYA PUJANGGA RANGGAWARSITA - 7
-
-ser. asor = hina.
-
-
-97
-
-17.
-
-17.
-
-Ingkang mangkono iku, badaningong pribad: ing dangu, paksa unggul wekasan malah katinggii, panggilesing jabung alus, winangsulan tyas kaleson.
-
-17. Kang kaya mangkono iku, awakku dhewe (Ki Pujangga) biyen, kumudu unggul wekasan malah katanggor, (dening) panggilese (wong kang) rumaket (kanthi) alus, (arep) dak baleni maneh (lalakon mau) atiku wis pepes.
-
-Yang demikian itu, diriku (Ki Pujangga) sendiri dahulu, (pernah) memaksa ingin unggul akhirnya terpukul, (oleh) gilasan (orang) yang memikatnya (dengan) halus, (akan) kuulangi lagi hatiku sudah lemas.
-
-k
-
-badaningong, dari badan + ing dangu = waktu dahulu.
-
-ingong = badan + aku jabung = semacam getah = diriku, saya. perekat. Anjabung alus
-
-katinggil = teratasi, dialah- = merapatkan diri (me-.
-
-kan, terpotong, kena nempel) dengan halus.
-batunya, terpukul. winangsulan = diulangi.
-
-panggiles, dari giles = gilas. kaleson, dari lesu = lemas.
-
-18.
-
-18.
-
-»k % &
-
-Mangkono kang tinemu, marmane wong ngaurip punika, aja pisan paksa ambek kumalikih, angaku sarwa linuhung, wekasan kether tan ethor.
-
-18. Mangkono iku kedadeane, mula wong urip iku, aja pisan awatak gumedhe (kumingsun), ngaku yen sarwa luwih, wekasan kacipuhan ora pecus.
-
-Demikian itulah hasilnya, maka orang hidup itu, jangan suka bersifat sombong, mengaku serba hebat, akhirnya lalai dan tidak pecus.
-
-ambek kumalikih = watak kether = lalai, ketinggalan.
-
-98
-
-menyombongkan diri, tan ethor = tidak pecus.
-membesarkan diri.
-
-sarwa linuhung =
-
-19.
-
-19.
-
-serba mengagumkan, serba hebat.
-»k ok ok
-
-Ana kang wus kadulu, suteng carik kadhinginan tuwuh, ngaku putus patrape kurang patitis, manut ngeimuning guyeng dul, amangeran luncung bodhol.
-
-19. Ana dene kang wus katon, anake carik awatak kemajon, ngaku luwih (nanging) patrape kurang patitis, (marga mung) manut ngelmune santri kang lamis, mangeran badhut keparat.
-
-Adalah yang sudah terlihat, anak jurutulis yang berwatak terlalu maju, mengaku ahli (tetapi) tingkahnya kurang tepat, (hanya) mengikuti ilmunya santri yang mengaku-aku, mendewakan badut keparat.
-
-suteng, dari suta = anak.
-
-carik = jurutulis.
-
-Kadhinginan tuwuh, dari: Dingin = dahulu; kadhinginan =. mendahului.
-Tuwuh = tumbuh, biji, timbul, - perkembangan, Juga: umur. Perhatikan: setengah tuwuh = setengah umurnya.
-Kadhinginan | tuwuh mendahului (hakekat)
-
-umurnya = merasa sudah lebih banyak umurnya dari yang sebenarnya
-
-= merasa sudah pandai, sudah maju.
-
-patitis = tepat.
-
-guyeng dul = santri dul = santri yang suka berpura-pura, mengaku-aku (lamis Jw.)
-
-bodhol = bodhor (juga: Sunda) = badut = pelawak.
-
-20.
-
-ie ak ok
-
-Badhar tyas kabalawur, baladheraning wong ambabangus, angas ungus ing wuwus tan anguwisi, temah kasebut wong gemblung, kinira yen lara panon.
-
-20. (Dadine) konangan (banjur) atine bingung, (yaiku) reregeding manungsa kang ngicuk-icuk (marang panggawe salah), brigah-brigih omonge ora ngrampungi, temahan disebut wong gemblung, dikira lara uteke.
-
-99
-
-20.
-
-Terbukalah kedoknya (menjadi) bingunglah hatinya, (itulah) kotor-kotornya manusia menghasut-hasut, berlagak berani (tetapi) ucapnya tak (mampu) menyelesaikan, akhirnya disebut orang kurang pikir (sinting), (hingga dia) dikira sakit
-
-otaknya.
-ok
-
-kabalawur = terbuka (kedoknya).
-
-baladheraning wong = kotorkotornya, jelek-jeleknya orang.
-
-ambabangus = hasut.
-
-menghasutangas-ungas = berlagak berani.
-wuwus = ucap, bicara.
-
-tan anguwisi = tidak menyelesaikan.
-gemblung = goblog, sinting.
-
-21.
-
-21.
-
-jokok
-
-Saengga tunggal laku, lan kang asring gumaib ing kawruh, tur tan wikan wiwekaning reh nayadi, adreng ngumbar arubiru, amberat berawaning wong.
-
-21. Saengga lelagone (patrape) padha karo wong, kang gumaib ing bab kawruh, tur (satemene) ora wruh patrape wong ngati-ati kang wruhing semu, (bisane mung) ngumbar napsu gawe gendra, (arep) ngilangi kaunggulaning wong.
-
-Sehingga lagak lagunya sama, dengan orang yang sering sombong pengetahuan, padahal tak tahu caranya berhatihati dengan muka manis, melampiaskan nafsu membuat huru-hara, (akan) memberantas keunggulan orang.
-
-sk
-
-tunggal laku = sama halnya, wiweka = hati-hati.
-sama kelakuan, perbuat- reh nayadi = muka manis.
-annya. Naya = air muka.
-
-100
-
-gumaib ing kawruh = som- -- ngumbar = membiarkan, mebong pengetahuan. lampiaskan.
-wikan = tahu. ambirat = membrantas.
-adreng = bernafsu. berawa = kelebihan, kehebatan.
-o oke ok
-
-22. Saking lobaning kalbu, mung kalebu lebdeng bek kung lur kung, kumalungkung ngaku ngungkuli sakalir, saliring utameng kawruh, pangrasane padha kasor.
-
-22. Saka kamurkaning atine, (dadi) mung kalebu pinter gawe wong susah saya sedhih, kumlungkung ngungkuli apa lan sapa bae, (uga bab) sakabehing utamane kawruh, rumangsane padha kalah kabeh.
-
-22. (Itu) karena angkara hati, hanya termasuk orang yang membiarkan orang (lain) susah bertambah sedih, (ia) angkuh mengaku (pandai) melebihi segala-gala, semua keutamaan pengetahuan pula, merasa semuanya sudah alah (dengan dia).
-
-k
-
-loba = angkara murka. lur = diulur = dipanjangkan.
-lebdeng = lebda + ing = kumalungkung = sombong,
-
-pandai, dapat, mampu. merasa dirinya besar, hebek kung lur kung = biar bat.
-
-susah bertambah sedih. sakalir = segala, semua.
-
-Bek = biarlah. Kung =
-
-sedih.
-
-ok ok ok
-
-23. Tur maksih sasar-susur, saraseng ros tan pati tinemu, wekasane mung kudu den alem bangkit, inganthukan bae munthuk, tandha lamun durung kamot.
-
-23. Tur (satemene) isih kasasar numbuk-numbuk, underaning rasa ora patf cetha, wekasane mung kudu dialem
-
-LIMA KARYA PUJANGGA RANGGAWARSITA - 8 101
-
-pinter, dianthuki bae atine mbedhedheg, (iku) tandhane yen durung bisa kanggonan ngelmu kang akeh.
-
-23. Padahal masih tersesat-sesat, rasa intinya tidak begitu jelas, akhirnya hanya harus dipuji kecakapannya, diangguki saja sudah besar hatinya (itu) tandanya belum mampu menam* pung banyak pengetahuan.
-
-ok
-
-sasar-susur = tersesat-sesat. bangkit = dapat, pandai saraseng ros = sarasa + ing inganthukan, dari anthuk = + ros = rasa intinya. angguk.
-Ros = pokok, inti. munthuk = membusa, mentan pati = tak begitu (berarti). jadi besar.
-den alem = dipuji. kamot = muat banyak, menampung banyak.
-k ok ok
-
-24. Marma utama tuhu, yen abisa matrap unggah-unggah, tanggap ing reh ngarah-arah ngirih-ngirih, satiba telebing tanduk, tumindak lawan angawon.
-
-24. Mulane utama banget, yen padha bisa matrapake tatakrama, tumindak ngati-ati lan alus, ing sakabehing pratingkah, tumindak kanthi ngalah.
-
-24. Maka sungguh utama, jika dapat menjalankan sopansantun, dapat mengerti gelagat (dan) hati-hati (serta) bertindak halus, bagaimanapun cara pelaksanaannya, hendaklah bertindak dengan mengalah.
-
-sk andhap ngarah-arah = hati-hati.
-
-unggah-ungguh
-
-asor =- sopan-santun, ngirih-irih =- perlahan-lahan tatakrama. halus.
-tanggap reh = menyambut, satiba telebing tanduk = bamengerti gelagat, semu. bagaimana pun tingkah lakunya.
-
-ok ok ok
-
-102
-
-25.
-
-25.
-
-Sapa wruh kembang tepus, iku bisa angarah panuju, yekti datan adoh lan badan pribadi, lamun kanthi awas emut, salamet tumekaning ndon.
-
-25. Sapa wruh kembang tepus, iku bisa ngarah-ngarah nuju karsa, (sabab apa bae) mesthi ora adoh saka awake dhewe, yen kanthi awas lan eling (marang Gusti Allah), slamet tumeka papan kang katuju.
-
-Siapakah tahu kembang tepus , dia dapat menuju hati, (segala sesuatu) sebenarnya tak jauh dari badan sendiri, jika disertai awas dan ingat (kepada Tuhan), selamatlah sampai pada (tempat) tujuan.
-
-Kembang tepus adalah nama jenis kembang. Tepus = tepa, ukur = ukuran panjang, luas dan tebal dari sesuatu. Di sini kembang tepus dipakai untuk memperingatkan orang agar perbuatan dan tindakannya memakai ukuran diri-sendiri. Peribahasa: Ukur baju badan sendiri (Jawa: tepa salira).
-
-*
-
-kembang tepus = nama kem- panuju (= penuju (sesuai)
-
-26.
-
-bang. Lihat catatan di hati,cocok, senang.
-atas ndon = tempat tujuan.
-tepus
-
-= ukur, kira-kira.
-ak ok ok
-
-Dongeng jaman karuhun, mbokmanawa pantes dadi pemut, ara janma bagus anom sarwa wasis, nanging kuciwa kasebut, tukang sual juru waon.
-
-26. (Ana) dongeng ing jaman biyen, bokmanawa patut dadi pangeling-eling, (yaiku) ana nom-noman bagus sarta wasis, nanging kuciwane kasebut, tukang gawe rembug
-
-(nalar) lan tukang nacad.
-R
-
-103
-
-26. Dongeng zaman dahulu, barangkali pantas menjadi peringatan, ada seorang pemuda rupawan serba mahir, tetapi sayang (dia) disebut orang, suka membikin persoalan dan senang mencela.
-
-karuhun (juga: Sunda) = tukang sual = senang memdahulu. bikin persoalan, perbansarwa wasis = serba mahir. tahan.
-
-juru waon = suka mencela.
-
-* * ok
-
-27. Sawiji dina nuju, temu lawan wong tuwa wus pikun, mintoaken kabangkitan lair-batin, kaki tuwa alon muwus, mengko ta wong bagus anom.
-
-27. Ing sawijing dian nalika, (dheweke) katemu lan wong tuwa kang wis pikun, (non-noman mau) ngatonake kapinterane lair batin, kaki tuwa alon pangucape, mengko ta wong bagus anon.
-
-27. Pada suatu hari waktu, (ia) bertemu dengan orang tua renta, (pemuda itu) menunjukkan kepandaiannya lahir-batin, Ki Tua renta berkata pelahan, nanti dulu Pemuda bagus.
-
-*
-
-mintonaken = menunjukkan.
-pikun = tua renta.
-
-* x *
-
-28. Manira takon tuhu, lagi pira umurira bagus, winangsulan uwis telung puluh warsi, kaki tuwa mesem muwus, layak durung bisa amot.
-
-28. Aku takon satemene, lagi pira umurmu bagus, wang104
-
-sulane lagi telung puluh taun, kaki tuwa mesem sarta ngucap, layak durung bisa kanggonan ngelmu.
-
-28. Saya bertanya sebenarnya, baru berapa tahukah umurmu Nak, jawabnya sudah tiga puluh tahun, Ki Tua Renta berkata sambil tersenyum, pantas belum dapat menampung banyak (pengetahuan).
-
-manira = aku. warsi, warsa = tahun.
-mesem = tersenyum. layak = layak, tentu saja.
-
-ok ok ok
-
-29. Maksih cilik ususmu, baya lagi sadami gengipun, yen nyabranga luwih saking seket warsi, wus gedhe dawa ususmu,
-
-barang kapinteran kamot.
-
-29. Isih cilik ususmu, bokmenawa lagi sadami gedhene, yen umurmu wis luwih seket taun, wis gedhe dawa ususmu, kabeh kapinteran bisa kamot (kok darbeni).
-
-29. Ususmu masih kecil, mungkin baru sebesar daun padi, kalau umurmu sudah melewati lima puluh tahun, sudah besar panjang ususmu, segala kepandaian dapat anda tampung.
-
-*
-
-sadami, sa-dami= sebesar ba- nyabrang = menyeberang, tang padi. melintasi, melewati.
-
-* AK A
-
-30. Mokal lamun alimut, jroning layang Nitisastra iku, gajeg ana pralampitane kang muni, upama jun kurang banyu, kocakkacik kendhit ing wong.
-
-30. Mokal yen (sira) lali, sajroning layang Nitisastra iku, gajege ana sanepane kang muni, kayadene jun kang kurang banyu, diindhit mesthi kocak-kacik .
-
-30. = Mustahil (anda) tak tahu, di dalam Kitab Nitisastra, kiranya
-
-105
-
-ada perumpamaan yang berbunyi, misalkan buyung bila isi airnya kurang, kocak dikepit di lambung orang.
-
-**
-
-gajeg-kira-kira, kiranya. kendhit, kaindkit, diindhit = pralampita = perumpamaan. dikepit di lambung (di jun = buyung (alat dari tanah bawah ketiak).
-
-31.
-
-31.
-
-liat untuk membawa air).
-
-k ok ok
-
-Manawa kebak kang jun, yekti anteng den indhit ing lambung, iku bae kena kinarya palupi, pedah apa umbak umuk, mundhak kaeseman ing wong.
-
-31. Yen jun mau kebak banyu, diindhit ing lambung mesthi anteng, iku bae kena kanggo conto, apa paedahe gumedhe (sarta) umuk, tuwas diesemi ing wong.
-
-Bila buyung itu penuh, niscaya tenang dikepit di lambung, itu saja dapat dipakai contoh, apakah gunanya sombong (dan) bermulut besar, niscaya disambut orang dengan tersenyum.
-
-anteng = tenang.
-palupi = teladan, contoh.
-
-32.
-
-106
-
-ok ok
-
-Wong anom meneng ngungun, kaluhuran sabda alon mundur, ing wekasan mari dennya mbek gumaib, mung lukita kang ginilut, empan papaning wiraos.
-
-32. Wong anom mau meneng (sarta) gumun, (rumasa) kaungkulan rembug (banjur) mundur tanpa pamit (alonalon), wekasane mari anggone gumedhe, kang diudi mung nyinau (anggilut) karangan-karangan (bukubuku), (bab) empan papaning rasa sejati.
-
-32. Pemuda itu diam (serta) heran, omongnya teratasi (oleh K: Tua Renta), (lalu) pergi diam-diam, akhirnya tidak lagi bersifat sombong, (lalu) melulu mempelajari karangan-karangan (kitab-kitab), (tentang) penerapan) rasa perasaan yang sebenarnya. a ngungun = heran. ginilut, digilut = ditekuni, dikaluhuran sabda = omong- pelajari.
-
-nya teratasi, kalah empan papan = panerapan
-
-omongnya. (mengingat) tempat.
-mbek gumaib = ambek wiraos = rasa.
-
-gumaib = berwatak som- sejati = rasa perasaan
-
-bong. yang sebenarnya.
-
-lukita = karangan, gubahan, tembang memuji-muji.
-oke oke ok 33. Malah wiwit anggayuh, tuturutan pangkataning ngelmu, kasampurnan pamoring kawula Gusti, mahasucekken Datipun, pangrakiting reh tan keron.
-
-33. Malah wiwit ngudi, paugeran lan papangkataning kawruh, kasampurnan (bab) pamoring kawula Gusti, mahasucekake Dating Allah, panataning ajaran (ngelmu) ora tumpang suh.
-
-33. Bahkan mulai hendak mencapai, pedoman dan tingkatan ilmu, kesempurnaan (tentang) kesatuan makhluk dan Khalik, mahasucikan Dzat Tuhan, tak salah melaksanakan ajaran.
-
-kod
-
-tuturutan = pedoman. pamoring kawula Gusti = kepangkataning, dari pangkat satuan makhluk dan Khaderajat, tingkatan. lik. Pamor, dari;: amor = ngelmu kasampurnan = ilmu baur, campur.
-(tentang kesempurnaan). Datipun = DzatNya (Tuhan).
-orang hidup untuk me- pangrakit, dari rakit = meninggal dunia yang baik. ngatur.
-
-tan keron = tidak salah.
-
-»k ok oi
-
-107
-
-34. Pangracutan pangukut, myang pambabarira tan keliru, panarikan patrape tanajul tarki, ing sangkan paran sumurup, tan kalendhon nora kadho.
-
-34. (Bab) pangracutan, lan pangukutan (ngendhakake lan nggulung napsune) lakune ora kaliru, anarik napas nindakake ajaran tanajul tarki (yaiku) weruh sangkan paraning dumadi, ora salah nindakake piwulang.
-
-34. Mengalahkan dan mematikan nafsu, pelaksanaannya tak salah, menarik nafas melaksanakan ajaran tanajul tarki, (yaitu) tentang asal dan tujuan hakiki, tidak salah dan tidak khawatir.
-
-Tanajul tarki, dari: tanazul tarqi (Ar.). Tanazul = turun; tarqi = meninggalkan. Di kalangan kaum mistik Jawa kata-kata ini digunakan untuk memberi ajaran tentang turunnya roh dan roh meninggalkan jasadnya.
-Dalam bahasa Jawa: sangkan paraning dumadi.
-Sangkan, dari sangka, saka = dari, asal. Paran = tujuan, menuju ke ....
-
-Dumadi, dari dadi = jadi, kejadian (manusia).
-
-Ajaran tersebut maksudnya sesuai dengan ajaran Islam, Al Qur'an Surat al Baqarah ayat: 156, Inna lillahi wa ina ilaihi raji'un = Sesungguhnya kami adalah milik Allah dan kepadaNyalah kami kembali.
-
-*
-
-pangracutan, dari: racut = le- tanajul tarki, dari tanazul pas, ringkas ilmu pelepa- tarqi = lihat catatan  san. sangkaan paran = idem pangukut, dari: kukut = tan kledhon = tak keliru.
-habis, gulung, mati; ilmu nora kadho = tidak khawatir.
-mematikan nafsu. panarikan = penarikan; ilmu pambabarira = penerapan- menarik nafas menghadanya, pi maut.
-oi oke ok
-
-108
-
-35. Lamun mangkono patut, tinirua tepaning tumuwuh, tan Iyan saking sambadeng badan pribadi, binudi sidaning sadu, aneng kene kana kanggo.
-
-35. Kang kaya mangkono iku patut, katiru miturut ukuraning titah, ora liya saka kekuwataning awake dhewedhewe, diudia kaleksanane kanthi sabar, (iku) migunani ing donya lan ing akhirat.
-
-35. Yang demikian itu patutlah, ditiru dengan ukuran makhluk, tak lain dari kemampuan diri masing-masing, diusahakan tercapainya dengan kesabaran, (itu) berguna di dunia dan di
-
-akhirat.
-** tepaning tumuwuh = ukuran sidaning sadu = tercapai (detitah masing-masing. ngan) kesabaran. Sida = sambadeng badan pribadi = jadi, tercapai. Sadu = kemampuan diri-sendiri. sareh = sadar, sabar.
-binudi = diusahakan. kene kana = sini-sana, dunia
-
-akhirat.
-
-K Ak H
-
-36. Ki Gambuh bisa muwus, anglakoni dhewe durung kaur, dangdang sumyang watak wantune wong langip, tan kawawa wuwur sembur, pitutur bae yen kanggo.
-
-36. Ki Gambuh (Ki Pujangga) bisa ngucap, (nanging) nglakoni dhewe durung kober, (mung) surak-surak kayadene kelakuane wong (kang) ringkih, ora bisa urun pamrayoga sarta pandonga, pitutur iki bae yen kanggo.
-
-36. Ki Gambuh (Ki Pujangga) dapat berkata, (tetapi) menjalaninya sendiri belum sempat, (hanya) sorak-sorak seperti kebiasaan orang (yang) lemah, tak dapat nasehat dan doa, petunjuk ini saja kalau dipakai.
-
-*
-
-109
-
-kaur = kober, sempat. wong langip = orang dhoif
-
-dandang sumyang = istilah un- (Ar.) = orang lemah.
-tuk kebiasaan beramai- wuwur sembur = tutur (dan) ramai. puji doa.
-
-watak wantu = sudah adat
-
-kebiasaannya.
-
->k Ak ok
-
-37. Amung amrih rahayu, ewadene ing babasanipun, alah kandha ana ing tandha lan yekti, titenana ala nganggur, begja kang gelem anganggo.
-
-37. (Karepe) mung supaya slamet, ewadene ana paribasan, alahne kandha ana tandha (alahne tandha) ana yekti, titenana ala nganggur, begja kang padha gelem nganggo (pitutur iki).
-
-37. (Maksudnya) hanya agar selamat, meskipun demikian ada peribahasa, daripada kata ada tanda (daripada tanda) ada
-
-bukti nyata, ingat-ingatlah sambil lalu, (sungguh) beruntung (orang) yang mau memakai (nasehat ini).
-
-ok
-
-38. Tursan rong sapteng lebu, Ki Pujangga panggupitanipun, tawi tawar ing surasa tanpa manis, marma kongsi karya pemut, mung met marta karahayon.
-
-38. Trusan rong sapteng lebu (iku Candrasangkalane) Ki Pujangga ngarang (layang iki), sarwa sepa surasme tanpa manis (legi), mulane (karaya-raya) gawe pepenget, mung (kanggo) ngudi urip slamet.
-
-38. Trusan rong sapteng lebu, (itulah angka Tahun waktu) Ki Pujangga menggubah (kitab ini), hambar belaka tak ada manisnya, maka (sebabnya Ki Pujangga) sampai memberi peringatan, hanyalah (karena) menghendaki hidup selamat.
-
-K
-
-116
-
-Tursan rong sapteng lebu = Terusan liang (sampai) ke tujuh debu (bumi lapis ketujuh). Ini adalah Candrasangkala waktu Serat Wedharaga ditulis, menunjukkan angka tahun Jawa 1799 = Masehi 1870/1971.
-
-K
-
-trusan rong sapteng lebu = tawar =hambar, tanpa rasa.
-lihat catatan di atas met marta= mencari hidup.
+No. |Javanese|Jarwa| Indonesian  |Notes
+--|--|--|--|--
+1.|Ki Gambuh karya pemut, limuting tyas rare kang kalimput, lacut maring reh sumirang murang niti, tantan tuman amamatuh, temah lumaku ginuron.|Ki Gambuh (Ki Pujangga) aweh peling, (bab) bocah kang atine peteng (marga) katutupan, kabacut patrape nrajang (lan) nyimpang saka tatanan, tetep mangkono (jalaran wis) kapatuh, temahan nindakake dadi guru.|Ki Gambuh (Ki Pujangga) memberi peringatan, (tentang) anak muda yang kegelapan hatinya karena tertutup, terlanjur menempuh (dan) melanggar kesopanan, tetap demikian (karena) terbiasa, akhirnya (bahkan) bertindak menjadi guru.|wedharaga = buku pedoman diri (agar selamat).<br>Ki Gambuh = (nama samaran) Ki Pujangga pengarang serat Wedharaga.<br>gambuh = biasa, tangkas, cekatan. Nama tembang macapat.<br>pemut = peringatan, catatan.<br>limut = gelap, buntu pikiran.<br>kalimput = tertutup.<br>lacut = terlanjur.<br>murang = melanggar.<br>niti = peraturan, undang-undang. Juga = kelakuan, sopan santun.<br>tantan tuman = tetap, tahan.
+2. |Trakadhang amardhukun, dhokohan tyas asring ngumbar sanggup, iku aja kongsi mangkono yen keni, kinira-kira kang patut, apa kalumrahaning wong.|Terkhadang madhukun, atine dhokoh kerep adol sanggup, iku aja mangkono yen kena (dipituturi) (tumindaka) kang kira-kira patut, apa kalumrhaning wong.|Kadang-kadang berdukun, hatinya bernafsu sering menyatakan serba sanggup, janganlah demikian kalau boleh (dinasehati), berbuatlah yang kira-kira patut, (seperti) apa yang biasanya dilakukan orang.|dhokohan, dhokoh = lahap (makan), bernafsu (tindakan).|ngumbar sanggup = menjual kesanggupan, serba sanggup.
+3. |Kang wus kaprah kalaku, inganggoa sapakolehipun, mung patrape den sumendhe aja kibir, manawa kena sisiku, wekasan rinasan ing wong.|Kang wis kaprah dilakoni (wong akeh), (iku) anggonen samupakate, mung patrape sumendhea (marang Allah lan) aja kibir, manawa kena deduka(ning Allah), wekasan dirasani uwong.|Yang sudah lumrah terjadi, pakailah itu sedapat-dapatnya, hanya caranya hendaklah bersandar (kepada Tuhan) dan janganlah sombong, (sebab) kalau kena murka (Tuhan) akhirnya dipergunjingkan orang.|sumendhe = bersandar. sisiku, siku = marah, murka kibir = sombong, angkuh. (Tuhan).
+4. |Nadyan dadia dhukun, lamun ana masakalanipun, pinilala dening wong agung kang wajib, samonoa durung patut, wong anom ahlul mangkono.|Nadyan dadia dhukun, yen ana wektune (kang becik), dipilih dening wong agung kang wajib, mangkono iku satemene ya durung patut, wong anom dadi ahli (padhukunan).|Meskipun menjadi dukun, kalau (dapat) pada saatnya, dipilih orang besar yang wajib, itu pun belum pantas, orang muda (seolah-olah) berkeahlian demikian.|pinilala, dari pilala = pilih, pelihara.<br>ahlul = ahli hal tertentu.
+5. |Ing tembe yen wus pikun, pantes bae ulah idu wilut, bangsa bincil ambabatang ngusadani, mbok munia theyot theblung, tan ana wong amaido.|(Ewadene) mbesuk yen wis pikun, pantes bae ulah ampuhing idu, ngetung-ngetung miturut primbon (lan) mbethek (kaanan utawa lalakon sarta) nenambani, arepa muni apa bae, ora ana sing maido.| Kemudian kalau sudah tua renta, pantas sajalah mengerjakan (bidang) ludah bertuah, soal-soal perhitungan primbon menebak-nebak (kejadian/lelakon dan) memberi obat, berkata apapun, tak ada orang mendustakannya.|pikun = tua renta.<br>idu wilut = ludah ampuh, ludah dukun.<br>bincil = berbagai perhitungan menurut buku primbon (simpanan, wasiat leluhur).<br>theyot theblung = bunyi katak beramai-ramai.
+6. |Mangkene patrapipun, wiwit anom amendenga laku, ngungurangi mangan turu sawatawis, amemekak hawa napsu, dhasarana andhap asor.|Mangkene patrape (kang becik), wiwit anom ngulinakna patrap, ngengurangi mangan turu sawatara, mekak hawa napsu, dhasarana andhap asor.|Beginilah cara (baiknya, sejak muda memusatkan tindakusaha, (dengan) mengurangi makan-minum sekedarnya, mengekang hawa nafsu, hendaklah didasari berendah diri.|amendenga, dari mendeng = memandang terus-menerus, membiasakan.<br>amemekak = mengendalikan.<br>andhap asor = merendahkan diri, sopan-santun.
+7. |Akanthi awas emut, aja tinggal wiweka ing kalbu, mituhua wawarah kang makolehi, den taberi anguguru, aja isin atatakon.| Kanthi awas lan eling (marang Gusti Allah), aja tinggal pangati-ati sajroning ati, nuruta marang pitutur kang migunani, padha sregepa maguru, aja isin takon-takon.| Dengan awas dan ingat (kepada Tuhan), janganlah meninggalkan sikap hati-hati, ikutilah nasehat yang berguna, rajinrajinlah berguru, janganlah malu bertanya-tanya.|wiweka, weweka = penghati-hati.<br>mituhu = menuruti, mematuhi.
+8. |Wong amarsudi kawruh, titirona ing reh kang rahayu, aja kesed sungkanan sabarang kardi, sakadare angingimpun, nimpeni kagunaning wong.|Wong ngudi kawruh, nenirua patrap murih slamet, aja kesed sungkanan marang pagawean apa bae, sakadare (minangka sarana) klumpuk-klumpuk kawruh, migunakake kapinteraning wong.| Orang menuntut pengetahuan, tirulah cara yang selamat, jangan malas (dan) enggan segala pekerjaan, (untuk sekedar menghimpun, memanfaatkan kecakapan orang.|amarsudi, dari parsudi = mengusahakan sungguh-sungguh.<br>sungkanan, dari sungkan = enggan.<br>nimpeni = memanfaatkan.<br>kagunan = kelebihan, kepandalan. Piguna = faedah.
+9. |Tinimbang lan anganggur, kaya becik ipil-ipil kawruh, angger datan ewan panasten sayekti, kawignyane wuwuhwuwuh, wekasan kasub kinaot.|Tinimbang nganggur, luwih becik ngumpulake kawruh saka sathithik, angger aja ewan panasten (iku) mesthi, kapinterane tambah-tambah, wekasane kondhang kaluwihane.|Lebih baik dari menganggur, kiranya baik mengumpulkan pengetahuan dari sedikit, asal tidak serba tak suka pada orang lain dan tidak dengki tentulah, kepandaiannya bertambah-tambah, akhirnya terkenal unggul.|ipil-ipil = mengumpulkan dari sedikit.<br>kawignyan = kepandaian.<br>kasub = terkenal.
+10. |Lamun wus sarwa putus, kapinteran simpenen ing pungkur, bodhonira katokna ing ngarsa yekti, gampang traping tindak-tanduk, amawas pambekaning wong.|Yen wis sarwa ngrampungi (ahli), kapinterap (iku) simpenen (ing) mburi, bodhomu katokna ing ngarep (iku) temenan, anggampangake tindak-tandukmu, mawas watak kalakuaning wong.|Bilamana sudah serba ahli, hendaklah kepandaian disembunyikan (di belakang), perlihatkanlah kebodohanmu di muka (itu) tentulah, memudahkan langkah lakumu, (untuk) memahami perangai orang.|sarwa putus = serba pandai, serba unggul.<br>pungkur = belakang.<br>ngarsa, ngarep = muka.<br>tindak-tanduk = tingkahlaku.<br>pambekan = watak, tabiat.
+11. |Karana ing tumuwuh, akeh lumuh katona mbalilu, marma tansah mintonken kawruh pribadi, amrih den alema punjul, tan wruh bakal kajalomprong.|Sabab ing ngaurip iku, akeh-akehing wong lumuh katon bodhone, mulane tansah padha ngatonake kawruhe dhewe-dhewe, supaya dialem pinter banget, ora weruha yen bakal kajiomprong (kesasar).|Sebab didalam hidup, banyak orang segan kelihatan bodoh, maka selalu menunjukkan pengetahuannya sendiri, agar dipuji sebagai orang unggul (pengetahuannya), tak tahunya akan terjerumus.|tumuwuh = tumbuh, hidup, makhluk.<br>lumuh = malas.<br>pribadi = (diri) sendiri.<br>balilu = bodoh.<br>punjul = lebih.<br>kajalomprong = terjerumus.
+12. |Lamun pinter satuhu, tan mangkono ing reh patrapipun, kudu nganggo watara duga prayogi, pinter angaku balilu, dennya met kagunaning wong.|Yen mula pinter temenan, ora . mangkono cara (lan) patrape, kudu nganggo duga kira (lan) prayoga, bisoa ngaku bodho, (iku) kanggo ngalap kapinteraning wong.|Kalau benar-benar pandai, tidak demikianlah kelakuannya, haruslah dengan kira-kira betapa baiknya, pandai-pandailah mengaku bodoh, (agar) dapat memanfaatkan kepandaian orang.|watara duga prayogi = kirakira betapa baiknya.<br>met = mengambil, memanfaatkan.<br>kagunan, dari guna = kepandaian.
+13. |Angarah warah wuruk, lamun seje murad maksudipun, rasakena ing ati dipun nastiti, aja pijer umbak umuk, mundhak kawiyak yen bodho.|Kepengin (bisane) oleh pitutur lan tuntunan, (dene) yen seje maksud tujuane, eningna jroning ati kanthi nastiti, aja tansah gumedhe (lan) umuk, mudhak konangan yen bodho.|Menginginkan nasehat (dan) ajaran, bila berlainan maksud tujuannya, renungkanlah di dalam hati dengan teliti, janganlah selalu besar mulut (dan) sombong, niscaya terungkap kebodohanmu.|angarah = menghendaki, menuju.<br>warah wuruk = ajaran, nasehat.<br>murad = maksud, tujuan.<br>maksud = maksud tujuan.<br>umbak umuk = mulut omong besar, sombong.<br>kawiyak = terbuka, terbongkar.
+14. |Panengeraning wong iku, adat ana panggrayanganipun, peten saking sambang liring nayeng wadi, yen wong ngaku sarwa putus, iku mratandhani bodho.|Ciri-cirine wong iku, adate katon tandha-tandhane, jupuken saka klebat pasemone kang mangku wadi{ning) watake, yen wong ngaku sarwa pinter banget, iku mratandhani bodhone.|Cirinya orang itu, biasanya ada tanda-tandanya, dapatkanlah dari kilasan air mukanya yang mengandung rahasia (sifatnya), bila orang mengaku serba ahli, itu tandanya ia bodoh.|panengeran, dari: tenger = ciri, tanda.<br>panggrayang, dari : grayang = meraba, kira-kira.<br>sambang liring = sekilas pandang.<br>nayeng wadi, dari: naya = ing + wadi = air muka + yang (mengandung) rahasia.
+15. |Lamun wong ngaku cukup, mratandhani kukurangan iku, wong ngungasken kakendelan tandha jirih, wong angaku kiyat pengkuh, tandha apes amalendo.|Yen wong ngaku sugih, mrantandhani kemlaratane, wong kang ngatonake kekendelane (iku) tandhane jirih, wong ngaku kuat sentosa, iku tandhane ringkih ora kena diandelake.|Bila orang mengaku kaya, menandakan ia kekurangan, orang yang menunjukkan keberaniannya tandanya ia penakut, orang mengaku kuat sentosa, tandanya ia lemah dan tak dapat diandalkan.|ngungasken = menunjukkan.<br>jirih = penakut.<br>apes = lemah.<br>amalendo = tak dapat dipercaya, mengecewakan, tak dapat diandalkan.
+16. |Wong ngaurip wus tamtu, akeh padha arebut piyangkuh, lumuh lamun kasor kaseser sathithik, nanging singa peksa unggul, ing wekasan dadi saor.|Wong urip iku wis mesthi, akeh padha rebut deg, wegah yen kalah (lan) mingsed sathithik, nanging sapa kang kumudu unggul, wekasane dadi asor.|Orang hidup tentulah, banyak berebut kebanggaan, tak mau alah (dan) bergeser sedikit pun, tetapi siapa yang memaksa unggul, akhirnya menjadi hina.|piyangkuh = kebanggaan.<br>lumuh = malas, tidak mau.<br>kasor keseser = alah tergeser.<br>singa = siapa<br>unggul = lebih, menang, terpandai.<br>asor = hina.
+17. |Ingkang mangkono iku, badaningong pribad: ing dangu, paksa unggul wekasan malah katinggii, panggilesing jabung alus, winangsulan tyas kaleson.|Kang kaya mangkono iku, awakku dhewe (Ki Pujangga) biyen, kumudu unggul wekasan malah katanggor, (dening) panggilese (wong kang) rumaket (kanthi) alus, (arep) dak baleni maneh (lalakon mau) atiku wis pepes.|Yang demikian itu, diriku (Ki Pujangga) sendiri dahulu, (pernah) memaksa ingin unggul akhirnya terpukul, (oleh) gilasan (orang) yang memikatnya (dengan) halus, (akan) kuulangi lagi hatiku sudah lemas.|badaningong, dari badan + ingong = badan + aku = diriku, saya.<br>katinggil = teratasi, dialahkan, terpotong, kena batunya, terpukul.<br>panggiles, dari giles = gilas.<br>ing dangu = waktu dahulu.<br>jabung = semacam getah perekat. Anjabung alus = merapatkan diri (menempel) dengan halus.<br>winangsulan = diulangi.<br>kaleson, dari lesu = lemas.
+18. |Mangkono kang tinemu, marmane wong ngaurip punika, aja pisan paksa ambek kumalikih, angaku sarwa linuhung, wekasan kether tan ethor.|Mangkono iku kedadeane, mula wong urip iku, aja pisan awatak gumedhe (kumingsun), ngaku yen sarwa luwih, wekasan kacipuhan ora pecus.|Demikian itulah hasilnya, maka orang hidup itu, jangan suka bersifat sombong, mengaku serba hebat, akhirnya lalai dan tidak pecus.|ambek kumalikih = watak menyombongkan diri, membesarkan diri.<br>kether = lalai, ketinggalan.<br>tan ethor = tidak pecus.<br>sarwa linuhung = serba mengagumkan, serba hebat.
+19. |Ana dene kang wus katon, anake carik awatak kemajon, ngaku luwih (nanging) patrape kurang patitis, (marga mung) manut ngelmune santri kang lamis, mangeran badhut keparat.|Adalah yang sudah terlihat, anak jurutulis yang berwatak terlalu maju, mengaku ahli (tetapi) tingkahnya kurang tepat, (hanya) mengikuti ilmunya santri yang mengaku-aku, mendewakan badut keparat.|suteng, dari suta = anak.<br>carik = jurutulis.<br>Kadhinginan tuwuh, dari: Dingin = dahulu; kadhinginan =. mendahului.<br>Tuwuh = tumbuh, biji, timbul, - perkembangan, Juga: umur. Perhatikan: setengah tuwuh = setengah umurnya.<br>Kadhinginan - tuwuh | = mendahului (hakekat)<br>umurnya = merasa sudah lebih banyak umurnya dari yang sebenarnya = merasa sudah pandai, sudah maju.<br>patitis = tepat.<br>guyeng dul = santri dul = santri yang suka berpura-pura, mengaku-aku (lamis Jw.)<br>bodhol = bodhor (juga: Sunda) = badut = pelawak.
+20. |Badhar tyas kabalawur, baladheraning wong ambabangus, angas ungus ing wuwus tan anguwisi, temah kasebut wong gemblung, kinira yen lara panon.|(Dadine) konangan (banjur) atine bingung, (yaiku) reregeding manungsa kang ngicuk-icuk (marang panggawe salah), brigah-brigih omonge ora ngrampungi, temahan disebut wong gemblung, dikira lara uteke.|Terbukalah kedoknya (menjadi) bingunglah hatinya, (itulah) kotor-kotornya manusia menghasut-hasut, berlagak berani (tetapi) ucapnya tak (mampu) menyelesaikan, akhirnya disebut orang kurang pikir (sinting), (hingga dia) dikira sakit otaknya.|kabalawur = terbuka (kedoknya).<br>baladheraning wong = kotor-kotornya, jelek-jeleknya orang.<br>ambabangus = menghasuthasut.<br>angas-ungas = berlagak berani.<br>wuwus = ucap, bicara.<br>tan anguwisi = tidak menyelesaikan.<br>gemblung = goblog, sinting.
+21. |Saengga tunggal laku, lan kang asring gumaib ing kawruh, tur tan wikan wiwekaning reh nayadi, adreng ngumbar arubiru, amberat berawaning wong.|Saengga lelagone (patrape) padha karo wong, kang gumaib ing bab kawruh, tur (satemene) ora wruh patrape wong ngati-ati kang wruhing semu, (bisane mung) ngumbar napsu gawe gendra, (arep) ngilangi kaunggulaning wong.|Sehingga lagak lagunya sama, dengan orang yang sering sombong pengetahuan, padahal tak tahu caranya berhatihati dengan muka manis, melampiaskan nafsu membuat huru-hara, (akan) memberantas keunggulan orang.|tunggal laku = sama halnya, sama kelakuan, perbuatannya.<br>wiweka = hati-hati.<br>reh nayadi = muka manis.<br>Naya = air muka.<br>gumaib ing kawruh = sombong pengetahuan.<br>wikan = tahu.<br>adreng = bernafsu.<br>ngumbar = membiarkan, melampiaskan.<br>ambirat = membrantas.<br>berawa = kelebihan, kehebatan.
+22. |Saking lobaning kalbu, mung kalebu lebdeng bek kung lur kung, kumalungkung ngaku ngungkuli sakalir, saliring utameng kawruh, pangrasane padha kasor.|Saka kamurkaning atine, (dadi) mung kalebu pinter gawe wong susah saya sedhih, kumlungkung ngungkuli apa lan sapa bae, (uga bab) sakabehing utamane kawruh, rumangsane padha kalah kabeh.|(Itu) karena angkara hati, hanya termasuk orang yang membiarkan orang (lain) susah bertambah sedih, (ia) angkuh mengaku (pandai) melebihi segala-gala, semua keutamaan pengetahuan pula, merasa semuanya sudah alah (dengan dia).|loba = angkara murka.<br>lebdeng = lebda + ing = pandai, dapat, mampu.<br>bek kung lur kung = biar susah bertambah sedih.<br>Bek = biarlah. Kung =<br>sedih.<br>lur = diulur = dipanjangkan.<br>kumalungkung = sombong, merasa dirinya besar, hebat.<br>sakalir = segala, semua.
+23. |Tur maksih sasar-susur, saraseng ros tan pati tinemu, wekasane mung kudu den alem bangkit, inganthukan bae munthuk, tandha lamun durung kamot.|Tur (satemene) isih kasasar numbuk-numbuk, underaning rasa ora patf cetha, wekasane mung kudu dialem pinter, dianthuki bae atine mbedhedheg, (iku) tandhane yen durung bisa kanggonan ngelmu kang akeh.|Padahal masih tersesat-sesat, rasa intinya tidak begitu jelas, akhirnya hanya harus dipuji kecakapannya, diangguki saja sudah besar hatinya (itu) tandanya belum mampu menampung banyak pengetahuan.|sasar-susur = tersesat-sesat.<br>saraseng ros = sarasa + ing + ros = rasa intinya.<br>Ros = pokok, inti.<br>tan pati = tak begitu (berarti).<br>den alem = dipuji.<br>bangkit = dapat, pandai<br>inganthukan, dari anthuk = angguk.<br>munthuk = membusa, menjadi besar.<br>kamot = muat banyak, menampung banyak.
+24. |Marma utama tuhu, yen abisa matrap unggah-unggah, tanggap ing reh ngarah-arah ngirih-ngirih, satiba telebing tanduk, tumindak lawan angawon.|Mulane utama banget, yen padha bisa matrapake tatakrama, tumindak ngati-ati lan alus, ing sakabehing pratingkah, tumindak kanthi ngalah.|Maka sungguh utama, jika dapat menjalankan sopansantun, dapat mengerti gelagat (dan) hati-hati (serta) bertindak halus, bagaimanapun cara pelaksanaannya, hendaklah bertindak dengan mengalah.|unggah-ungguh andhap<br>asor =- sopan-santun, tatakrama.<br>tanggap reh = menyambut,<br>mengerti gelagat, semu.<br>ngarah-arah = hati-hati.<br>ngirih-irih =- perlahan-lahan halus.<br>satiba telebing tanduk = babagaimana pun tingkah lakunya.
+25. |Sapa wruh kembang tepus, iku bisa angarah panuju, yekti datan adoh lan badan pribadi, lamun kanthi awas emut, salamet tumekaning ndon.|Sapa wruh kembang tepus, iku bisa ngarah-ngarah nuju karsa, (sabab apa bae) mesthi ora adoh saka awake dhewe, yen kanthi awas lan eling (marang Gusti Allah), slamet tumeka papan kang katuju.|Siapakah tahu kembang tepus , dia dapat menuju hati, (segala sesuatu) sebenarnya tak jauh dari badan sendiri, jika disertai awas dan ingat (kepada Tuhan), selamatlah sampai pada (tempat) tujuan.|Kembang tepus adalah nama jenis kembang. Tepus = tepa, ukur = ukuran panjang, luas dan tebal dari sesuatu. Di sini kembang tepus dipakai untuk memperingatkan orang agar perbuatan dan tindakannya memakai ukuran diri-sendiri. Peribahasa: Ukur baju badan sendiri (Jawa: tepa salira).<br>kembang tepus = nama kembang. Lihat catatan di atas<br>tepus = ukur, kira-kira.<br>panuju = penuju (sesuai) hati,cocok, senang.<br>ndon = tempat tujuan.
+26. |Dongeng jaman karuhun, mbokmanawa pantes dadi pemut, ara janma bagus anom sarwa wasis, nanging kuciwa kasebut, tukang sual juru waon.|(Ana) dongeng ing jaman biyen, bokmanawa patut dadi pangeling-eling, (yaiku) ana nom-noman bagus sarta wasis, nanging kuciwane kasebut, tukang gawe rembug (nalar) lan tukang nacad.|Dongeng zaman dahulu, barangkali pantas menjadi peringatan, ada seorang pemuda rupawan serba mahir, tetapi sayang (dia) disebut orang, suka membikin persoalan dan senang mencela.|karuhun (juga: Sunda) = dahulu.<br>sarwa wasis = serba mahir.<br>tukang sual = senang membikin persoalan, perbantahan.<br>juru waon = suka mencela.
+27. |Sawiji dina nuju, temu lawan wong tuwa wus pikun, mintoaken kabangkitan lair-batin, kaki tuwa alon muwus, mengko ta wong bagus anom.|Ing sawijing dian nalika, (dheweke) katemu lan wong tuwa kang wis pikun, (non-noman mau) ngatonake kapinterane lair batin, kaki tuwa alon pangucape, mengko ta wong bagus anon.|Pada suatu hari waktu, (ia) bertemu dengan orang tua renta, (pemuda itu) menunjukkan kepandaiannya lahir-batin, Ki Tua renta berkata pelahan, nanti dulu Pemuda bagus.|mintonaken = menunjukkan.<br>pikun = tua renta.
+28. |Manira takon tuhu, lagi pira umurira bagus, winangsulan uwis telung puluh warsi, kaki tuwa mesem muwus, layak durung bisa amot.|Aku takon satemene, lagi pira umurmu bagus, wangsulane lagi telung puluh taun, kaki tuwa mesem sarta ngucap, layak durung bisa kanggonan ngelmu.|Saya bertanya sebenarnya, baru berapa tahukah umurmu Nak, jawabnya sudah tiga puluh tahun, Ki Tua Renta berkata sambil tersenyum, pantas belum dapat menampung banyak (pengetahuan).|manira = aku.<br>mesem = tersenyum.<br>warsi, warsa = tahun.<br>layak = layak, tentu saja.
+29. |Maksih cilik ususmu, baya lagi sadami gengipun, yen nyabranga luwih saking seket warsi, wus gedhe dawa ususmu, barang kapinteran kamot.|Isih cilik ususmu, bokmenawa lagi sadami gedhene, yen umurmu wis luwih seket taun, wis gedhe dawa ususmu, kabeh kapinteran bisa kamot (kok darbeni).|Ususmu masih kecil, mungkin baru sebesar daun padi, kalau umurmu sudah melewati lima puluh tahun, sudah besar panjang ususmu, segala kepandaian dapat anda tampung.|sadami, sa-dami = sebesar batang padi.<br>nyabrang = menyeberang, melintasi, melewati.
+30. |Mokal lamun alimut, jroning layang Nitisastra iku, gajeg ana pralampitane kang muni, upama jun kurang banyu, kocakkacik kendhit ing wong.|Mokal yen (sira) lali, sajroning layang Nitisastra iku, gajege ana sanepane kang muni, kayadene jun kang kurang banyu, diindhit mesthi kocak-kacik|Mustahil (anda) tak tahu, di dalam Kitab Nitisastra, kiranya ada perumpamaan yang berbunyi, misalkan buyung bila isi airnya kurang, kocak dikepit di lambung orang.|gajeg-kira-kira, kiranya.<br>pralampita = perumpamaan.<br>jun = buyung (alat dari tanah liat untuk membawa air).<br>kendhit, kaindhit, diindhit = dikepit di lambung (di bawah ketiak).
+31. |Manawa kebak kang jun, yekti anteng den indhit ing lambung, iku bae kena kinarya palupi, pedah apa umbak umuk, mundhak kaeseman ing wong.|Yen jun mau kebak banyu, diindhit ing lambung mesthi anteng, iku bae kena kanggo conto, apa paedahe gumedhe (sarta) umuk, tuwas diesemi ing wong.|Bila buyung itu penuh, niscaya tenang dikepit di lambung, itu saja dapat dipakai contoh, apakah gunanya sombong (dan) bermulut besar, niscaya disambut orang dengan tersenyum.|anteng = tenang.<br>palupi = teladan, contoh.
+32. |Wong anom meneng ngungun, kaluhuran sabda alon mundur, ing wekasan mari dennya mbek gumaib, mung lukita kang ginilut, empan papaning wiraos.|Wong anom mau meneng (sarta) gumun, (rumasa) kaungkulan rembug (banjur) mundur tanpa pamit (alonalon), wekasane mari anggone gumedhe, kang diudi mung nyinau (anggilut) karangan-karangan (bukubuku), (bab) empan papaning rasa sejati.|Pemuda itu diam (serta) heran, omongnya teratasi (oleh K: Tua Renta), (lalu) pergi diam-diam, akhirnya tidak lagi bersifat sombong, (lalu) melulu mempelajari karangan-karangan (kitab-kitab), (tentang) penerapan) rasa perasaan yang sebenarnya.|ngungun = heran.<br>kaluhuran sabda =- omongnya teratasi, kalah omongnya.<br>mbek gumaib = ambek gumaib = berwatak sombong.<br>lukita = karangan, gubahan, tembang memuji-muji.<br>ginilut, digilut = ditekuni, dipelajari.<br>empan papan = panerapan (mengingat) tempat.<br>wiraos = rasa.<br>sejati = rasa perasaan yang sebenarnya.
+33. |Malah wiwit anggayuh, tuturutan pangkataning ngelmu, kasampurnan pamoring kawula Gusti, mahasucekken Datipun, pangrakiting reh tan keron.|Malah wiwit ngudi, paugeran lan papangkataning kawruh, kasampurnan (bab) pamoring kawula Gusti, mahasucekake Dating Allah, panataning ajaran (ngelmu) ora tumpang suh.|Bahkan mulai hendak mencapai, pedoman dan tingkatan ilmu, kesempurnaan (tentang) kesatuan makhluk dan Khalik, mahasucikan Dzat Tuhan, tak salah melaksanakan ajaran.|tuturutan = pedoman.<br>pangkataning, dari pangkat derajat, tingkatan.<br>ngelmu kasampurnan = ilmu (tentang kesempurnaan).<br>orang hidup untuk meninggal dunia yang baik.<br>pamoring kawula Gusti = kesatuan makhluk dan Khalik. Pamor, dari: amor = baur, campur.<br>Datipun = DzatNya (Tuhan).<br>pangrakit, dari rakit = mengatur.<br>tan keron = tidak salah.
+34. |Pangracutan pangukut, myang pambabarira tan keliru, panarikan patrape tanajul tarki, ing sangkan paran sumurup, tan kalendhon nora kadho.|(Bab) pangracutan, lan pangukutan (ngendhakake lan nggulung napsune) lakune ora kaliru, anarik napas nindakake ajaran tanajul tarki (yaiku) weruh sangkan paraning dumadi, ora salah nindakake piwulang.|Mengalahkan dan mematikan nafsu, pelaksanaannya tak salah, menarik nafas melaksanakan ajaran tanajul tarki, (yaitu) tentang asal dan tujuan hakiki, tidak salah dan tidak khawatir.|Tanajul tarki, dari: tanazul tarqi (Ar.). Tanazul = turun; tarqi = meninggalkan. Di kalangan kaum mistik Jawa kata-kata ini digunakan untuk memberi ajaran tentang turunnya roh dan roh meninggalkan jasadnya. Dalam bahasa Jawa: sangkan paraning dumadi. Sangkan, dari sangka, saka = dari, asal. Paran = tujuan, menuju ke .... Dumadi, dari dadi = jadi, kejadian (manusia). Ajaran tersebut maksudnya sesuai dengan ajaran Islam, Al Qur'an Surat al Baqarah ayat: 156, Inna lillahi wa ina ilaihi raji'un = Sesungguhnya kami adalah milik Allah dan kepadaNyalah kami kembali.|pangracutan, dari: racut = lepas, ringkas ilmu pelepasan.<br>pangukut, dari: kukut = habis, gulung, mati; ilmu mematikan nafsu.<br>pambabarira penerapannya,<br>II<br>tanajul tarki, dari tanazul tarqi = lihat catatan<br>sangkaan paran = idem<br>tan kledhon = tak keliru.<br>nora kadho = tidak khawatir.<br>panarikan = penarikan; ilmu menarik nafas menghadapi maut.
+35. |Lamun mangkono patut, tinirua tepaning tumuwuh, tan Iyan saking sambadeng badan pribadi, binudi sidaning sadu, aneng kene kana kanggo.|Kang kaya mangkono iku patut, katiru miturut ukuraning titah, ora liya saka kekuwataning awake dhewedhewe, diudia kaleksanane kanthi sabar, (iku) migunani ing donya lan ing akhirat.|Yang demikian itu patutlah, ditiru dengan ukuran makhluk, tak lain dari kemampuan diri masing-masing, diusahakan tercapainya dengan kesabaran, (itu) berguna di dunia dan di akhirat.|tepaning tumuwuh = ukuran titah masing-masing.<br>sambadeng badan pribadi = kemampuan diri-sendiri.<br>binudi = diusahakan.<br>sidaning sadu = tercapai (dengan) kesabaran. Sida jadi, tercapai. Sadu sareh = sadar, sabar.<br>kene kana = sini-sana, dunia akhirat.
+36. |Ki Gambuh bisa muwus, anglakoni dhewe durung kaur, dangdang sumyang watak wantune wong langip, tan kawawa wuwur sembur, pitutur bae yen kanggo.|Ki Gambuh (Ki Pujangga) bisa ngucap, (nanging) nglakoni dhewe durung kober, (mung) surak-surak kayadene kelakuane wong (kang) ringkih, ora bisa urun pamrayoga sarta pandonga, pitutur iki bae yen kanggo.|Ki Gambuh (Ki Pujangga) dapat berkata, (tetapi) menjalaninya sendiri belum sempat, (hanya) sorak-sorak seperti kebiasaan orang (yang) lemah, tak dapat nasehat dan doa, petunjuk ini saja kalau dipakai.|kaur = kober, sempat.<br>dandang sumyang = istilah untuk kebiasaan beramairamal.<br>watak wantu = sudah adat kebiasaannya.<br>wong langip = orang dhoif (Ar.) = orang lemah.<br>wuwur sembur = tutur (dan) puji doa.
+37. |Amung amrih rahayu, ewadene ing babasanipun, alah kandha ana ing tandha lan yekti, titenana ala nganggur, begja kang gelem anganggo.|(Karepe) mung supaya slamet, ewadene ana paribasan, alahne kandha ana tandha (alahne tandha) ana yekti, titenana ala nganggur, begja kang padha gelem nganggo (pitutur iki).|(Maksudnya) hanya agar selamat, meskipun demikian ada peribahasa, daripada kata ada tanda (daripada tanda) ada bukti nyata, ingat-ingatlah sambil lalu, (sungguh) beruntung (orang) yang mau memakai (nasehat ini).|No notes.
+38. |Tursan rong sapteng lebu, Ki Pujangga panggupitanipun, tawi tawar ing surasa tanpa manis, marma kongsi karya pemut, mung met marta karahayon.|Trusan rong sapteng lebu (iku Candrasangkalane) Ki Pujangga ngarang (layang iki), sarwa sepa surasme tanpa manis (legi), mulane (karaya-raya) gawe pepenget, mung (kanggo) ngudi urip slamet.|Trusan rong sapteng lebu, (itulah angka Tahun waktu) Ki Pujangga menggubah (kitab ini), hambar belaka tak ada manisnya, maka (sebabnya Ki Pujangga) sampai memberi peringatan, hanyalah (karena) menghendaki hidup selamat.|Tursan rong sapteng lebu = Terusan liang (sampai) ke tujuh debu (bumi lapis ketujuh). Ini adalah Candrasangkala waktu Serat Wedharaga ditulis, menunjukkan angka tahun Jawa 1799 = Masehi 1870/1971.<br>trusan rong sapteng lebu = lihat catatan di atas<br>tawar =hambar, tanpa rasa.<br>met marta= mencari hidup.
 
 TAMAT
 
-111
-
-KEPUSTAKAAN
+## Kepustakaan
 
 1. B.K.: Djangka Ranggawarsita, Keluarga Bratakesawa, Yogyakarta, 1957.
 
@@ -1532,72 +626,38 @@ Ceramah pada malam Peringatan satu abad wafatnya Pujangga Ranggawarsita di Balai
 10. Poerbatjaraka, R.Ng.Dr.: Nitisastra. Balai Pustaka, Jakarta
 
 1950.
-11. Ranggawarsita, R.Ng.: Wedharaga (huruf Jawa), Jajasan
+11. Ranggawarsita, R.Ng.: Wedharaga (huruf Jawa), Jajasan Penerbitan ''Djojobojo'', Surabaya, 1963.
 
-Pendbitan ''Djojobojo'', Surabaya, 1963.
+12. Sastrasadarga, R.Ng.: Sabdapranawa, Djaka Lodhang lss,. Sadoe Boedi, Sala, 1946.
 
-112
+13. Sastrasadarga, R.Ng.: Sabdajati, Sabdapranawa, Sadoe Boedi, Sala, 1946.
 
-12.
+14. Sawardo: R.Ng. Ranggawarsita Pujangga kasusra ing Djaman kasusastran Surakarta, Almanak Waspada 1963, Jajasan Penerbitan ''Pesat'', Ngayogyakarta, 1963.
 
-13.
+15. Suripan Sadi Hutomo, Drs.: Pujangga ''Ranggawarsita'' mati dibunuh, harian Sinar Harapan, Sabtu, 15 Desember 1979, Jakarta.
 
-14.
+## Kamus
 
-15.
+1. Gericke, J.F.C. en Roorda, T.. Javaansch Nederlandsch Woordenboek I, II, Johannes Muller (Amsterdam) E.]. Brill (Leiden), 1901.
+2. Pigeud, Dr.Th.: Javaans-Nederlands Handwoodenboek, J.B.Wolters Uitgeversammatschappi] N.V. Groningen-Batavia, 1938.
+3. Poerwadarminta, W.J.S; Baoesastra Indonesia-Jawi, capcapan kaping tiga, Gunseikanbu Kohomin Tasyokyoku (Balai Pustaka), Djakarta.
+4. Poerwadarminta, W.J.S.: Baoesastra Jawa-Indonesia, Balai Pustaka, Jakarta.
+5. Poerwadarminta, W.J.S.: Kamus Umum Bahasa Indonesia, Balai Pustaka, Jakarta.
+6. Prawiraatmodjo, S.: Bausastra Djawa-Indonesia, Express & Marfiah, Surabaya, 1957.
+7. Sastranagara, R.T.: Serat Babon Bausastra (huruf Jawa, belum dicetak), milik Perpustakaan Radya Pustaka, Surakarta
+8. Winter Sr, C.F.: Serat isi tembung-tembung Kawi mawi tegesipun (huruf Jawa), Reproductiebedrijf v/d Topografischen Dienst, cetakan II 1938.
 
-Sastrasadarga, R.Ng.: Sabdapranawa, Djaka Lodhang lss,.
-Sadoe Boedi, Sala, 1946.
+## Penulis Buku Ini
 
-Sastrasadarga, R.Ng.: Sabdajati, Sabdapranawa, Sadoe Boedi, Sala, 1946.
+### Kamajaya
 
-Sawardo: R.Ng. Ranggawarsita Pujangga kasusra ing Djaman kasusastran Surakarta, Almanak Waspada 1963, Jajasan Penerbitan ''Pesat'', Ngayogyakarta, 1963.
+Adalah nama samaran dari pengarang yang menyusun dan menterjemahkan "Lima Karya Ranggawarsita" ini. Nama sebenarnya Karkono Partokusumo, dilahirkan di Surakarta pada tanggal 23 Nopember 1915, berpendidikan Mulo, kemudian Taman Guru, Taman Siswa Yogyakarta. Sejak di bangku sekolah ia sudah mula) menulis. Mula-mula menjadi wartawan membantu berbagai surat kabar dan majalah nasional. Merasa lebih sesuai dengan majalah bergambar dengan seni dan keindahannya, ia bekerja pada redaksi "Pustaka Timur" dan "Mustika" (bahasa Jawa) hingga 1939 di Yogyakarta. Kemudian memimpin majalah "Pertjatoeran Doenia dan Film" dan redaktur harian "Berita Oemoem" di Jakarta hingga 1942. Di zaman Jepang sebagai redaktur harian "Asia Raya" lalu pindah ke bagian penerbitannya memprakarsai penerbitan "Almanak Asia Raya". Karena tidak sesuai dengan Jepang, ia bersama almarhum Andjar Asmara dan almarhumah Ratna Asmana mendirikan, menulis ceritera dan menyutradarai sandiwara Angkatan Muda "Tjaja Timur" (1943). Dari beberapa ceritanya yang paling terkenal berjudul "Solo di Waktu Malam" sudah lebih dari lima ratus kali dipentaskan. Novelnya diterbitkan oleh Gapura, 1950, dan difilmkan pada tahun 1954 oleh N.V. Borobudur. Terakhir ini cerita karangannya "Perawan Desa" (Saduran bukunya "Sum Kuning") difilmkan oleh Safari Sinar Sakti dan meraih Citra sebagai film terbaik 1980.
 
-Suripan Sadi Hutomo, Drs.: Pujangga ''Ranggawarsita'' mati dibunuh, harian Sinar Harapan, Sabtu, 15 Desember 1979, Jakarta.
-
-113
-
-114
-
-KAMUS
-
-Gericke, J.F.C. en Roorda, T.. Javaansch Nederlandsch Woordenboek I, II, Johannes Muller (Amsterdam) E.]. Brill (Leiden), 1901.
-
-Pigeud, Dr.Th.: Javaans-Nederlands Handwoodenboek, J.B.
-Wolters Uitgeversammatschappi] N.V. Gronihngen-Batavia, 1938.
-
-Poerwadarminta, W.J.S; Baoesastra Indonesia-Jawi, capcapan kaping tiga, Gunseikanbu Kohomin Tasyokyoku (Balai Pustaka), Djakarta.
-
-Poerwadarminta, W.J.S.: Baoesastra Jawa-Indonesia, Balai Pustaka, Jakarta.
-
-Poerwadarminta, W.J.S.: Kamus Umum Bahasa Indonesia, Balai Pustaka, Jakarta.
-
-Prawiraatmodjo, S.: Bausastra Djawa-Indonesia, Express & Marfiah, Surabaya, 1957.
-
-Sastranagara, R.T.: Serat Babon Bausastra (huruf Jawa, belum dicetak), milik Perpustakaan Radya Pustaka, Surakart a
-
-Winter Sr, C.F.: Serat isi tembung-tembung Kawi mawi tegesipun (huruf Jawa), Reproductiebedrijf v/d Topografischen Dienst, cetakan II 1938.
-
-PENULIS BUKU INI
-
-Kamajaya
-
-Adalah nama samaran dari pengarang yang menyusun dan menterjemahkan "Lima Karya Ranggawarsita'' ini. Nama sebenarnya Karkono Partokusumo, dilahirkan di Surakarta pada tanggal 23 Nopember 1915, berpendidikan Mulo, kemudian Taman Guru, Taman Siswa Yogyakarta. Sejak di bangku sekolah ia sudah mula) menulis. Mula-mula menjadi wartawan membantu berbagai surat kabar dan majalah nasional. Merasa lebih sesuai dengan majalah bergambar dengan seni dan keindahannya, ia bekerja pada redaksi "Pustaka Timur'"' dan "Mustika" (bahasa Jawa) hingga 1939 di Yogyakarta. Kemudian memimpin majalah ''Pertjatoeran Doenia dan Film'' dan redaktur harian ''Berita (Oemoem'' di Jakarta hingga 1942. Di zaman Jepang sebagai redaktur harian "Asia Raya'' lalu pindah ke bagian penerbitannya memprakarsai penerbitan ''Almanak Asia Raya''. Karena tidak sesuai dengan Jepang, ia bersama almarhum Andjar Asmara dan almarhumah Ratna Asmana mendirikan, menulis ceritera dan menyutradarai sandiwara Angkatan Muda ''Tjaja Timur'' (1943). Dari beberapa ceritanya yang paling terkenal berjudul "Solo di Waktu Malam" sudah lebih dari lima ratus kali dipentaskan. Novelnya diterbitkan oleh Gapura, 1950, dan difilmkan pada tahun 1954 oleh N.V.
-Borobudur. Terakhir ini cerita karangannya "Perawan Desa" (Saduran bukunya "Sum Kuning") difilmkan oleh Safari Sinar Sakti dan meraih Citra sebagai film terbaik 1980.
-
-Perhatiannya kepada sastra dan bahasa Jawa sejak muda amat besar. Di tahun 1938-an banyak menulis cerita pendek dan tembang dalam "Penyebar Semangat". Di zaman kemerdekaan ia selalu menyertai sarasehan-sarasehan, memberikan ceramahceramah di Sala, Yogyakarta dan Jakarta, anggota Loka karya Ejaan Bahasa Jawa (Bali dan Sunda) pada tahun 1973, ceramahceramah tentang Pewayangan, anggota Dewan Kebijaksanaan
-
-115
-
-Senawangi (Sekretariat Pewayangan Nasional Indonesia) sejak 1976 hingga kini, dan menulis lakon-lakon wayang. Pendapatya
-
-tentang ""Bahasa Daerah Masuk Pasal Kebudayaan" diterima baik oleh sidang Umum Dewan Konstituante (1859). Buku-buku karangannya dalam bahasa Indonesia dan Jawa sudah berjunlah lebih dari tiga puluh buah, antara lain "Zaman Edan''. Suatu studi tentang Buku Kalatidha dari R. Ng. Ranggawarsita, U.P.
+Perhatiannya kepada sastra dan bahasa Jawa sejak muda amat besar. Di tahun 1938-an banyak menulis cerita pendek dan tembang dalam "Penyebar Semangat". Di zaman kemerdekaan ia selalu menyertai sarasehan-sarasehan, memberikan ceramahceramah di Sala, Yogyakarta dan Jakarta, anggota Loka karya Ejaan Bahasa Jawa (Bali dan Sunda) pada tahun 1973, ceramahceramah tentang Pewayangan, anggota Dewan Kebijaksanaan Senawangi (Sekretariat Pewayangan Nasional Indonesia) sejak 1976 hingga kini, dan menulis lakon-lakon wayang. Pendapatya tentang Bahasa Daerah Masuk Pasal Kebudayaan" diterima baik oleh sidang Umum Dewan Konstituante (1859). Buku-buku karangannya dalam bahasa Indonesia dan Jawa sudah berjunlah lebih dari tiga puluh buah, antara lain "Zaman Edan''. Suatu studi tentang Buku Kalatidha dari R. Ng. Ranggawarsita, U.P.
 Indonesia, Yogyakarta, 1964.
 
 Perjuangannya dalam masa revolusi: 1. Wakil Pemimpin Redaksi harian "Rakyat" (bukan terbitan PKI) di Jakarta (1945); 2. Memimpin PNI anggota DPRD dan Dewan Pertahanan Rakyat Surakarta; 3. Ketua Panitya Pertahanan Rakyat beranggotakan semua parpol dan ormas; 4. Staf Divisi Barisan Banteng seksi Pendidikan; 5. Waktu laskar-laskar rakyat dipersatukan dan masuk TNI, ia duduk dalam staf Brigade XXIV, Kepala Seksi Pendidikan. Tahun 1948 ia ditugaskan oleh Pemerintah RI cq. Menteri Keuangan untuk menyeludupkan candu ke Singapore bersama Tonny Wen dan Subeno yang hasilnya untuk membiayai perjuangan RI di dalam dan di luar negeri.
 
 Waktu clash II ia ditahan Belanda sehari-semalam di alunalun selatan Yogyakarta. Kemudian memimpin PNI (1949); akting ketua DPRD-DIY dan anggota Konstituante. Di samping itu ia glat dalam perjuangan ekonomi, kebudayaan] kesenian dan tak melupakan karang-mengarang. Tahun 1983 ikut mendirikan Yayasan Ilmu Pengetahuan dan Kebudayaan Penunggalan, yang mengelola Lembaga Jawanologi (Swasta). Tahun 1958 Ketua KENSI (Konggres Ekonomi Nasional Seluruh Indonesia). .
 
-Sejak tahun 1949 ia mendirikan dan memimpin Usaha Penerbitan "Indonesia'" di Yogyakarta dengan penerbitan utamanya "Almanak Dewi Sri'' sejak 1971 dan "Serat Centhini' Latin dengan penuturannya dalam bahasa Indonesia. Ia berpendapat, bahwa karya sastra Jawa yang bermutu perlu sekali dipahami oleh generasi muda bangsa kita. Demikian pula karya sastra-sastra daerah lainnya. Hal ini diharapkannya akan perhatian pemerintah dan masyarakat luas.
-
-116
+Sejak tahun 1949 ia mendirikan dan memimpin Usaha Penerbitan "Indonesia" di Yogyakarta dengan penerbitan utamanya "Almanak Dewi Sri" sejak 1971 dan "Serat Centhini" Latin dengan penuturannya dalam bahasa Indonesia. Ia berpendapat, bahwa karya sastra Jawa yang bermutu perlu sekali dipahami oleh generasi muda bangsa kita. Demikian pula karya sastra-sastra daerah lainnya. Hal ini diharapkannya akan perhatian pemerintah dan masyarakat luas.
