@@ -1,4 +1,4 @@
-#Writing The Past Inscribing The Future: History as Prophecy in Colonial Java
+# Writing The Past Inscribing The Future: History as Prophecy in Colonial Java
 by Nancy Florida
 <!-- TOC START min:2 max:6 link:true update:true -->
   - [Acknowledgments](#acknowledgments)

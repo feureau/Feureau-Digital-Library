@@ -11,7 +11,7 @@ by Sadiah Boonstra
 - [References](#references)
 
 <!-- /TOC -->
-##Introduction
+## Introduction
 
 Cultural heritage is often associated with something from the past, but labelling something from the past as ‘heritage’ is a way of dealing with the past in the present. Cultural heritage can be seen as a process in which the meaning and value of the past in the present is created and re-created, authorized and re-authorized by those who have the power to do so.<sup>1</sup>
 
