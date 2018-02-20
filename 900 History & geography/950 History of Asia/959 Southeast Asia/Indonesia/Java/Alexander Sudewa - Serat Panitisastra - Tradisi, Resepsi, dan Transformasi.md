@@ -87,6 +87,26 @@ oleh Alexander Sudewa
       - [Sêrat Nitisruti](#srat-nitisruti)
       - [Sêrat Nitipraja](#srat-nitipraja)
       - [Sêrat Sewaka](#srat-sewaka)
+    - [5.5 Makna SP10M dalam Cakrawala Zamannya](#55-makna-sp10m-dalam-cakrawala-zamannya)
+  - [Bab VI Kesimpulan](#bab-vi-kesimpulan)
+  - [Sêrat Panitisastra: Tradisi, Resepsi, dan Transformasi: Ringkasan](#srat-panitisastra-tradisi-resepsi-dan-transformasi-ringkasan)
+    - [A. Latar Belakang](#a-latar-belakang)
+    - [B. Pokok Masalah](#b-pokok-masalah)
+    - [C. Tujuan Penelitian](#c-tujuan-penelitian)
+    - [D. Landasan Teori](#d-landasan-teori)
+    - [E. Hasil Penelitian](#e-hasil-penelitian)
+      - [1. Suntingan Teks dan Terjemahan](#1-suntingan-teks-dan-terjemahan)
+      - [2. Redaksi SP yang Lain](#2-redaksi-sp-yang-lain)
+        - [2.1 Redaksi SP1M](#21-redaksi-sp1m)
+        - [2.2 Redaksi SP2M](#22-redaksi-sp2m)
+        - [2.3 Sêrat Panitisastra Kawi Jarwa (SPKJ)](#23-srat-panitisastra-kawi-jarwa-spkj)
+        - [2.4 Versi SPSA](#24-versi-spsa)
+        - [2.5 Karya-karya Sastra Piwulang yang lain](#25-karya-karya-sastra-piwulang-yang-lain)
+        - [3. Kesimpulan](#3-kesimpulan)
+  - [Sêrat Panitisastra: Tradition, Reception, and Transformation. Summary](#srat-panitisastra-tradition-reception-and-transformation-summary)
+    - [A. Background](#a-background)
+    - [B. The Main Problem](#b-the-main-problem)
+  - [Daftar Pustaka](#daftar-pustaka)
 
 <!-- TOC END -->
 
@@ -4459,434 +4479,194 @@ sastra Piwulang, dan dengan demikian masih terbuka
 
 untuk ditafsirkan secara lain.
 
-S.SnaknaSRlQMdalamQakpmlaZamannm
+### 5.5 Makna SP10M dalam Cakrawala Zamannya
 
-Dari tradisi naskah tampak penyalin naskah zaman Surakarta menyadari benar bahwa SNS. SNP, dan SWK adalah Sêrat piwulang dari zaman lampau, bahkan dipahami sebagai karya sastra yang berasal dari zaman Pajang.
-Perbedaan sastra piwulang hasil karya zaman itu seperti SWR dan SSN dengan sastra piwulang yang dianggap tradisi Pajang ini pastilah dihayati dengan sadar oleh cendekiawan Jawa yang membaca dan menyalinnya.
+Dari tradisi naskah tampak penyalin naskah zaman Surakarta menyadari benar bahwa SNS, SNP, dan SWK adalah Sêrat piwulang dari zaman lampau, bahkan dipahami sebagai karya sastra yang berasal dari zaman Pajang. Perbedaan sastra piwulang hasil karya zaman itu seperti SWR dan SSN dengan sastra piwulang yang dianggap tradisi Pajang ini pastilah dihayati dengan sadar oleh cendekiawan Jawa yang membaca dan menyalinnya.
 
-Ini berarti bahwa penyimpangan-penyimpangan SWR hasil karya Paku Buwana IV dari tradisi sastra piwulang zaman sebelumnya pastilah juga dirasakan oleh masyarakat pembaca zaman itu. Di dalam suasana tradisi sastra piwulang yang menganjurkan pengabdian kepada raja dan negara dengan warna Islam tasawuf, SWR karya Paku Buwana IV, dan SSN karya Yasadipura, yang menganjurkan
+Ini berarti bahwa penyimpangan-penyimpangan SWR hasil karya Paku Buwana IV dari tradisi sastra piwulang zaman sebelumnya pastilah juga dirasakan oleh masyarakat pembaca zaman itu. Di dalam suasana tradisi sastra piwulang yang menganjurkan pengabdian kepada raja dan negara dengan warna Islam tasawuf, SWR karya Paku Buwana IV, dan SSN karya Yasadipura, yang menganjurkan sikap pribadi dengan berpegang pada Islam syariat pastilah merupakan tegangan sastrawi yang cukup bermakna.
 
-sikap pribadi dengan berpegang pada Islam syariat pas
-
-399
-
-tilah merupakan tegangan sastrawi yang cukup bermakna.
-
-Alternatif terhadap ajaran hidup tradisional yang ditawarkan oleh pihak kraton ini pada hakekatnya sama dengan apa yang ditawarkan di dalam SP10M, pembentukan sikap pribadi dengan menekankan pentingnya sastra dan puja bakti. Dengan tanpa menyebut Quran, hadith, dan tafsir, melainkan dengan rumusan yang tradisional, sikap yang sama seperti sikap SWR dan SSN terhadap Kuran dan hadith dapat diungkapkan pada SP10M juga.?
+Alternatif terhadap ajaran hidup tradisional yang ditawarkan oleh pihak kraton ini pada hakekatnya sama dengan apa yang ditawarkan di dalam SP10M, pembentukan sikap pribadi dengan menekankan pentingnya sastra dan puja bakti. Dengan tanpa menyebut Quran, hadith, dan tafsir, melainkan dengan rumusan yang tradisional, sikap yang sama seperti sikap SWR dan SSN terhadap Kuran dan hadith dapat diungkapkan pada SP10M juga.
 
 Dari teks SP10M dapat diungkap bahwa pujangga menganggap sastra itu sebagai tuntunan hidup (IX.3.5 3.7), yang sangat bermanfaat dalam perjalanan hidup seseorang (VI.1.1 - 5.6), meskipun sastra ini harus dipelajari dengan susah payah lewat tafsir seorang pendeta (V.6.1 - 6.7). Orang yang tidak mengenal sastra dipandang sebagai orang yang tidak berwibawa (VI.6.5 10.1), orang yang mengenal sastra dianggap lebih dari sesamanya (X.14.1 - 14.3), dan jauh dari kejahatan (V.2.1 - 2.7). Sikap yang sama seperti dirumuskan oleh SWR dan SSN terhadap Kitab Suci Quran dan hadith.
 
-Dari penyimpangan-penyimpangan SP1IQOQM dari SPKJ juga terungkap bahwa SP10M menekankan pentingnya puja bakti dan kefanaan hidup (periksa 4.4.3). Hal ini sejajar dengan ajaran SWR dan SSN tentang pentingnya menjalankan ibadat syariat, meskipun dengan nada perumusan
-
-yang berbeda.
-
-
-
-400
+Dari penyimpangan-penyimpangan SP1IQOQM dari SPKJ juga terungkap bahwa SP10M menekankan pentingnya puja bakti dan kefanaan hidup (periksa 4.4.3). Hal ini sejajar dengan ajaran SWR dan SSN tentang pentingnya menjalankan ibadat syariat, meskipun dengan nada perumusan yang berbeda.
 
 Kalau mengingat bahwa SP10M dan SWR digubah dalam waktu yang sama (1735 AJ) dan dengan demikian mengharapkan dibaca dengan cakrawala yang sama pula, maka kesamaan ajaran dengan rumusan yang berbeda itu dapat dipastikan bukan tanpa sebab. Di dalam menawarkan sikap hidup baru rupa-rupanya pihak Raja Paku Buwana IV dengan SWR-nya bersikap drastis dengan memberi ajaran baru, namun pihak Putra Mahkota ingin bersikap lunak dengan cara menggali dan merumuskan secara baru Sêrat piwulang yang tradisional. Dengan demikian dilihat dari cakrawala zamannya SP10M adalah ajaran untuk menghadapi perubahan zaman secara tidak drastis, ialah dengan memanfaatkan ajaran tradisional yang sudah merakyat.
 
-Kesimpulan yang diuraikan pada 3.5.2 tentang perintah Putra Mahkota kepada pujangga untuk menggubah SP10M dan SP1M dapat mencerminkan hubungan antara bujangga dan raja. Dari gubahan SP10M tampak bahwa raja menghendaki agar karya pujangga disesuaikan dengan konvensi sastra sezaman yang memanfaatkan tembang macapat berbagai matra; dari gubahan SP1M tampak bahwa raja menghendaki agar. pujangga menyejajarkan kewibawaan dirinya dalam jajaran raja-raja sebelumnya. Dengan demikian tampak bahwa fungsi pujangga adalah menjaga kewibawaan raja dengan jalan mengaktualkan ajaran tradisi agar dapat dipahami oleh masyarakat luas. Fakta
-
-bahwa tradisi itu dalam setiap kurun waktu tertentu
-
-
-
-401
-
-diakthalkan kembali seperti disimpulkan pada 4.5.3 menegaskan fungsi pujangga sebagai pemerkuat wibawa raja di mata masyarakat.
+Kesimpulan yang diuraikan pada 3.5.2 tentang perintah Putra Mahkota kepada pujangga untuk menggubah SP10M dan SP1M dapat mencerminkan hubungan antara bujangga dan raja. Dari gubahan SP10M tampak bahwa raja menghendaki agar karya pujangga disesuaikan dengan konvensi sastra sezaman yang memanfaatkan tembang macapat berbagai matra; dari gubahan SP1M tampak bahwa raja menghendaki agar pujangga menyejajarkan kewibawaan dirinya dalam jajaran raja-raja sebelumnya. Dengan demikian tampak bahwa fungsi pujangga adalah menjaga kewibawaan raja dengan jalan mengaktualkan ajaran tradisi agar dapat dipahami oleh masyarakat luas. Fakta bahwa tradisi itu dalam setiap kurun waktu tertentu diaktualkan kembali seperti disimpulkan pada 4.5.3 menegaskan fungsi pujangga sebagai pemerkuat wibawa raja di mata masyarakat.
 
 Fungsi pujangga sebagai pemerkuat wibawa raja tampak juga pada karya-karya sastra Jawa Kuna. Pujangga Jawa Kuna berfungsi sebagai imam magi sastra, yang dengan kekuatan magis yang terkandung dalam karyanya dapat memperkuat wibawa raja (Berg, Ruparubanya ada pergeseran cakrawala yang mewarnai hubungan raja dengan pujangga ini di zaman Surakarta. Kemungkinan pengertian tentang kekuatan magis sebuah karya sastra masih juga dihayati pada zaman itu, namun sudah jelas bahwa pengertian magis ini perlu dijabarkan, dan dengan demikian makna sesuatu karya sastra diaktualkan dengan keadaan sezaman.
 
 Selain oleh pujangga, raja juga diperkuat kedudukannya oleh para ulama. Dalam Babad Giyanti diceriterakan bahwa rencana untuk mewndirikan kraton di seberang timur Bengawan Sala dibatalkan oleh para ulama karena kawatir apabila kraton dibangun di seberang timur sungai maka masyarakat Jawa akan kembali menjadi budha. Di dalam Babad Pakepung diceriterakan bagaimana tiga ulama kraton dapat mendorong raja agar merebut kembali daerah Yogyakarta (Poerbatjaraka, 1952).
 
-Apabila di lingkungan kraton tampak pengaruh para
+Apabila di lingkungan kraton tampak pengaruh para ulama, rupa-rupanya di luar kraton selain para pemimpin agama Islam, tokoh-tokoh pemimpin agama jawa Hindu masih memperlihatkan pengaruhnya. Terjaganya tradisi SPKJ yang masih ditafsir sesuai dengan perumusan kawinya memperlihatkan kuatnya pengaruh para pemimpin agama Jawa Hindu itu.
 
-ulama, rupa-rupanya di luar kraton selain para pemimpin
+## Bab VI Kesimpulan
 
+Secara cendekia Ricklefs mengatakan bahwa masalah renaissance sastra Jawa zaman Surakarta yang dikembangkan oleh para filolog aliran Leiden pastilah tidak akan terpecahkan dengan metode filologi yang tujuan utamanya mencari teks asli, pembacaan teks yang baik, dan semacamnya. Metode filologi semacam ini tidak akan dapat mengungkapkan perkembangan suatu karya sastra dalam suatu kurun waktu (Ricklefs, 1978: 214).
 
+Beberapa ahli filologi memang telah menganalisis sesuatu karya sastra yang bermanfaat sebagai sumbangan data bagi proses sastra yang terjadi di masyarakat Surakarta awal abad XIX (Prijohoetomo 1934, Poerbatjaraka 1940, Soepomo 1972 Subardi 1975, McDonald 1983, Kuntara 1987, dan Behrend 1988) yang pada umumnya berupa pelacakan perkembangan teks suatu karya sastra. Subardi dan Kuntara telah menggali evidensi lebih lanjut di luar bidang sastra; keduanya berhasil mengungkapkan bahwa yang terjadi di Surakarta awal abad XIX bukan hanya sekedar proses yang bersifat satrawi seorang pujangga yang menggubah menyimpang dari teks asli - saja, melainkan masalah kesadaran masyarakat untuk memanfaatkan tradisi sastra zaman sebelumnya untuk keperluan saat itu.
 
-402
+Dengan berlandaskan konsep bahwa sebuah karya sastra dapat terbuka untuk berbagai penafsiran, disertasi ini dimulai dengan menerjemahkan SP10M, sebuah redaksi SP macapat dengan kacamata sebagai anggota masyarakat Indonesia di akhir abad XX. Dari terjemahan itu ternyata bahwa SP10M gubahan awal abad XIX terbuka untuk penafsiran dan pemahaman masyarakat yang bergerak di alam pembangunan zaman modern ini. Potensi membedanya teks (Barthes 1970), atau menyejarahnya teks (Gadamer, 1960) atau lungid ing sastra (Sastra Gendhing) sebuah teks ternyata juga dapat diterapkan pada karya sastra klasik Jawa.
 
-agama Islam, tokoh-tokoh pemimpin agama jawa Hindu masih memperlihatkan pengaruhnya. Terjaganya tradisi SPKJ yang masih ditafsir sesuai dengan perumusan kawinya memperlihatkan kuatnya pengaruh para pemimpin agama
+Keempat versi dan redaksi SP dalam bahasa Jawa Baru dari zaman Surakarta abad XIX juga dapat hatkan bahwa di dalam teks ada anasir konsumtif dan anasir produktif seperti yang digariskan oleh Barthes. Bahwa anasir produktif karya sastra itu akan muncul apabila pembaca berada di dalam cakrawala yang berubah, oleh sebab perubahan tata masyarakat, telah tampak dalam perbandingan antara SP macapat dengan SPKJ, SP kawi yang jelas-jelas masih dihayati di masyarakat Jawa dengan tafsir jarwa-nya.
 
-Jawa Hindu itu.
+Pengamatan terhadap karya sastra piwulang lain gubahan pada zaman Surakarta yang menyimpang dari tradisi sastra piwulang zaman sebelumnya mengungkapkan bahwa sastra piwulang zaman Surakarta ini mengajarkan hidup pribadi di masyarakat dengan memegang ajaran Islam syariat. Hal ini secara mencolok menyimpang dari tradisi sastra piwwulang zaman sebelumnya yang menekankan pengabdian kepada raja dan pemikiran Islam tasawuf. Dilihat dari tegangan antara sastra piwulang zaman Surakarta dan sastra piwulang zaman sebelumnya, SP10M dan SP berbahasa Jawa Baru yang lain tampak menawarkan jalan tengah ialah pembaharuan bukan dengan mencipta sastra Piwulang baru, melainkan dengan membangun kembali tradisi. Ajaran-ajaran tradisi disimpangi agar sesuai dengan aktualitas zaman.
 
+Hasil yang terungkap dalam penelitian ini pada dasarnya sejajar dengan kesimpulan yang dirintis oleh Subardi dan Kuntara. Subardi (1975) mengungkapkan bahwa tradisi ceritera Dewaruci yang dipakai untuk mengurai kan ajaran mistik, di dalam gubahan sêrat Cabolek justru dipakai untuk menekankan ajaran syariat; penelitian Kuntara (1987) mengungkapkan bahwa ceritera Arjunawiwaha yang di dalam tradisi Jawa Kuna dipakai untuk menduniakan kekuatan Siwa dengan Saktinya, pada zaman Surakarta digubah kembali untuk menggariskan ciri manusia yang ideal.
 
-
-BAB VI
-
-KESIMPULAN
-
-Secara cendekia Ricklefs mengatakan bahwa masalah renajissance sastra Jawa zaman Surakarta yang dikembangkan oleh para filolog aliran Leiden pastilah tidak akan terpecahkan dengan metode filologi yang tujuan utamanya mencari teks asli, pembacaan teks yang baik, dan semacamnya. Metode filologi semacam ini tidak akan dapat mengungkapkan perkembangan suatu karya sastra dalam suatu kurun waktu (Ricklefs, 1978: 214).
-
-Beberapa ahli filologi memang telah menganalisis sesuatu karya sastra yang bermanfaat sebagai sumbangan data bagi proses sastra yang terjadi di masyarakat Surakarta awal abad XIX (Prijohoetomo 1934, Poerbatjaraka 1940, Soepomo 1972 Subardi 1975, McDonald 1983, Kuntara 1987, dan Behrend 1988) yang pada umumnya berupa pelacakan perkembangan teks suatu karya sastra.
-Subardi dan Kuntara telah menggali evidensi lebih lanjut di luar bidang sastra; keduanya berhasil mengungkapkan bahwa yang terjadi di Surakarta awal abad XIX bukan hanya sekedar proses yang bersifat satrawi seorang pujangga yang menggubah menyimpang dari teks asli - saja, melainkan masalah kesadaran masyarakat
-
-untuk memanfaatkan tradisi sastra zaman sebelumnya
-
-untuk keperluan saat itu.
-
-403
-
-
-
-404
-
-Dengan berlandaskan konsep bahwa sebuah karya sastra dapat terbuka untuk berbagai penafsiran, disertasi ini dimulai dengan menerjemahkan SP10M , sebuah redaksi SP macapat dengan kacamata sebagai anggota masyarakat Indonesia di akhir abad XX. Dari terjemahan itu ternyata bahwa SP10M gubahan awal abad XIX terbuka untuk penafsiran dan pemahaman masyarakat yang bergerak di alam pembangunan zaman modern ini. Potensi | membedanya teks (Barthes 1970), atau menyejarahnya teks (Gadamer, 1960) atau lungid ing sastra (Sastra Gendhing) sebuah teks ternyata juga dapat diterapkan pada karya sastra klasik Jawa.
-
-Keempat versi dan redaksi SP dalam bahasa Jawa Baru dari zaman Surakarta abad XIX juga dapat hatkan bahwa di dalam teks ada anasir konsumtif dan anasir produktif seperti yang digariskan oleh Barthes.
-Bahwa anasir produktif karya sastra itu akan muncul apabila pembaca berada di dalam cakrawala yang berubah, oleh sebab perubahan tata masyarakat, telah tampak dalam perbandingan antara SP macapat dengan SPKJ, SP kawi yang jelas-jelas masih dihayati di masyarakat Jawa dengan tafsir jarwa-nya.
-
-Pengamatan terhadap karya sastra piwulang lain gubahan pada zaman Surakarta yang menyimpang dari tradisi sastra piwulang zaman sebelumnya mengungkapkan
-
-bahwa sastra piwulang zaman Surakarta ini mengajarkan
-
-
-
-405
-
-hidup pribadi di masyarakat dengan memegang ajaran Islam syariat. Hal ini secara mencolok menyimpang dari tradisi sastra piwwulang zaman sebelumnya yang menekankan pengabdian kepada raja dan pemikiran Islam tasawuf.
-Dilihat dari tegangan antara sastra piwulang zaman Surakarta dan sastra piwulang zaman sebelumnya, SP10M dan SP berbahasa Jawa Baru yang lain tampak menawarkan jalan tengah ialah pembaharuan bukan dengan mencipta sastra Piwulang baru, melainkan dengan membangun kembali tradisi. Ajaran-ajaran tradisi disimpangi agar sesuai dengan aktualitas zaman.
-
-Hasil. yang terungkap dalam penelitian ini pada dasarnya sejajar dengan kesimpulan yang dirintis oleh Subardi dan Kuntara. Subardi (1975) mengungkapkan bahwa tradisi ceritera Dewaruci yang dipakai untuk mengurai kan ajaran mistik, di dalam gubahan sêrat Cabolek justru dipakai untuk menekankan ajaran syariat; penelitian Kuntara (1987) mengungkapkan bahwa ceritera Arjunawiwaha yang di dalam tradisi Jawa Kuna dipakai untuk menduniakan kekuatan Siwa dengan Saktinya, pada zaman Surakarta digubah kembali untuk menggariskan ciri manusia yang ideal.
-
-Melacak potensi makna SP10M dalam berbagai cakrawala sastra ini juga mengungkapkan bahwa pembangunan sastra di Surakarta awal abad XIX didorong oleh hasrat
-
-mengimbangi kemerosotan wibawa politik kraton dengan
-
-
-
-406
-
-jalan mengusahakan keunggulan kraton di bidang sastra, budaya, dan seni. Genre sastra babad yang justru merosot tidak sejajar, bahkan kontradiksi, dengan bangkitnya sastra yang lain seperti dikatakan Ricklefs (1972) akan jelas duduk perkaranya apabila dilihat dari ekologi budaya itu. Sastra babad lebih dekat dengan cakrawala politik kraton yang apabila direnungkan sebagai materi sastra malah tidak menguntungkan wibawa kraton.
+Melacak potensi makna SP10M dalam berbagai cakrawala sastra ini juga mengungkapkan bahwa pembangunan sastra di Surakarta awal abad XIX didorong oleh hasrat mengimbangi kemerosotan wibawa politik kraton dengan jalan mengusahakan keunggulan kraton di bidang sastra, budaya, dan seni. Genre sastra babad yang justru merosot tidak sejajar, bahkan kontradiksi, dengan bangkitnya sastra yang lain seperti dikatakan Ricklefs (1972) akan jelas duduk perkaranya apabila dilihat dari ekologi budaya itu. Sastra babad lebih dekat dengan cakrawala politik kraton yang apabila direnungkan sebagai materi sastra malah tidak menguntungkan wibawa kraton.
 
 Sebuah masyarakat yang sedang berubah, yang dalam kasus penelitian ini bahkan bisa dikata berubah secara drastis, selalu menantang untuk penelitian dari berbagai aspek. Maka dapatlah dibayangkan bahwa penelitian disertasi yang hanya berdasarkan suatu kelompok karya sastra ini kurang mampu mengungkapkan perubahan masyarakat saat itu. Kasus karya sastra hanya terbatas pada pengungkapan perubahan cakrawala.
 
 Kiranya perubahan cakrawala yang terungkap ini dapat memberikan sumbangan sikap di dalam membaca karya-karya sastra piwulang khazanah sastra Jawa; ekologi sastra budaya sesuatu karya sastra berpengaruh pada potensi makna dalam karya sastra itu.
 
-Pemanfaatan sastra, budaya, dan seni oleh kraton untuk menegakkan wibawanya ini ternyata berhasil untuk kurun waktu lebih dari satu abad, bahkan dapat dikatakan sampai sekarang. Karya-karya sastra kraton dari
+Pemanfaatan sastra, budaya, dan seni oleh kraton untuk menegakkan wibawanya ini ternyata berhasil untuk kurun waktu lebih dari satu abad, bahkan dapat dikatakan sampai sekarang. Karya-karya sastra kraton dari zaman ini dapat dipastikan mempunyai banyak peluang untuk mengungkapkan potensi sastra di dalam mayarakat yang di dalam Sastra Gendhing dikatakan mengku gaibul hawiyah, asal filologi tidak dikurung sebagai sekedar ilmu teks seperti dikeluhkan oleh Ricklefs.
 
-zaman ini dapat dipastikan mempunyai banyak peluang
+## Sêrat Panitisastra: Tradisi, Resepsi, dan Transformasi: Ringkasan
 
-
-
-407
-
-untuk mengungkapkan potensi sastra di dalam mayarakat
-
-yang di dalam Sastra Gendhing dikatakan mengku gaibul hawiyah, asal filologi tidak dikurung sebagai sekedar
-
-ilmu teks seperti dikeluhkan oleh Ricklefs.
-
-
-
-Sêrat PANITISASTRA
-
-Tradisi, Resepsi, dan Transformasi
-
-Ringkasan A. Latar Belakang
+### A. Latar Belakang
 
 Sêrat Panitisastra (SP) adalah karya sastra Jawa Kuna yang ditulis pada pertengahan zaman Majapahit (Poerbatjaraka, 1933.13). Karya sastra ini berisi ajaran moral yang dirumuskan secara lugas, bukan dalam bentuk narasi. Dalam sejarah budaya Jawa karya sastra Sêrat Panitisastra Kawi yang berbahasa Jawa Kuna dan digubah dalam matra kakawin ini tersebar luas di masyarakat, diwarisi sebagai tradisi, diresepsi oleh pembaca/penyalin dari zaman ke zaman, dengan berbagai derajat aktivitas resepsi.
 
 Kegiatan sastra pada awal abad XIX menghasilkan banyak gubahan yang berasal dari khazanah sastra Jawa Kuna. SP adalah salah satu karya sastra tradisi Jawa Kuna yang digubah dalam proses kegiatan sastra zaman itu. Pada zaman Surakarta warisan tradisi kawi yang selalu berpasangan dengan jarwa (penafsiran) sehingga berwujud tradisi Sêrat Panitisastra Kawi Kajarwan (SPKJ) ini digubah menjadi karya sastra bermatra macapat dan bermatra sekar ageng.
 
-Dalam proses pewarisan tradisi itu terlihat berbaSai sikap aktivitas pemahaman: pemahaman secara pasif, yang mengungkapkan makna teks seperii apa adanya; pemahaman secara aktif, yang mengakibatkan karya sastra itu mengalami pergeseran makna; pemahaman secara sangat
-
-aktif sehingga terbentuk karya sastra baru yang dapat
-
-408
-
-
-
-409
-
-dipandang sebagai transformasi.
+Dalam proses pewarisan tradisi itu terlihat berbaSai sikap aktivitas pemahaman: pemahaman secara pasif, yang mengungkapkan makna teks seperii apa adanya; pemahaman secara aktif, yang mengakibatkan karya sastra itu mengalami pergeseran makna; pemahaman secara sangat aktif sehingga terbentuk karya sastra baru yang dapat dipandang sebagai transformasi.
 
 Masalah pewarisan teks melalui berbagai tingkat aktivitas pemahaman ini dengan berbagai tingkat pergeseran makna merupakan pokok bahasan dalam studi ini.
 
-B. Pokok Masalah
+### B. Pokok Masalah
 
-Pokok masalah yang dibahas dalam studi ini dipusatkan pada teks SP dari kalangan kraton Surakarta
-
-sebagai proses transformasi beserta potensi makna yang
-
-terungkap dalam proses itu. Redaksi sêrat Panitisastra
-
-Macapat dengan 10 matra (SP10M) yang digubah oleh Sastranegara pada tahun 1735 AJ dijadikan landasan analisis ini dengan dasar alasan-alasan sebagai berikut:
+Pokok masalah yang dibahas dalam studi ini dipusatkan pada teks SP dari kalangan kraton Surakarta sebagai proses transformasi beserta potensi makna yang terungkap dalam proses itu. Redaksi Sêrat Panitisastra Macapat dengan 10 matra (SP10M) yang digubah oleh Sastranegara pada tahun 1735 AJ dijadikan landasan analisis ini dengan dasar alasan-alasan sebagai berikut:
 
 1. redaksi ini menunjukkan kesesuaian dengan konvensi sastra yang umum pada zaman itu, yaitu dengan memanfaatkan berbagai matra macapat,
 
 2. redaksi ini ternyata merupakan redaksi yang berwibawa pada zamannya terbukti dari terjemahan bahasa Belanda redaksi ini yang dimuat dalam majalah TNI (Mounier, 1843).
 
-3. redaksi ini oleh Poerbatjaraka (1952) dan Pigeaud (1957) disebut sebagai hasil pembangunan kembali sastra Jawa Kuna dan dengan demikian merupakan kasus
+3. redaksi ini oleh Poerbatjaraka (1952) dan Pigeaud (1957) disebut sebagai hasil pembangunan kembali sastra Jawa Kuna dan dengan demikian merupakan kasus kegiatan sastra di Surakarta awal abad XIX.
 
-kegiatan sastra di Surakarta awal abad XIX.
+Untuk dapat mengungkapkan makna apa yang hendak ditonjolkan oleh redaksi SPJOM ini dengan penyimpangannya dari redaksi yang telah ada maka diadakan perbandingan antara redaksi SP10M dengan
 
-Untuk dapat mengungkapkan makna apa yang hendak ditonjolkan oleh redaksi SPJOM ini dengan penyimpangannya dari redaksi yang telah ada maka diadakan perbandingan antara redaksi SP10M dengan 1) Sêrat Panitisastra bermatra tunggal Dhandhanggula (SP1M) yang digubah oleh Paku Buwana V sewaktu masih Putra Mahkota pada
+1. Sêrat Panitisastra bermatra tunggal Dhandhanggula (SP1M) yang digubah oleh Paku Buwana V sewaktu masih Putra Mahkota pada tahun 1746 AJ,
+2. Sêrat Panitisasira yang bermatra Phandhanggula dan Sinom yang berasal dari luar kraton (SP2M),
+3. Sêrat Panitisastra sekar ageng yang digubah oleh Yasadipura pada tahun 1728 AJ (SPSA), dan
+4. Sêrat Panitisastra tradisi kawi (SPKJ) yang tersebar di berbagai lokasi budaya di Jawa.
 
-tahun 1746 AJ, 2) Sêrat Panitisasira yang bermatra Phandhanggula dan Sinom yang berasal dari luar kraton
+### C. Tujuan Penelitian
 
-
-
-410
-
-(SP2M), 3) Sêrat Panitisastra sekar ageng yang digubah oleh Yasadipura pada tahun 1728 AJ (SPSA), dan 4) Sêrat Panitisastra tradisi kawi (SPKJ) yang tersebar di berbagai lokasi budaya di Jawa.
-C. Tujuan Penelitian
-
-Sesuai dengan pokok masalah yang telah diufaikan di depan, maka tujuan penelitian ini ialah melacak dan mengungkapkan : .
-1) pemahaman tradisi SPKJ oleh masyarakat, 2) proses penggubahan redaksi-redaksi SP10M, SP1M,
-
-SP2M, dan SPSA.
+Sesuai dengan pokok masalah yang telah diuraikan di depan, maka tujuan penelitian ini ialah melacak dan mengungkapkan :
+1. pemahaman tradisi SPKJ oleh masyarakat,
+2. proses penggubahan redaksi-redaksi SP10M, SP1M, SP2M, dan SPSA.
 
 Dalam rangka program itu terlibat pemahaman teks menurut cakrawala budaya Jawa. Maka penelitian ini juga bertujuan:
 
-1) menyajikan suntingan dan terjemahan teks SP10M dengan mengungkapkan berbagai potensi yang terkandung di dalamnya,
+1. menyajikan suntingan dan terjemahan teks SP10M dengan mengungkapkan berbagai potensi yang terkandung di dalamnya,
 
-2) mengungkapkan makna yang ada dalam teks SP10M karena menyimpangi tradisi SPKJ, SPSA, SP2M, dan SP1M;
+2. mengungkapkan makna yang ada dalam teks SP10M karena menyimpangi tradisi SPKJ, SPSA, SP2M, dan SP1M;
 
-3) melacak dan mengungkapkan karya-karya sastra Diwulang yang lain.
+3. melacak dan mengungkapkan karya-karya sastra piwulang yang lain.
 
-Dengan meneliti pokok-pokok itu diharapkan tercapai pemahaman yang utuh, baik secara sinkronis maupun secara diakronis atas redaksi SP10M beserta unsur-unsur yang berperan di dalamnya. Dengan hasil itu diharapkan bahwa hasil penelitian ini akan menyadarkan masyarakat bahwa di dalam memahami dan mengungkapkan makna karya sastra piwulang, hubungan intertekstual dan cakrawala
+Dengan meneliti pokok-pokok itu diharapkan tercapai pemahaman yang utuh, baik secara sinkronis maupun secara diakronis atas redaksi SP10M beserta unsur-unsur yang berperan di dalamnya. Dengan hasil itu diharapkan bahwa hasil penelitian ini akan menyadarkan masyarakat bahwa di dalam memahami dan mengungkapkan makna karya sastra piwulang, hubungan intertekstual dan cakrawala budaya pembaca memegang peran yang penting.
 
-budaya pembaca memegang peran yang penting.
+### D. Landasan Teori
 
-D. Landasan Teori
+Permasalahan studi ini menyangkut dua bidang ilmu, ialah ilmu filologi dan ilmu sastra. Ilmu sastra memandang teks karya sastra ini dari segi karakternya yang konstan, utuh dan bulat; ilmu filologi memperhatikan teks karya sastra dari karakternya yang tidak stabil dan berubah sejajar dengan perkembangan berpikir pembacanya (Teeuw 1984:250-252).
 
+Seperti halnya yang terjadi pada sebuah dialog pada waktu teks dibaca juga terjadi penyesuaian dimensi makna antara pembaca dengan teks; proses penyesuaian ini merupakan tawar-menawar yang bertangga yang dilakukan pembaca terhadap karya sastra (Teeuw, 1984: 123124). Sebuah teks dapat bertahan hidup apabila pembaca dari berbagai zaman dengan berbagai ragam cara berpikir dapat mengadakan penyesuaian dimensi makna dengan teks itu. Meskipun jelas bahwa potensi teks itu hanya akan terwujud karena aktivitas pembaca, di dalam teks itu telah terkandung kemungkinan untuk menjadi kenyataan di dalam proses membaca (Iser, 1977:7).
 
+Selain arti harafiah linguistik yang ada dalam teks, ada arti lain yang mampu menawarkan kepada pembaca tafsiran lain yang berbeda dari arti harafiah 1linguistik itu; teks mempunyai potensi untuk berbeda dengan arti harafiah linguistik itu (Barthes, 1970:910). Sejajar dengan potensi teks terurai di atas pembaca juga memiliki potensi yang menentukan, bukan rangkalan reaksi kosong, bahkan merupakan daya kekuatah yang membangun sejarah (Jausz, 1975:175). Hubungan pembaca dengan karya sastra dikatakan merupakan mata rantai sejarah karena dalam menghadapi karya sastra pembaca mengadakan perbandingan dengan karya sastra lain yang pernah dibacanya. Di samping jitu, karya sastra tersebut akan dijadikan bahan pembanding untuk membaca karya sastra yang akan dihadapi pada waktu kemudian. Berpangkal dari proses ini, dalam diri pembaca akan terbentuk horison harapan yang dipengaruhi oleh tiga faktor:
 
-411
+1. pengalaman pembaca dalam menghadapi genre sastra yang sama seperti genre sastra yang baru dia hadapi,
+2. bentuk dan tema karya sastra yang telah dia kenali,
+3. kesadaran pembaca mengenai perbedaan bahasa sastra dan bahasa sehari-hari (Jausz, 1975: 175177).
 
-Permasalahan studi ini menyahgkut dua bidang ilmu, ialah ilmu filologi dan ilmu sastra. Ilmu sastra memandang teks karya sastra ini dari segi karakternya yang konstan, utuh dan bulat; ilmu filologi memperhatikan teks karya sastra dari karakternya yang tidak stabil
+Dengan demikian horison harapan ini bukan sesuatu yang tetap melainkan merupakan sesuatu proses yang berkembang dalam waktu.
 
-dan berubah sejajar dengan perkembangan berpikir pembacanya (Teeuw 1984:250-252).
+Teks dengan potensi membedanya dan pembaca dengan horison harapannya yang berupa proses akan saling berhadapan dengan suatu mata rantai horison harapan(Jausz 1975: 170). Dalam tradisi teks yang labil horison harapan itu juga akan berhadapan dengan mata rantai teks. Ini disebabkan di dalam sebuah teks karya sastra ada dua macam anasir dilihat dari hubungan teks dengan pembaca: 1) anasir konsumtif teks yang hanya mendorong pembaca menghadapi karya sastra secara konsumtif, dalam arti pembaca hanya tergerak untuk sekedar membaca, 2) anasir produktif yang mendorong pembaca bersikap produktif dengan menulis karya sastra yahg berbeda dari dan di dalam karya yang sedang dihadapinya (Barthes, 1975:4). Dengan demikian, dinamika teks dan dinamika horison harapan merupakan inovasi yang ada dalam tradisi (Locher, 1978: 175).
 
-Seperti halnya yang terjadi pada sebuah dialog pada waktu teks dibaca juga terjadi penyesuaian dimensi makna antara pembaca dengan teks; proses penyesuaian ini merupakan tawar-menawar yang bertangga yang dilakukan pembaca terhadap karya sastra (Teeuw, 1984: 123124). Sebuah teks dapat bertahan hidup apabila pembaca dari berbagai zaman dengan berbagai ragam cara berpikir dapat mengadakan penyesuaian dimensi makna dengan teks itu. Meskipun jelas bahwa potensi teks itu hanya akan terwujud karena aktivitas pembaca, di dalam teks itu telah terkandung kemungkinan untuk menjadi kenyataan di '
+Dalam tradisi sastra klasik teks karya sastra terikat kepada konvensi sastra secara ketat karena anasir produktif, yang terkandung dalam teks tidak disambut oleh horison harapan pembacanya yang dinamis. Namun dalam hal ini tidaklah berarti tidak ada dinamika teks dan dinamika horison harapan pembaca. Dalam konvensi sastra yang ketat penyimpangan yang kecil cukup untuk memberi efek makna yang cukup berarti; maka penyalin, penafsir, dan penggubah bisa dianggap menghasilkan karya sastra yang lain dari induknya, yang dalam kondisi tertentu bahkan mempunyai identitas berlawanan (Lotman, 1972:409). Dengan demikian, semua versi dan redaksi, bahkan semua naskah, di dalam penelitian ini dipandang sebagai teks karya sastra yang masing-masing mengandung sikap dari penggubah, penafsir, penyalin, bahkan pembaca naskah.
 
-dalam proses membaca (Iser, 1977:7).
+### E. Hasil Penelitian
 
-Selain arti harafiah linguistik yang ada dalam teks, ada arti lain yang mampu menawarkan kepada pembaca tafsiran lain yang berbeda dari arti harafiah 1linguistik itu; teks mempunyai potensi untuk berbeda dengan arti harafiah linguistik itu (Barthes, 1970:910). Sejajar dengan potensi teks terurai di atas pembaca juga memiliki potensi yang menentukan, bukan rangkalan reaksi kosong, bahkan merupakan daya kekuatah yang membangun sejarah (Jausz, 1975:175). Hubungan pembaca dengan karya sastra dikatakan merupakan mata rantai sejarah karena dalam menghadapi karya sastra pembaca mengadakan perbandingan dengan karya sastra
+#### 1. Suntingan Teks dan Terjemahan
 
-lain yang pernah dibacanya. Di samping jitu, karya sas
+Tradisi ajaran SP hidup dan tersebar di masyarakat dalam wujud berbagai versi dan redaksi. Untuk memudahkan deskripsi perkembangan tradisi SP itu mutlak diperlukah sebuah redaksi yang harus diperlakukan sebagai suatu karya sastra secara utuh. Ini berarti, diperlukan sebuah teks yang akan disunting dengan metode filologi sehingga tercermin kehidupan sastrawinya. Maka diperlukan suntingan redaksi yang selain dapat dengan jelas mengungkapkan relasinya dengan redaksi lain juga dapat menjelaskan kaitannya dengan karya sastra genre lain yang digubah sezaman.
 
-412
-
-tra tersebut akan dijadikan bahan pembanding untuk membaca karya sastra yang akan dihadapi pada waktu kemudian. Berpangkal dari proses ini, dalam diri pembaca akan terbentuk horison harapan yang dipengaruhi oleh tiga faktor: 1) pengalaman pembaca dalam menghadapi genre sastra yang sama seperti genre sastra yang baru dia hadapi, 2) bentuk dan tema karya sastra yang telah dia kenali, 3) kesadaran pembaca mengenai perbedaan bahasa sastra dan bahasa sehari-hari (Jausz, 1975: 175177). Dengan demikian horison harapan ini bukan sesuatu yang tetap melainkan merupakan sesuatu proses yang
-
-berkembang dalam waktu.
-
-Teks dengan potensi membedanya dan pembaca dengan horison harapannya yang berupa proses akan saling berhadapan dengan suatu mata rantai horison harapan(Jausz 1975: 170). Dalam tradisi teks yang labil horison harapan itu juga akan berhadapan dengan mata rantai teks.
-Ini disebabkan di dalam sebuah teks karya sastra ada dua macam anasir dilihat dari hubungan teks dengan pembaca: 1) anasir konsumtif teks yang hanya mendorong pembaca menghadapi karya sastra secara konsumtif, dalam arti pembaca hanya tergerak untuk sekedar membaca, 2) anasir produktif yang mendorong pembaca bersikap produktif dengan menulis karya sastra yahg berbeda dari dan di dalam karya yang sedang dihadapinya (Barthes, 1975:4). Dengan demikian, dinamika teks dan dinamika
-
-horison harapan merupakan inovasi yang ada dalam tradisi (Locher, 1978: 175).
-
-Dalam tradisi sastra klasik teks karya sastra terikat kepada konvensi sastra secara ketat karena anasir produktif, yang terkandung dalam teks tidak disambut oleh horison harapan pembacanya yang dinamis.
-
-Namun dalam hal ini tidaklah berarti tidak ada dinamika
-
-
-
-413
-
-teks dan dinamika horison harapan pembaca. Dalam konvensi ' sastra yang ketat penyimpangan yang kecil cukup untuk memberi efek makna yang cukup berarti; maka penyalin, penafsir, dan penggubah bisa dianggap menghasilkan karya sastra yang lain dari induknya, yang dalam kondisi tertentu bahkan mempunyai identitas berlawanan (Lotman, 1972:409). Dengan demikian, semua versi dan redaksi, bahkan semua naskah, di dalam penelitian ini dipandang sebagai teks karya sastra yang masing-masing mengandung sikap dari penggubah, penafsir, penyalin,
-
-bahkan pembaca naskah.
-1. Suntingan Teks dan Terjemahan
-
-Tradisi ajaran SP hidup dan tersebar di masyarakat dalam wujud berbagai versi dan redaksi. Untuk memudahkan deskripsi perkembangan tradisi SP itu mutlak diperlukah sebuah redaksi yang harus diperlakukan sebagai suatu karya sastra secara utuh. Ini berarti, diperlukan sebuah teks yang akan disunting dengan metode filologi sehingga tercermin kehidupan sastrawinya. Maka diperlukan suntingan redaksi yang selain dapat dengan jelas mengungkapkan relasinya dengan redaksi lain juga dapat menjelaskan kaitannya dengan karya sastra genre lain
-
-yang digubah sezaman.
-
-Dengan dasar pertimbangan demikian itu dipilih dua redaksi AP untuk disunting; redaksi SP10M yang berasal dari lingkungan kraton disunting dan diterjemahkan pada bab II dan redaksi SP2M, SP macapat dengan 2 matra yang berasal dari luar lingkungan kraton dan berwarna Jawa
-
-Hindu disunting dan dicantumkan sebagai lampiran I.
-
-
-
-414
+Dengan dasar pertimbangan demikian itu dipilih dua redaksi AP untuk disunting; redaksi SP10M yang berasal dari lingkungan kraton disunting dan diterjemahkan pada bab II dan redaksi SP2M, SP macapat dengan 2 matra yang berasal dari luar lingkungan kraton dan berwarna Jawa Hindu disunting dan dicantumkan sebagai lampiran I.
 
 Hampir tanpa kesukaran naskah-naskah SP10M dapat dibaca oleh pembaca masa kini asal menguasai bahasa Jawa dan terlatih dalam membaca aksara Jawa. Hal ini menunjukkan potensi teks, jarak waktu hampir dua abad dapat dijembatani oleh teks sehingga di dalam memahami tidak diperlukan perbandingan naskah. Potensi teks untuk menjembatani waktu ini akan lebih jelas dalam proses terjemahan. Dalam kerja terjemahan, peneliti berusaha memahami teks sebagai seorang individu yang berbahasa ibu bahasa Jawa dan yang sepanjang hidupnya berada di masyarakat dan budaya Jawa dengan cakrawala budaya abad XX. Peneliti berusaha memahami teks dengan alat-alat bahasa. yang tersedia di masa kini. Dengan cara demikian dibuktikan potensi teks dalam menjembatani jarak waktu yang hampir dua abad.
 
-Setelah disajikan suntingan dan terjemahan redaksi SP10M, timbul masalah apakah ajaran-ajaran yang terkandung di dalam redaksi itu dapat diresepsi oleh masyarakat Indonesia masa kini. Dengan kata lain dipersoalkan apakah teks ini menawarkan pemecahan masalah yang dihadapi oleh masyarakat sekarang, sebab suatu karya sastra hanya bisa diterima dan dipahami oleh masyarakat pembaca apabila dia menawarkan pemecahan masalah yang aktual
+Setelah disajikan suntingan dan terjemahan redaksi SP10M, timbul masalah apakah ajaran-ajaran yang terkandung di dalam redaksi itu dapat diresepsi oleh masyarakat Indonesia masa kini. Dengan kata lain dipersoalkan apakah teks ini menawarkan pemecahan masalah yang dihadapi oleh masyarakat sekarang, sebab suatu karya sastra hanya bisa diterima dan dipahami oleh masyarakat pembaca apabila dia menawarkan pemecahan masalah yang aktual bagi pembaca.
 
-bagi pembaca.
+Sekilas telah tampak bahwa karya sastra redaksi SP10M ditujukan kepada golongan elite, bahkan dikhususkan untuk para bangsawan. Ini berlawanan dengan dunia pembaca masa kini dengan cakrawala pembangunan dan tata masyarakat kraton bukan lagi tata masyarakat idamannya.
 
-Sekilas telah tampak bahwa karya sastra redaksi SP10M ditujukan kepada golongan elite, bahkan dikhususkan untuk para bangsawan. Ini berlawanan dengan dunia pembaca masa kini dengan cakrawala pembangunan dan tata
+Kaum elite di masyarakat mana pun memegang peranan penting di dalam pembangunan karena kelompok elite berfungsi sebagai penggerak dinamika masyarakat dan pengintegrasi kepada tata masyarakat yang baru tercipta (Schoorl, 1980:130), di samping pada mereka jugalah tradisi masyarakat terjaga (Locher, 1978:178). Meskipun ajaran kitab ini ditujukan untuk kelas bangsawan namun tidak memperlihatakan dunia kraton yang menjaga kemapanan sosialnya dengan orientasi waktu yang terarah ke masa silam seperti halnya orientasi kelas bangsawan masa kini (Koentjaraningrat 1984: 439-440). Bahkan tampak etos mobilitas sosial dan orientasi ke masa depan. Namun di samping dinamika itu terlihat sikap menjaga kemapanan tradisi, rupa-rupanya terjadi sikap dialektik dalam teks SP1OM, di samping ditanamkan semangat bergerak maju, juga ada penjagaan tatanan masyarakat.
 
-masyarakat kraton bukan lagi tata masyarakat idamannya.
+#### 2. Redaksi SP yang Lain
 
-Kaum elite di masyarakat mana pun memegang peranan penting di dalam pembangunan karena kelompok elite
+Di samping redaksi SP10M, juga terdapat redaksi memakai dua matra ialah Dhandhanggula dan Sinom. Kedua redaksi yang ini juga merumuskan pasal ajaran dengan butir-butir yang hampir sama seperti SP10M. Ajaran yang dicetuskan dalam 3 redaksi macapat itu dalam penelitian ini bukan hanya dianggap sebagai perkembangan teks belaka namun dipandang sebagai perkembangan cara berpikir yang dicetuskan dalam bahasa yang berbentuk sastra yang di dalamnya tercermin dunia penggubah secara utuh. (Berger dan Luckman, 1976) Dari Sêrat Sastra Gendhing tampak bahwa masyarakat pembaca di Surakarta memahami data sastra sampai kepada dat mutlak (hakekat tertingi) yang ada pada latar belakangnya.
 
-berfungsi sebagai penggerak dinamika masyarakat dan
+##### 2.1 Redaksi SP1M
 
+Redaksi SP macapat yang paling dekat dengan redaksi SP10M adalah redaksi SP1M. Cara perumusan ajaran pada dua redaksi SP macapat itu sama; bahkan kosa kata dan susunan frasa dari kedua redaksi itu hampir sama. Pada pembacaan sekilas bahkan timbul kesan bahwa dua redaksi itu seakan redaksi yang sama, bukan redaksi yang berbeda. Hal ini dikarenakan pupuh pertama dan pupuh terakhir redaksi SP10M bermatra Dhandhanggula dan persis sama dengan teks SP1M.
 
+Perbandingan lebih lanjut antara dua redaksi ini menunjukkan bahwa SP10M digubah dari SP1M - meskipun angka tahun SP1M (1746 AJ) lebih muda dari angka tahun SP10M (1735 AJ) - secara lebih sastrawi sehingga memenuhi selera konvensi sastra pada zamannya. Angka tahun SP1M yang lebih muda bisa terjadi karena redaksi ini baru disebarluaskan secara resmi pada tahun 1746 AJ bertepatan dengan penobatan putra mahkota yang memberi perintah menggubah redaksi ini, meskipun draft sudah ada sebelum redaksi SP10M digubah.
 
-415
+##### 2.2 Redaksi SP2M
 
-pengintegrasi kepada tata masyarakat yang baru tercipta (Schoorl, 1980:130), di samping pada mereka jugalah tradisi masyarakat terjaga (Locher, 1978:178). Meskipun ajaran kitab ini ditujukan untuk kelas bangsawan namun tidak memperlihatakan dunia kraton yang menjaga kemapanan sosialnya dengan orientasi waktu yang terarah ke masa silam seperti halnya orientasi kelas bangsawan masa kini (Koentjaraningrat 1984: 439-440). Bahkan tampak etos mobilitas sosial dan orientasi ke masa depan. Namun di samping dinamika itu terlihat sikap menjaga kemapanan tradisi, rupa-rupanya terjadi sikap dialektik dalam teks SP1IQOM, di samping ditanamkan semangat bergerak maju, juga ada penjagaan tatanan masyarakat.
-2. Redaksi SP yang Lain
+Kalau redaksi SP1M dan SP10M berasal dari lingkungan kraton, redaksi SP2M memperlihatkan sifat yang berbeda. Pada kebanyakan naskah redaksi ini terdiri dari dua pupuh dengan matra Phandhanggula (61 bait) dan Sinom {33 bait), dan oleh sebab itu redaksi ini diberi kode SP2M. Tidak seperti penyalin naskah SP10M dan SP1M yang menyalin teks secara cermat, salinan naskah SP2M ini terlihat longgar, sampai-sampai terjadi pengubahan matra; hal ini terjadi pada naskah LOr 1853 dan LOr 6391 sehingga kedua naskah itu bukan hanya mengandung dua matra.
 
-Di samping redaksi SP10M, juga terdapat redaksi
+Meskipun ada kelonggaran penyalinan namun SP2M ini juga hanya merumuskan empat puluh sembilan pasal ajaran. Apabila semua pasal ajaran dari SP10M, SP1M, dan SP2M diperbandingkan maka tampak bahwa SP2M merumuskan empat puluh sembilan pasal itu agak berbeda dari kedua redaksi SP yang lain. Dari perbedaan-perbedaan tampak bahwa perumusan oleh SP2M masih dipengaruhi bahasa Jawa Kuna yang kuat, tampak juga bahwa kata-kata Jawa Kuna memang sengaja dipakai untuk mempertahankan nilai tradisionalnya.
 
-memakai dua matra ialah Dhandhanggula dan Sinom. Kedua
+Erat kaitannya dengan kelekatan redaksi ini pada bahasa Jawa Kuna terasa juga budaya Jawa Hindu yang berfungsi sebagai cakrawalanya, terutama konsep tentang dewa dan aktivitas keagamaannya. Warna Jawa Kuna dengan budaya Jawa Hindu menunjukkan bahwa redaksi SP2M ini pada mulanya tersebar di kalangan masyarakat Jawa bukan Islam. Namun demikian, ada data yang kontradiksi dengan kesimpulan itu; pada beberapa naskah, redaksi ini dibuka dengan bait awal yang berwarna Islam. Data. yang saling berlawanan itu menunjukkan bahwa di kalangan kelompok pembaca Islam redaksi yang berwarna Jawa Hindu ini diusahakan untuk dipahami secara Islam dengan mencantumkan bait awal yang memuji Yang Mahakuasa dan NabiNya untuk dimintai penerangan dalam membaca karya sastra ini.
 
-redaksi yang ini juga merumuskan pasal ajaran dengan butir-butir yang hampir sama seperti SP10M. Ajaran yang dicetuskan dalam 3 redaksi macapat itu dalam penelitian ini bukan hanya dianggap sebagai perkembangan teks belaka namun dipandang sebagai perkembangan cara berpikir yang dicetuskan dalam bahasa yang berbentuk sastfa
+Naskah-naskah yang mencantumkan bait awal Islam itu rupa-rupanya dicantumkan oleh kalangan penyalin kraton yang mengajak pembaca naskah untuk memahami ajaran yang terkandung di dalamnya dari kacamata Islam.
 
-yang di dalamnya tercermin dunia penggubah secara utuh.
+SP2M ini, dengan demikian menunjukkan sifat lebih tradisional dari SP10M; penyimpangan SP10M dari tradisi SP2M memperlihatkan bahwa SP10M menekankan cara penggunaan harta bagi hidup bermasyarakat, dan puja bakti dalam kehidupan agama.
 
-(Berger dan Luckman, 1976) Dari Sêrat Sastra Gendhing
+##### 2.3 Sêrat Panitisastra Kawi Jarwa (SPKJ)
 
-tampak bahwa masyarakat pembaca di Surakarta memahami
+Ada lagi redaksi SP yang lebih tradisional daripada SP10M, SP1M, dan SP2M yang beredar di masyarakat luas dengan warna Jawa Hindu yang masih sangat kuat; penyalin naskah biasa memberi judul papakem kina criosipun nitisastra ingkang sawés buda (pedoman kuna tentang ceritera Nitisastra sewaktu masih zaman Budha).
 
-data sastra sampai kepada dat mutlak (hakekat terting€i) yang ada pada latar belakangnya.
+Kalau SP redaksi macapat hanya terbatas di lingkungan kraton Surakarta, naskah-naskah SPKJ menunjukkan persebaran secara lebih luas, terlihat dari naskahnaskah yang berasal dari Semarang, Pamekasan, Sumenep, Surakarta, dan Yogyakarta. Masyarakat memahami redaksi ini tidak secara langsung melainkan lewat penafsiran bahasa Jawa Baru.
 
-2.1 Redaksi SP1M
+Perbandingan teks SPJ asal dari Sumenep, Pamekasan, Yogyakarta, dan Surakarta menunjukkan bahwa pemahaman terhadap SPK memperlihatkan variasi. Naskah dari Sumenep dan Pamekasan menunjukkan pemahaman yang tradisional, naskah Yogyakarta menunjukkan pemahaman yang lebih aktif dan naskah Surakarta menunjukkan pemahaman yang paling aktif dalam arti pemahaman itu diberi keterangan secara panjang lebar, bahkan menyimpang dari teks kawi-nya.
 
-Redaksi SP macapat yang paling dekat dengan redak
+##### 2.4 Versi SPSA
 
-416
+Dalam sejarah sastra Jawa khususnya di lingkungan kraton Surakarta timbul gejala genre sastra séèkar agèng pada sekitar abad XIX. Genre sastra ini mengolah karyakarya sastra Jawa Kuna ke bahasa Jawa Baru dengan masih mempertahankan matra kakawin. Ajaran SP seperti yang ada pada SP macapat juga dirumuskan dalam matra sekar agêng ini. Oleh masyarakat sezaman versi ini dianggap digubah oleh Yasadipura pada tahun 1728 AJ. Kosakata, susunan frasa dan kalimat yang ada pada SPSA ini mirip dengan SP10M. Dalam tradisi sastra Jawa, versi SPSA ini dianggap sebagai induk redaksi-redaksi macapat.
 
-si SP2QM adalah redaksi GP1M. Cara perumusan ajaran pada dua redaksi SP macapat itu sama; bahkan kosa kata dan susunan frasa dari kedua redaksi itu hampir sama.
-Pada pembacaan sekilas bahkan timbul kesan bahwa dua redaksi itu seakan redaksi yang sama, bukan redaksi yang berbeda. Hal ini dikarenakan pupuh pertama dan
+##### 2.5 Karya-karya Sastra Piwulang yang lain
 
-pupuh terakhir redaksi SP10M bermatra Dhandhanggula dan persis sama dengan teks SP10M .-.
+Makna yang terkandung dalam SP10M tidak dapat lepas dari karya-karya sastra piwulang yang beredar di zaman Surakarta. Ada dua kelompok karya sastra piwulang yang berlaku pada zaman itu, ialah karya sastra gubahan zaman Surakarta, dan karya sastra gubahan zaman pra Surakarta. Kelompok gubahan zaman pra Surakarta pada umumnya memakai matra tunggal Dhandhanggula dan membicarakan hal-hal tentang pengabdian kepada negara. Termasuk dalam kelompok ini antara lain adalah Sêrat Nitisruti, Sêrat Nitipraja, dan Sêrat Sewaka. Sastra piwulang gubahan zaman Surakarta kebanyakan memakai matra macapat, dan pembicaraan ditekankan kepada ajaran tentang pembentukan diri pribadi. Termasuk dalam kelompok ini ialah Sêrat Wulang Reh, dan sêrat Sasanasunu. Perbedaan sikap agama Islam juga tercermin pada dua kelompok itu; dalam kelompok pra Surakarta tercermin Islam dengan warna tasawuf, sedang pada kelompok Surakarta tercermin Islam syariat.
 
-Perbandingan lebih lanjut antara dua redaksi ini menunjukkan bahwa SP10M digubah dari SP1M - meskipun angka tahun SP1M (1746 AJ) lebih muda dari angka tahun SP10M (1735 AJ) - secara lebih sastrawi sehingga memenuhi selera konvensi sastra pada zamannya. Angka tahun SP1M yang lebih muda bisa terjadi karena redaksi ini baru disebarluaskan secara resmi pada tahun 1746 AJ bertepatan dengan penobatan putra mahkota yang memberi
+Dilihat dari dua kelompok sastra Piwulang itu tampak bahwa SP10M lebih dekat dengan sastra piwulang zaman Surakarta; bukan hanya karena keragaman matra macapat yang digunakan melainkan juga ajaran-ajarannya yang lebih dekat dengan warna syariat, antara lain penekanan puja bakti, harta yang didermakan, dan persahabatan.
 
-perintah menggubah redaksi ini, meskipun draft sudah ada sebelum redaksi SPIONMN digubah.
+##### 3. Kesimpulan
 
-2.2 Redaksi SP2M
+Dari analisis dan perbandingan SP10M dengan berbagai redaksi SP macapat, SPKJ, dan SPSA tampak bahwa sebuah teks karya sastra dapat mencerminkan aktivitas pemahaman sampai kepada taraf transformasi.
 
-Kalau redaksi SP1M dan SP10M berasal dari lingkungan kraton, redaksi SP2M memperlihatkan sifat yang berbeda. Pada kebanyakan naskah redaksi ini terdiri dari dua pupuh dengan matra Phandhanggula (61 bait) dan Sinom {33 bait), dan oleh sebab itu redaksi ini diberi kode SP2M. Tidak seperti penyalin naskah SP10M dan SP1M yang menyalin teks secara cermat, salinan naskah SP2M ini terlihat longgar, sampai-sampai terjadi pengubahan matra; hal ini terjadi pada naskah LOr 1853 dan LOr 6391 sehingga kedua naskah itu bukan hanya mengandung
+## Sêrat Panitisastra: Tradition, Reception, and Transformation. Summary
 
-dua matra.
+### A. Background
 
-Meskipun ada kelonggaran penyalinan namun SP2M ini
-
-
-
-417
-
-juga hanya merumuskan empat puluh sembilan pasal ajaran. Apabila semua pasal ajaran dari SP10M, SP1M, dan SP2M diperbandingkan maka tampak bahwa SP2M merumuskan empat puluh sembilan pasal itu agak berbeda dari kedua redaksi SP yang lain. Dari perbedaan-perbedaan tampak bahwa perumusan oleh SP2M masih dipengaruhi bahasa Jawa Kuna yang kuat, tampak juga bahwa kata-kata Jawa Kuna
-
-memang sengaja dipakai untuk mempertahankan nilai tradisionalnya.
-
-Erat kaitannya dengan kelekatan redaksi ini pada bahasa Jawa Kuna terasa juga budaya Jawa Hindu yang berfungsi sebagai cakrawalanya, terutama konsep tentang dewa dan aktivitas keagamaannya. Warna Jawa Kuna dengan budaya Jawa Hindu menunjukkan bahwa redaksi SP2M ini pada mulanya tersebar di kalangan masyarakat Jawa bukan Islam. Namun demikian, ada data yang kontradiksi dengan kesimpulan itu; pada beberapa naskah, redaksi ini dibuka dengan bait awal yang berwarna Islam. Data. yang saling berlawanan itu menunjukkan bahwa di kalangan kelompok pembaca Islam redaksi yang berwarna Jawa Hindu ini diusahakan untuk dipahami secara Islam dengan mencantumkan bait awal yang memuji Yang Mahakuasa dan NabiNya untuk dimintai penerangan dalam membaca karya
-
-sastra ini.
-
-Naskah-naskah yang mencantumkan bait awal Islam itu rupa-rupanya dicantumkan oleh kalangan penyalin kraton yang mengajak pembaca naskah untuk memahami
-
-ajaran yang terkandung di dalamnya dari kacamata Islam.
-
-SP2M ini, dengan demikian menunjukkan sifat lebih tradisional dari SP10M; penyimpangan SP10M dari tradisi SP2M memperlihatkan bahwa SP10M menekankan cara penggunaan harta bagi hidup bermasyarakat, dan puja bakti
-
-
-
-418
-
-dalam kehidupan agama.
-
-2.3 Sêrat Panitisastra Kawi Jarwa (SPKJ)
-
-Ada lagi redaksi SP yang lebih tradisional daripada SP10M, SP1M, dan SP2M yang beredar di masyarakat
-
-luas dengan warna Jawa Hindu yang masih sangat kuat;
-
-penyalin naskah biasa memberi judul papakem kina criosipun nitisastra ingkang sawés buda (pedoman kuna tentang ceritera Nitisastra sewaktu masih zaman Budha).
-
-Kalau SP redaksi macapat hanya terbatas di lingkungan kraton Surakarta, naskah-naskah SPKJ menunjukkan persebaran secara lebih luas, terlihat dari naskahnaskah yang berasal dari Semarang, Pamekasan, Sumenep, Surakarta, dan Yogyakarta. Masyarakat memahami redaksi ini tidak secara langsung melainkan lewat penafsiran
-
-bahasa Jawa Baru.
-
-Perbandingan teks SPJ asal dari Sumenep, Pamekasan, Yogyakarta, dan Surakarta menunjukkan bahwa pemahaman terhadap SPK memperlihatkan variasi. Naskah dari Sumenep dan Pamekasan menunjukkan pemahaman yang tradisional, naskah Yogyakarta menunjukkan pemahaman yang lebih aktif dan naskah Surakarta menunjukkan pemahaman yang paling aktif dalam arti_pemahaman itu diberi keterangan secara panjang lebar, bahkan menyimpang dari
-
-Dalam sejarah sastra Jawa khususnya di lingkungan kraton Surakarta timbul gejala genre sastra séèkar agèng pada sekitar abad XIX. Genre sastra ini mengolah karyakarya sastra Jawa Kuna ke bahasa Jawa Baru dengan masih
-
-
-
-419
-
-mempertahankan matra kakawin. Ajaran SP seperti yang ada pada SP macapat juga dirumuskan dalam matra sekar
-
-L]
-
-agé£ng ini. Oleh masyarakat sezaman versi ini dianggap digubah oleh Yasadipura pada tahun 1728 AJ. Kosakata, susunan frasa dan kalimat yang ada pada SPSA ini mirip dengan SP10M. Dalam tradisi sastra Jawa, versi SPSA ini dianggap sebagai induk redaksi-redaksi macapat.
-
-2.5 Karya-karya Sastra Piwulang yang lain
-
-Makna yang terkandung dalam SP10M tidak dapat lepas dari karya-karya sastra piwulang yang beredar di zaman Surakarta. Ada dua kelompok karya sastra piwulang yang berlaku pada zaman itu, ialah karya sastra gubahan zaman Surakarta, dan karya sastra'gubahan zaman pra Surakarta. Kelompok gubahan zaman pra Surakarta pada umumnya memakai matra tunggal Dhandhanggula dan membicarakan hal-hal tentang pengabdian kepada negara. Termasuk dalam kelompok ini antara lain adalah Sêrat Nitisruti, Sêrat Nitipraja, dan Sêrat Sewaka. Sastra piwulang gubahan zaman Surakarta kebanyakan memakai matra macapat, dan pembicaraan ditekankan kepada ajaran tentang pembentukan diri pribadi. Termasuk dalam kelompok ini ialah Sêrat Wulang Reh, dan sêrat Sasanasunu. Perbedaan sikap agama Islam juga tercermin pada dua kelompok itu; dalam kelompok pra Surakarta tercermin Islam dengan warna tasawuf, sedang pada kelompok Surakarta
-
-tercermin Islam syariat.
-
-Dilihat dari dua kelompok sastra Piwulang itu tampak bahwa SP10M lebih dekat dengan sastra piwulang zaman Surakarta; bukan hanya karena keragaman matra macapat yang digunakan melainkan juga ajaran-ajarannya yang lebih dekat dengan warna syariat, antara lain
-
-penekanan puja bakti, harta yang didermakan, dan persa
-
-420
-
-habatan .
-
-3. Kesimpulan
-
-Dari analisis dan perbandingan SP10M dengan berba-.
-gai redaksi SP macapat, SPKJ, dan SPSA tampak bahwa
-
-sebuah teks karya sastra dapat mencerminkan aktivitas
-
-pemahaman sampai kepada taraf transformasi.
-
-
-
-Sêrat PANITISASTRA
-
-Tradition, Reception, and Transformation
-
-Summary
-
-A. Background
-
-Sêrat Panitisastra (SP = Letter of literary suryey ) is a Javanese literary work written in the middle of the Majapahit era (Poerbatjaraka, 1933: 13). This literary work contains moral teaching, stated straight, forwardly and not in a narrative form. In the history of Javanese culture the work of Sêrat Panitisastra KaWi, the one written in Javanese and Composed in this kakawin metre, was pervasive among the society, inherited as a tradition, received by the readers/ transcribers from time to time, with different levels
-
-of reception activity.
+Sêrat Panitisastra (SP = Letter of literary suryey ) is a Javanese literary work written in the middle of the Majapahit era (Poerbatjaraka, 1933: 13). This literary work contains moral teaching, stated straight, forwardly and not in a narrative form. In the history of Javanese culture the work of Sêrat Panitisastra KaWi, the one written in Javanese and Composed in this kakawin metre, was pervasive among the society, inherited as a tradition, received by the readers/ transcribers from time to time, with different levels of reception activity.
 
 Literary activity in the beginning of XIX century produced a lot of compositions originating from the Ancient Javanese literary. warehouse. SP is one of the Javanese traditional literary works, composed during the process of literary activity of that time. During the Surakarta era, kawi: traditional heritage which always coexited with jarwa (interpretation) to form this tradition of Sêrat Panitisastra Kawi Kaiarwan (SPKJ ), was recomposed to become the literacy work having the macapat metre and the Sekar ageng, metre.
 
-In the process of this traditional inheritance, a variety of comprehension-activity attitudes appeared: the passive comprehension, which stated the meaning of
+In the process of this traditional inheritance, a variety of comprehension-activity attitudes appeared: the passive comprehension, which stated the meaning of the texts as it was; the active comprehension, which resulted in the shifts of meaning of the given work, the very active comprehension which can be regarded as a transformation.
 
-the texts as it was; the active comprehension, which
+The question of text inheritance through these levels of comprehension activity and with different levels of meaning shifts comprise the main problem of this study.
 
-421
-
-
-
-422
-
-resulted in the shifts of meaning of the given work,
-
-the very active comprehension which can be regarded as a transformation.
-
-The question of text inheritance through these levels of comprehension activity and with different
-
-levels of meaning shifts comprise the main problem of this study.
-
-B. The Main Problem
+### B. The Main Problem
 
 The main problem discussed in this study was focussed on the SP texts from the Surakarta palace enclave as transformation processes, including meaning potentials which emerged in these processes. The edition of Sêrat Panitisastra Macapat with 10 metres (P10M) composed by Sastranegara in 1735 AJ served as the basis for the analysis, for the following fundamental reason. 1. This edition shows an agreement with the literary convention generally accepted then, i.e. by employing a variety of macapat metres.
 
 2. This edition turned out to be a prestigious edition at the time, as seen from the Dutch translation which appeared in TNI magazine (Mounier, 1843).
 
-3. This edition was stated, by Poerbatjaraka (1952) and Pigeaud (1967), as the_results of the redevelopment of Ancient Javanese literature. Accordingly it was a
+3. This edition was stated, by Poerbatjaraka (1952) and Pigeaud (1967), as the_results of the redevelopment of Ancient Javanese literature. Accordingly it was a case of literary activity in Surakarta in the XIX century.
 
-case of literary activity in Surakarta in the XIX
-
-century.
-
-‚ In order to uncover the meaning supposedly highlighted by this edition of P1QM with its deviation from
-
-the existing edition, a comparison would be presented
-
-between P1QM edition and 1) Sêrat Panitisasira, having
+In order to uncover the meaning supposedly highlighted by this edition of P1QM with its deviation from the existing edition, a comparison would be presented between P1QM edition and 1) Sêrat Panitisasira, having
 
 
 
@@ -5100,360 +4880,168 @@ alms .
 
 3. Conclusion
 
-From the analyses and comparison of the SP10M with
-
-various metres of SP macapat, SPKJ, and SPSA, it seems that the text of a literary work can reflect the
-
-activity of comprehension up to the transformation
-
-level.
+From the analyses and comparison of the SP10M with various metres of SP macapat, SPKJ, and SPSA, it seems that the text of a literary work can reflect the activity of comprehension up to the transformation level.
 
 
 
-DAFTAR PUSTAKA
+## Daftar Pustaka
 
-Anderson, Benedict R.0.G
+Anderson, Benedict R.O.G 1965 Mythology and the Tolerance of the Javanese, Ithaca N.Y., Cornell University.
 
-1965 Mythology and the Tolerance of the Javanese, Ithaca N.Y., Cornell University.
+Arps, Ben 1986 Sekar Ageng: over antieke javaanse versvormen. Skripsi doktoral (tidak diterbitkan), Universitas Leiden.
 
-Arps, Ben
+Balandier, G. 1970 Political Anthropology. Random House, Inc. New York.
 
-1986 Sekar Ageng: over antieke javaanse versvormen. Skripsi doktoral (tidak diterbitkan), Universitas Leiden.
+Baried, Siti Baroroh. dkk. 1985 Pengantar Teori Filologi. Dep. Pembinaan dan Pengembangan Bahasa Departemen Pendidikan dan Kebudayaan, Jakarta.
 
-Balandier, G.
+Barthes, Roland 1970 A/Z, Editions du Seuil, Paris.
 
-1970 Political Anthropology. Random House, Inc.
-New York.
+Becker, A.L. 1979 "Text-building, Epistemology and Aesthetics in Javanese Shadow Theatre". dalam A.L. Becker dan Aram A. Yengoyam, dkk., The Imagination of Reality : Essays in Southeast Asian Coherence Systems. Norwood, New Jer
 
-Baried, Siti Baroroh. dkk.
-1985 Pengantar Teori Filologi. Dep. Pembinaan dan
+Behrend, T.E. 1987 The Sêrat Jatiswara: Structure and Change in a Javanese Poem, Ph.D. Thesis, Australian National University, Canberra
 
-Pengembangan Bahasa Departemen Pendidikan dan Kebudayaan, Jakarta. |
+Berg, C.C. 1938 "De Arjuna Wiwaha, Er-langga's levensloop en bruileftslied?'", BKI 97: 19-94
 
-Barthes, Roland
+Berger, Peter L., dan Luckmann, Thomas 1976 The Construction of Reality. Anchor Books, New York.
 
-1970 A/Z, Editions du Seuil, Paris.
+Brakel, Clara 1981 "Traditional Javanese Poetry and the Problem of Interpretation". Indonesian Circle 26: 13-24
 
-Becker, A.L.
+Cabaton, A 1912 Catalogue sommaire des manuscrits indien. indochincis et malayo-polynesiens, Bibliotheque Nationale, Paris.
 
-1979 "Text-building, Epistemology and Aesthetics in Javanese Shadow Theatre". dalam A.L.
-Becker dan Aram A. Yengoyam, dkk., The Imagination of Reality : Essays in Southeast Asian Coherence Systems. Norwood, New JerBehrend, T.E.
+Castiglione, Baldesar. 1967 The Book of The Courtier. Diterjemahkan dan diberi pengantar oleh George Bull, Penguin Books Ltd. Harmondsworth, England.
 
-1987 The Sêrat Jatiswara: Structure and Change in a Javanese Poem, Ph.D. Thesis, Australian National University, Canberra
+Claessen, H.J.M. 1987 Antropologi Politik. Suatu Orientasi. Alih Bahasa RG. Soekadijo. Penerbit Erlangga, Jakarta.
 
-Berg, C.C.
-
-1938 "De Arjuna Wiwaha, Er-langga's levensloop en bruileftslied?'", BKI 97: 19-94
-
-434
-
-
-
-435
-
-Berger, Peter L., dan Luckmann, Thomas
-
-1976 The Construction of Reality. Anchor Books, New York.
-
-Brakel, Clara
-
-1981 "Traditional Javanese Poetry and the Problem of Interpretation". Indonesian Circle 26: 1324
-
-Cabaton, A
-
-1912 Catalogue sommaire des manuscrits indien.
-
-indochincis et malayo-polynesiens, Bibliotheque Nationale, Paris.
-
-Castiglione, Baldesar
-
-1967 The Book of The Courtier. Diterjemahkan dan diberi pengantar oleh George Bull, Penguin
-
-Books Ltd. Harmondsworth, England.
-
-Claessen, H.J.M.
-
-1987 Antropologi Politik. Suatu Orientasi. Alih Bahasa RG. Soekadijo. Penerbit Erlangga, Jakarta.
-
-Cornets de Grooot, A.D.
-
-1952 "Bijdrage tot de Kennis van de Zeden en Gewoonten der Javanen. TNI, 14 (2):257 - BO.
+Cornets de Grooot, A.D. 1952 "Bijdrage tot de Kennis van de Zeden en Gewoonten der Javanen. TNI, 14 (2):257 - BO.
 
 Cohen Stuart, A.B 1860 "Brata-Joeda, Indish Javaansch Heldendicht', VBG 27 dan 28, Batavia.
 
 Darusuprapta _ 1982 Sêrat Wulang Reh: anggitan dalem Sri Pakubuwana IV. Citra Jaya, Surabaya.
 
-Day, Anthony, J
+Day, Anthony, J. 1981 Meaning of Change in the Poetry of Nineteenth Century Java. Unpublished Ph.D. Thesis, Cornell University.
 
-1981 Meaning of Change in the Poetry of Nineteenth Century Java. Unpublished Ph.D. Thesis, Cornell University.
+Drewes, G.W.J 1966 "The Struggle Between Javanism and Islam as Illustrated by the Sêrat Dermagandul", BKI, 122 : 309-365.  
+    1974 "Ranggawarsita, the Pustaka Raja Madya and the Wayang Madya". Orient Extremus 21:199215
 
+Elias, Norbert 1977 Die Höfische Gesellschaft Untersuchungen zur Sociologie des Konigtums und der Höfischen Aristokrtie mit einer Eileitung: Soziologie und Geschichtswissenschaft. Gmb H & Co. KG. Luchterhand.
 
+Geertz. C. 1960 The Religion of Java Glencoe. Illinois.
 
-436
+Gericke, J.F.C 1844 Sêrat WiwahadJarwa Inggih Sêrat Mintaraga. Wiwoho of Mintorogo. een Javaansch gedicht, teekening voorzien, VBGC. 20
 
-Drewes, G.W.J
+Gericke, J.F.C. dan T. Roorda 1901 Javaansch-Nederlansch Handwordenboek Vermeerderd en verbeterd door Dr. A.C. Vreede, met medewerking van Dr. J.G.H. Gunning. Johannes Muller. Amsterdam - Leiden
 
-1966 "The Struggle Between Javanism and Islam as
+Girardet, N. dkk. 1983 Descriptive Catalogue of the Javanese Manuscripts and Printed Books in the Main Libra ries of Surakarta and Yogyakarta, Steiner Verlag, Wiesbaden.
 
-Illustrated by the Sêrat Dermagandul", BKI, 122 : 309-365.
+Gonda, J. 1958 "Some Notes on the Relation between Syntactic and Metrical Units in a Javanese Kidung", BKI 114:98-116.
 
-1974 "Ranggawarsita, the Pustaka Raja Madya and the Wayang Madya". Orient Extremus 21:199215
+de Graaf, H.J. 1949 Geschiedenis yan Indonesie. Van Hoeve " sGravenhage 1956 "De Historische Betrouwbaarheid der Javaanse Overlevering". BKI 112:55-73.  
+    1987 Runtuhnya Istana Mataram. Grafiti Press, Jakarta.
 
-Elias, Norbert
+de Graaf, H.J. dan Th.G.Th. Pigeaud 1974 De Eerste Moslimse Vostendommen op Java, Studien over de staatkundise geschidenis van de 15de and eeuw.VKI 69.
 
-1977 Die Höfische Gesellschaft Untersuchungen zur Sociologie des Konigtums und der Höfischen Aristokrtie mit einer Eileitung:
+Grijns, C.D. dan Robson, S.O. 1986 Cultural Contact and Texbual Interpretation Papers from the Fourth Europeaa Colloquium on Mallay and Indonesian Studies, held in Leiden 1983. Foris Publications. Dordrecht Holland/Cinnaminson - USA.
 
-Soziologie und Geschichtswissenschaft .
-Gmb H&Co. KG. Luchterhand.
+Hadidjaja, Tardjan dan Kamajaya 1978-1979 Sêrat centhini dituturkan dalam bahasa Indonesia. jilid 1-a (1978); jilid 1-b (1979). UP. Indonesia, Yogyakarta.
 
-Geertz. C.
-1960 The Religion of Java Glencoe. Illinois.
+Hardjowirogo H. 1952 Pathokaning Nyekaraken. Balai Pustaka, Djakarta.
 
-Gericke, J.F.C
+Hatch, Martin Fellows 1980 Lagu, Laras,. Layang: Rethinking Melody in Javanese Music. Disertasi Ph.D., Universitas Cornell.
 
-1844 Sêrat WiwahadJarwa Inggih Sêrat Mintaraga.
-Wiwoho of Mintorogo. een Javaansch gedicht, teekening voorzien, VBGC. 20
+Hellwig, Tieneke 1986 "Nyai Dasima, een Vrouw uit de Literatuur". Dalam C.M.S. Hellwig dan S.0. Robson. A Man of Indonesian Letters Essays in Honor of Professor  Profesor A. Teeuw Foris Publication, Dordrecht-Holland.
 
-Gericke, J.F.C. dan T. Roorda 1901 Javaansch-Nederlansch Handwordenboek Vermeerderd en verbeterd door Dr. A.C. Vreede, met medewerking van Dr. J.G.H. Gunning.
-Johannes Muller. Amsterdam - Leiden
+Huizinga, J. 1947 Herfstij der Middeleeuwen: Studie Qxezl.1gnﬂlanden. H.D. Tjeenk Willink & zoon. Haarlem.
 
-Girardet, N. dkk.
+Houben, V.J.H. 1986 "The Position of the Mangkunegara within the Partitioned Political Structure of Central Java". dalam C.D. Grijns dan 85.0. Robson, editors, 1986.
 
-1983 Descriptive Catalogue of the Javanese Manuscripts and Printed Books in the Main Libra ries of Surakarta and Yogyakarta, Steiner Verlag, Wiesbaden.
+Iser, Wolfgang 1977 Der Akt des Lesens, TIheorjies ästhetischer Wirkung, Fink, Munchen.
 
-Gonda, J.
+Jäger, Gerhard 1975 Finführung in die Klassische Philologie. C.H. Beck'sche Buchdruckerei, Germany.
 
-1958 "Some Notes on the Relation between Syntactic and Metrical Units in a Javanese Kidung", BKI 114:98-116.
+Jausz , Hans-Robert 1975 Literaturgeschichte als Provokation der Literaturwissenschaft, Suhrkamp, . Frankfurt a . M .
 
-
-
-437 de Graaf, H.J.
-1949 Geschiedenis yan Indonesie. Van Hoeve " sGravenhage 1956 "De Historische Betrouwbaarheid der Javaanse Overlevering". BKI 112:55-73.
-1987 Runtuhnya Istana Mataram. Grafiti Press,
-
-Jakarta.
-
-de Graaf, H.J. dan Th.G.Th. Pigeaud
-
-1974 De Eerste Moslimse Vostendommen op Java, Studien over de staatkundise geschidenis van de 15de and eeuw.VKI 69.
-
-Grijns, C.D. dan Robson, S.0.
-
-1986 Cultural Contact and Texbual Interpretation Papers from the Fourth Europeaa Colloquium on Mallay and Indonesian Studies, held in Leiden 1983. Foris Publications. Dordrecht Holland/Cinnaminson - USA.
-
-Hadidjaja, Tardjan dan Kamajaya 1978-1979 Sêrat centhini dituturkan dalam bahasa
-
-lndgn5515. jilid 1-a (1978); jilid 1-b (1979). UP. Indonesia, Yogyakarta.
-
-Hardjowirogo H.
-
-1952 Pathokaning Nyekaraken. Balai Pustaka, Djakarta.
-
-Hatch, Martin Fellows
-
-1980 Lagu, Laras,. Layang: Rethinking Melody in Javanese Music. Disertasi Ph.D., Universitas Cornell.
-
-Hellwig, Tieneke
-
-1986 "Nyai Dasima, een Vrouw uit de Literatuur".
-Dalam C.M.S. Hellwig dan S.0. Robson A Man
-
-Profesor A. Foris Publication, Dordrecht-Holland.
-
-
-
-438
-
-Huizinga, J.
-
-1947 Herfstij der Middeleeuwen: Studie Qxezl.1gnﬂ
-
-landen. H.D. Tjeenk Willink & zoon. Haarlem.
-
-Houben, V.J.H.
-
-1986 "The Position of the Mangkunegara within the Partitioned Political Structure of Central
-
-Java". dalam C.D. Grijns dan 85.0. Robson, editors, 1986.
-
-Iser, Wolfgang
-
-1977 Der Akt des Lesens, TIheorjies ästhetischer Wirkung, Fink, Munchen.
-
-Jäger, Gerhard 1975 Finführung in die Klassische Philologie.
-C.H. Beck'sche Buchdruckerei, Germany.
-
-Jausz , Hans-Robert
-
-1975 Literaturgeschichte als Provokation der Literaturwissenschaft, Suhrkamp, . Frankfurt a . M .
-
-Kartodirdjo, Sartono
-
-1984 Modern Indonesia, Tradition & Transformation, Gadjah Mada University Press.
+Kartodirdjo, Sartono 1984 Modern Indonesia, Tradition & Transformation, Gadjah Mada University Press.
 Yogyakarta
 
-Kartomi, Margaret J.
+Kartomi, Margaret J. 1973 Matjapat Songs in Central dan West Java. Seri Oriental Monograph, Faculty of Asian Studies, Australian National University, no. 13.
 
-1973 Matjapat Songs in Central dan West Java.
-Seri Oriental Monograph, Faculty of Asian Studies, Australian National University, no.
-13.
+Kats, J. 1923 Het Javaansche Tooneel, Des) li Wajang Poerwa. Commissie voor de Volks lectuur Weltevreden.
 
-Kats, J.
-
-1923 Het Javaansche Tooneel, Des) li Wajang Poerwa. Commissie voor de Volks lectuur Weltevreden.
-
-
-
-439
-
-Kern, H.
-
-1900 Ramayana Oudjiavansch Heldendicht. Martinus Nijhoff, Gravenhage.
+Kern, H. 1900 Ramayana Oudjiavansch Heldendicht. Martinus Nijhoff, Gravenhage.
 
 Koentjaraningrat 1984 Kebudayaan Jawa. Balai Pustaka, Jakarta.
 
-Kumar, Ann
+Kumar, Ann 1976 Surapati Man and Legend. A study of three babad traditions. Martinus Nijhoff, Leiden.
+    1980 "Javanese Court Society and Politics in the Late 18th Century: The Record of a Lady Soldier"
+    Part 1: The Religious, Social and Economic Life of the Court. Indonesia 29: 1-46
+    Part II: Political Developments: the Court and the Company, 1784-1791. Indonesia 30: 67-111.
 
-1976 Surapati Man and Legend. A study of three babad traditions. Martinus Nijhoff, Leiden.
+Kuntara, Wiryamartana Ign. 1987 Arjunawiwaha. Transformasi Teks Jawa Kuna Sastra Jawa, Disertasi Universitas Gadjah Mada, Yogyakarta.
 
-1980 " Javanese Court Society and Politics in the Late 18th Century: The Record of a Lady Soldier"
+Locher, G.W. 1978 Transformation and Tradition, Martinus Nijhoff, The Hague.
 
-Part 1: The Religious, Social and Economic Life of the Court. Indonesia 29: 1-46
+Lotman, Jurij, M. 1972 Die Struktur Literarischer Texte Übersetzt von Rolf Dietrich Keil, Wilhelm Fink Verlag, Munchen.
 
-Part II: Political Developments: the Court and the Company, 1784-1791. Indonesia 30: 67-111.
+Maas, Paul. 1958 Textual Criticism. Terjemahan oleh Barbara Flower. Oxford.
 
-Kuntara, Wiryamartana Ign.
+Maler, H.M.J. dan A. Teeuw (editor). 1976 Honderd Jaar Studie van Indonesié, 1850 1950. BV. Drukkerij en Uitgeverij Smith‚ Den Haag.
 
-1987 Arjunawiwaha. Transformasi Teks Jawa Kuna Sastra Jawa, Disertasi Universitas Gadjah Mada, Yogyakarta.
-
-Locher, G.W
-
-1978 Transformation and Tradition, Martinus Nijhoff, The Hague.
-
-Lotman, Jurij, M.
-
-1972 Die Struktur Literarischer Texte Übersetzt von Rolf Dietrich Keil, Wilhelm Fink Verlag, Munchen .
-
-Maas, Paul.
-
-1958 Textual Criticism. Terjemahan oleh Barbara Flower. Oxford.
-
-
-
-440
-
-Maler, H.M.J. dan A. Teeuw (editor) .
-
-1976 Honderd Jaar Studie van Indonesié, 1850 1950. BV. Drukkerij en Uitgeverij Smith ‚Den Haag .
-
-Magnis-Suseno, Franz
-
-1984 Etika Jawa. Sebuah Analisa Falsafi tentang Kebijaksanaan Hidup Jawa, P.T. Gramedia,
-
-Jakarta.
+Magnis-Suseno, Franz 1984 Etika Jawa. Sebuah Analisa Falsafi tentang Kebijaksanaan Hidup Jawa, P.T. Gramedia, Jakarta.
 
 Mason, Philip 1982 The English Gentleman: The Rise and Fallof an Ideal. Andre Deutsch, London.
 
 McDonald, Barbara 1981 "The Sêrat Rama of Yasadipura; Some Structural Determinants in Tembang Macapat", Indonesia Circle 26: 25-32, Australian National University, Canberra.
+    1983 Kawi and Kawi Miring, Old Javanese Literature in Eighteenth Century Java, Ph.D Thesis, Australian National University, Canberra.
 
-1983 Kawi and Kawi Miring, Old Javanese Literature in Eighteenth Century Java, Ph.D Thesis,
+Moertono, Soemarsaid 1968 State and Statecraft in Old-Java, A Study of the Later Mataram Period. 16th to 19th Century, Cornell University, Modern Indonesia Project, Ithaca.
 
-Australian National University, Canberra.
-Moertono, Soemarsaid
+Molen, Willem van der 1981 "Aims and Methods of Javanese Philology". Indonesian Circle 26:5-12.
+    1983 Javaanse Tekstkritiek, Een overzicht en een nieuwe benadering geillustreerd asn de Kunjarakarna. VKI 102.
 
-1968 State and Statecraft in Old-Java, A Study of the Later Mataram Period. 16% to 19*! Century, Cornell University, Modern Indonesia Project, Ithaca.
+Mounier, L 1843 "Het Boek der Pannitie Sastro", TNI , V: 236-280.
 
-Molen, Willem van der
+Mudjanto, G. 1986 The Concept of Power in Javanese Culture. Gadjah Mada University Press, Yogyakarta.
 
-1981 'Aims and Methods of Javanese Philology".
-Indonesian Circle 26:5-12.
-
-1983 Javaanse Tekstkritiek, Een overzicht en een nieuwe benadering geillustreerd asn de Kunjarakarna. VKI 102.
-
-Mounier, L 1843 "Het Boek der Pannitie Sastro", TNI , V:
-
-236-280.
-
-
-
-441
-
-Mudjanto, G.
-
-1986 The Concept of Power in Javanese Culture.
-Gadjah Mada University Press, Yogyakarta.
-
-Mukarovsky, Jan
-
-1977 Structure,. Sign, and Function, Selected Essays translated by John Burbank and Peter
-
-Steiner, Yale University Press, New Haven and London.
+Mukarovsky, Jan 1977 Structure,. Sign, and Function, Selected Essays translated by John Burbank and Peter Steiner, Yale University Press, New Haven and London.
 
 Nicolson, Harold 1960 Good Behaviour. Beacon Paperback, USA.
 
 Nida, E.A. dan C.R. Taber
+    1969 Theory and Practice of Translation. Leiden
 
-1969 Theory and Practice of Translation. Leiden Olthof. W.L.
-1941 Babad Tanah Rjawi in Proza. Javaansche
+Olthof. W.L. 1941 Babad Tanah Rjawi in Proza. Javaansche loopende tot het jaar 1647 der Javaanse Jaartelling. In opdracht yan het Koninklijk Instituut voor Taal-,. Land-, en Volkenkunde van Ned. Indie, naar de uitgave van J.J. Meinsma in hot Nederlandsch vertaald. M. Nijhoff, s Gravenhage.
 
-loopende tot het jaar 1647 der Javaanse Jaartelling. In opdracht yan het Koninklijk Instituut voor Taal-,. Land-, en Volkenkunde van Ned. Indie, naar de uitgave van J.J. Meinsma in hot Nederlandsch vertaald. M. Nijhoff, s Gravenhage .
-
-Palmer van den Broek, W
-
-1866 Sêrat Lokapala, Anjarijosaken Lampahipoen Karaton Kekalih ing Lokapala kalijan Ngalengka., sarta Prangipoen Dasamoeka ing Ngalengka. Mengsah Karaton Wahoe, Poenapa Malih Lelampahanipoen Soebhali kalijan Soeghriwa ngantos doemoegi DPioemenengipoen Prabhoe
-
-Ardjoena Sasrabahoe ing Mahispati, van Dorp, Semarang.
-
-1868 Sêrat Wiwoho Rjarwo, Landsdrukkerij, Batavla.
+Palmer van den Broek, W 1866 Sêrat Lokapala, Anjarijosaken Lampahipoen Karaton Kekalih ing Lokapala kalijan Ngalengka., sarta Prangipoen Dasamoeka ing Ngalengka. Mengsah Karaton Wahoe, Poenapa Malih Lelampahanipoen Soebhali kalijan Soeghriwa ngantos doemoegi DPioemenengipoen Prabhoe Ardjoena Sasrabahoe ing Mahispati, van Dorp, Semarang.  
+    1868 Sêrat Wiwoho Rjarwo, Landsdrukkerij, Batavla.
 
 Partakusuma, Karkana 1964 Zaman Edan. UP. Indonesia, Yogyakarta.
 
-
-
-442
-
 Pigeaud, Th.G. Th.
+    1933 De Sêrat Tjabolang en de Sêrat Tjentini. VGB 72.  
+    1938 Javaans-Nederlands Handwoordenboek. J.B.Wolters Groningen/Batavia.  
+    1967-1980 Literature of Java, Catalogue Raisonne of the Javanese Manuscripts in the Library of the University of Leiden and Other Public Collections in the Netherlands, 3 vols, Martinus Nijhoff, The Hague.  
+    1967 "Synopsis of Javanese Literature 900 - 1900 AD". Literature of Java, vol. I.  
+    1968 "Descriptive Lists of Javanese Manuscripts" Literature of Java, vol. II.
+    1970 "Illustration and Facsimiles of Manuscripts, Maps, Addenda and a General Index of Names and Subjects". Literature of Java, vol. III.
+    1975
 
-1933
+Poerbatjaraka, R.Ng.
+    1933a
+    1933b
 
-1938
 
-De Sêrat Tjabolang en de Sêrat VGB 72.
 
-Javaans-Nederlands Handwoordenboek. J.B.Wolters Groningen/Batavia.
 
-1967-1980 Literature of Java, Catalogue Raisonne of
 
-1967
 
-1968
-
-1970
-
-1975
-
-the Javanese Manuscripts in the Library of the University of Leiden and Other Public
-
-Collections in the Netherlands, 3 vols, Martinus Nijhoff, The Hague.
-
-"Synopsis of Javanese Literature 900 - 1900 AD". Literature of Java, vol. I.
-
-"Descriptive Lists of Javanese Manuscripts"
-
-Literature of Java, vol. II.
-
-"Illustration and Facsimiles of Manuscripts, Maps, Addenda and a General Index of Names
-
-and Subjects". Literature of Java, vol. III.
 
 Codices Written in Related Idioms Spoken in Java and Bali. Descriptive Catalogue: with 111. Example of Jayanese Script, Introductory Chapters, a General Index of Names Subjects and an Outline Map Drawn Ur by M.
 Buchge, Steiner, Wiesbaden. Vol.31l.
 
-Poerbatjaraka, R.Ng.
 
-1933a
 
-1933b
+
+
 
 "Lijst der Javaansche Handschriften in de Boekerij van het Koninklijke Bataviaasch Genootschap", Yaarboek van het Koninklije Bataviaash Genootschap, 1: 269-376, Bandoeng .
 
