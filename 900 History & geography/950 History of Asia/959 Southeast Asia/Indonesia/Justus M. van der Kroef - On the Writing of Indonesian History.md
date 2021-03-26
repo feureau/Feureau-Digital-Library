@@ -102,14 +102,6 @@ The essence of Berg’s historiographic contribution lies in his new approach to
 
 2 Berg, “De Zin der Tweede Babad-Tanah-Jawi,” Indonesië, vol. 8 (1955), pp. 394-395. 28 Ibid., p. 362; Berg, “Gedachtenwisseling over Javaanse Geschidedschrijving,” pp. 186-210.
 
- 
-
- 
-
- 
-
-360 On the Writing of Indonesian History
-
 Malayu?” All this, according to Berg, gives the Old Javanese historiography its peculiar character: dates are of little import; historic personages may not have existed at all but are symbols and creative fiats necessary to facilitate the transition from one epoch to the next; and sources may have been destroyed, leaving the present-day student with bewildering contradictions and serious chronological gaps.
 
 Not the least noteworthy consequence of Berg’s approach is his view of the empire of Madjapahit (1292-1500), frequently viewed as the “only major power” in the whole of the Indonesian archipelago before the rise of Islam, with an active sovereignty over large areas, as well as with satellites on the fringes of its domain, encompassing in effect all of the territories of the present Indonesian Republic plus Malaya? For Berg, however, there were in the fourteenth century two empires of Madjapahit—one real, the other a mythological creation—the former a fairly large and powerful state, comprising in all probability the nucleus of its territory in East and Central Java, Bali and possibly the small island of Madura, the latter a verbal-magical creation of the cleric Prapancha, who, in his lyrical eulogy Nagarakertagama, expanded Madjapahit’s boundaries “by the simple means of a complete use of his geographical knowledge.” The historic facts, says Berg, are different: Prapancha’s list of Madjapahit’s satellites in the Indonesian archipelago “has for the student of political history no value because in no respect does it obtain support from adequate facts. But as a mythological document, and also as a reflection of the knowledge of countries of those days, it has a great culturalhistoric value. .. 3!
