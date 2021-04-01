@@ -1,9 +1,8 @@
 # The Indianized States of Southeast Asia
 
-
 by G. George Cœdès
 
-Edited by WS,
+dited by WS,
 
 Walter E Vella ff 4 Translated by u Susan Brown Cowing
 
@@ -25,29 +24,13 @@ This republication is part of the digitisation project being carried out by Scho
 
 This project aims to make past scholarly works published by The Australian National University available to a global audience under its open-access policy. THE INDIANIZED STATES OF SOUTHEAST ASIA
 
- 
-
-PLEASE BETURB FO: | EDITORIAL DEPARTMENT |
-
-AUSTRALIA AT Ob AL UNIVEASITY|
-
- 
-
- 
-
- 
-
-t rad
-
-GATI DATE 26:
-
-MMENDED RETAIL PRIDE FES9S NS THE INDIANIZED STATES OF SOUTHEAST ASIA by G. COEDES Edited by Walter F. Vella
-
-Translated by Susan Brown Cowing
-
 1975
 
-AUSTRALIAN NATIONAL UNIVERSITY PRESS CANBERRA This translation was done under the auspices of the Research Publications and Translations Program of the Institute of Advanced Projects, East-West Center.
+AUSTRALIAN NATIONAL UNIVERSITY PRESS
+
+CANBERRA
+
+This translation was done under the auspices of the Research Publications and Translations Program of the Institute of Advanced Projects, East-West Center.
 
 French edition copyright © 1964 by Editions £. de Boccard, Paris
 
@@ -59,7 +42,9 @@ ISBN 0 7087 0140 2
 
 Manufactured in the United States of America
 
-Published in Australia and New Zealand by Australian National University Press, Canberra, Australia NOTE ON SECOND EDITION
+Published in Australia and New Zealand by Australian National University Press, Canberra, Australia
+
+## NOTE ON SECOND EDITION
 
 A first edition of this work appeared in Hanoi (Imprimerie d’Extrême-Orient) in 1944, under the title Histoire ancienne des états hindouisés d'Extrême-Orient. It was soon out of print in Indochina.
 
@@ -67,159 +52,31 @@ Insofar as possible, this second edition takes into account the relatively few. 
 
 Paris, November 1947
 
-NOTE ON THIRD EDITION
+## NOTE ON THIRD EDITION
 
-The second edition having in turn gone out of print in 1962, a third edition has become necessary. | have taken advantage of this opportunity to bring up to date a work that was greatly in need of it. Since the end of the war, numerous studies devoted to Southeast Asia have greatly advanced our knowledge of its past. | was thus obliged to enlarge the bibliographic references and, above all, to rewrite completely a number of sections that, as originally written, no longer reflected the present state of research. I hope that, in fifteen years or so, this third edition will in its turn be made obsolete by the progress made by an increasing number of scholars attracted to the study of the Indianized states, whose history | believe | was the first to synthesize.1
+The second edition having in turn gone out of print in 1962, a third edition has become necessary. | have taken advantage of this opportunity to bring up to date a work that was greatly in need of it. Since the end of the war, numerous studies devoted to Southeast Asia have greatly advanced our knowledge of its past. | was thus obliged to enlarge the bibliographic references and, above all, to rewrite completely a number of sections that, as originally written, no longer reflected the present state of research. I hope that, in fifteen years or so, this third edition will in its turn be made obsolete by the progress made by an increasing number of scholars attracted to the study of the Indianized states, whose history | believe | was the first to synthesize. [^1]
 
-Paris, November 1963 EDITOR’S NOTE
+Paris, November 1963
+
+## EDITOR’S NOTE
 
 It would be difficult to overestimate the contribution of George Coedès to the field of Southeast Asian studies. He is revered by other scholars in the field as the unchallenged dean of Southeast Asian classical scholarship. Since 1904 a truly prodigious and uninterrupted flow of articles, books, and papers on various aspects of early Southeast Asian history has issued from his pen: he has discovered and translated primary materials (inscriptions and annals in Pali, Sanskrit, Cambodian, Thai); he has interpreted the meaning of these materials in approximately two hundred scholarly articles; and he has synthesized his own work and that of his colleagues by writing integrated, readable accounts for specialists and the general public. Any one of his many epochal discoveries would be regarded as the proudest achievement of many a scholar.
 
 Coedes' primary interest has been in the history of the Khmer Empire. His contribution here has been to supply a reliable historical chronology and an incisive delineation of the nature of Khmer kingship and other traditional Khmer institutions. What we know of ancient Cambodia stems predominantly from the work of Coedes. In other areas of Southeast Asia, Coedes is most famous for his pioneer depiction of the origin of Sukhothai, the first historical kingdom of Thailand, and his dramatic identification, in 1918, of the name, geographical scope, and importance of the ancient Indonesian empire of Srivijaya. His discovery of Srivijaya has been called, by Paul Wheatley, “possibly the most significant contribution ever made to the progress of Southeast Asian history.”
 
-Coedés’ major work of synthesis is his study Les États hindouisés d'indochine et d'Indonésie, here translated, that covers the period from approximately A.D. 1 to A.D. 1500. This work has been universally acclaimed and—the surest proof of its impact —heavily relied on by all later scholars. Revised by Coedés in 1964, it is the basic text for all those who seek to understand viii
-
-Editor's Note
-
-Southeast Asia—not only its ancient past but also its immediate present—for the Southeast Asia of today cannot be understood without a knowledge of the traditional values and institutions, which remain vital and which present leaders seem increasingly to esteem as a guide to the future.
+Coedés’ major work of synthesis is his study Les États hindouisés d'indochine et d'Indonésie, here translated, that covers the period from approximately A.D. 1 to A.D. 1500. This work has been universally acclaimed and—the surest proof of its impact —heavily relied on by all later scholars. Revised by Coedés in 1964, it is the basic text for all those who seek to understand Southeast Asia—not only its ancient past but also its immediate present—for the Southeast Asia of today cannot be understood without a knowledge of the traditional values and institutions, which remain vital and which present leaders seem increasingly to esteem as a guide to the future.
 
 A few notes on editorial policy may be in order for those who wish to compare the translation with the French original. The aim throughout has been to adhere scrupulously to the meaning of the original text. The format of Coedés’ footnotes has been modified: full citations of sources have been provided for first references in each chapter; titles frequently referred to have been abbreviated, and a key to.all abbreviations has been supplied. All quotations from English sources have been searched and supplied as they appear in the original quoted material. A few minor editorial changes have been made for the sake of clarity. Finally, the entire English text has been submitted to Professor Coedés, and approved by him.
 
 A note on the system of transliteration used: An attempt has been made to adhere to the spirit of Coedés’ transcription of Indian, Chinese, and Southeast Asian words and names—that is, to use as simplified a system as possible consistent with good usage. Many common geographic and other terms (e.g., Mekong, Vishnu, Mahayana) have been given in the spellings that appear in standard dictionaries. Tonal marks are not indicated for Chinese, Vietnamese, Burmese, or Thai. For most words and names the following systems were used as guides: for Chinese, the Wade-Giles system; for Vietnamese, the standard quoc-ngu; for Thai, the system recommended by the Royal Institute of Thailand in 1941; for Sanskrit and Pali, the system used by most Indologists.
 
-WALTER F. VELLA Honolulu, Hawaii July 12, 1967 CONTENTS
+WALTER F. VELLA
 
-Page Introduction XV . The Land and Its Inhabitants 3 1. Geographic Sketch 2. Prehistory 3. Austro-Asiatic Civilization 4. Ethnological Outline Indianization 14
+Honolulu, Hawaii July 12, 1967
 
-1. Definition of Indianization 2. First Evidence of the Indianization of Farther India 3. The Causes of Indian Expansion 4. How the First Indian Establishments.Were Formed 5. The Points of Departure and the Routes of Indian Expansion 6. The Degree of Penetration
+## Introduction
 
-of Indian Civilization into the Autochthonous Societies
-
-The First Indian Kingdoms 36 (FROM THEIR ORIGINS TO THE MIDDLE OF THE FOURTH CENTURY)
-
-1. The Beginnings of Funan (First Century A.D.) 2. The Indian States of the Malay Peninsula in the First Centuries of the Christian Era
-
-3. Funan (Second to Third Centuries) 4. The Beginnings of Champa: Lin-yi (from the End of the Second to the Middle of the Fourth Centuries)
-
-. The Second Indianization 46
-
-(FROM THE MIDDLE OF THE FOURTH CENTURY TO THE MIDDLE OF THE SIXTH CENTURY)
-
-1. Funan: Reign of the Indian Chan-t'an (357) 2. Champa: The First Sanskrit Inscriptions of Bhadravarman (Third Quarter of the Fourth Century) 3. The States of the Malay Peninsula and Indonesia from the Fourth to the Sixth Centuries 4. The Resumption of Indian Emigration and the Second Indianization of Funan in the Fifth Century 5. Champa from the End of the Fourth Century to 472 6. The Last Kings of Funan (480-550); Champa from 484 to 529 7. The Oldest Evidence of the Pyus of the Irrawaddy and the Mons of the Menam
-
-The Dismemberment of Funan 65
-
-(FROM THE MIDDLE OF THE SIXTH CENTURY TO THE END OF THE SEVENTH CENTURY)
-
-1. The End of Funan and the Beginning of Cambodia or Chenla (550-630) 2. Champa from 529 to 686 3. Pre-Angkorian Cambodia VI.
-
-VII.
-
-VIII.
-
-ax.
-
-Contents
-
-Page
-
-(635-85) 4. The Mon Kingdom of Dviravati 5. The Pyu Kingdom of Srikshetra 6. The States of the Malay Peninsula in the Seventh Century 7. Indonesia: Ho-ling in Java and Maläyu in Sumatra
-
-The Rise of Srivijaya, The Division of Cambodia, and the Appearance of the Sailendras in Java 81
-
-(FROM THE END OF THE SEVENTH CENTURY TO THE BEGINNING OF THE NINTH CENTURY)
-
-1. The Beginnings of the Kingdom of Srivijaya (End of the Seventh Century) 2. The Division of Cambodia: Land Chenla and Water Chenla (Beginning of the Eighth Century) 3. Dväravati and Srikshetra in the Eighth Century 4. Java: Sanjaya (732) and the Buddhist Sailendras (End of the Eighth Century} 5. Cambodia: The Two Chenlas (Second Half of the Eighth Century) 6. Southern Champa,
-
-or Huan-wang (Second Half of the Eighth Century) 7. Burma: Conquest by Nanchao (around 760) and the Decline of Prome 8. The Expansion of Mahayana Buddhism in the Eighth Century
-
-Foundation of the Kingdom of Angkor; The Sailendras in Sumatra 97 (FIRST THREE QUARTERS OF THE NINTH CENTURY)
-
-1. The Beginnings of the Kingdom of Angkor: Jayavarman II (802-50) 2. Southern Champa: Panduranga from 802 to 854 3. Burma: Kingdoms of P'iao and Mi-ch’en; Foundation of Pegu (Hamsavati
-
-in 825 and of Pagan (Arimaddanapura) in 849 4. The Malay Peninsula 5. The Sailendras in Java and Sumarta from 813 to 863
-
-The Flowering of the Kingdoms of Angkor
-
-and Srivijaya 110 (FROM THE END OF THE NINTH CENTURY TO THE BEGINNING OF THE ELEVENTH CENTURY)
-
-1. The Kingdom of Angkor (877-1001) 2. The Cham Dynasty of Indrapura 3. The Javanese Kingdom of Mataram 4. San-fo-ch'i, or the Sumatran Kingdom of Srivijaya 5. Burma
-
-Three Great Kings: Siryavarman | in Cambodia, Airlanga in Java, and Anôratha in Burma 134 (FIRST THREE QUARTERS OF THE ELEVENTH CENTURY)
-
-1. Cambodia: Suryavarman | (1002-50) and the Expansion to the West; Udayadityavarman II (1050-66) 2. Champa from 1000 to 1074
-
-3. Srivijaya and Its Relations with the Cholas of Tanjore (1003-30)
-
-4. Java: Airlanga (1016-49) 5. Srivijaya and the Cholas (1067-69)
-
-6. Burma: Anératha (1044-77)
-
-. The Mahidharapura Dynasty of Cambodia, the Pagan
-
-Dynasty of Burma, and Javanese Kingdom of Kadiri 152
-
-(END OF THE ELEVENTH CENTURY AND FIRST THREE QUARTERS OF THE TWELFTH CENTURY)
-
-1. Cambodia: The First Kings of the Mahidharapura Dynasty (10801112) 2. Champa from 1074 to 1113 3. Burma: The Kings of Pagan, Contents xi
-
-Page
-
-Successors of Anératha (1077-1112) 4. Indonesia from 1078 to 1109; The Kingdom of Kadiri 5. Cambodia from the Accession of Suryavarman Il (1113) to the Taking of Angkor by the Chams (1177) 6. Champa from 1113 to 1177 7. Burma from 1113 to 1173
-
-8. Indonesia from 1115 to 1178: The Kingdom of Kadiri
-
-XI. Cambodia at the Height of Its Power; The Introduction of Singhalese Buddhism in Burma; and the Javanese Kingdom of Singhasari | 169
-
-(LAST OUARTER OF THE TWELFTH CENTURY AND THE FIRST TWO THIRDS OF THE THIRTEENTH CENTURY)
-
-1. Cambodia: Jayavarman VII (1181-ca. 1218) and the Annexation of Champa 2. Burma: Narapatisithu (1173-1210) and the Introduction
-
-of Singhalese Buddhism 3. Indonesia at the End of the Twelfth Century: The Weakening of Srivijaya (Palembang) to the Benefit of Malayu (Jambi) 4. Cambodia in the First Half of the Thirteenth Century 5. Champa after the End of the Khmer Occupation (122057) 6. Burma: The Last Kings of Pagan (1210-74) 7. Srivijaya on the Eve of Its Dismemberment (1225-70) 8. Java: The End of the Kingdom of Kadiri (1222) and the Beginning of the Kingdom of Singhasari (up to 1268)
-
-XII. The Repercussions of the Mongol Conguests 189 (LAST THIRD OF THE THIRTEENTH CENTURY)
-
-1. The Thai 2. Cambodia: Defeat of a Mongol Incursion in 1282
-
-3. Champa: The Mongol Invasion (1283-85) 4. Burma: From 1271
-
-to the Seizure of Pagan by the Mongols (1287) 5. The Liberation of the Thai of the Menam in the Second Half of the Thirteenth Century: The Beginnings of the Kingdom of Sukhothai (from around 1220 to 1292) 6. Java: The End of the Kingdom of Singhasari (1269-92); the Mongol Expedition of 1293; and the Foundation of the Kingdom of Majapahit 7. Sumatra and Its Dependencies at the Time of Marco Polo; the Beginnings of Islam 8. The Thai Kingdom of Sukhothai
-
-at the End of the Thirteenth Century: Rama Khamhaeng 9. The Thai Kingdom of Lan Na: Foundation of Chiangmai (1296) 10. The Thai in Burma at the End of the Thirteenth Century 11. Cambodia at the End of the Thirteenth Century: Account of Chou Ta-kuan (1296)
-
-12. Champa at the End of the Thirteenth Century
-
-XIII. The Decline of the Indian Kingdoms 218 (FIRST HALF OF THE FOURTEENTH CENTURY)
-
-1. The End of the Thai Kingdom of Sukhothai and the Founding of Ayutthaya (1350) 2. The Founding of the Laotian Kingdom of Lan Chang (1353) 3. The Thai Kingdom of Lan Na 4. Burma under the Domination of the Thai 5. Cambodia: The Last Kings Mentioned in Epigraphy 6. Champa 7. The Malay Peninsula and Sumatra: The Spread of Islam 8. Java: The Kingdom of Majapahit to the Accession of Hayam Wuruk (1350) xii Contents
-
-Page
-
-XIV. The End of the Indian Kingdoms 235
-
-(FROM THE MIDDLE OF THE FOURTEENTH CENTURY TO THE SEIZURE OF MALACCA BY THE PORTUGUESE IN 1571)
-
-1. Cambodia: From 1350 to the Abandonment of Angkor in the Middle of the Fifteenth Century 2. Champa: From the Accession of Ché Bong Nga (1360) to the Final Abandonment of Vijaya (1471) 3. Java: From the Accession of Hayam Wuruk (Rajasanagara) in 1350 to the End of the Kingdom of Majapahit around 1520: 4. Sumatra: The Heirs of the Old Kingdom of the Maharaja in the Fourteenth Century
-
-5. Malacca: From Its Foundation in 1403 to Its Seizure by the Portuguese in 1511
-
-Conclusion . 247 Abbreviations Used in Notes 257 Notes 259
-
-Index 371 ILLUSTRATIONS
-
-endsheets
-
-General Map of Southeast Asia
-
-other maps and charts following text Cambodia Indochinese Peninsula
-
-Indochinese Peninsula, Ancient Place Names and Archaeological Sites
-
-Indonesia and Malaysia Central and Eastern Java Genealogy of the Kings of Majapahit
-
-Genealogy of the Kings of Cambodia INTRODUCTION
-
-The present volume complements the one which Louis de La Vallée-Poussin contributed to the Histoire du monde series in 1935 under the title Dynasties et histoire de I'Inde depuis Kanishka jusqu’aux invasions musulmanes (Vol. VI, Part 2). The present work is announced there (p. 296) and is to some extent anticipated there by substantial notes and bibliographic references (Appendix 2: Navigation et colonisation, pp. 291-97). Perhaps | should have followed the same method as La Vallée-Poussin, offering readers a simple outline accompanied by critical notes and, when possible, glimpses of the whole. The historical study of Southeast Asia is even less advanced than that of India, and it might seem premature to attempt to produce an unbroken and coherent narrative from incomplete information.’ | have, nevertheless, tried to do this, for my purpose is less to produce a history presenting all the details than to offer a synthesis showing how the various elements of the history are related.
+The present volume complements the one which Louis de La Vallée-Poussin contributed to the Histoire du monde series in 1935 under the title Dynasties et histoire de I'Inde depuis Kanishka jusqu’aux invasions musulmanes (Vol. VI, Part 2). The present work is announced there (p. 296) and is to some extent anticipated there by substantial notes and bibliographic references (Appendix 2: Navigation et colonisation, pp. 291-97). Perhaps I should have followed the same method as La Vallée-Poussin, offering readers a simple outline accompanied by critical notes and, when possible, glimpses of the whole. The historical study of Southeast Asia is even less advanced than that of India, and it might seem premature to attempt to produce an unbroken and coherent narrative from incomplete information.’ I have, nevertheless, tried to do this, for my purpose is less to produce a history presenting all the details than to offer a synthesis showing how the various elements of the history are related.
 
 The geographic area here called ‘Farther India’ consists of Indonesia, or island Southeast Asia except for the Philippines; and the Indochinese Peninsula, or India beyond the Ganges, including the Malay Peninsula. Excluded are Assam, which is simply an extension of India and Bengal, and northern Vietnam, whose history developed outside Indian influence.
 
