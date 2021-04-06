@@ -1,30 +1,18 @@
-LOT ) 5 3
+# The Kapitan Cina of Batavia | 1837 - 1942
 
-The Kapitan Cina of Batavia | 1837 - 1942
+Mona Lohanda
 
-MONA LOHANDA
+Presented to the School of Oriental and African Studies University of London for the Degree of Master of Philosophy January 1994
 
-Presented to the School of Oriental and African Studies University of London for the Degree of Master of Philosophy January 1994 ProQuest Number: 11010540
+ProQuest Number: 11010540
 
-All rights reserved
+the Dutch East Indies administration, and the role played by the Chinese officers in their own community. The Chinese inhabitants of Batavia and the Dutch practice of segregation are considered in chapter 1, devoted to describing the plurality of Batavia’s population under the VOC. Chapter 2 traces the original concept of the kapitan system, dating back to the pre-colonial indigenous kingdoms of the archipelago. It indicates that the kapitan institution was an indigenous arrangement, later adopted by western colonists to rule the non-indigenous inhabitants of the colony. The main focus of this study is in the last five chapters. Chapter 3 examines the establishment of the kapitan Cina, or Chinese officers, its nature, structure and relationships with the local authority of Batavia. The Chinese officers were members of the Chinese Council through which the local Chinese administration was performed. This is considered in chapter 4, on the Chinese Council. Chapter 5 considers the role of the Chinese officers in the context of the Chinese movement from the early twentieth century, and the changing attitude of the Dutch towards the Chinese. Given that Chinese officers were wealthy members of their community, given the significant role played by the Chinese in the colonial economy, the economy aspect of the Chinese officership is discussed in chapter 6, which also examines the peculiar position of Batavia in Dutch economic policy and practice. The last chapter discusses the Dutch plan to abolish the institution of the Chinese officers in Java and Madura, except the Batavian Chinese officers.
 
-INFORMATION TO ALL USERS The quality of this reproduction is dependent upon the quality of the copy submitted.
+## Content
 
-Inthe unlikely event that the author did not send a complete manuscript and there are missing pages, these will be noted. Also, if material had to be removed, a note will indicate the deletion.
+Abstract 2
 
-ProQuest.
-
-ProQuest 11010540 Published by ProQuest LLC (2018). Copyright of the Dissertation is held by the Author.
-
-All rights reserved. This work is protected against unauthorized copying under Title 17, United States Code Microform Edition © ProQuest LLC.
-
-ProQuest LLC.
-
-789 East Eisenhower Parkway P.O. Box 1346
-
-Ann Arbor, MI 48106 — 1346 ABSTRACT
-
-This study examines the kapitan Cina institution in Batavia, its place in the Dutch East Indies administration, and the role played by the Chinese officers in their own community. The Chinese inhabitants of Batavia and the Dutch practice of segregation are considered in chapter 1, devoted to describing the plurality of Batavia’s population under the VOC. Chapter 2 traces the original concept of the kapitan system, dating back to the pre-colonial indigenous kingdoms of the archipelago. It indicates that the kapitan institution was an indigenous arrangement, later adopted by western colonists to rule the non-indigenous inhabitants of the colony. The main focus of this study is in the last five chapters. Chapter 3 examines the establishment of the kapitan Cina, or Chinese officers, its nature, structure and relationships with the local authority of Batavia. The Chinese officers were members of the Chinese Council through which the local Chinese administration was performed. This is considered in chapter 4, on the Chinese Council. Chapter 5 considers the role of the Chinese officers in the context of the Chinese movement from the early twentieth century, and the changing attitude of the Dutch towards the Chinese. Given that Chinese officers were wealthy members of their community, given the significant role played by the Chinese in the colonial economy, the economy aspect of the Chinese officership is discussed in chapter 6, which also examines the peculiar position of Batavia in Dutch economic policy and practice. The last chapter discusses the Dutch plan to abolish the institution of the Chinese officers in Java and Madura, except the Batavian Chinese officers. CONTENT page Abstract 2 Acknowledgement 5 Preface 7 Notes on Transliteration 12 1 The Population of Batavia under the VOC, 1619-1800 13 The Background 13 The Vreemde Oosterlingen or Foreign Asiatics 17 The Natives 39 From Kasteelplein to Waterlooplein 44 2 The Early History of the Kapitan System 48 The Sources 49 The Sahbandar 54 The Early Kapitan of Batavia 66 3 The Institution of Chinese Officers 72 The Structure of the Institution 75 The Chinese Officers 85 The Chinese Administration and the Local Authority of Batavia 100 4 The Chinese Council of Batavia 105 The Establishment 106 The Management of Chinese Affairs 108 The Council and its Financial Management 116 The Council and the Officers 123 5 The Officers and the Chinese Political Movement 131 The Tiong Hoa Hwee Koan 134 The Chung Hwa Hui 151 The People's Council and the Question of Netherlands Subjects 168
+Acknowledgement 5 Preface 7 Notes on Transliteration 12 1 The Population of Batavia under the VOC, 1619-1800 13 The Background 13 The Vreemde Oosterlingen or Foreign Asiatics 17 The Natives 39 From Kasteelplein to Waterlooplein 44 2 The Early History of the Kapitan System 48 The Sources 49 The Sahbandar 54 The Early Kapitan of Batavia 66 3 The Institution of Chinese Officers 72 The Structure of the Institution 75 The Chinese Officers 85 The Chinese Administration and the Local Authority of Batavia 100 4 The Chinese Council of Batavia 105 The Establishment 106 The Management of Chinese Affairs 108 The Council and its Financial Management 116 The Council and the Officers 123 5 The Officers and the Chinese Political Movement 131 The Tiong Hoa Hwee Koan 134 The Chung Hwa Hui 151 The People's Council and the Question of Netherlands Subjects 168
 
 The Early Chinese Turbulences of 1912-1913 186 6 The Chinese Economy of Batavia 205 Batavia Revenue-Farms 206 The Chinese Officers and Revenue Farming 221 Batavia's Private Lands 233 Dutch Policy of Private Land Repurchase 252 7 The End of the Chinese Officers 261 The Heart of the Matter 261 The Dutch Government's View and Plan 265 The Chinese Response 270 Measures for Measures 279 Batavia: the Exception 288 Concluding Remarks 299
 
@@ -32,17 +20,17 @@ Bibliography 301 ACKNOWLEDGMENT
 
 To write a thesis and finish it, no one can make it by her own, as there are many individuals who helped in one way or another.
 
-The first | would like to mention here is Dr lan G Brown, who acted as my supervisor and in many instances provided a valuable critical corrective to my blurred speculative hypotheses. | am deeply impressed by his patience and understanding during my work under his supervision.
+The first | would like to mention here is Dr lan G Brown, who acted as my supervisor and in many instances provided a valuable critical corrective to my blurred speculative hypotheses. I am deeply impressed by his patience and understanding during my work under his supervision.
 
-| would also like to record my thanks to my teacher, Bapak Professor Harsya W Bachtiar, who constantly inspires me to take interest in the study of the peranakan in Indonesian history. Without his gentle persuasion I might not discover the true meaning of my cultural identity. To Ibu Soemartini and Mas Alan Feinstein, | owe my deep gratitude. Without their support and encouragement | might not have reached the final step of this work.
+I would also like to record my thanks to my teacher, Bapak Professor Harsya W Bachtiar, who constantly inspires me to take interest in the study of the peranakan in Indonesian history. Without his gentle persuasion I might not discover the true meaning of my cultural identity. To Ibu Soemartini and Mas Alan Feinstein, I owe my deep gratitude. Without their support and encouragement I might not have reached the final step of this work.
 
-Many other people have helped me at various stages of my research. It would be impossible to enumerate them all here. | would, however, particularly like to express my gratitude to Pak The Siauw Giap, who made valuable suggestions in the formative stage of my research; to Ulrich Kratz, Mary F Somers, Claudine Salmon and Annabel Teh Gallop, who read through some parts of the draft and helped me to clarify my arguments. To Frits Jaquet and Jaap Erkelens, who always answer my incessant requests for more and more materials, | am endlessly thankful. Selina Rand gave her great assistance in editing and correcting my English. | am also very grateful to Agung Putra and his staff at the Audio-Visual Archives, Arsip Nasional Jakarta. Their understanding and loyalty keep all my worries away.
+Many other people have helped me at various stages of my research. It would be impossible to enumerate them all here. I would, however, particularly like to express my gratitude to Pak The Siauw Giap, who made valuable suggestions in the formative stage of my research; to Ulrich Kratz, Mary F Somers, Claudine Salmon and Annabel Teh Gallop, who read through some parts of the draft and helped me to clarify my arguments. To Frits Jaquet and Jaap Erkelens, who always answer my incessant requests for more and more materials, I am endlessly thankful. Selina Rand gave her great assistance in editing and correcting my English. I am also very grateful to Agung Putra and his staff at the Audio-Visual Archives, Arsip Nasional Jakarta. Their understanding and loyalty keep all my worries away.
 
-My study at the School of Oriental and African Studies, London, would not be accomplished without the generosity of the Ford Foundation and the British Council. | would like to express my gratitude for their financial assistance. 6
+My study at the School of Oriental and African Studies, London, would not be accomplished without the generosity of the Ford Foundation and the British Council. I would like to express my gratitude for their financial assistance. 6
 
-| am thankful to the Arsip Nasional, Jakarta, the Library of the Koninklijk Instituut voor de Taal-Land-en Volkenkunde, Leiden and the Algemeen Rijksarchief, The Hague, for making their materials available to me.
+I am thankful to the Arsip Nasional, Jakarta, the Library of the Koninklijk Instituut voor de Taal-Land-en Volkenkunde, Leiden and the Algemeen Rijksarchief, The Hague, for making their materials available to me.
 
-However, all the agonies and anguishes of so many days and nights were nothing compared to my parents’ endurance in bringing up our big family. | would like to dedicate this work to my late Papa, the most ardent nationalist in the family, and to all the Lohandas.
+However, all the agonies and anguishes of so many days and nights were nothing compared to my parents’ endurance in bringing up our big family. I would like to dedicate this work to my late Papa, the most ardent nationalist in the family, and to all the Lohandas.
 
 Finally, it goes without saying that no one can bear any responsibility for the arguments put forward in this thesis except myself.
 
@@ -52,9 +40,9 @@ The term kapitan Cina is familiar in the history of the Chinese in Southeast Asi
 
 0. In the Dutch East Indies, in Batavia in particular, the o _kapitan Cina institution lasted until the last days of Dutch rule. And whereas in other parts of Southeast Asia, such as the Straits Settlements, the Kapitan Cina was an unofficial position, in the Dutch East Indies it was an integral part of
 
-| the colonial administration.
+I the colonial administration.
 
-Despite the long history of their settlement in the region, studies of the Chinese of Batavia are very few: | J Moerman, In en Om de Chineesche Kamp,! J Th Vermeulen, De Chineezen te Batavia en de Troebelen van 1740,2C Salmon & D Lombard, Les Chinois des Jakarta; Temples et Vie Collective,? G J van Reenen, De Chineezen van Jakarta: Beschrijving van een Minderheidsgroep,* and L Blussé, Strange Company; Chinese Settlers, Mestizo Women and the the Dutch in VOC Batavia.5
+Despite the long history of their settlement in the region, studies of the Chinese of Batavia are very few: I J Moerman, In en Om de Chineesche Kamp,! J Th Vermeulen, De Chineezen te Batavia en de Troebelen van 1740,2C Salmon & D Lombard, Les Chinois des Jakarta; Temples et Vie Collective,? G J van Reenen, De Chineezen van Jakarta: Beschrijving van een Minderheidsgroep,* and L Blussé, Strange Company; Chinese Settlers, Mestizo Women and the the Dutch in VOC Batavia.5
 
 Moerman gives a detailed account of Chinese sociocultural life, customs and belief; almost the day-to-day life in the former Chinese quarter in Batavia. His work is a classic introduction to the study of the Chinese of Batavia. However, as the first edition was published in 1929, his views on the institution of the Chinese officers were formed when they were still the subject of lenghty debate.
 
@@ -66,7 +54,7 @@ Vermeulen's writing, which was originally a dissertation, was the first academic
 
 2 (1938. Leiden: E J Brill).
 
-3 (1980. Paris: Etudes Insulindiennes-Archipel, vol. |).
+3 (1980. Paris: Etudes Insulindiennes-Archipel, vol. I).
 
 4 (1981. Leiden: Leiden University, Institute of Cultural and Social Studies). 5 (1986. Dordrecht: Foris Publications). articles written on the subject,6 Vermeulen explained their background, noting that the massacre was a consequence of the Chinese riots inside and outside the city, and of the feuds within the Dutch VOC. It is interesting to note that Moerman had already raised the question as to how far the peranakan were involved in the riots, and were they also among the victims of the 1740 massacre in the city?” Blussé put the same subject into a wider context. He observed that the deteriorating situation, preceding the massacre, was due more to the declining socio-economic condition of the Chinese and to the failure of the Chinese officers to maintain their authority over their community. However, Blussé’s work on Batavia is not purely on the Chinese. The book is a compilation of previously published articles. Nevertheless it gives a comprehensive view of the Chinese economic networks and their relationships with the VOC authorities in Batavia. Blussé’s work is more a social history of the Batavian non-indigenous communities under the VOC, with the Chinese playing a significant role.
 
@@ -94,9 +82,9 @@ My study is therefore distinctive in terms of subject, period and the area cover
 
 10 (1990. Ithaca: Cornell University Press). 10
 
-Despite the generic term kapitan Cina, the thesis focuses on the highest position in the institution; the Chinese „major, which was first granted in Batavia in 1837 and lasted until 1942 when the colony was taken over by the Japanese. Focussing on the role of the officers exposes the political and economic dimensions of their position, not limited to their administrative function as the chiefs of the Chinese community. | The main discussion emphasizes the relationships between the Chinese officers and the Dutch, and between the officers and the Chinese community in Batavia. Examination of the relationships between the Chinese officers and the Dutch authorities shows the workings of the organization itself, and explains the position of the Chinese local administration within the Dutch East Indies administration. Examination of the relationships between the officers and the Chinese community in Batavia demonstrates the peculiarities of the Chinese in the region, mostly peranakan, and the Dutch policy of favouring them.
+Despite the generic term kapitan Cina, the thesis focuses on the highest position in the institution; the Chinese „major, which was first granted in Batavia in 1837 and lasted until 1942 when the colony was taken over by the Japanese. Focussing on the role of the officers exposes the political and economic dimensions of their position, not limited to their administrative function as the chiefs of the Chinese community. I The main discussion emphasizes the relationships between the Chinese officers and the Dutch, and between the officers and the Chinese community in Batavia. Examination of the relationships between the Chinese officers and the Dutch authorities shows the workings of the organization itself, and explains the position of the Chinese local administration within the Dutch East Indies administration. Examination of the relationships between the officers and the Chinese community in Batavia demonstrates the peculiarities of the Chinese in the region, mostly peranakan, and the Dutch policy of favouring them.
 
-As the Chinese local administration was an integral part of Dutch local government in Batavia, my study greatly relies upon Dutch archives and records. | used the correspondence between the Batavia local authorities and the Dutch East Indies central government offices, particularly the office of the Governor-General, the Department of Home Affairs and the Advisor for Chinese Affairs.
+As the Chinese local administration was an integral part of Dutch local government in Batavia, my study greatly relies upon Dutch archives and records. I used the correspondence between the Batavia local authorities and the Dutch East Indies central government offices, particularly the office of the Governor-General, the Department of Home Affairs and the Advisor for Chinese Affairs.
 
 Chinese matters were taken seriously by the Dutch East Indies government: Dutch records and archives on the Chinese are fairly extensive. This is shown in the richness of the Algemeen Secretarie collection, which preserves papers of the office of Dutch governor-generals. The Binnenlands-Bestuur collection holds papers of the Department of Home Affairs and the office of the Advisor for Chinese Affairs. The archives of Batavia and Tangerang holds papers, reports on local matters, even letters from the members of the community. 11
 
@@ -106,11 +94,11 @@ To seek a comparatively fair point of view, my reliance on Dutch sources is bala
 
 NOTES ON TRANSLITERATION
 
-For Chinese peranakan names, as they are of Hokkien origin, | have used the Hokkien spelling, as written in the Dutch archives, in order not to confuse the reader with modern Mandarin spellings.
+For Chinese peranakan names, as they are of Hokkien origin, I have used the Hokkien spelling, as written in the Dutch archives, in order not to confuse the reader with modern Mandarin spellings.
 
 Names of districts, especially in Batavia, are as employed by contemporaries; thus Weltevreden, Molenvliet, Meester-Cornelis, Buitenzorg.
 
-| have used the local terms ‘peranakan’, ‘singkeh-totok’, ‘sahbandar’, ‘kapitan Cina’ in their original forms. 1 THE POPULATION OF BATAVIA UNDER THE VOC, 1619-1800
+I have used the local terms ‘peranakan’, ‘singkeh-totok’, ‘sahbandar’, ‘kapitan Cina’ in their original forms. 1 THE POPULATION OF BATAVIA UNDER THE VOC, 1619-1800
 
 The Background
 
@@ -170,7 +158,7 @@ The Chinese. When the first Dutch fleet under the commander of Cornelis de Houtm
 
  
 
-7 Benteng was the earliest Dutch fort on the east bank of the Ciliwung river, located next to the oldest Chinese settlement. The natives of Batavia called these Chinese, Cina-Benteng, which when used by the present-day Orang Betawi refer to the old established peranakan Chinese on the outskirts of Jakarta, or Tangerang in particular. For the establishment of this Dutch fort, see J.A. van der Chijs, De Nederlanders te Jakatra (1860. Amsterdam: Frederick Muller), p. 10, and for the Chinese settlement, see “Chronologisch Geschiedenis van Batavia, geschreven door een Chinees", Tijdschrift voor Neerlands Indie, vol. |, 1842, p. 62.
+7 Benteng was the earliest Dutch fort on the east bank of the Ciliwung river, located next to the oldest Chinese settlement. The natives of Batavia called these Chinese, Cina-Benteng, which when used by the present-day Orang Betawi refer to the old established peranakan Chinese on the outskirts of Jakarta, or Tangerang in particular. For the establishment of this Dutch fort, see J.A. van der Chijs, De Nederlanders te Jakatra (1860. Amsterdam: Frederick Muller), p. 10, and for the Chinese settlement, see “Chronologisch Geschiedenis van Batavia, geschreven door een Chinees", Tijdschrift voor Neerlands Indie, vol. I, 1842, p. 62.
 
 17 Dutch called him, who ruled over a principality of the Bantam sultanate.
 
@@ -180,13 +168,13 @@ Much of the literature concerning the Chinese in Indonesia refers to the Indones
 
  
 
-8 W.P. Groeneveldt, "Notes on the Malay Archipelago and Malacca, compiled from the Chinese Sources", Verhandelingen van Bataviasch Genootschap van Kunsten en Wetenschappen, vol. XXXIX, part |, 1880. pp. 41, 47-50.
+8 W.P. Groeneveldt, "Notes on the Malay Archipelago and Malacca, compiled from the Chinese Sources", Verhandelingen van Bataviasch Genootschap van Kunsten en Wetenschappen, vol. XXXIX, part I, 1880. pp. 41, 47-50.
 
 9 H.J. de Graaf, Islamic States in Java 1500 - 1700 (1976. The Hague: Martinus Nijhoff), p. 23.
 
 10 M.C. Ricklefs, Chinese Muslims in Java in the 15th and 16th Centuries: the Malay Annals of Semarang and Cérbon (1984. Melbourne: Monash University), pp. 82, 125.
 
-11 See Regeerings Almanak voor Nederlandsch-indie 1817 -1830, and F. de Haan, Oud Batavia, vol. Il, Platen Album (1935. Bandoeng: A.Nix & Co). Other writings on this peranakan Chinese Muslim, are D. Lombards, "Une Description de la ville de Semarang", p.264; H. Chambert-Loir, "Muhammad Bakir; a Batavian Scribe and Author in the Nineteenth Century", Review of Indonesian and Malayan Affairs, vol. 18, Summer 1984, pp. 49-50, 64; E.U. Kratz, "Hikayat Raja Pasai; a Second Manuscript", Journal of the Malayan Branch of the Royal Asiatic Society, part |, 1989, pp. 1-2.
+11 See Regeerings Almanak voor Nederlandsch-indie 1817 -1830, and F. de Haan, Oud Batavia, vol. Il, Platen Album (1935. Bandoeng: A.Nix & Co). Other writings on this peranakan Chinese Muslim, are D. Lombards, "Une Description de la ville de Semarang", p.264; H. Chambert-Loir, "Muhammad Bakir; a Batavian Scribe and Author in the Nineteenth Century", Review of Indonesian and Malayan Affairs, vol. 18, Summer 1984, pp. 49-50, 64; E.U. Kratz, "Hikayat Raja Pasai; a Second Manuscript", Journal of the Malayan Branch of the Royal Asiatic Society, part I, 1989, pp. 1-2.
 
 18 The Chinese settlement in the principality of Jakarta was located on the east bank of the Ciliwung river, and apparently it was administered by its own chieftain, Watting.!2 In January 1611, a contract was made between Jacgues I'Hermite and Pangeran Ariawijaya Krama to purchase an area of land of 50 square 'vadem' (fathom) which was located near the Chinese settlement in Jakarta. The price agreed was 1,200 reals (about 3,000 guilders), after which the Dutch began to build a small factory at the mouth of the Ciliwung river. From this time onwards, Dutch penetration and domination was to become an undeniable part of the modern history of Indonesia and in the city of Batavia.
 
@@ -210,7 +198,7 @@ According to statistics in the Daghregister gehouden van 't Casteel Batavia [Dai
 
  
 
-13 Cited in J.Moerman, De Chineezen in Nederlandsch-Oost-Indie (1933. Groningen: P.Nordhoff), p. 7, and F. de Haan, Oud Batavia, vol. |, p. 10.
+13 Cited in J.Moerman, De Chineezen in Nederlandsch-Oost-Indie (1933. Groningen: P.Nordhoff), p. 7, and F. de Haan, Oud Batavia, vol. I, p. 10.
 
 14 B. Hoetink, "So Bing Kong; Het Eerste Hoofd der Chineezen", p. 350.
 
@@ -228,7 +216,7 @@ Other emigrants came from the Kwantung province (called Hakka), from Canton (cal
 
 21 lam. The Chinese from Formosa migrated via Hoenan and worked in the Indies as teachers in Chinese schools.
 
-The fact that the Chinese migrants came from the southern provinces of China and that they originated from different areas and spoke different dialects was reflected in the diverse effects of their cultures within IndonesianChinese society. |
+The fact that the Chinese migrants came from the southern provinces of China and that they originated from different areas and spoke different dialects was reflected in the diverse effects of their cultures within IndonesianChinese society. I
 
 Subsequent generations of Chinese migrants were mostly concentrated in the Outer Islands, such as Sumatra and Borneo. As they came in the nineteenth and early twentieth centuries, these Chinese were fittingly called singkeh which means new visitor or guest in the Hokkien dialect. In contrast with the early generations of Chinese emigrants who independently found occupations in the Indies, these later generations (who were coming up until the 1930's) were mostly bound by contract to large-scale agricultural enterprises in Sumatra and mining in Borneo. They provided abundant manpower for tobacco and rubber plantations in Deli and Riau, mining in Bangka-Biliton and on the west coast of Borneo. Those areas saw a big concentration of singkeh, especially in West-Borneo (Pontianak, Singkawang, Sambas, Landak, Mapawa and Montrado).
 
@@ -238,7 +226,7 @@ Both groups are easily distinguished. The peranakan no longer speaks Chinese and
 
 The Chinese of Batavia played a very significant role in the development of the city as they were closely involved in the VOC's economic activities, both in internal and external trade. They performed a service for the city as skilled labourers, artisans and as market-gardeners to supply the
 
-22 needs of the VOC; indeed all agriculture around Batavia depended upon the Chinese.18 |
+22 needs of the VOC; indeed all agriculture around Batavia depended upon the Chinese.18 I
 
 Even though they were the only group in the population at that time who had to the pay poll tax (hoofdgeld) for their residence in Batavia, the position of the Chinese in trade and commerce was still rather privileged. There were complaints from 270 burghers in 1647 and in 1652 saying that the Batavian government favoured the Chinese over them. With the monopolistic practices of the VOC, the freeburghers' trade became increasingly restricted, by contrast the Chinese were free to trade through their intraarchipelago and overseas networks which reached as far as China and Japan.19
 
@@ -296,7 +284,7 @@ In May 1741, Van Imhoff arrived back in Batavia, and after receiving the office 
 
  
 
-25 E.S. de Klerck, History of the Netherlands East Indies (1938. Rotterdam: W.L. & J. Brusse), vol. |, p. 363.
+25 E.S. de Klerck, History of the Netherlands East Indies (1938. Rotterdam: W.L. & J. Brusse), vol. I, p. 363.
 
 26 M.C. Ricklefs, A History of Modern Indonesia (1981. London: The Macmillan Press Ltd.), p.83.
 
@@ -352,7 +340,7 @@ Yet a popular differentiation was made by the natives, especially among the Oran
 
  
 
-32 J.M. van der Kroef, "The Arab Minority", in Indonesian in the Modern World (1954. Bandung: Masa Baru), part |, p. 250.
+32 J.M. van der Kroef, "The Arab Minority", in Indonesian in the Modern World (1954. Bandung: Masa Baru), part I, p. 250.
 
 33 Pauline D. Milone, "Queen City of the East; the Metamorphosis of a Colonial Capital” (1966. Unpublished Ph.D. dissertation. University of California, Berkeley), pp. 211-212, gives no further explanation of the origins of the name Kaum Betawi. Actually it derived from a political association called Sarekat Kaum Betawi, founded by M.H. Thamrin in May 1923.
 
@@ -372,7 +360,7 @@ The Japanese. The Japanese involvement with the Dutch probably started in 1612, 
 
 37 J.M. van der Kroef, "The Arab Minority", pp. 255-256. 38 ibid.
 
-39 F, de Haan, Oud Batavia, vol. |, p. 376.
+39 F, de Haan, Oud Batavia, vol. I, p. 376.
 
 40 ibid.
 
@@ -442,7 +430,7 @@ The Mestizo. There was a clear distinction between the Mestizo and the Mardijker
 
 In the final guarter of the eighteenth century, the name Mardijkers was no longer commonly encountered in the daily life of Batavia, it was now the Mestizo, whose culture displayed a mixture of life-styles in the Asian colonial city, a mixture in which the European was combined with many indigenous elements. This was the 'Indisch culture's? 55 John Crawfurd, A Descriptive Dictionary of the Indian Archipelago & Adjacent Countries (1971. Kuala Lumpur: Oxford University Press. First published in 1856. London), p. 324.
 
-56 F, de Haan, Oud Batavia, vol. |, p. 399.
+56 F, de Haan, Oud Batavia, vol. I, p. 399.
 
 57 See J.G. Taylor, The Social World of Batavia; European and Eurasian in Dutch Asia (1983. Madison: The University of Wisconsin Press) and Pauline D. Milone, "Indisch Culture and Its Relationship to Urban Life", Comparative Studies in Society and History, no. IX, July 1967, pp.407-426.
 
@@ -458,7 +446,7 @@ It is generally agreed that the present Orang Betawi, the original Batavia/Jakar
 
  
 
-58 F. de Haan, Oud Batavia, vol. |, p. 422.
+58 F. de Haan, Oud Batavia, vol. I, p. 422.
 
 39 formation of this ethnic group took place after the arrival of the Western powers and also Asian visitors involved in the coastal trade of Java, leading to the emergence of the Orang Betawi by the mid-nineteenth century. The vocabulary of their mother tongue consists of words from Javanese and Sundanese, Balinese, Dutch, Portuguese, Chinese and Arabic. Its grammatical structure, thought to be based on low or bazaar-Malay, has the affix in, deriving from Balinese.59 The present Bahasa Indonesia is regarded as bahasa MelayuTinggi (high Malay) by the common Orang Betawi, despite sharing a related linguistic root, Malay.
 
@@ -470,7 +458,7 @@ To discuss the main elements in shaping the Orang Betawi, one has to consider th
 
  
 
-59 C. Lekkerkerker, “De Baliers van Batavia", De Indische Gids, vol. |, 1918, p. 412. 60 For further information see Paul W. van der Veur, "Cultural Aspects of
+59 C. Lekkerkerker, “De Baliers van Batavia", De Indische Gids, vol. I, 1918, p. 412. 60 For further information see Paul W. van der Veur, "Cultural Aspects of
 
 the Eurasian Community in Indonesian Colonial Society”, Indonesia, no. 6, October 1968, pp. 38-53.
 
@@ -516,7 +504,7 @@ The obvious Javanese and Sundanese influences, especially in the Betawi language
 
 67 P.A. Leupe, "Dapper Gedrag van den Commandant der Sumbawareezen, Abdullah te Batavia 1800", BKI, vol. 3, 1879, pp. 337-338.
 
-68 F. de Haan, Oud Batavia, vol. |, p. 375. 69 Encyclopaedie van Nederlandsch-Indie, vol. |, p. 186.
+68 F. de Haan, Oud Batavia, vol. I, p. 375. 69 Encyclopaedie van Nederlandsch-Indie, vol. I, p. 186.
 
 70 See E.S. Ekadjati, Ceritera Dipati Ukur: Karya Sastra Sejarah Sunda (1982. Jakarta: Pustaka Jaya).
 
@@ -534,7 +522,7 @@ A port city such as Batavia could achieve growth only if the surrounding country
 
  
 
-71 F, de Haan, Oud Batavia, vol. |, p. 369.
+71 F, de Haan, Oud Batavia, vol. I, p. 369.
 
 72 This square was named by Governor-General H.W. Daendels (18031811) in memory of the battle of Waterloo.
 
@@ -548,7 +536,7 @@ The Company also suffered from pirate attacks in Indonesian waters, which damage
 
 73 L. Blussé, Strange Company, p. 25. 74 M.C. Ricklefs, A History of Modern Indonesia, p. 83.
 
-75 ES. de Klerck, History of the Netherlands East Indies, vol. |, p.429; L. Blussé, op. cit, p.20.
+75 ES. de Klerck, History of the Netherlands East Indies, vol. I, p.429; L. Blussé, op. cit, p.20.
 
 45 English caused the loss of valuable cargos, and for almost three years before 1800 no vessels, troops or funds arrived76, the Company could hardly continue trading without the support of the home country.77
 
@@ -558,11 +546,11 @@ It is interesting to note that the end of VOC rule in Batavia was also marked by
 
  
 
-76 E.S. de Klerck, op. cit., vol. |, p. 429.
+76 E.S. de Klerck, op. cit., vol. I, p. 429.
 
 77 Clive Day, The Policy and Administration of the Dutch in Java (1966. Kuala Lumpur: Oxford University Press. First published in 1904. London: The MacMillan & Co.Ltd.), p.75.
 
-78 E.S. de Klerck, op. cit., vol. |, p. 429. 79 Ibid., p. 433.
+78 E.S. de Klerck, op. cit., vol. I, p. 429. 79 Ibid., p. 433.
 
 46 identified with the middle-class, those between the sovereign ruler and the ruled.80
 
@@ -598,7 +586,7 @@ years of the coastal kingdoms or port cities of the archipelago. This involves e
 
 The Sources
 
-The archipelago at that time is understood to cover the states along the Malacca Straits, through to the eastern parts of contemporary Indonesia. The sources originating from those coastal kingdoms, consist of Malay traditional writings, particularly those with a historical emphasis such as sejarah, syair,6 salasilah, tarikh and hikayat. Unfortunately, these traditional writings cannot be counted as sources for the establishment of the sahbandar. Sejarah, salasilah, tarikh, hikayat are literary forms mainly devoted to the Rajas and Sultans and their families. For the greatest part, they describe the royal surroundings, royal disputes, court life or war with other kingdoms. This is quite understandable, as such writings were executed under the Sultan's orders. Although there are sometimes a few lines relating to the trading activities of the kingdom, they do not say much about how trade was conducted or how the person in charge of foreign commerce performed his duties. | discovered this by examining the Sejarah Melayu (Sulalatus Salatina),7 Kronika Pasai 8 and Adat Raja-Raja Melayu.? Syair dealing with Dutch attacks on Makassar and Siak mentioned the involvement of the sahbandar, yet there was almost nothing on how his authority functioned.
+The archipelago at that time is understood to cover the states along the Malacca Straits, through to the eastern parts of contemporary Indonesia. The sources originating from those coastal kingdoms, consist of Malay traditional writings, particularly those with a historical emphasis such as sejarah, syair,6 salasilah, tarikh and hikayat. Unfortunately, these traditional writings cannot be counted as sources for the establishment of the sahbandar. Sejarah, salasilah, tarikh, hikayat are literary forms mainly devoted to the Rajas and Sultans and their families. For the greatest part, they describe the royal surroundings, royal disputes, court life or war with other kingdoms. This is quite understandable, as such writings were executed under the Sultan's orders. Although there are sometimes a few lines relating to the trading activities of the kingdom, they do not say much about how trade was conducted or how the person in charge of foreign commerce performed his duties. I discovered this by examining the Sejarah Melayu (Sulalatus Salatina),7 Kronika Pasai 8 and Adat Raja-Raja Melayu.? Syair dealing with Dutch attacks on Makassar and Siak mentioned the involvement of the sahbandar, yet there was almost nothing on how his authority functioned.
 
  
 
@@ -652,7 +640,7 @@ The Buginese, who are renowned seafarers, codified their maritime law in the sev
 
 relating to sea trading, navigation, ship's crews, seacaptain, shiploads, ship equipment, debt and disputes among traders, but only three of the eighteen lontaras mention the code for sahbandar.!9
 
-The sahbandar's office in the twin kingdom of Makassar (Gowa and Tello) was formerly chaired by a tumarilalang [a position similar to Bendahara in the Malay sultanate]; by the mid-sixteenth century the office of sahbandar was, for the first time, filled by an officer called | Daeng ri Mangalekana. 20
+The sahbandar's office in the twin kingdom of Makassar (Gowa and Tello) was formerly chaired by a tumarilalang [a position similar to Bendahara in the Malay sultanate]; by the mid-sixteenth century the office of sahbandar was, for the first time, filled by an officer called I Daeng ri Mangalekana. 20
 
 My examination of other Buginese traditional writings such as chronicles, diaries21 and syair (written by the Malays) did not supply much further detail on the sahbandar. The general lack of data on the sahbandar in the sources from the local harbour kingdoms led me to a more extensive examination of non-local sources - namely the accounts of the Dutch and Portuguese.
 
@@ -676,7 +664,7 @@ The word was originally derived from the Persian shahbandar which literally mean
 
  
 
-22 JE. Heeres, Corpus Diplomaticum Neerlando-Indicum, vol. |, 15961650, in BKI, no. 57, 1907, pp. 1-551; vol. Il, 1650-1675, in BKI, no. 87, 1931, pp. 1-582.
+22 JE. Heeres, Corpus Diplomaticum Neerlando-Indicum, vol. I, 15961650, in BKI, no. 57, 1907, pp. 1-551; vol. Il, 1650-1675, in BKI, no. 87, 1931, pp. 1-582.
 
 23 W.H. Moreland, "The Shahbandar in the Eastern Seas", Journal of the Royal Asiatic Society of Great Britain and Ireland, 1920, pp. 517-553; for a comment on Moreland's article, see C.O. Blagden, "Shahbandar and Bendahara", ibid., 1921, pp. 246-248.
 
@@ -694,7 +682,7 @@ Another illuminating phrase occurs in one of the BugisMakasarese lontara version
 
 27 W.H. Moreland, "The Shahbandar in the Eastern Seas", p. 517.
 
-28 William Marsden, A Dictionary and Grammar of the Malayan Language (1984. Singapore: Oxford University Press. First published in 1812. London), vol. |, p. 200.
+28 William Marsden, A Dictionary and Grammar of the Malayan Language (1984. Singapore: Oxford University Press. First published in 1812. London), vol. I, p. 200.
 
 29 Raja Haji Ahmad & Raja Ali Haji, Tuhfat-al-Nafis , edited by V. Matheson (1982. Kuala Lumpur: Fajar Bakti), p. 164. Translation is mine. 56
 
@@ -758,7 +746,7 @@ M ke. Maka segala tuan-tuan itu pun datang mendapatkan syahbandar. Maka ditanya 
 
 39 T. Hadidjaja, Adat Raja-Raja Melayu, pp. 85-86. 40 T.J. Newbold, op. cit, vol. Il, p. 310.
 
-41 See the Malay text of the Kedah port law in R.O. Winstedt, "Kedah Law", JMBRAS, vol. VI, part Il, June 1928, pp. 15-26. | am grateful to Annabel T. Gallop for this information. 60
+41 See the Malay text of the Kedah port law in R.O. Winstedt, "Kedah Law", JMBRAS, vol. VI, part Il, June 1928, pp. 15-26. I am grateful to Annabel T. Gallop for this information. 60
 
 menjadi hamba ke bawah duli syah alam'. Setelah syahbandar mendengar kata tuan-tuan itu, maka syahbandar pun mengadap berdatang sembah, 'Ya, Tuanku Syah Alam, orang Bentan dan orang Singapura, tuanku, datang hendak mengadap ke bawah duli tuanku, maksudnya hendak menjadi hamba ke bawah duli syah alam." Maka titah baginda, 'bawa lah ia kemari." Maka syahbandar pun segera keluar. Maka segala orang Singapura itu pun hadir lah dengan segala persembahannya menantikan syahbandar datang juga. Setelah syahbandar datang, maka katanya, "Hai tuan-tuan sekalian, masuklah segera karena baginda itu suruh masuk: baginda pun sudah keluar di pengadapan
 
@@ -780,7 +768,7 @@ The sahbandar also had the duty of entertaining foreign visitors before they had
 
 44 Ibid., p. 391, when Hang Tuah landed in China. Translation is mine. 45 Ibid., pp. 394-395, 473-474, 486. Translation is mine. 46 Ibid., pp. 480 - 481. Translation is mine. 62
 
-The presentation of a cordial letter was also included in the audience given to foreign visitors, for which in some cases, the sahbandar could act as the King's interpreter. Or he might also perform the role of ‘master of ceremony’, as was the case when an audience was given to the Sultan of Aceh in June 1599: " … The sabandar tooke off my Hat, and put a roll of white linen about my head; then he put about my middle a white linen cloth that came twice about me, hanging downe halfe my legge, imbroydered with Gold ; then againe he tooke the Roll from my Head, laying it before the King, and put on a white garment upon me, and upon that againe one of red. Then putting on the Roll upon my Head, | sate downe in the Kings presence, who dranke me in Aquavitae, and made me eate of many strange meates....".47
+The presentation of a cordial letter was also included in the audience given to foreign visitors, for which in some cases, the sahbandar could act as the King's interpreter. Or he might also perform the role of ‘master of ceremony’, as was the case when an audience was given to the Sultan of Aceh in June 1599: " … The sabandar tooke off my Hat, and put a roll of white linen about my head; then he put about my middle a white linen cloth that came twice about me, hanging downe halfe my legge, imbroydered with Gold ; then againe he tooke the Roll from my Head, laying it before the King, and put on a white garment upon me, and upon that againe one of red. Then putting on the Roll upon my Head, I sate downe in the Kings presence, who dranke me in Aquavitae, and made me eate of many strange meates....".47
 
 It is not surprising that this familiarity with foreigners contributed to the sahbandar's mastery of foreign languages. As Malay was becoming the lingua franca of sea trading and commerce, a sahbandar in a non-Malay speaking region like Makassar would most probably be a Malay.48 It was Nakhoda Bonang49 who asked permission for a Malay community to settle in Makassar with various guarantees of freedom, and the first sahbandar's seat was at Mangalekana, known as the Malay kampong in Makassar.5° Schrieke also thinks that the sahbandar was usually a foreigner - presumably because of the need for a knowledge of foreign languages.s!
 
@@ -808,11 +796,11 @@ Due to the combination of his ability to communicate with foreigners and his tra
 
 53 G.J. Resink prefers to note ‘Gujarati by birth' instead of using the term ‘keling', Indonesia's History Between the Myths, pp. 215, 419.
 
-54 Corpus Diplomaticum Neerlando-indicum, vol. |, pp. 270-271.
+54 Corpus Diplomaticum Neerlando-indicum, vol. I, pp. 270-271.
 
 55 B.J.0. Schrieke, "Shifts in Political and Economic Power in the Indonesian Archipelago in the Sixteenth and Seventeenth Century", p. 28.
 
-56 Corpus Diplomaticum, vol. |, pp. 11-12. 57 Ibid., p. 270.
+56 Corpus Diplomaticum, vol. I, pp. 11-12. 57 Ibid., p. 270.
 
 58 Jbid., vol. Il, pp. 417-418. A Reid assumes he was a Makassar Mopiah/Mopley; op. cit., p. 140. 64
 
@@ -820,7 +808,7 @@ and Makassar, in which one of the representatives from the kingdom of Dompo was 
 
 These treaties demonstrate that the sahbandar represented the authority of the kingdom - either the Sultan or the highest official. A rather distinctive situation existed for the sahbandar in the port of Jakarta, for his duties were noted in several treaties with the VOC.60
 
-Treaties made with the VOC were seldom concluded in a friendly atmosphere, as most were signed after the local rulers had been defeated in battle. The sahbandar was not only involved in the signing of treaties but also took part in the wars with foreign powers. | have been able to examine two syair composed to mark wars against the Dutch/VOC. | am certain that there are others. In these two syairs, some stanzas portray how the sahbandar as a man at war. The Sya'ir Perang Mengkasar was written by Enci' Amin, a Malay living in Makassar, and describes the long war leading to the conclusion of the Bongaya contract in November 1669.61 The Sya'ir Perang Siak was composed in 1764, three years after the kingdom of Siak was conquered by the Dutch.62
+Treaties made with the VOC were seldom concluded in a friendly atmosphere, as most were signed after the local rulers had been defeated in battle. The sahbandar was not only involved in the signing of treaties but also took part in the wars with foreign powers. I have been able to examine two syair composed to mark wars against the Dutch/VOC. I am certain that there are others. In these two syairs, some stanzas portray how the sahbandar as a man at war. The Sya'ir Perang Mengkasar was written by Enci' Amin, a Malay living in Makassar, and describes the long war leading to the conclusion of the Bongaya contract in November 1669.61 The Sya'ir Perang Siak was composed in 1764, three years after the kingdom of Siak was conquered by the Dutch.62
 
 Daeng ri-Boko, 'sahbandar jang tua’®3 fought bravely in the battle: "Daeng ri-Boko sahbandar jang tua/sikapnja seperti panah jang dua/ Ampun karaeng tidaklah dua/baginda pun termashjur berani djua" (Daeng ri-Boko, the senior sahbandar/was like a double-headed arrow/Begging your worship's pardon, he had no egual/a prince renowned for his bravery].64 Lamentation of his death
 
@@ -828,7 +816,7 @@ Daeng ri-Boko, 'sahbandar jang tua’®3 fought bravely in the battle: "Daeng ri
 
 59 Corpus Diplomaticum, vol. Il, p. 501.
 
-60 jbid., vol. |, treaty of January 1611, see pp. 85-91; of 21 December 1614, see pp. 117-119; of 11 March 1619 with Bantam, see pp. 152153.
+60 jbid., vol. I, treaty of January 1611, see pp. 85-91; of 21 December 1614, see pp. 117-119; of 11 March 1619 with Bantam, see pp. 152153.
 
 61 Enci' Amin, Sya'ir Perang Mengkasar; The Ryhmed Chronicle of the Makassar War.
 
@@ -890,7 +878,7 @@ Parallel to the Portuguese lack of interest in regulating the affairs of the ind
 
 77 R. Winstedt, "A History of Malaya", p. 89: see also Francisco de Sa de Meneses, The Conguest of Malacca, translated by Edgar C. Knowiton Jr. (1970. Kuala Lumpur: University of Malaya Press).
 
-78 For the term 'foreign Indonesians' see J.C. van Leur, Indonesian Trade and Society, Essays in Asian Social and Economic History (1955. The Hague: W. van Hoeve), p.139. The VOC also regarded the Javanese and Malays in Batavia as 'vreemdelingen' (foreigners), see for example Proclamations of 30 December 1628 and of 27 April 1629, in Plakaatboek van NederlandschIndie (1885. Batavia: Landsdrukkerij), vol. |, pp. 241, 245. 68
+78 For the term 'foreign Indonesians' see J.C. van Leur, Indonesian Trade and Society, Essays in Asian Social and Economic History (1955. The Hague: W. van Hoeve), p.139. The VOC also regarded the Javanese and Malays in Batavia as 'vreemdelingen' (foreigners), see for example Proclamations of 30 December 1628 and of 27 April 1629, in Plakaatboek van NederlandschIndie (1885. Batavia: Landsdrukkerij), vol. I, pp. 241, 245. 68
 
 the mouth of the Ciliwung river, headed by its own chieftain called Nakhoda Watting. The authority of Jakarta, Pangeran Wijaya Krama, granted the VOC permission to build its first factory”? near the Chinese settlement. In this first treaty, signed in January 1611, there are instructions regarding the duties of Jakarta's sahbandar: if someone owed a debt to a Hollander, he should inform the sahbandar who would report to the King of Jakarta, i.e. Pangeran Wijaya Krama, and in addition order the person to repay the debt.8° To deal with the payment of port tolls, and transactions involving arak, rice and beans, the VOC signed another treaty on 21 December 1614, at which the Chinese captain, Nakhoda Watting and the native sahbandar were also present.8!
 
@@ -900,9 +888,9 @@ As has been mentioned earlier, the Portuguese, with their lack of a well-develop
 
  
 
-79 actually it was 'steenen huijsen' (stone houses), see Corpus Diplomaticum, vol. |, p. 86 and J.A. van der Chijs, De Nederlanders te Jakatra (1860. Amsterdam: Frederick Muller), p.197.
+79 actually it was 'steenen huijsen' (stone houses), see Corpus Diplomaticum, vol. I, p. 86 and J.A. van der Chijs, De Nederlanders te Jakatra (1860. Amsterdam: Frederick Muller), p.197.
 
-80 Corpus Diplomaticum, vol. |, p. 91.
+80 Corpus Diplomaticum, vol. I, p. 91.
 
 81 [bid,, pp. 117-119. 69
 
@@ -988,7 +976,7 @@ As the Chinese communities in Singapore and Malaya were subdivided by dialect gr
 
  
 
-11 Yong Ching Fatt, "Chinese Leadership in Nineteenth Singapore", Journal of the Island Society, vol. |, December 1967, pp. 6, 8; Chan Gaik Ghoh, "The Kapitan Cina System in the Straits Settlements", Malaya in History, vol. 25, 1982, p. 76; Yen Ching-Hwang, A Social History of the Chinese in Singapore and Malaya, 1800-1911 (1986. Singapore: Oxford University Press), p. 125.
+11 Yong Ching Fatt, "Chinese Leadership in Nineteenth Singapore", Journal of the Island Society, vol. I, December 1967, pp. 6, 8; Chan Gaik Ghoh, "The Kapitan Cina System in the Straits Settlements", Malaya in History, vol. 25, 1982, p. 76; Yen Ching-Hwang, A Social History of the Chinese in Singapore and Malaya, 1800-1911 (1986. Singapore: Oxford University Press), p. 125.
 
 15 Batavia, as the earliest Hokkien settlers had been established long before the Europeans, and the first Hakka immigrants settled in Batavia much later, in the third quarter of the nineteenth century. Different periods of migration for these different groups of Chinese settlers, meant that Indies-born Hokkien, or peranakan Chinese, held the officership until 1878. Only through the interference of the Dutch would a non-Hokkien be admitted into the Chinese officership of Batavia.12
 
@@ -1094,7 +1082,7 @@ The structure of the Chineesch Bestuur always depended upon the structure of the
 
  
 
-29 See Regeerings Almanak voor Nederlandsch-Indie van het jaar 1907, vol. |, p.161. 30 Staatsblad van Nederlandsch-Indie 1871, no. 70.
+29 See Regeerings Almanak voor Nederlandsch-Indie van het jaar 1907, vol. I, p.161. 30 Staatsblad van Nederlandsch-Indie 1871, no. 70.
 
 83 never enjoyed a salary, and received only some financial compensation called toelage. This was calculated in accordance with the salary of an equivalent native officials.31 Nevertheless, such parallels were not always apparent, particularly in the case of the Chinese wardmasters in outside districts or other divisions.
 
@@ -1180,7 +1168,7 @@ An applicant also had to disclose his origins, whether he was Batavian born, and
 
 Liem Goan Sioe was from Gresik and had been settled in Batavia for about three years. He was the son-in-law of Be Biauw Tjoan, a rich Chinese captain of Semarang.48 Liem Goan Tjeng received support from the Resident of Batavia and the Director of Finance for both the lieutenantship and membership of the Chinese Council. Presumably this was because he was an opium pachter or opium revenue-farmer and also belonged to an officer's family. Here we can detect a kinship tie between the two Liems, as both had brothers who were captains in Gresik and Semarang, and another brother who was lieutenant in Gresik.49 As time wore on, both fell into disfavour with the Dutch, particularly Liem Goan Sioe, who was suspected of involvement in the smuggling of opium.5°
 
-| do not entirely agree with Suryadinata's assertion that the officership was a semi-hereditary position.5! If he means that the officership passed from father to son, and was shared among the officers in active service, then my enquiries show this to be rare - happening only in 1866 and 1879. The appointment of Tan Soe Tjong as captain in 1866 was more to please his recently retired father, the exmajor Tan Eng Goan, as his promotion had been rejected by the Resident of Batavia in 1861 when his father was still
+I do not entirely agree with Suryadinata's assertion that the officership was a semi-hereditary position.5! If he means that the officership passed from father to son, and was shared among the officers in active service, then my enquiries show this to be rare - happening only in 1866 and 1879. The appointment of Tan Soe Tjong as captain in 1866 was more to please his recently retired father, the exmajor Tan Eng Goan, as his promotion had been rejected by the Resident of Batavia in 1861 when his father was still
 
  
 
@@ -1224,7 +1212,7 @@ Therefore it was not easy to prevent family relations intruding into the officer
 
 59 See James Rush, Opium to Java. Revenue Farming and Chinese Enterprise in Colonial Indonesia, 1860-1910 (1990. Ithaca: Cornell University Press) particularly chapter V; and also J. Moerman, In en Om de Chineesche Kamp (1932. Batavia: G. Kolff & Co) p. 55.
 
-60 Heather Sutherland, "Note on Java's Regent Families", part |, Indonesia, no. 16, October 1973, pp. 113-147; and part Il, Indonesia, no. 17, April 1974, pp. 1-42.
+60 Heather Sutherland, "Note on Java's Regent Families", part I, Indonesia, no. 16, October 1973, pp. 113-147; and part Il, Indonesia, no. 17, April 1974, pp. 1-42.
 
 91 The Dutch government saw that certain kinds of nepotism could be weakened, if not completely eliminated, through changes in the composition of the Chinese Council. This was particularly true after the 1870s, when there was an increase in the non-Hokkien, singkeh-totok group in Batavia. This growing element, although still in a minority among the peranakan-Hokkien Chinese of Batavia,61 could become crucial, as was evident during the first decade of the twentieth century. It was noted in 1912 that there were already 7,000 Hakkas, 4,000 singkeh-Hokkien and 1,200 Macaos living in the city together with 16,000 peranakan Chinese.62 Seeing this growing element in the Chinese community, the Dutch, while admitting the wide differences in language, character and place of origins,63 decided to accommodate non-Hokkiens on the Chinese Council. According to Government decree no. 19, on 22 December 1878, a new composition of the Chinese Council would admit five Indies-born Hokkien (meaning peranakan Chinese), two China-born Hokkien, and three Hakkas or Cantonese, preferably born in China. In the same decree, the first non-Hokkien officer, Tan A Kauw, a Cantonese, was appointed and admitted to the Chinese Council.
 
@@ -1304,7 +1292,7 @@ Moreover, because the Chinese officers were unpaid, the Dutch government offered
 
 78 See his note of 15 December 1871, in Gouvernementsbesluit, 3 February 1872, no. 26.
 
-79 Quoted in disposition of Division C of the Office for Chinese Affairs, 22 October 1872, no. 17745, in Gouvernementsbesluit, 31 October 1872, no. 11. | 80 Letter of Resident of Batavia to Governor-General, 13 August 1872, no. 5650, in Gouvernmentsbesluit, 31 October 1872, no. 11.
+79 Quoted in disposition of Division C of the Office for Chinese Affairs, 22 October 1872, no. 17745, in Gouvernementsbesluit, 31 October 1872, no. 11. I 80 Letter of Resident of Batavia to Governor-General, 13 August 1872, no. 5650, in Gouvernmentsbesluit, 31 October 1872, no. 11.
 
 81 Letter of Resident of Batavia to Governor-General, 28 September 1871, no. 5940, in Gouvernementsbesluit, 3 February 1872, no. 26.
 
@@ -1328,13 +1316,13 @@ Yet after the abolition of the revenue-farming system and the implementation of 
 
 98 Resident of Batavia reminded the government that under the changed financial conditions, most Chinese officers would be endeavouring to earn an income, and to expect their services to be free was no longer reasonable. The Resident suggested that giving the Chinese officers a fixed official salary would generate feelings of loyalty.87 And indeed, their loyalty to the Dutch government, which became critical during the turbulent period of the Pan-Chinese movement, would be better assured if their position was affirmed as government paid officials.88 Thus by the turn of the century the Chinese officership had the status of an unpaid government post which no longer benefitted from privileges such as entry to revenue-farming; clearly therefore it was no longer an attractive proposition for rich members of the Chinese community.89
 
-Despite the lengthy discussion which took place within the Dutch government, a decision to give salaries to the officers of the Chineesch Bestuur was never made. And if one looks further, this was purely due to financial restrictions. In all probability the Dutch government was simply unable to allocate funds to this instrument of the Interior Administration. It was financial restraints, too, that discouraged the Dutch from unifying of the wijkbestuur, district administration, managed by wardmasters for the whole of Java, to replace the Chineesch Bestuur.20 |
+Despite the lengthy discussion which took place within the Dutch government, a decision to give salaries to the officers of the Chineesch Bestuur was never made. And if one looks further, this was purely due to financial restrictions. In all probability the Dutch government was simply unable to allocate funds to this instrument of the Interior Administration. It was financial restraints, too, that discouraged the Dutch from unifying of the wijkbestuur, district administration, managed by wardmasters for the whole of Java, to replace the Chineesch Bestuur.20 I
 
  
 
 87 Letter of Resident of Batavia to Director of Home Affairs, 6 December 1911, no. 20707/6, in defending his proposal to give an allowance for the office expenses of Chinese officers in the environs of Batavia; see Gouvernementsbesluit, 27 January 1912, no. 80.
 
-88 "Chineesche Officieren", De Indische Gids, vol. |, 1914, p. 886.
+88 "Chineesche Officieren", De Indische Gids, vol. I, 1914, p. 886.
 
 89 "Chineesche Officieren en Wijkmeesters", De Indische Gids, vol. Il, 1913, p.1373.
 
@@ -1346,7 +1334,7 @@ On 31 March 1934 the institution of Chinese officers in Java and Madura, with th
 
 The Chinese Administration and the Local Authority of Batavia
 
-It is not my intention here to go into details on the daily activities of the Chinese officers and their duties in the Chinese Administration. As this would focus on their functions and duties on behalf of the Chinese community, carried out through the Chinese Council or Kong Koan, an account of the Council would more appropriately describe the relationship between the Chinese people and their officers. Instead, | intend to concentrate on the administrative mechanisms, between the Chinese Administration, headed by the major, and the offices of Batavia's local authority.
+It is not my intention here to go into details on the daily activities of the Chinese officers and their duties in the Chinese Administration. As this would focus on their functions and duties on behalf of the Chinese community, carried out through the Chinese Council or Kong Koan, an account of the Council would more appropriately describe the relationship between the Chinese people and their officers. Instead, I intend to concentrate on the administrative mechanisms, between the Chinese Administration, headed by the major, and the offices of Batavia's local authority.
 
 As noted earlier, the Dutch government's principal aim in establishing separate administrative rule over the nonnative, non-European inhabitants, was to guard against possible or unnecessary entanglement with these foreign inhabitants. By appointing their own headmen, the Dutch would not become preoccupied with the internal affairs of others. Although these headmen were considered “handlangers van ons bestuur",92 henchmen of our government, their establishment should not represent any extra cost to the government. In practice, this meant that the Bestuur voor Vreemde Oosterlingen, Administration for the Foreign Asiatics, had to be self-sufficient. This may explain why the requirements for aspiring officers stressed the wealth of the applicant.
 
@@ -1356,7 +1344,7 @@ As noted earlier, the Dutch government's principal aim in establishing separate 
 
 92 Confidential letter of Director of Home Affairs to Governor-General, 10 December 1915, no. 685 G/B, in Binnenlands-Bestuur, no. 4406. 101
 
-For the Chinese community itself, such a requirement fitted in with their way of life; as a migrant community, their reasons for being in the colony were purely financial. Nevertheless, the material requirements for would-be officers came to be irrelevant as times changed, and as attitudes towards officers within the growing Chinese community altered. The changing spirit of the Chinese community in the twentieth century brought about by PanChinese revivalism led to a different, not to say difficult, era in the relationship with Dutch authority. But | will go no further on this matter here, which will be discussed in Chapter 5.
+For the Chinese community itself, such a requirement fitted in with their way of life; as a migrant community, their reasons for being in the colony were purely financial. Nevertheless, the material requirements for would-be officers came to be irrelevant as times changed, and as attitudes towards officers within the growing Chinese community altered. The changing spirit of the Chinese community in the twentieth century brought about by PanChinese revivalism led to a different, not to say difficult, era in the relationship with Dutch authority. But I will go no further on this matter here, which will be discussed in Chapter 5.
 
 Being left self-sufficient, members of the Chinese community were able to accumulate property and maintain financial security. These properties were administered by the Chinese Council which regularly reported to the head of the local authority, i.e. the Resident of Batavia.?3 In the case of financial administration, the local authority would not interfere except in cases of mismanagement. Very few cases of financial mismanagement by the Chinese Council occurred and these were settled by the Resident of Batavia?4 without harm to the Chinese community.
 
@@ -1370,7 +1358,7 @@ The Chinese, as the Resident of Batavia noted, were well disposed towards the go
 
 95 "Politiek Verslag van de Residentie Batavia van het jaar 1872,1873", Batavia, no. 18, Arsip Nasional, Jakarta. 102
 
-general and local regulations, inspections and orders.9© It should be noted that in keeping peace and order in their community, the Chinese officers had no police authority, and were not competent to handle crimes,97 a situation which does not correspond to James Rush's description of powerful Chinese officers in other parts of Java. According to Rush, the Chinese Council maintained a separate police force to investigate crimes involving Chinese, and to pursue those who sought to avoid government taxes and monopolies. Furthermore, he observed that the Chinese officers were authorized to inspect the warehouses, shops, depots, homes and other property of Chinese and other non-European suspects.98 As Rush does not refer in his account to any sources, either Dutch archives or printed indigenous materials, | contend that he exaggerates the power of the Chinese officers. My sources, particularly those derived from the local level, give a different impression.
+general and local regulations, inspections and orders.9© It should be noted that in keeping peace and order in their community, the Chinese officers had no police authority, and were not competent to handle crimes,97 a situation which does not correspond to James Rush's description of powerful Chinese officers in other parts of Java. According to Rush, the Chinese Council maintained a separate police force to investigate crimes involving Chinese, and to pursue those who sought to avoid government taxes and monopolies. Furthermore, he observed that the Chinese officers were authorized to inspect the warehouses, shops, depots, homes and other property of Chinese and other non-European suspects.98 As Rush does not refer in his account to any sources, either Dutch archives or printed indigenous materials, I contend that he exaggerates the power of the Chinese officers. My sources, particularly those derived from the local level, give a different impression.
 
 The Chinese major of Batavia was very cautious in his relations with the Resident when dealing with the family affairs of his people, let alone using the police powers described by Rush to deal with crimes and tax violators. This is evident from the cases of two Chinese wives who forwarded complaints to the Chinese major about their husbands. These wives were sent back to their parents' homes, but the husbands did not mention divorces. To the peranakan Chinese family tradition, the case demonstrates that the husbands neglected their duties, which meant they were disrespectful towards the wives' families. The complaints were brought separately to the Chinese major who, in order to settle the dispute, wrote to the Resident of
 
@@ -1412,7 +1400,7 @@ There are two articles, written by P de Roo de la Faille,! former Resident of Ba
 
 1 p de Roo de la Faille, "De Chineesche Raad te Batavia en het door dit College Beheerde Fonds", Bijdragen tot de Taal- Land-en Volkenkunde van Nederlandsch-indie (hereafter BKI), vol. 80, 1924, pp. 302 - 324.
 
-2 Yo Heng Kam, "Reorganisatie van den Chineesche Raad", De Chineesche | Revue, July 1928, pp. 77-89.
+2 Yo Heng Kam, "Reorganisatie van den Chineesche Raad", De Chineesche I Revue, July 1928, pp. 77-89.
 
 3 Myra Sidharta, "On the Remnants of the Gong Goan Archives in Jakarta”. Paper presented at the International Conference on Local History of the AsiaPacific Region, Hongkong, 6-8 April 1989.
 
@@ -1420,7 +1408,7 @@ There are two articles, written by P de Roo de la Faille,! former Resident of Ba
 
 the archives kept in the Kong Koan or the Chinese Council office, the Chinese of Semarang have received more attention than those of Batavia. Liem Thian Joe used the Kong Koan archives for his work on the Chinese community in Semarang,> which James Rush used for his description of the relationships among the Chinese officers of Java's northern coast.6
 
-Unfortunately, | have been unable to use the Kong Koan archives of Batavia/Jakarta. Thus, here | am painting a rather sketchy picture of the relationships between the Chinese Council and the Chinese officers in Batavia. My evidence is gathered mostly from Dutch government archives, complemented by secondary sources. It may seem that there is little information on the Chinese response towards the management of the Council, as | am unable to use contemporary sources such as the Chinese-Malay newspapers, where Chinese public opinion was usually expressed.
+Unfortunately, I have been unable to use the Kong Koan archives of Batavia/Jakarta. Thus, here I am painting a rather sketchy picture of the relationships between the Chinese Council and the Chinese officers in Batavia. My evidence is gathered mostly from Dutch government archives, complemented by secondary sources. It may seem that there is little information on the Chinese response towards the management of the Council, as I am unable to use contemporary sources such as the Chinese-Malay newspapers, where Chinese public opinion was usually expressed.
 
 The Establishment
 
@@ -1432,9 +1420,9 @@ December 1932, p. 2. and by B. Hoetink in his " Chineesche Officieren te Batavia
 
 5 Liem Thian Joe, Riwajat Orang Orang Tjina di Semarang (1933. Semarang: n.p.)
 
-6 James R Rush, "Opium Farms in the Nineteenth Century Java: Institutional Continuity and Change in a Colonial Society 1860 - 1910" (1977. Unpublished PH.D. dissertation, New Haven, Yale University) especially chapter IV. See also his Opium to Java. Revenue Farming and Chinese Enterprise in Colonial Indonesia 1860-1910 (1990. Ithaca: Cornell University Press) | 7 See Resolutie, 11 October 1619, on the appoinment of Bencon, the first Chinese captain of Batavia. |
+6 James R Rush, "Opium Farms in the Nineteenth Century Java: Institutional Continuity and Change in a Colonial Society 1860 - 1910" (1977. Unpublished PH.D. dissertation, New Haven, Yale University) especially chapter IV. See also his Opium to Java. Revenue Farming and Chinese Enterprise in Colonial Indonesia 1860-1910 (1990. Ithaca: Cornell University Press) I 7 See Resolutie, 11 October 1619, on the appoinment of Bencon, the first Chinese captain of Batavia. I
 
-8 J Th Vermeulen, "Eenige Opmerkingen over de Rechtsbedeeling", p. 11; P de Roo de la Faille, "De Chineesche Raad te Batavia", p. 308; and Liem Ting Tjay"Het Instituut der Chineesche Officieren", De Chineesche Revue, July 1928, p. 67. | 107
+8 J Th Vermeulen, "Eenige Opmerkingen over de Rechtsbedeeling", p. 11; P de Roo de la Faille, "De Chineesche Raad te Batavia", p. 308; and Liem Ting Tjay"Het Instituut der Chineesche Officieren", De Chineesche Revue, July 1928, p. 67. I 107
 
 for her own reasons, maintains it was 1717.9
 
@@ -1462,7 +1450,7 @@ A year after the siege of Batavia, on 1 July 1620, Governor-General Jan Pietersz
 
 11 B Hoetink, "Chineesche Officieren te Batavia onder de Compagnie", pp. 2930.
 
-12 M Sidharta, "On the Remnants of the Gong Goan Archives", pp. 5-6. 13 Ibid., Tables | and Il. 109
+12 M Sidharta, "On the Remnants of the Gong Goan Archives", pp. 5-6. 13 Ibid., Tables I and Il. 109
 
 justice regarding the civil affairs of the city. In the case of the Chinese, whom the VOC regarded as 'onse onderstaen ende burgeren deser stede' [our subjects and citizens of this city], Bencon, the Chinese captain of the time, was given a seat in the College on condition that he was never allowed to preside over it.14
 
@@ -1470,11 +1458,11 @@ As the number of Chinese immigrants grew rapidly, from 800 persons in 1620 to 3,
 
  
 
-14 Article 5 in "Authorisatie van de Schepenen de Stadt Jacatra", Plakaatboek van Nederlandsch-indie (hereafter Plakaatboek), vol. |, p.60.
+14 Article 5 in "Authorisatie van de Schepenen de Stadt Jacatra", Plakaatboek van Nederlandsch-indie (hereafter Plakaatboek), vol. I, p.60.
 
 15 Numbers of Chinese immigrants in Batavia fluctuated due to the in-coming and out-going junks which brought them to the city. In 1626 five junks brought 2,000 Chinese, while in 1627 there were already 3,500 Chinese residing in Batavia. In 1629 they decreased to 2,000, and by the end of 1632 there were 2,422 Chinese living in Batavia. By the end of 1633 their numbers were only 2,300. See B Hoetink, "So Bing Kong; het Eerste Hoofd der Chineezen te Batavia", BKI, vol. 73, 1917, p. 350.
 
-16 See article 6 in "Instructie voor het Collegie van Schepenen", Plakaatboek, vol. |, p. 128.
+16 See article 6 in "Instructie voor het Collegie van Schepenen", Plakaatboek, vol. I, p. 128.
 
 17 J Th Vermeulen, "Eenige Opmerkingen over de Rechtsbedeeling", p. 12. 110
 
@@ -1496,7 +1484,7 @@ As has been mentioned, while Chinese legacies and related matters were administe
 
  
 
-20 See "Aanstelling van Boedelmeesteren voor Chineesche Sterfhuizen", Plakaatboek, vol. |, p. 439.
+20 See "Aanstelling van Boedelmeesteren voor Chineesche Sterfhuizen", Plakaatboek, vol. I, p. 439.
 
 21 See basic assignment given to the first captain, Bencon, in Resolutie, 11 October 1619; and B Hoetink, "So Bing Kong, het Eerste Hoofd der Chineezen", p. 354 and "Chineesche Offcieren te Batavia onder de Compagnie", p. 10. 112
 
@@ -1562,7 +1550,7 @@ One may wonder how the Chinese Council compiled such huge resources. In the earl
 
  
 
-32 |t should be noted that the opening of the Hollandsch-inlandsche School (Holland-Native School) was not until 1914.
+32 It should be noted that the opening of the Hollandsch-inlandsche School (Holland-Native School) was not until 1914.
 
 33 Nio Joe Lan, Riwajat 40-Taon dari Tiong Hoa Hwee Koan Batavia, p. 116. 34 See “Onderwijs Tiong Hoa di Indonesia", Sin Po Jubileum Nummer 19101935 (1935. Batavia: Sin Po).
 
@@ -1658,7 +1646,7 @@ Before 1882 there was no official reference to the membership of the Chinese Cou
 
  
 
-58 "Bestuur over Vreemde Oosterlingen", in Regeeringsalmanak voor Nederlandsch-Indie van het jaar 1889, vol. |, pp. 88-89.
+58 "Bestuur over Vreemde Oosterlingen", in Regeeringsalmanak voor Nederlandsch-Indie van het jaar 1889, vol. I, pp. 88-89.
 
 59 Liem Thian Joe, Riwajat Orang Orang Tjina di Semarang, p. 48. 60 No literature on this particular subject had yet been found. 124
 
@@ -1670,7 +1658,7 @@ Membership of the Council during the VOC period reached six seats in 1762, compr
 
 62 See Gouvernementsbesluit, 10 February 1868, no. 10.
 
-63 "Gewestelijk Bestuur, Batavia", in Regeeringsalmanak voor Nederlandsch-Indie van het jaar 1872, vol. |, pp. 144-149. 125
+63 "Gewestelijk Bestuur, Batavia", in Regeeringsalmanak voor Nederlandsch-Indie van het jaar 1872, vol. I, pp. 144-149. 125
 
 the Chinese captain and the related native district commandant. As several large Chinese neighbourhoods were located outside the Chinese quarter, although still within the authority of the Stad en Voorsteden, the Council's six Chinese lieutenants were to be in charge of these areas, which were old Jakarta, Penjaringan, Mangga Besar, Tanah Abang, Pasar Baru and Pasar Senen.64
 
@@ -1754,11 +1742,11 @@ According to M Sidharta, the functions of the Chinese Council in the independent
 
 84 M Sidharta, "On the Remnants of the Gong Goan Archives", p. 26. 85 jhid., p. 22. 5 THE OFFICERS AND THE CHINESE POLITICAL MOVEMENT
 
-| will devote this chapter to describing the extent to which the Chinese officers responded to and involved themselves in Chinese political activity from the early twentieth century. In particular | will discuss their political loyalties and participation in political movements.
+I will devote this chapter to describing the extent to which the Chinese officers responded to and involved themselves in Chinese political activity from the early twentieth century. In particular I will discuss their political loyalties and participation in political movements.
 
-The Dutch observed that there were three main political streams among the Chinese in the colony,! namely the China-oriented Sin Po group, the Chung Hwa Hui, the Dutch East Indies-oriented party, and. the Partai Tionghoa Indonesia, ‘which was Indonesian-oriented. These perceptions are supported by the many Indonesianists whose area of study is the Chinese, particularly Lea E Williams,2 Mary F Somers,3 and also: the Indonesian-Chinese scholar, L. Suryadinata.4 |
+The Dutch observed that there were three main political streams among the Chinese in the colony,! namely the China-oriented Sin Po group, the Chung Hwa Hui, the Dutch East Indies-oriented party, and. the Partai Tionghoa Indonesia, ‘which was Indonesian-oriented. These perceptions are supported by the many Indonesianists whose area of study is the Chinese, particularly Lea E Williams,2 Mary F Somers,3 and also: the Indonesian-Chinese scholar, L. Suryadinata.4 I
 
-| presume that the Dutch perception was derived from the writings of Kwee Tek Hoay who, in 1932, presented a thorough analysis of the strengths and shortcomings of the Chinese political movement. Kwee's article was first published in a peranakan newspaper, the Djawa Tengah, on 1-4 October 1932.5 It is clear that the above scholars follow Kwee's analysis in their studies on the Chinese movement. It is not my intention here to repeat these analyses. | will concentrate on the Chinese officers'
+I presume that the Dutch perception was derived from the writings of Kwee Tek Hoay who, in 1932, presented a thorough analysis of the strengths and shortcomings of the Chinese political movement. Kwee's article was first published in a peranakan newspaper, the Djawa Tengah, on 1-4 October 1932.5 It is clear that the above scholars follow Kwee's analysis in their studies on the Chinese movement. It is not my intention here to repeat these analyses. I will concentrate on the Chinese officers'
 
  
 
@@ -1774,11 +1762,11 @@ The Dutch observed that there were three main political streams among the Chines
 
 131 response towards the movement, to which none of these scholars have paid particular attention.
 
-Measuring their political response by their involvement as leading members in or founding fathers of a particular organization, | perceive that the Chinese officers were involved in only two of the main Chinese organizations, the Tiong Hoa Hwee Koan and the Chung Hwa Hui. Although the Tiong Hoa Hwee Koan, founded in 1900, was not a political organization, it was the first modern Chinese association attached to the officers from the beginning. The peranakan Chinese majority became unhappy with the Tiong Hoa Hwee Koan, in particular because it was heavily dominated by singkeh-totok Chinese. This was also felt by the peranakan officers of Batavia. Later, they joined the Chung Hwa Hui.
+Measuring their political response by their involvement as leading members in or founding fathers of a particular organization, I perceive that the Chinese officers were involved in only two of the main Chinese organizations, the Tiong Hoa Hwee Koan and the Chung Hwa Hui. Although the Tiong Hoa Hwee Koan, founded in 1900, was not a political organization, it was the first modern Chinese association attached to the officers from the beginning. The peranakan Chinese majority became unhappy with the Tiong Hoa Hwee Koan, in particular because it was heavily dominated by singkeh-totok Chinese. This was also felt by the peranakan officers of Batavia. Later, they joined the Chung Hwa Hui.
 
 It is obvious that the Chinese officers were unlikely to join either the Sin Po group or the Partai Tionghoa Indonesia, since both were blatant in their anti-Chinese officer feelings. It was from the Chung Hwa Hui that the Chinese officers gained support during the lengthy debates of 1915-1917 over the Dutch government plans to reorganize the officers.
 
-In this chapter | will devote myself to the Tiong Hoa Hwee Koan, the Chung Hwa Hui, the People's Council, and to the question of the Netherlands subject law and the early anti-Chinese turbulence of 1912-1913. The third part will focus on Chinese participation in the People's Council, and the response of the Chinese political movement to the application of Netherlands subject legislation. For the Chinese, the establishment of the People's Council in 1918 was not simply an opportunity to participate in the parliamentary body created by the Dutch but was closely related to Chinese acceptance of the Netherlands-subject issue. These two topics touched a very basic point, the status of the Chinese in the Dutch East Indies.
+In this chapter I will devote myself to the Tiong Hoa Hwee Koan, the Chung Hwa Hui, the People's Council, and to the question of the Netherlands subject law and the early anti-Chinese turbulence of 1912-1913. The third part will focus on Chinese participation in the People's Council, and the response of the Chinese political movement to the application of Netherlands subject legislation. For the Chinese, the establishment of the People's Council in 1918 was not simply an opportunity to participate in the parliamentary body created by the Dutch but was closely related to Chinese acceptance of the Netherlands-subject issue. These two topics touched a very basic point, the status of the Chinese in the Dutch East Indies.
 
 Two of the Chinese representatives on the People's Council were Batavian officers - major Khouw Kim An (1921-1931) and captain Yo Heng Kam (1927-1942). Their seats on the Council reflected their political affiliation,
 
@@ -1790,7 +1778,7 @@ My study, shows how the peranakan Chinese in Batavia became entangled in this so
 
  
 
-6 See "Persoverzicht: De Chineesche Pers", Koloniaal Tijdschrift, vol.ll, 1912-1913, pp. 320, 886; vol. V, 1916, p. 230. |
+6 See "Persoverzicht: De Chineesche Pers", Koloniaal Tijdschrift, vol.ll, 1912-1913, pp. 320, 886; vol. V, 1916, p. 230. I
 
 133
 
@@ -1802,7 +1790,7 @@ The emergence of this first Chinese modern organization was directed towards cul
 
 Such cultural revivalism may be explained by the sociocultural conditions of the Batavian Chinese community. Kwee Tek Hoay, a peranakan writer, points out the disintegration of the Chinese tradition among the peranakan, showing how distant they were becoming from the real Chinese identity. According to Kwee, the peranakan upbringing contained so many indigenous elements from their native maternal side that their Chineseness eventually became obscure.8
 
-Another writer, Hoay Tjiong - pseudonym of Ang Jan Goan, the editor of Sin Po newspaper - notes the conflicts among the Chinese triads in the last decade of the nineteenth century as one of the influential factors in the awakening of Chinese cultural revivalism, through the founding of the THHK.2 I have not yet come across a study of Chinese secret societies in Java,!0 but | assume there was little peranakan
+Another writer, Hoay Tjiong - pseudonym of Ang Jan Goan, the editor of Sin Po newspaper - notes the conflicts among the Chinese triads in the last decade of the nineteenth century as one of the influential factors in the awakening of Chinese cultural revivalism, through the founding of the THHK.2 I have not yet come across a study of Chinese secret societies in Java,!0 but I assume there was little peranakan
 
  
 
@@ -1816,7 +1804,7 @@ Another writer, Hoay Tjiong - pseudonym of Ang Jan Goan, the editor of Sin Po ne
 
 134 involvement in such dangerous activities. However, the Chinese gang wars of the 1890's became a concern of the peranakan. This concern was strongly expressed in a letter from the founding fathers of the THHK, represented by Phoa Keng Hek, the president, sent to all Chinese in the Dutch East Indies in April 1900. It contained a long discourse on morals and values, on Chinese ethics as propounded by Confucius, appealing to the Chinese community to study the teachings of Confucius in greater depth: “If a person is exposed to good teaching, his thinking, customs, heart and behaviour will probably be good. He will remember not to do wrong but to do good deeds.....”.11 From this idealism came the THHK objective to improve Chinese customs in accordance with the teachings of Confucius, and to establish schools that enriched the knowledge of Chinese classical works and language.12
 
-_ To see how much the THHK attracted the Chinese officers, we should look further into its leading members. The meeting to set up the THHK took place on 17 March 1900 at Phoa Keng Hek's residence. All twenty persons present became members of its executive board. Among these executive board members were Chinese officers in Batavia, while others were from officers' families. Phoa Keng Hek, who became the first president of the THHK, from 1900 to 1923, was the son of the Chinese lieutenant in MeesterCornelis, the eastern division-of the Batavia Residency. One of the two vice-presidents was Khoe A Fan, a Chinese lieutenant of Hakka-Cantonese origin. Among the twelve members of the various committees of the THHK were four Chinese officers, namely captain Oey Giok Koen, captain Lie “Hin Liam, lieutenant (later captain) Nie Hoey Oen and lieutenant Khouw Kim An. The latter. was the son-in-law of Phoa Keng Hek, and was appointed the last Chinese major of Batavia in 1910. |
+_ To see how much the THHK attracted the Chinese officers, we should look further into its leading members. The meeting to set up the THHK took place on 17 March 1900 at Phoa Keng Hek's residence. All twenty persons present became members of its executive board. Among these executive board members were Chinese officers in Batavia, while others were from officers' families. Phoa Keng Hek, who became the first president of the THHK, from 1900 to 1923, was the son of the Chinese lieutenant in MeesterCornelis, the eastern division-of the Batavia Residency. One of the two vice-presidents was Khoe A Fan, a Chinese lieutenant of Hakka-Cantonese origin. Among the twelve members of the various committees of the THHK were four Chinese officers, namely captain Oey Giok Koen, captain Lie “Hin Liam, lieutenant (later captain) Nie Hoey Oen and lieutenant Khouw Kim An. The latter. was the son-in-law of Phoa Keng Hek, and was appointed the last Chinese major of Batavia in 1910. I
 
  
 
@@ -1864,7 +1852,7 @@ medical care, but also his action in closing the gambling business in his area o
 
 18 Arnold Wright, Twentieth Century Impressions of Netherlands-India, p. 476.
 
-19 "Een Woord ten Gunste van Chineezen", De Indische Gids, vol. |, 1904, pp. 908-909.
+19 "Een Woord ten Gunste van Chineezen", De Indische Gids, vol. I, 1904, pp. 908-909.
 
 137 Keng Hek, unlike most of his fellow Chinese, had a strong dislike of this dishonourable, though profitable, business. The Dutch government was very pleased with his attitude, which was an exemplary response to the government plans to abolish gambling revenue-farms in 1904.29
 
@@ -1876,7 +1864,7 @@ Although Phoa had declined the offer of the majorship,
 
 the Advisor for Chinese Affairs still approached him for his
 
-views on a suitable candidate. From their talks it was agreed that the occupant of such an important position should be “a person belonging to the progressive element of the Chinese community, who could give a clear idea for the development of his people, and one who understood their expectations and accordingly could give appropriate guidance to their goals".22 From further discussions between the Resident of Batavia and the Advisor for Chinese Affairs, Khouw Kim An, a Chinese lieutenant and member of the Chinese Council, was nominated as the only qualified candidate. Yet Khouw could not proceed directly from his lieutenantship to the position of Chinese major. It was then agreed among the Dutch higher officials to appoint captain Nie Hok Tjoan as acting-major while waiting for Khouw's promotion from his present position to captain, and then to major.23 | :
+views on a suitable candidate. From their talks it was agreed that the occupant of such an important position should be “a person belonging to the progressive element of the Chinese community, who could give a clear idea for the development of his people, and one who understood their expectations and accordingly could give appropriate guidance to their goals".22 From further discussions between the Resident of Batavia and the Advisor for Chinese Affairs, Khouw Kim An, a Chinese lieutenant and member of the Chinese Council, was nominated as the only qualified candidate. Yet Khouw could not proceed directly from his lieutenantship to the position of Chinese major. It was then agreed among the Dutch higher officials to appoint captain Nie Hok Tjoan as acting-major while waiting for Khouw's promotion from his present position to captain, and then to major.23 I :
 
  
 
@@ -1888,7 +1876,7 @@ views on a suitable candidate. From their talks it was agreed that the occupant 
 
 23 See Besluit van de Resident van Batavia, 10 January 1908, no. 349/6. The above description will make little sense if we do not examine Lea E Williams' argument about the leadership of the Chinese officers during the early period of the Chinese movement. Lea E Williams, and also L Suryadinata, assess the leadership of the Chinese officers only from the political aspect. Neither scholar sees that the Chinese “officers played a remarkable role in the early years of the Pan-Chinese movement. According to Williams and 'Suryadinata, Chinese leadership in the early twentieth century was seized from the old established, Dutch-created, Chinese officership by political figures in the THHK, obviously Phoa Keng Hek, and the chairman of the Siang Hwee, the Chinese Chamber of Commerce.24 My argument will involve an examination of how the THHK might have developed if Phoa Keng Hek had accepted the majorship.
 
-Phoa was the first president of the THHK, from 1900, and held the post for about 23 years. Under his leadership, there was an extensive growth of THHK schools all over Java ‘within the first decade. Despite being unable to clarify Phoa's tactful refusal of the Chinese majorship offered by the Dutch government, | would argue that had Phoa been the Chinese major, he would have experienced constraints in developing the THHK. As a major, he could not hold the position of THHK president and would have been honorary patron instead. On the other hand, to the other Chinese
+Phoa was the first president of the THHK, from 1900, and held the post for about 23 years. Under his leadership, there was an extensive growth of THHK schools all over Java ‘within the first decade. Despite being unable to clarify Phoa's tactful refusal of the Chinese majorship offered by the Dutch government, I would argue that had Phoa been the Chinese major, he would have experienced constraints in developing the THHK. As a major, he could not hold the position of THHK president and would have been honorary patron instead. On the other hand, to the other Chinese
 
 139
 
@@ -1908,7 +1896,7 @@ figures, represented by the THHK leaders. Whilst Khouw Kim An undoubtedly kept t
 
 Tio Tek Ho and his brother, lieutenant Tio Tek Soen, who was also a member of the Chinese Council, were believed to
 
-be closer to the conservative Chinese. However, there was a |
+be closer to the conservative Chinese. However, there was a I
 
 group of young officer members of the Chinese Council, led by captain Nie Hoey Oen, who preferred to join the modern association, the THHK. The Resident of Batavia, J. Hofland, called this group, ‘the young Chinese party’, or the ‘jong Chineesche partij'.25 Despite being the patron of the THHK, major Tio Tek Ho was unlikely to play an active role in the organization, and the absence of any record of his participation in its committee meetings seems to confirm this reluctance.26 The uncomfortable relationship between the THHK executive and major Tio Tek Ho was hidden until 1907, when a petty case -of-financial mishandling brought these cold relations to open conflict.
 
@@ -2012,7 +2000,7 @@ Important missions sent in 1906 and 1907 resulted in
 
 THHK pupils being sent to the University of Overseas Chinese, or Kay Lam Hak Tong, in Nanking for further
 
-study.38 This took place before 1908, the year in which the |
+study.38 This took place before 1908, the year in which the I
 
 Dutch government began to pay serious attention to Chinese education. Therefore, the Chinese could hardly be blamed if they looked to the Chinese government for assistance.
 
@@ -2066,9 +2054,9 @@ provided only three HCS,50 while only the children of:
 
 46 Thio Boen Hiok, "Het Onderwijs aan het Chineesche Kind in Indoneise", De Chineesche Revue, April 1929, p. 7.
 
-47 H Borel in De Locomotief, 27 March 1907, and qouted in "De Chineeschequaestie in Indie", De Indische Gids, vol. |, 1907, p. 918.
+47 H Borel in De Locomotief, 27 March 1907, and qouted in "De Chineeschequaestie in Indie", De Indische Gids, vol. I, 1907, p. 918.
 
-48 "Beschouwingen over de Chineesche-Maleisth Persoverzicht, Maart-April 1918", in Binnenlands-Bestuur, no. 4390. |
+48 "Beschouwingen over de Chineesche-Maleisth Persoverzicht, Maart-April 1918", in Binnenlands-Bestuur, no. 4390. I
 
 49 Mary F Somers, "Peranakan Chinese Politics in Indonesia", p. 51 and Table II/1.
 
@@ -2076,7 +2064,7 @@ provided only three HCS,50 while only the children of:
 
 Phoa Keng Hek, as the president of the THHK, and major Khouw Kim An, as its patron, plus other leading members might endorse Dutch education for Chinese children, but they were unable to prevent the aggressive stream of PanChinese ideology flowing through their own community via THHK schools.51 This was particularly so as Dutch government involvement in Chinese education came so belatedly: by 1908, when the first HCS school was opened, the THHK had mushroomed to 54 branchess2 and 75 schools all over the country.53
 
-During the forty years of its existence the THHK engaged nineteen Chinese officers of Batavia on its executive board,54 but | am unable to go into further detail regarding the divisions between peranakan and singkeh over their choice of education. There are not the sources to distinguish whether officers were peranakan or singkeh-totok in origin; in any case, political orientation did not necessarily relate to origins. In other words, there may be peranakans who opted for a Chinese education, while | can be certain that the majority of singkeh refused a Dutch school for their children. |
+During the forty years of its existence the THHK engaged nineteen Chinese officers of Batavia on its executive board,54 but I am unable to go into further detail regarding the divisions between peranakan and singkeh over their choice of education. There are not the sources to distinguish whether officers were peranakan or singkeh-totok in origin; in any case, political orientation did not necessarily relate to origins. In other words, there may be peranakans who opted for a Chinese education, while I can be certain that the majority of singkeh refused a Dutch school for their children. I
 
 Nevertheless, the above highlights the vulnerability of the peranakan. It was. as if they were sitting on a pendulum, whose point of direction was-dictated by the hand putting it in motion. For them it was not a question of being Dutchoriented or being inclined towards China, but of the fluctuations in Dutch government policy. How the peranakan responded and adjusted to these changing conditions placed them at a crucial point in their existence in the colony. In particular, the Dutch government's belated response to their
 
@@ -2102,11 +2090,11 @@ relations also extended to a shared political orientation. A
 
 55 Lea E Williams, Overseas Chinese Nationalism, p. 133. 56 jbid., pp. 131-132. 57 Ibid., p. 132.
 
-149 nephew of Phoa Keng Hek, Phoa Kian Kie, who was also active in the Chinese movement, had a daughter who was married to the son of major Khouw Kim An.58 Furthermore, as | have already mentioned, Phoa Keng Hek's tactful refusal
+149 nephew of Phoa Keng Hek, Phoa Kian Kie, who was also active in the Chinese movement, had a daughter who was married to the son of major Khouw Kim An.58 Furthermore, as I have already mentioned, Phoa Keng Hek's tactful refusal
 
 150
 
-of the Chinese majorship left the position clear for Khouw |
+of the Chinese majorship left the position clear for Khouw I
 
 Kim An, which surely discloses the weakness of Williams' analysis. And when Phoa visited the Netherlands for medical care, he was accompanied by major Khouw Kim An and his wife, Phoa's daughter.59 With this in mind, Williams'
 
@@ -2130,15 +2118,15 @@ organization in tune with their way of thinking. The THHK,
 
 The Chung Hwa Hui
 
-Before | go into detail on this Dutch East Indies-oriented peranakan organization, there are three points which | need to establish. |
+Before I go into detail on this Dutch East Indies-oriented peranakan organization, there are three points which I need to establish. I
 
 Firstly, the Chung Hwa Hui (hereafter CHH) was not set
 
 151
 
-up until August 1926, in Semarang. Its establishment |
+up until August 1926, in Semarang. Its establishment I
 
-reflected the peranakan need for a political party which would manifest their aspirations as members of Dutch East Indies society, and appears to demonstrate that they were unhappy with the China-oriented political idealism of the Sin Po group. Secondly, looking into the nature of peranakan society in the Dutch East Indies, Java in particular, in my view there were only two main peranakan organizations, the Chung Hwa Hui and the Partai Tionghoa Indonesia (hereafter PTI). Thirdly, on a point of definition, | do not consider the Sin Po group to be a political party, whereas L Suryadinata,®! Lea E Williams,62 and other students of the Chinese political movement do. My reasons are that Sin Po had never been an organized political party, unlike the CHH and the PTI which had official acknowledgment from the Dutch government. The CHH received that acknowledgment by a decree on 6 June 1928. Sin Po's China-oriented idealism was mainly expressed in the Sin Po newspaper, from which the group derived its name, where it stirred up Chinese public opinion. Stirring up public opinion does not mean that Sin Po represented all Chinese public aspirations in the colony, particularly those of the peranakan majority.63 Secondly, Sin Po's political campaign mainly concentrated on Chinese participation in the Volksraad, in connection with the implementation of the Netherlands61 L Suryadinata, Peranakan Chinese Politics in Java.
+reflected the peranakan need for a political party which would manifest their aspirations as members of Dutch East Indies society, and appears to demonstrate that they were unhappy with the China-oriented political idealism of the Sin Po group. Secondly, looking into the nature of peranakan society in the Dutch East Indies, Java in particular, in my view there were only two main peranakan organizations, the Chung Hwa Hui and the Partai Tionghoa Indonesia (hereafter PTI). Thirdly, on a point of definition, I do not consider the Sin Po group to be a political party, whereas L Suryadinata,®! Lea E Williams,62 and other students of the Chinese political movement do. My reasons are that Sin Po had never been an organized political party, unlike the CHH and the PTI which had official acknowledgment from the Dutch government. The CHH received that acknowledgment by a decree on 6 June 1928. Sin Po's China-oriented idealism was mainly expressed in the Sin Po newspaper, from which the group derived its name, where it stirred up Chinese public opinion. Stirring up public opinion does not mean that Sin Po represented all Chinese public aspirations in the colony, particularly those of the peranakan majority.63 Secondly, Sin Po's political campaign mainly concentrated on Chinese participation in the Volksraad, in connection with the implementation of the Netherlands61 L Suryadinata, Peranakan Chinese Politics in Java.
 
 62 Lea E Williams, Overseas Chinese Nationalism.
 
@@ -2166,13 +2154,13 @@ Tijdschrift, vol. Vil, 1918, p. 368. created Volksraad. The desire for a politic
 
 69 jpid.; see also "Jaarverslag over 1929 Betreffende de Werkzaamheden van het Kantoor voor Chineesche Zaken", in Binnenlands-Bestuur, no. 129.
 
-70 "De Chineezen-Bond", De Indische Gids, vol. |, 1928, p. 363; and see also Geheim Mailrapport, no. 211x/1935.
+70 "De Chineezen-Bond", De Indische Gids, vol. I, 1928, p. 363; and see also Geheim Mailrapport, no. 211x/1935.
 
 153 potential in furthering their. business interests, either in the Dutch East Indies or in China. The CHH could not exclude China. Observing this, many people thought the CHH might accommodate the singkeh-totok; such was the case in the Semarang branch.
 
-Semarang was the base of the most famous Chinese enterprise, the Oei Tiong Ham Concern, whose owner reguired his employees to be members of the CHH. The strong influence of Semarang's Chinese major, Oei Tiong Ham, particularly his huge financial support, may explain why Semarang was frequently chosen as the venue for CHH congresses. | presume that it was this fact, among others, that led Suryadinata to the conclusion that Semarang was the centre of power of the CHH.71 — |
+Semarang was the base of the most famous Chinese enterprise, the Oei Tiong Ham Concern, whose owner reguired his employees to be members of the CHH. The strong influence of Semarang's Chinese major, Oei Tiong Ham, particularly his huge financial support, may explain why Semarang was frequently chosen as the venue for CHH congresses. I presume that it was this fact, among others, that led Suryadinata to the conclusion that Semarang was the centre of power of the CHH.71 — I
 
-My sources do not support Suryadinata. But | will not proceed further with this argument until | have focused on the question of singkeh admittance to the CHH. That will reveal where the CHH’s centre of power was located.
+My sources do not support Suryadinata. But I will not proceed further with this argument until I have focused on the question of singkeh admittance to the CHH. That will reveal where the CHH’s centre of power was located.
 
 A reorganization plan, in early 1935 to solve the problem of admitting singkeh Chinese into the CHH, suggested turning the CHH into two parties. One party would deal primarily with the socio-economic development of the Chinese, and would disregard whether a member was Indiesborn peranakan or singkeh. The other party would be occupied with political ideas, and membership would be open only to Indies-born- Chinese, since they were considered Netherlands subjects. Members of the CHH first party, the socio-economic organization, would automatically become members of the CHH political party.
 
@@ -2190,7 +2178,7 @@ The vote of 28 to 10 against admitting singkeh members shows that most Indies-bo
 
 The CHH congress of 1935 to some extent demonstrated peranakan anxiety over HHKan's attitude, and he was later suspected of growing closer to China, particularly after a visit to the mainland in 1933. HHkan's visit to China, although purely for business, raised such suspicion because he accepted the chairmanship of the Siang Hwee, the Chinese Chamber of Commerce, in January 1934.75 One of his sons married the daughter of F T Sung, the Chinese Consul in Batavia.76
 
-| am unable to give details of the reaction of Batavia's peranakan community to HHKan. Dutch sources suggest that HHKan convinced the Dutch authorities that any inclining of CHH leaders towards China was only in an economic sense,
+I am unable to give details of the reaction of Batavia's peranakan community to HHKan. Dutch sources suggest that HHKan convinced the Dutch authorities that any inclining of CHH leaders towards China was only in an economic sense,
 
  
 
@@ -2246,7 +2234,7 @@ The PTI or Partai Tionghoa Indonesia (Indonesian Chinese Party) was founded by L
 
 157 having an anti-Netherlands stance,85 particularly as it embraced the majority of lower class, Indies-born peranakan, or the 'lagere klasse der in deze gewesten geboren Chineezen', who regarded the colony as their home.86 It is obvious that the PTI was founded as a political reaction against the CHH. The PTI claimed that the CHH was merely a means by which its founders could achieve their personal aspirations, and that the organization had little concern for the poor peranakan Chinese.87 The political attitude of the PTI was later shown in its leftist tendencies, particularly after Indonesian independence. ;
 
-As a peranakan party with an Indonesian-oriented character, the PTI strongly disagreed with the CHH's aloofness from the Indonesian nationalist movement.88 Starting from political extremes, debates between ‘the. CHH and the PTI later dominated the history of the Chinese movement until the arrival of the Japanese. The main focus of their disagreement lay in the question of the future of the Indies-born peranakan Chinese in an independent Indonesia. |
+As a peranakan party with an Indonesian-oriented character, the PTI strongly disagreed with the CHH's aloofness from the Indonesian nationalist movement.88 Starting from political extremes, debates between ‘the. CHH and the PTI later dominated the history of the Chinese movement until the arrival of the Japanese. The main focus of their disagreement lay in the question of the future of the Indies-born peranakan Chinese in an independent Indonesia. I
 
 The PTI, known as the party of the less wealthy strata of peranakan society, was sympathetic to the Indonesian nationalist movement. This was guite understandable, as the living standards of its members brought them into closer contact with the indigenous population. However, in the eyes of the Dutch, in times of economic pressure, the PTI attitude reflected the necessity for the less wealthy Chinese to determine their position towards the indigenous population.89
 
@@ -2274,7 +2262,7 @@ changing policy towards the Indies-born Chinese, the Dutch government obviously 
 
 159
 
-KMT and diplomatic interference of the Chinese government | in the Chinese affairs of the colony. It is no wonder that the |
+KMT and diplomatic interference of the Chinese government I in the Chinese affairs of the colony. It is no wonder that the I
 
 Dutch government could always accommodate CHH
 
@@ -2336,7 +2324,7 @@ In addition to such prejudice, the rapid growth of Sarekat Islam in the second d
 
 the indigenous majority, which reached its peak with a
 
-series of riots throughout Java. As the _ indigenous population did not attempt to differentiate between the singkeh and peranakan elements, the anti-Chinese disturbances placed the peranakan in a very delicate position. |
+series of riots throughout Java. As the _ indigenous population did not attempt to differentiate between the singkeh and peranakan elements, the anti-Chinese disturbances placed the peranakan in a very delicate position. I
 
 An examination of the nature of the peranakan Chinese in the colony, particularly in Java, shows that the CHH closely represented their political stand. Dutch policy itself
 
@@ -2346,11 +2334,11 @@ An examination of the nature of the peranakan Chinese in the colony, particularl
 
 163
 
-Kwee Tek Hoay, a peranakan writer, in his piece on the |
+Kwee Tek Hoay, a peranakan writer, in his piece on the I
 
 three streams of the Chinese political movement, the China-oriented Sin Po group, the Dutch East Indies-oriented Chung Hwa Hui, and the Indonesian-oriented Partai Tionghoa Indonesia, properly placed the CHH as the middle stream. According to Kwee, the CHH lay between the two extremes of Sin Po and PTI.100
 
-| can now develop my argument with L Suryadinata, regarding the centre of power-of the three political streams of the Chinese movement. Suryadinata concludes that the
+I can now develop my argument with L Suryadinata, regarding the centre of power-of the three political streams of the Chinese movement. Suryadinata concludes that the
 
 Sin Po group had its main base in Batavia, the CHH in
 
@@ -2358,7 +2346,7 @@ Semarang and the PTI in Surabaya.101 He is quite correct in identifying these th
 
 100 L Suryadinata (ed), Political Thinking of the Indonesian Chinese 1900 1977, p. 55.
 
-101 L Suryadinata, Peranakan Chinese Politics in Java, pp. 82-84. oriented peranakan, | will not discuss the China-oriented Sin Po group further. In any event, Suryadinata may well be right about the Sin Po's strength in Batavia. However, Suryadinata appears to have underestimated the strength of the singkeh in Semarang and Surabaya, in terms of their influence on the peranakan in those two cities.
+101 L Suryadinata, Peranakan Chinese Politics in Java, pp. 82-84. oriented peranakan, I will not discuss the China-oriented Sin Po group further. In any event, Suryadinata may well be right about the Sin Po's strength in Batavia. However, Suryadinata appears to have underestimated the strength of the singkeh in Semarang and Surabaya, in terms of their influence on the peranakan in those two cities.
 
 According to Suryadinata, Batavia was a port-city with close links to Singapore, the centre of Chinese nationalist activity in Southeast Asia, and the Soe Po Sia and the Siang Hwee of Batavia were very active.102 But in my view, these conditions did not guarantee the singkeh a dominating influence over the peranakan community in Batavia. From the Dutch sources it is known that, after its reorganization in 1929, the KMT made Batavia its main branch, or ‘hoofdafdeeling',103 although the KMT's popularity remained weak. This was shown in July 1925, when the Chinese Consul-General in Batavia organized a memorial ceremony on the death of Sun Yat Sen. This event was not the great success expected by the Chinese Consul and the KMT leaders owing to the reluctance of Chinese officers, particularly major Khouw Kim An, to summon their people to join the ceremony. Major Khouw Kim’ An was concerned about aggressive KMT activities, a subject on which he often complained to the Resident of Batavia. He stressed that if
 
@@ -2382,7 +2370,7 @@ Mailrapport, no. 813x/1932.
 
 104 Letter of the Resident of Batavia, 13 July 1925, no. 1241/E, quoted in the letter of the Advisor for Chinese Affairs to Governor-General, 17 July 1925, no. 363/25, in Geheim Verbaal, 3 November 1925, no. U.15. Sia could not go along with us, the peranakan. As we know better about the law in this country, we know what we may and may not do, yet those members of the Soe Po Sia did not understand us. They accused us of being afraid of the Dutch government, that we have sold ourselves to the Dutch, and therefore, they offensively harassed us even more ...".105
 
-Many higher Dutch officials also observed that it was very unlikely that the peranakan would join the singkeh in one organization, for each would stand in the way of the other.196 As a result, the peranakan responded enthusiastically to the establishment of the CHH. | am certain that the CHH had more solid support among the Batavian peranakan.
+Many higher Dutch officials also observed that it was very unlikely that the peranakan would join the singkeh in one organization, for each would stand in the way of the other.196 As a result, the peranakan responded enthusiastically to the establishment of the CHH. I am certain that the CHH had more solid support among the Batavian peranakan.
 
 Despite the many criticisms of HHKan, particularly with
 
@@ -2398,7 +2386,7 @@ Later, in 1935, when the Semarang branch of the CHH proposed a reorganization of
 
  
 
-105 "Een Chinees over de Chineesche Beweging", Koloniaal Tijdschrift, vol. |, 1911-1912, pp.669-670.
+105 "Een Chinees over de Chineesche Beweging", Koloniaal Tijdschrift, vol. I, 1911-1912, pp.669-670.
 
 106 "Overzicht over de Chineesche Beweging in Nederlandsch- Indie", in Geheim Mailrapport, no. 120x/1930.
 
@@ -2408,7 +2396,7 @@ Later, in 1935, when the Semarang branch of the CHH proposed a reorganization of
 
 Suryadinata also suggests that as well as the old entrenched peranakan of Semarang, the peranakan city's businessmen were not enthusiastic about taking part in Chinese nationalist activities. Furthermore, he suggests that Semarang was the base of the Oei Tiong Ham concern, which was important to the strength of the CHH,108 although his argument fails to convince me.
 
-| shall disregard Suryadinata's point that Semarang had a smaller Chinese community than Batavia and Surabaya; if one goes further, and compares the economic conditions of the Chinese in these three cities, Semarang cannot be considered a stronghold of the CHH. -From Dutch sources it is clear that the Chinese of Semarang paid a greater amount of 'personeele belasting', or property tax, than their contemporaries in Batavia. This tax, which was assessed on houses, furniture, horses and vehicles was indeed higher, on average, in Semarang, 51.75 guilders compared to 37.54 guilders in Batavia. But in terms of tax-payment in general, [tax payment per capita], the Chinese of Batavia contributed more than their fellows in Semarang and Surabaya.
+I shall disregard Suryadinata's point that Semarang had a smaller Chinese community than Batavia and Surabaya; if one goes further, and compares the economic conditions of the Chinese in these three cities, Semarang cannot be considered a stronghold of the CHH. -From Dutch sources it is clear that the Chinese of Semarang paid a greater amount of 'personeele belasting', or property tax, than their contemporaries in Batavia. This tax, which was assessed on houses, furniture, horses and vehicles was indeed higher, on average, in Semarang, 51.75 guilders compared to 37.54 guilders in Batavia. But in terms of tax-payment in general, [tax payment per capita], the Chinese of Batavia contributed more than their fellows in Semarang and Surabaya.
 
 The economic strength of the Batavian Chinese lay in their vast landownership, for which in 1932 they paid a total ground-tax of 459,000 guilders, compared to 211,000 guilders in Semarang, and 311,000 guilders in Surabaya.199 In this period the strength of Chinese landownership in the Batavia residency enabled them to endure harsh economic pressures!10 and strong competition from both the singkeh and the emerging indigenous middle-class.
 
@@ -2442,13 +2430,13 @@ J
 
 219x/1935. peranakan Chinese and their indigenous neighbours in that region.
 
-| would like to emphasize that it is inaccurate to describe the strength of the CHH and PTI as peranakan political organizations simply by looking where they were first established, as Suryadinata has done. The writer needs to observe deeply and thoroughly the nature of the peranakan community, the history of its establishment, the attitude of the Dutch local: government in the handling of Chinese affairs in the region, the quality of peranakan/indigenous relations. Each is an indispensable factor contributing to the distinctive character of each peranakan organization. The peranakan comunity in Java was not of a single character.
+I would like to emphasize that it is inaccurate to describe the strength of the CHH and PTI as peranakan political organizations simply by looking where they were first established, as Suryadinata has done. The writer needs to observe deeply and thoroughly the nature of the peranakan community, the history of its establishment, the attitude of the Dutch local: government in the handling of Chinese affairs in the region, the quality of peranakan/indigenous relations. Each is an indispensable factor contributing to the distinctive character of each peranakan organization. The peranakan comunity in Java was not of a single character.
 
 The People's Council and the Question of the Netherlands Subjects
 
 The Dutch plan of 1917 to set up a semi-parliamentary body in the Netherlands Indies aroused various political responses among the inhabitants of the colony.
 
-The Indonesians saw the People's Council, or Volksraad, as a political opportunity to participate in the colonial government. The Chinese response was somewhat different. For them, the government's offer to join the new institution by nominating their representatives forced them into a difficult position, due to their ambiguous civil status in the colony. | should first consider the Chinese legal position in the Dutch East Indies.
+The Indonesians saw the People's Council, or Volksraad, as a political opportunity to participate in the colonial government. The Chinese response was somewhat different. For them, the government's offer to join the new institution by nominating their representatives forced them into a difficult position, due to their ambiguous civil status in the colony. I should first consider the Chinese legal position in the Dutch East Indies.
 
 The Dutch applied a policy of segregation in ruling their colony in the East. For the Dutch East Indies, this segregation was operated mainly on lines of legal status, by dividing the population on grounds of race and religion. On a racial basis, colonial society was divided into three main categories - European, Natives and Foreign Asiatics or the Vreemde Oosterlingen. On a religious basis, categorization was simply between Christian and non-Christian.112
 
@@ -2456,7 +2444,7 @@ The Dutch applied a policy of segregation in ruling their colony in the East. Fo
 
 112 For a detailed discussion, see Chapter I.
 
-168 The Chinese belonged to the Vreemde Oosterlingen group, and became primary members of this non-native, nonEuropean element in colonial society. Because of their considerable numbers and the indispensable role they played in the colonial economy, it is not surprising that the Dutch took the Chinese into consideration when formulating government policies. For the three centuries to 1900, Dutch government concerns revolved around economic matters, but to this were added political concerns in the first half of the twentieth century. |
+168 The Chinese belonged to the Vreemde Oosterlingen group, and became primary members of this non-native, nonEuropean element in colonial society. Because of their considerable numbers and the indispensable role they played in the colonial economy, it is not surprising that the Dutch took the Chinese into consideration when formulating government policies. For the three centuries to 1900, Dutch government concerns revolved around economic matters, but to this were added political concerns in the first half of the twentieth century. I
 
 As members of the Vreemde Oosterlingen group, the Chinese position was extremely 'onvaste en zwevende',113 unsteady and floating, which reflected the dualist policy of the Dutch government. There is an example in the legal sphere: in legal cases, the Chinese were liable to European law, and thus their judicial processes took place in the Council of Justice, or Raad van Justitie. However, if a Chinese was involved in a criminal case, he was prosecuted by the Landraad, or Native Court of Justice. When, in 1868, the Dutch introduced the politierol, or police roll, by which rights were given to administrative officials to exercise
 
@@ -2492,13 +2480,13 @@ principle of jus soli, by which all Indies-born Chinese
 
 became Netherlands subjects. This was a remarkable step by the Dutch to improve the status of the Chinese, although it subsequently created an even more complicated problem. The issue of this law was a political reaction to the Chinese government's policy regarding her overseas subjects.
 
-A year earlier, on 28 March 1909, the Chinese government had issued an edict stating that all Chinese born of a Chinese father or mother would be considered subjects of China.116 As the government of China applied the principle of jus sanguinis in this matter and its regulation had been issued first, the jus soli principle adopted by the Netherlands Indies government was intended to 'protect' the Indies-born Chinese or peranakan. It goes without saying that these opposing principles turned the question of the status of the Chinese in the Dutch East Indies into a political issue. |
+A year earlier, on 28 March 1909, the Chinese government had issued an edict stating that all Chinese born of a Chinese father or mother would be considered subjects of China.116 As the government of China applied the principle of jus sanguinis in this matter and its regulation had been issued first, the jus soli principle adopted by the Netherlands Indies government was intended to 'protect' the Indies-born Chinese or peranakan. It goes without saying that these opposing principles turned the question of the status of the Chinese in the Dutch East Indies into a political issue. I
 
 The jus soli principle applied in the Netherlands-subject Law revealed how much the Dutch depended upon the Chinese residents, particularly in economic matters, although this dependency was never openly admitted. But the application
 
  
 
-116 F H Fromberg, "De Chineezen en het Nationaliteitsbeginsel", in his Verspreide Geschriften (1926. Leiden: CHH), p. 653. of the Netherlands-subject Law brought a number of political consequences. Firstly, despite the Dutch government's intention to 'protect' the Indies-born peranakan from the Chinese government's influence, the jus soli principle also covered the Indies-born singkeh. Conseguently diplomatic friction occurred between the Dutch government and the Chinese Consulates in the Netherlands Indies when the latter launched a registration “drive for Chinese residents in the colony. | will discuss on this later. Secondly, as the Netherlands subject status was intended to smooth external relations, and had no legal impact on the status of citizenship, it did not change the civil status of the Chinese within the colony. That ambiguous: position encouraged Chinese movement into the political arena. This was first shown in the Chinese reaction to the People's Council, as the Chinese movement was then deeply occupied with political issues concerning Chinese status and Chinese participation in colonial government.
+116 F H Fromberg, "De Chineezen en het Nationaliteitsbeginsel", in his Verspreide Geschriften (1926. Leiden: CHH), p. 653. of the Netherlands-subject Law brought a number of political consequences. Firstly, despite the Dutch government's intention to 'protect' the Indies-born peranakan from the Chinese government's influence, the jus soli principle also covered the Indies-born singkeh. Conseguently diplomatic friction occurred between the Dutch government and the Chinese Consulates in the Netherlands Indies when the latter launched a registration “drive for Chinese residents in the colony. I will discuss on this later. Secondly, as the Netherlands subject status was intended to smooth external relations, and had no legal impact on the status of citizenship, it did not change the civil status of the Chinese within the colony. That ambiguous: position encouraged Chinese movement into the political arena. This was first shown in the Chinese reaction to the People's Council, as the Chinese movement was then deeply occupied with political issues concerning Chinese status and Chinese participation in colonial government.
 
 That the Netherlands-subject Law was more relevant in the diplomatic and territorial context can be observed from its attendant legal terms. A Chinese, according to the 1910 law, was 'Nederlandsch-onderdaan', although being a Netherlands subject did not change his civil status as a Vreemde Oosterlingen.117 Although the term Vreemde Oosterlingen was not to be used as a legal categorization of Dutch East Indies inhabitants after 1 January 1920,118 this ridiculous title continued to appear in Dutch government correspondence.! 19 Moreover, despite the Dutch plans for administrative reform of the Chineesche Bestuur,
 
@@ -2516,15 +2504,15 @@ Andere Vreemde Oosterlingen na het Verdwijnen van Wijken voor Ingezetenen van di
 
 171 or Chinese Administration, in 1918, the heading Bestuur over Vreemde Oosterlingen, or Administration over the Foreign Asiatics, was used in official reports, until 19381120
 
-As | noted earlier, the establishment of the People's Council raised for the Chinese the question how their legal status would be considered when a parliamentary body came into existence. It is interesting to note that it was within this political initiative that the Chinese raised their civil status as a problem; many wondered why they should have waited around seven years to raise this issue. Suryadinata suggested that it was due to Sin Po stirring up Chinese public reaction against the implementation of the Netherlands-subject Law, after a mass Chinese meeting held in Semarang on 11 November 1917.121 This occasion marked the emergence of the Sin Po group as the earliest political stream in the Chinese movement and as the champion of the anti-Netherlands-subject law forces.
+As I noted earlier, the establishment of the People's Council raised for the Chinese the question how their legal status would be considered when a parliamentary body came into existence. It is interesting to note that it was within this political initiative that the Chinese raised their civil status as a problem; many wondered why they should have waited around seven years to raise this issue. Suryadinata suggested that it was due to Sin Po stirring up Chinese public reaction against the implementation of the Netherlands-subject Law, after a mass Chinese meeting held in Semarang on 11 November 1917.121 This occasion marked the emergence of the Sin Po group as the earliest political stream in the Chinese movement and as the champion of the anti-Netherlands-subject law forces.
 
 The Semarang gathering had been preceded by a meeting held in Bandung on 7 October 1917, to discuss the nomination of Chinese representatives for the People's Council. Among the 36 Chinese members of various local councils who had been invited, only eleven managed to be present, most being Chinese officers. The main question under discussion concerned Chinese participation in the Volksraad, and whether the-Chinese community should be represented by Chinese who bore equal status to Europeans, that is the 'Europeanen gelijksgestelde Chineezen', or by European members of the People's Council.122 The meeting settled on nominating five Chinese as their representatives, namely Kan Hok Hoei (better known as HHKan) from Batavia; Tjoa Liang Djien, a Chinese lieutenant from Surabaya; Tjoeng Tay Hoen, the Chinese major of Muntok, Bangka
 
  
 
-120 See Indisch Verslag van 1939, vol. |, p. 446. 121 L Suryadinata, Peranakan Chinese Politics in Java, p. 33.
+120 See Indisch Verslag van 1939, vol. I, p. 446. 121 L Suryadinata, Peranakan Chinese Politics in Java, p. 33.
 
-122 § L van der Wal, De Volksraad en de Staatskundige Ontwikkeling, vol. |. p. 209.
+122 § L van der Wal, De Volksraad en de Staatskundige Ontwikkeling, vol. I. p. 209.
 
 172 Island; Khouw Kim An, the Chinese major of Batavia; and Lie — Tjian Tjoen, the Chinese captain of Batavia.123
 
@@ -2538,15 +2526,15 @@ been founded by H Sneevliet and A Baars, two leading
 
 members of the Dutch socialist party, who had arrived in Java in 1914 and settled in Semarang. The ISDV was later transformed into the Perserikatan Komunis Hindia (Indies Communist Association), which in 1918 was named the PKI or Indonesian Communist Party.
 
-Therefore, did these 700 represent the 360,000 Chinese residents in Java? It seems certain that the 700 spoke only for their own interests, those of the approximately 27 Chinese associations from East Java “(mostly from Surabaya), five from Central Java (Semarang); while West Java (Bandung, Batavia and Indramayu) were represented by only one organization.125 But what was the position of about the silent majority, especially as the non-China oriented peranakan political parties, the Chung Hwa Hui and the Partai Tionghoa Indonesia, were founded later? | can only assume that political opinion at the Semarang meeting was
+Therefore, did these 700 represent the 360,000 Chinese residents in Java? It seems certain that the 700 spoke only for their own interests, those of the approximately 27 Chinese associations from East Java “(mostly from Surabaya), five from Central Java (Semarang); while West Java (Bandung, Batavia and Indramayu) were represented by only one organization.125 But what was the position of about the silent majority, especially as the non-China oriented peranakan political parties, the Chung Hwa Hui and the Partai Tionghoa Indonesia, were founded later? I can only assume that political opinion at the Semarang meeting was
 
  
 
-123 Ibid, p. 210. 124 | Suryadinata, Peranakan Chinese Politics in Java, p. 21.
+123 Ibid, p. 210. 124 I Suryadinata, Peranakan Chinese Politics in Java, p. 21.
 
 125 Liem Thian Joe, Riwajat Orang Orang Tjina di Semarang(1930. Semarang: n.p.), p. 235. dominated by China-oriented and socialist Chinese groups. In other words, the Semarang meeting did not represent the feelings of the peranakan majority.
 
-It is very likely that the Semarang meeting was a war of words between those who favoured Chinese participation in the Volksraad (represented by HHKan from Batavia) and those who opposed (represented by The Kian Sing from Surabaya). HHKan argued that it was futile to attempt to discuss or launch plans for the improvement of education, taxation, legal status, without joining the People's Council, as the only place to put forward Chinese demands was in that body. He emphasized that in order to gain political and social emancipation, the Chinese had no other way, 'verzet of medewerking',126 either opposition or cooperation. The majority opinion of the meeting, on the other hand, was that the Volksraad was a fake, or 'palsoe',127 and saw no benefit to the Chinese in this institution. |
+It is very likely that the Semarang meeting was a war of words between those who favoured Chinese participation in the Volksraad (represented by HHKan from Batavia) and those who opposed (represented by The Kian Sing from Surabaya). HHKan argued that it was futile to attempt to discuss or launch plans for the improvement of education, taxation, legal status, without joining the People's Council, as the only place to put forward Chinese demands was in that body. He emphasized that in order to gain political and social emancipation, the Chinese had no other way, 'verzet of medewerking',126 either opposition or cooperation. The majority opinion of the meeting, on the other hand, was that the Volksraad was a fake, or 'palsoe',127 and saw no benefit to the Chinese in this institution. I
 
 The Kian Sing, whom the Dutch suspected of having close contact with Sneevliet and Baars, condemned as capitalists those who willingly agreed to be members of the Volksraad.128 He argued that the Bandung meeting of October 1917, initiated by Chinese officers and Chinese members of government-created local councils, did not truly represent the Chinese community. Indeed he suspected that those Chinese candidates for the People's Council were simply “seeking their own advantage.-HHKan continued to insist that the Chinese should join the People's Council, otherwise they would be more and more deprived.
 
@@ -2576,7 +2564,7 @@ The Dutch choice of HHKan was also due to his personal. status. Despite the fact
 
 175
 
-130 "Beschouwingen over de Chineesch-Maleische Pers van February-Maart |
+130 "Beschouwingen over de Chineesch-Maleische Pers van February-Maart I
 
 1918", in Binnenlands-Bestuur, no. 4390; and see also note of Director of Home Affairs to Governor-General, 8 March 1918, no. 165/B, in Verbaal, 2 July 1919, no. 15.
 
@@ -2584,7 +2572,7 @@ The Dutch choice of HHKan was also due to his personal. status. Despite the fact
 
 132 Ibid. Although Chinese public opinion was initially unhappy with HHKan, condemning him for being more or less Westernized, or 'vereuropeescht is',133 and likely to forget his ‘Chinese nationality',134 his Chineseness, it later managed to accept his appointment by the Dutch.135
 
-However, before this decision was made, the Advisor for Chinese Affairs proposed that the government consider other Vreemde Oosterlingen besides the Chinese, for example Arabs.136 He pointed out that there was a split among the Chinese on this matter. But the Chinese were too numerous and too important to be neglected. The Dutch government carried out its plan by appointing two Chinese representatives to the People's Council for its first period, 1918-1921. | o
+However, before this decision was made, the Advisor for Chinese Affairs proposed that the government consider other Vreemde Oosterlingen besides the Chinese, for example Arabs.136 He pointed out that there was a split among the Chinese on this matter. But the Chinese were too numerous and too important to be neglected. The Dutch government carried out its plan by appointing two Chinese representatives to the People's Council for its first period, 1918-1921. I o
 
 The two Chinese members were HHKan from Batavia and Lim A Pat, the Chinese captain of Muntok, Bangka Island.137 Chinese public opinion assumed that HHKan had been chosen for his political standing, while Lim A Pat's nomination was due to his activities in trade and industry.138 As they were categorized. as appointed or non-elected members of the People's Council, neither represented a political party, or 'partijloos'.139 It should be reiterated that the two main peranakan political parties, the Chung Hwa Hui and the Partai Tionghoa Indonesia, had not yet been founded. It is remarkable that despite there being no Chinese political party in existence at the time, the people still managed to establish their attitudes political participation, indicating
 
@@ -2598,7 +2586,7 @@ The two Chinese members were HHKan from Batavia and Lim A Pat, the Chinese capta
 
 136 Letter of the Advisor for Chinese Affairs to the Director of Home Affairs, 22 November 1917, no. 427/17, in Geheim Mailrapport, no. 301x/1917.
 
-137 See Gouvernementsbesluit, 23 February 1918, no. 2; and also S L van der Wal, De Volksraad en de Staatskundige Ontwikkeling, vol. |, p. 224.
+137 See Gouvernementsbesluit, 23 February 1918, no. 2; and also S L van der Wal, De Volksraad en de Staatskundige Ontwikkeling, vol. I, p. 224.
 
 138 See Perniagaan, 2 February 1918, quoted in the letter of the Director of Home Affairs to Governor-General, 8 March 1918, no. 165/B, in Verbaal, 2 July 1919, no. 15.
 
@@ -2606,7 +2594,7 @@ The two Chinese members were HHKan from Batavia and Lim A Pat, the Chinese capta
 
 176 that from this point the Chinese movement was being transformed from the socio-cultural base of the Tiong Hoa Hwee Koan into the political arena.
 
-As | noted earlier, the meeting in Semarang on 11 November 1917 confirmed the influence of the-Sin Po group in directing Chinese opinion against the People's Council, by focusing on the Netherlands-subject Law. This Chinaoriented group kept reminding the Chinese of the Dutch East Indies that they were 'guests' in the colony, and they could not be considered Netherlands subjects. There was therefore no benefit in joining the People's Council. According to this group, the Netherlands-subject law and the Dutch offer of Chinese participation in colonial government was a plot to isolate the Chinese of the Dutch East Indies from China, their country of origin.140 It further argued that Dutch laws were distorted in such a way that the Chinese position in the Netherlands Indies was degraded.141 In addition, the Chinese were unfairly treated by the Dutch government, having to pay double taxation, being placed under the Native Court of Justice, deprived of Dutch education, and much else. Therefore it urged that the Chinese fight the Netherlands-subject Law, that they should remain Chinese.142 |
+As I noted earlier, the meeting in Semarang on 11 November 1917 confirmed the influence of the-Sin Po group in directing Chinese opinion against the People's Council, by focusing on the Netherlands-subject Law. This Chinaoriented group kept reminding the Chinese of the Dutch East Indies that they were 'guests' in the colony, and they could not be considered Netherlands subjects. There was therefore no benefit in joining the People's Council. According to this group, the Netherlands-subject law and the Dutch offer of Chinese participation in colonial government was a plot to isolate the Chinese of the Dutch East Indies from China, their country of origin.140 It further argued that Dutch laws were distorted in such a way that the Chinese position in the Netherlands Indies was degraded.141 In addition, the Chinese were unfairly treated by the Dutch government, having to pay double taxation, being placed under the Native Court of Justice, deprived of Dutch education, and much else. Therefore it urged that the Chinese fight the Netherlands-subject Law, that they should remain Chinese.142 I
 
 After the Semarang meeting of November 1917, the Sin Po
 
@@ -2630,9 +2618,9 @@ The Chinese desire for egual status with Europeans was not simply a guestion of 
 
  
 
-144 “Persoverzicht: De Chineesche Pers, Februari 1912", Koloniaal Tijdschrift, vol. |, 1911-1912, p. 358; J Moerman, In en Om de Chineesche Kamp (1932. Batavia: G.Kolff & Co), p. 17.
+144 “Persoverzicht: De Chineesche Pers, Februari 1912", Koloniaal Tijdschrift, vol. I, 1911-1912, p. 358; J Moerman, In en Om de Chineesche Kamp (1932. Batavia: G.Kolff & Co), p. 17.
 
-145 "De Chineezen-kwestie", De Índische Gids, vol. |, 1927, p. 543.
+145 "De Chineezen-kwestie", De Índische Gids, vol. I, 1927, p. 543.
 
 146 "De Chineezen in Nederlandsch-Indie", De Indische Gids, vol. Il, 1910, p. 1381; see also "Persoverzicht: De Chineesche Pers, October 1916", Koloniaal Tijdschrift, vol. VI, 1917, p.112.
 
@@ -2670,7 +2658,7 @@ Second was the policy of the colonial government to draw the peranakan Chinese t
 
 154 wpersoverzicht: De Chineesche Pers, September 1916", Koloniaal Tijdschrift, vol. V, 1916, p. 1655.
 
-155 See Plakaatboek van Nederlandsch-indie (1885. Batavia: Landsdrukkerij), vol. |, 1602-1642, pp. 76, 547.
+155 See Plakaatboek van Nederlandsch-indie (1885. Batavia: Landsdrukkerij), vol. I, 1602-1642, pp. 76, 547.
 
 180 the peranakan political party founded in August 1926, the Chung Hwa Hui, the Dutch made certain that Chinese rejection of the Netherlands-subject law would be removed. It was the Chung Hwa Hui plan to encourage the acceptance of Indies-born peranakan Chinese as Netherlands subjects. Chung Hwa Hui membership was specifically open to "all Netherlands subjects of Chinese origin who are over 18 years",156 a condition that helped the organization to resist the entry of singkeh into the party.!57
 
@@ -2694,7 +2682,7 @@ This matter was eventually solved by means of a diplomatic understanding, conclu
 
 In order to protect their overseas subjects, the Chinese government more than once accused the Netherlands Indies government of unfairly treating the Chinese in the colony. This interference should be seen not only as the Chinese government's response to the Chinese grievances reported by the singkeh via their Chamber of Commerce and the trade associations,161 but also as an indication of need for support, particularly financial support, from their overseas subjects.
 
-Most Kuo Min Tang activity in this respect took the form of fund raising campaigns, either to assist casualties in mainland China or to secure party funds and the Chinese government. It was reported, for example, that the Chinese Consul-General of Batavia made a tour of the main cities of Java to collect about $40,000,000 although he managed only $550,000.162 | suspect that the fund raising campaigns of the Kuo Min Tang and Chinese Consulates in Outer Java were more successful, owing to the preponderance of singkeh residents there.
+Most Kuo Min Tang activity in this respect took the form of fund raising campaigns, either to assist casualties in mainland China or to secure party funds and the Chinese government. It was reported, for example, that the Chinese Consul-General of Batavia made a tour of the main cities of Java to collect about $40,000,000 although he managed only $550,000.162 I suspect that the fund raising campaigns of the Kuo Min Tang and Chinese Consulates in Outer Java were more successful, owing to the preponderance of singkeh residents there.
 
 For the peranakan of Java, the constant fund-raising activities, as well as the aggressiveness of most singkeh Kuo Min Tang members, became a real nuisance. These feelings are well represented by a peranakan wardmaster in Kutoarjo, Central Java, who complained _ that: sam... perkoempoelan Kuo Min Tang di Batavia, Soerabaja dan Bandoeng sering sering tariek oewang sadja......",163 the Kuo Min Tang organizations
 
@@ -2736,13 +2724,13 @@ Apart from demanding that the Chinese Consulates exclude all peranakan from its 
 
 169 "Jaarverslag over 1929 Betreffende de Werkzaamheden van het Kantoor voor Chineesche Zaken", in Binnenlands-Bestuur, no. 129.
 
-170 "Persoverzicht: De Chineesche Pers, July-August 1912", Koloniaal Tijdschrift, vol. |, 1911-1912, p. 1132. 171 See "Jaarverslag over 1929 Betreffende de Werkzaamheden van het Kantoor voor Chineesche Zaken", in Binnenlands-Bestuur, no. 129.
+170 "Persoverzicht: De Chineesche Pers, July-August 1912", Koloniaal Tijdschrift, vol. I, 1911-1912, p. 1132. 171 See "Jaarverslag over 1929 Betreffende de Werkzaamheden van het Kantoor voor Chineesche Zaken", in Binnenlands-Bestuur, no. 129.
 
 172 Letter of the Government Secretary, 13 September 1929, no. 299x, in Geheim Mailrapport, no. 857x/1929; see also Geheim Verbaal, 16 October 1929, no. 0.20.
 
 184 It was fortunate for the Dutch government that the majority of peranakan Chinese wished to bring order to this confusion. This was particularly true of the inhabitants of Batavia, and as early as 1911 the Chinese officers and wardmasters, under the instruction of the local authority, had registered their own people.!73 By gaining information on the origins of the Chinese residents of the Batavia residency, distinctions between singkeh and peranakan could be made. In this task, there were no officials who knew the members of the Chinese community better than the Chinese officers. No matter what criticism was made of the Chinese officers, the Dutch wisely acknowledged their expertise in handling the Chinese.
 
-The first part of this chapter was concerned with the two main peranakan organizations in which the Chinese officers were involved. | have indicated the changing attitude of the Dutch policy towards the Chinese, in favouring the Indiesborn peranakan. This can be seen initially in education, with the opening of the Dutch-Chinese School in 1908, and in the establishment of the Chung Hwa Hui. The Dutch further favoured the peranakan by the appointment of Chinese members to the People's Council. Meanwhile, the Netherlands-subject law was intended to protect the peranakan Chinese not only from Chinese government influence but also from the singkeh-totok. For the Indonesian nationalists, this divide et impera policy was vehemently condemned. But for the Indies-born peranakan, despite its hypocrisy, the Dutch attitude helped them review their position as members of Dutch East Indies society, although later it would bring them into conflict with the growing Indonesian nationalist movement.
+The first part of this chapter was concerned with the two main peranakan organizations in which the Chinese officers were involved. I have indicated the changing attitude of the Dutch policy towards the Chinese, in favouring the Indiesborn peranakan. This can be seen initially in education, with the opening of the Dutch-Chinese School in 1908, and in the establishment of the Chung Hwa Hui. The Dutch further favoured the peranakan by the appointment of Chinese members to the People's Council. Meanwhile, the Netherlands-subject law was intended to protect the peranakan Chinese not only from Chinese government influence but also from the singkeh-totok. For the Indonesian nationalists, this divide et impera policy was vehemently condemned. But for the Indies-born peranakan, despite its hypocrisy, the Dutch attitude helped them review their position as members of Dutch East Indies society, although later it would bring them into conflict with the growing Indonesian nationalist movement.
 
 The peranakan found themselves unavoidably sandwiched between the ruler and the majority ruled. The name 'bangsa tengah" given to the peranakan, spoke for itself. Not only were they 'terjepit', or sgueezed, between the oppressor and the oppressed but they were also the scapegoat when disputes arose. This occurred in the period 1912-1913,
 
@@ -2758,7 +2746,7 @@ The turn of this century witnessed great changes within Asia, a revival among in
 
 It did not take long for cultural revival to extend to politics, in which ideas of nationalism, solidarity, classstruggle nurtured action against the colonial government. This, then, was the spirit of the time, which deeply touched the various elements of Dutch East Indies society, Indonesians, Chinese and Arab.
 
-When a series of disturbances occurred in 1912 and 1913, it was clear that political events outside the Dutch East Indies were stimulating the nationalist sentiments of the Chinese and the Arabs. The triumph of the October 1911 revolution in China led by Sun Yat Sen undoubtedly excited the Chinese in the Indies. This was most striking seen in the arrogance towards non-Chinese. This unpleasant attitude was abhorred by the peranakan Chinese,174 who were later to be deeply affected by anti-Chinese feeling within the indigenous peoples. | _ In the same way that the Chinese looked to China, the Arab residents of the Dutch East Indies owed their political orientation and idealism to the Middle East. Many sent their children to Turkey to pursue advanced study.175 They held a
+When a series of disturbances occurred in 1912 and 1913, it was clear that political events outside the Dutch East Indies were stimulating the nationalist sentiments of the Chinese and the Arabs. The triumph of the October 1911 revolution in China led by Sun Yat Sen undoubtedly excited the Chinese in the Indies. This was most striking seen in the arrogance towards non-Chinese. This unpleasant attitude was abhorred by the peranakan Chinese,174 who were later to be deeply affected by anti-Chinese feeling within the indigenous peoples. I _ In the same way that the Chinese looked to China, the Arab residents of the Dutch East Indies owed their political orientation and idealism to the Middle East. Many sent their children to Turkey to pursue advanced study.175 They held a
 
  
 
@@ -2792,11 +2780,11 @@ The Hakka-Macaos grudge against the peranakan major of Batavia was well-known, a
 
 179 Both the Dutch govemment and the peranakan press deeply regretted the deterioration of this relationship, which they described as 'van broederschap naar vijandschap', from brotherhood to enmity. See "Persoverzicht: De Chineesche Pers", Koloniaal Tijdschrift, vol. Il, 1912-1913, pp. 320, 886 and vol. V, 1916, p. 230.
 
-180 "persoverzicht: De Chineesche Pers, Maart-April 1912", Koloniaal Tijdschrift, vol. |, 1911-1912, p. 623.
+180 "persoverzicht: De Chineesche Pers, Maart-April 1912", Koloniaal Tijdschrift, vol. I, 1911-1912, p. 623.
 
 181 "Een Chinees over de Chineesche Beweging", p. 668.
 
-182 “Persoverzicht: De Chineesche Pers, Februari 1912", Koloniaal Tijdschrift, vol. |, 1911-1912, p. 354.
+182 “Persoverzicht: De Chineesche Pers, Februari 1912", Koloniaal Tijdschrift, vol. I, 1911-1912, p. 354.
 
 188 of the building.183 Fearing that the situation might get out of hand, the Chinese major immediately sent a telegram to the Governor-General in Buitenzorg, asking for official confirmation of the ban. The answer, signed by the Government Secretary,184 stated that permission would not be given to hoist the flag as the Netherlands government had not recognized the new Chinese Republic. The answer was translated into Chinese and Malay, and distributed in all Chinese neighbourhoods in Batavia. Following this, the situation in Batavia returned to normal.
 
@@ -2838,7 +2826,7 @@ Of those arrested, 173 were quickly released. Police investigations revealed tha
 
 The riot of 1912 revealed economic pressures within the Chinese community, resulting from the arrival from around 1900 of increasing numbers of Chinese migrants - legal or illegal. For the long established peranakan members of the Chinese community, these new-comers clearly disturbed their peaceful lives, and consequently were disliked. It later became clear that the riots in February 1912 had not completely settled, for in October of the same year a riot broke out between the Chinese and the Arabs in Surabaya. This Chinese-Arab conflict was repeated in other cities in Java; the most destructive, apart from Surabaya, were in Tuban, Bangil and Cirebon.
 
-Before | continue discussing the October 1912 riot in Surabaya, | must return to Batavia, to show how different that city's social conditions were from those in Surabaya. The largest Chinese community in Batavia, the majority of whom were peranakan, were found in both urban and rural areas. This was due to the land status of the Batavia residency, of which the largest part comprised 'particuliere landerijen', or private landed estates, owned mostly by Chinese and Europeans. Looking at the demographic profile in 1900, there were 26,817 Chinese residents in the city of Batavia, compared with 62,247 living on the outskirts, or Ommelanden.192 By 1905, when the Chinese residents in the Batavia residency were 4.5% of the total population,!93 the number of city-dwellers and those living on the outskirts were even bigger, 28,150 and 74,370.194 This meant that more than two-thirds of the Chinese preferred to settle in the Ommelanden. This explains why Chinese-Arab conflicts
+Before I continue discussing the October 1912 riot in Surabaya, I must return to Batavia, to show how different that city's social conditions were from those in Surabaya. The largest Chinese community in Batavia, the majority of whom were peranakan, were found in both urban and rural areas. This was due to the land status of the Batavia residency, of which the largest part comprised 'particuliere landerijen', or private landed estates, owned mostly by Chinese and Europeans. Looking at the demographic profile in 1900, there were 26,817 Chinese residents in the city of Batavia, compared with 62,247 living on the outskirts, or Ommelanden.192 By 1905, when the Chinese residents in the Batavia residency were 4.5% of the total population,!93 the number of city-dwellers and those living on the outskirts were even bigger, 28,150 and 74,370.194 This meant that more than two-thirds of the Chinese preferred to settle in the Ommelanden. This explains why Chinese-Arab conflicts
 
  
 
@@ -2858,9 +2846,9 @@ On 27 October 1912, an embittered group of about 200 Arabs ransacked the Chinese
 
  
 
-195 "Persoverzicht: De Chineesche Pers, Oktober-November 1912", Koloniaal Tijdschrift, vol. |, 1911-1912, p. 333.
+195 "Persoverzicht: De Chineesche Pers, Oktober-November 1912", Koloniaal Tijdschrift, vol. I, 1911-1912, p. 333.
 
-196 See "Chineezen en Arabieren", De Indische Gids, vol. |, 1913, p. 107; “Persoverzicht: De Chineesche Pers, Oktober 1912", Koloniaal Tijdschrift, vol. Il, 1912-1913, p. 203.
+196 See "Chineezen en Arabieren", De Indische Gids, vol. I, 1913, p. 107; “Persoverzicht: De Chineesche Pers, Oktober 1912", Koloniaal Tijdschrift, vol. Il, 1912-1913, p. 203.
 
 197 "persoverzicht: De Chineesche Pers", op.cit., p. 205.
 
@@ -2890,13 +2878,13 @@ In the city of Tuban in East Java, there were 4,611 Chinese and 558 Arabs in 190
 
 Bangil in East Java and Cirebon in West Java showed a similar demographic balance. In 1905 Bangil had 856 Chinese and 844 Arab residents; in Cirebon there were 3,476 Chinese and 1,104 Arabs.205 Riots in Bangil occurred on 4 September 1912, and again on 24-25 October, in which two Chinese were killed. In Cirebon three Chinese were killed and twenty-three injured, during a Chinese-Arab conflict on 26 October 1912.206 Only six Arabs were wounded, none were killed.297
 
-My observation that the Chinese community in Batavia was both rural and urban suggests why no serious ChineseArab conflict occurred in that city. And the Chinese vastly outnumbered the Arabs, 28,150 Chinese to 2,054 Arabs living in the city, with only 147 Arabs living in the extensive outskirts, the Ommelanden.208 In 1912 the Chinese residents of the city of Batavia numbered 29,963;209 the Arabs, | presume, were no more than 4,000 in number.
+My observation that the Chinese community in Batavia was both rural and urban suggests why no serious ChineseArab conflict occurred in that city. And the Chinese vastly outnumbered the Arabs, 28,150 Chinese to 2,054 Arabs living in the city, with only 147 Arabs living in the extensive outskirts, the Ommelanden.208 In 1912 the Chinese residents of the city of Batavia numbered 29,963;209 the Arabs, I presume, were no more than 4,000 in number.
 
 In contrast, the Chinese and Arabs in Surabaya were both urban communities. In addition the economic position in this second city of Java appears to have been even more tense. Competition between the Chinese and the Arabs, and even among the Chinese - that is between peranakan and singkeh - was becoming sharper, particularly by the early 1920s. In the 1930s, a peranakan from Surabaya, who later became a notable political leader during the Sukarno era, witnessed the declining power of the peranakan in the textile trade, as it became dominated by singkeh.219 European companies also
 
  
 
-204 “Persoverzicht: De Chineesche Pers, Mei-Juni 1912", Koloniaal Tijdschrift, vol. |, 1911-1912, p. 842.
+204 “Persoverzicht: De Chineesche Pers, Mei-Juni 1912", Koloniaal Tijdschrift, vol. I, 1911-1912, p. 842.
 
 205 Bijlage A, Koloniaal Verslag van 1907.
 
@@ -2906,9 +2894,9 @@ In contrast, the Chinese and Arabs in Surabaya were both urban communities. In a
 
 210 Siauw Giok Tjhan, Lima Jaman. Perwujudan Integrasi Wajar (1981. Amsterdam-Jakarta: Yayasan Teratai), pp. 49-50.
 
-195 favoured peranakan intermediary traders in the distribution of their goods, and this fuelled Arab resentment towards the Dutch. |
+195 favoured peranakan intermediary traders in the distribution of their goods, and this fuelled Arab resentment towards the Dutch. I
 
-If we look again at the population data for Surabaya for 1905, it indicates a more balanced position than was found in Batavia. There were 8,066 European, 2,482 Arab and 14,847 Chinese residents, most of whom were engaged in commerce. Since the data does not distinguish peranakan from singkeh, | assume that although the former were in a majority, their economic power declined in the second decade of the twentieh century.211 The increasing number of singkeh migrants made the economic situation in the city more tense. Moreover, the great majority of Europeans in Surabaya were engaged in business.212 This was a somewhat different situation from that in Batavia, where most Europeans were government officials or professionals, and in 1905, the number of European merchants was only 13,085.213
+If we look again at the population data for Surabaya for 1905, it indicates a more balanced position than was found in Batavia. There were 8,066 European, 2,482 Arab and 14,847 Chinese residents, most of whom were engaged in commerce. Since the data does not distinguish peranakan from singkeh, I assume that although the former were in a majority, their economic power declined in the second decade of the twentieh century.211 The increasing number of singkeh migrants made the economic situation in the city more tense. Moreover, the great majority of Europeans in Surabaya were engaged in business.212 This was a somewhat different situation from that in Batavia, where most Europeans were government officials or professionals, and in 1905, the number of European merchants was only 13,085.213
 
 The city's environment also encouraged social conflict for, unlike Batavia, Surabaya had no distinct lines of demarcation between the business and residential quarters.214 Furthermore, the policy of the local authorities in handling the conflict reflected the relationship between the Resident and the Chinese and Arab officers in Surabaya. It is interesting to note that after the peace treaty to end the Chinese-Arab conflict-was signed in Surabaya on 2 November 1912, the Arab captain of Batavia held a reconciliation party with the Chinese officers.215
 
@@ -2932,7 +2920,7 @@ The weakness of the Chinese officership in Surabaya was due to the vulnerability
 
  
 
-216 Noted in "De Chineezen-opstootjes te Soerabaja", De Indische Gids, vol. |, 1912, p. 658.
+216 Noted in "De Chineezen-opstootjes te Soerabaja", De Indische Gids, vol. I, 1912, p. 658.
 
 217 Lea E Williams, Overseas Chinese Nationalism, p.183: see also Pewarta Soerabaia, 10 September 1929, guoted in the letter of the Governor of East Java to Governor-General, 9 January 1930, in Geheim Mailrapport, no. 184x/1930.
 
@@ -2946,7 +2934,7 @@ Complaints from the Chinese regarding the excessive police force used in quellin
 
 218 Noted in the letter of the Advisor for Chinese Affairs to Director of Home Affairs, 6 February 1930, in Geheim Mailrapport, no. 184x/1930.
 
-219 “Persoverzicht: De Chineesche Pers, Februari 1912", Koloniaal Tijdschrift, vol. |, 1911-1912, pp. 363-364.
+219 “Persoverzicht: De Chineesche Pers, Februari 1912", Koloniaal Tijdschrift, vol. I, 1911-1912, pp. 363-364.
 
 220 Ibid., p. 365..
 
@@ -2962,7 +2950,7 @@ The Sarekat Dagang Islamiyah, founded by H Samanhudi in 1905, had purely economi
 
 222 Koloniaal Verslag van 1914, p. 3.
 
-223 P A Toer, Jejak Langkah (1986. Malaysia Edition. Petaling Jaya: Wira Karya), p. 350. Many Arabs joined the Sarekat Islam in the early twenties; see also J M van der Kroef, "The Arab Minority", in Indonesia in the Modern World (1954. Bandung: Masa Baru), part |, p. 257.
+223 P A Toer, Jejak Langkah (1986. Malaysia Edition. Petaling Jaya: Wira Karya), p. 350. Many Arabs joined the Sarekat Islam in the early twenties; see also J M van der Kroef, "The Arab Minority", in Indonesia in the Modern World (1954. Bandung: Masa Baru), part I, p. 257.
 
 224 See Kartono Sartodirdjo, Protest Movements in Rural Java. A Study on the Agrarian Unrest in the Nineteenth and Early Twentieth Centuries (1973. Singapore: Oxford University Press), pp. 151-157, points out that one of the prominent features of the Sl movement was its anti-Chinese character.
 
@@ -2974,7 +2962,7 @@ Given the high level of illiteracy among its followers, the SI movement depended
 
 200
 
-As | noted earlier, anti-Chinese feeling among the
+As I noted earlier, anti-Chinese feeling among the
 
 indigenous people in the early years of the Sl was more likely to have been expressed in forms of unorganized response than in well-planned political action. Most
 
@@ -3048,17 +3036,17 @@ Since the Native and Chinese Administrations were separate, the link was through
 
 Despite its title, this chapter is not concerned with the economic history of Batavia. Instead it aims to describe Chinese economic activity in the area, activity in which the Chinese officers were very much involved. As a certain level of financial standing was necessary to attain an officership, the position was clearly linked with economic competence.
 
-In chapter 3, | pointed out that wealth became the most important criterion in selecting candidates for Chinese officership. Therefore positions were available only to those who were engaged in commercial activities. It is hardly surprising, then, that the strongest candidates were important merchants or landowners. However, for Chinese officers, financial problems . sometimes endangered their position and led to resignation.
+In chapter 3, I pointed out that wealth became the most important criterion in selecting candidates for Chinese officership. Therefore positions were available only to those who were engaged in commercial activities. It is hardly surprising, then, that the strongest candidates were important merchants or landowners. However, for Chinese officers, financial problems . sometimes endangered their position and led to resignation.
 
-Although Batavia and its environs were exempt from the Cultivation System, the Dutch looked for other ways to profit from the region. In other words, despite being relieved from that burden, Batavia was not free from colonial pressures. As the greater part of the region consisted of private lands, the Dutch could not impose the of the cultivation system in this area. However, major financial returns were enjoyed by the colonial authority in the form of land rent paid by the Batavian landowners, and from the lease of revenue farms. |
+Although Batavia and its environs were exempt from the Cultivation System, the Dutch looked for other ways to profit from the region. In other words, despite being relieved from that burden, Batavia was not free from colonial pressures. As the greater part of the region consisted of private lands, the Dutch could not impose the of the cultivation system in this area. However, major financial returns were enjoyed by the colonial authority in the form of land rent paid by the Batavian landowners, and from the lease of revenue farms. I
 
-| will divide this chapters into four parts: Batavia revenue-farms; the officers and revenue farming; Batavia's private lands; and Dutch policy towards private land repurchases.
+I will divide this chapters into four parts: Batavia revenue-farms; the officers and revenue farming; Batavia's private lands; and Dutch policy towards private land repurchases.
 
 With respect to Batavia revenue-farms, my concern is primarily with the historical background, operation and financial returns, rather than with their long-condemned
 
 205 excessive practices.’ It should be noted that Batavia was the first region in which revenue farming was imposed.
 
-In the sub-chapter on the revenue-farming activities of the Chinese officers, | will not deal with its practices and abuses. My discussion will focus on the correlation between the officership's dependence on such business, and their financial losses. James Rush has paid great attention to the powerful economic link between the Chinese officers and the opium farmers.2 Since his extensive study excludes Batavia, presumably because opium farms in the western part of Java were less important, | intend to examine the effect of the losses rather than discuss the impressive financial returns.
+In the sub-chapter on the revenue-farming activities of the Chinese officers, I will not deal with its practices and abuses. My discussion will focus on the correlation between the officership's dependence on such business, and their financial losses. James Rush has paid great attention to the powerful economic link between the Chinese officers and the opium farmers.2 Since his extensive study excludes Batavia, presumably because opium farms in the western part of Java were less important, I intend to examine the effect of the losses rather than discuss the impressive financial returns.
 
 Opium might not be important in Batavia revenue farming, yet this region yielded abundant revenue from its private lands. This will be discussed in the third sub-chapter, attention being given to the historical background, living conditions and agricultural production. The last sub-chapter will discuss the government's plan to repurchase private lands.
 
@@ -3088,17 +3076,17 @@ Each healthy Chinese between the ages of 14 and 60 was liable to pay 1.5 real a 
 
 5 "Hoofdgeld der Binnen Batavia Woonachtig Chineezen", in Plakaatboek van Nederlandsch-Indie (1885. Batavia: Landsdrukkerij), vol. 1, 1610-1624, pp. 76-77; see also “Chronologische Geschiedenis van Batavia door Een Chinees", p. 17.
 
-6 | Blussé, Strange Company. Chinese Settlers, Mestizo Women and the Dutch in VOC Batavia (1986. Dordrecht: Foris Publications), p. 68.
+6 I Blussé, Strange Company. Chinese Settlers, Mestizo Women and the Dutch in VOC Batavia (1986. Dordrecht: Foris Publications), p. 68.
 
-7 Plakaatboek van Nederlandsch-Indie, vol. |, 1614-1624, p. 76; L. Blusse, Strange Company, p. 58.
+7 Plakaatboek van Nederlandsch-Indie, vol. I, 1614-1624, p. 76; L. Blusse, Strange Company, p. 58.
 
 8 E de Waal, Aanteekeningen over de Koloniale Onderwerpen (1865. 's Gravenhage: Martinus Nijhoff), vol. V, De Kleine Verpachten Middelen, part ll, p. 406; and also W E van Mastenbroek, De Historische Ontwikkeling van de Staatsrechtelijke Indeeling, p. 23.
 
-9 F de Haan, Oud Batavia (1930. Bandung: A C Nix & Co), vol. |, p. 61, quoted in L Blusse, Strange Company, p. 58.
+9 F de Haan, Oud Batavia (1930. Bandung: A C Nix & Co), vol. I, p. 61, quoted in L Blusse, Strange Company, p. 58.
 
 207 income from the capitation tax, returning Chinese diminished this potential revenue.
 
-| assume that in the 1800's, the 'hoodfgeld' was also imposed on the Malays, as they were still considered at that time to be 'vreemde oosterlingen', foreigners from the eastern part of the archipelago.10 Later, in 1824, the capitation tax was applied in regions where there was a large Chinese community, such as Pamekasan, on the island of Madura, and in Semarang. ;
+I assume that in the 1800's, the 'hoodfgeld' was also imposed on the Malays, as they were still considered at that time to be 'vreemde oosterlingen', foreigners from the eastern part of the archipelago.10 Later, in 1824, the capitation tax was applied in regions where there was a large Chinese community, such as Pamekasan, on the island of Madura, and in Semarang. ;
 
 There were many Chinese who tried to escape the capitation tax, either by moving to Bantam or Mataram or by converting Islam, to becoming Muslim Chinese or peranakan.!11 It should be noted here that until the midnineteenth century, the term peranakan was widely used for the Muslim Chinese who cut off their pigtails, whom the Dutch called geschoren Chinees, or shaven Chinese.!2 By the 1830s, the term peranakan was no longer applied to the Muslim Chinese, as the Dutch closed the office of kommandant der Parnakkans.13
 
@@ -3108,7 +3096,7 @@ The introduction of bedrijfsbelasting, or income tax, in 1851 for non-agricultur
 
 10 See Batavia, no. 322/1, Arsip Nasional, Jakarta. For changing definition of ‘vreemde oosterlingen' from VOC times, see W E van Mastenbroek, De Historische Ontwikkeling van de Staatsrechtelijke Indeeling, particularly pp. 22-23.
 
-11 F de Haan, Oud Batavia, vol. |, p. 394-396; L Blusse, Strange Company, p. 83; W E van Mastenbroek, op. cit., p. 26.
+11 F de Haan, Oud Batavia, vol. I, p. 394-396; L Blusse, Strange Company, p. 83; W E van Mastenbroek, op. cit., p. 26.
 
 12 F de Haan, op. cit, p. 394: see also Onghokham, "Chinese Capitalism in Dutch Java", in Yoshihara Kunio (ed), Oei Tiong Ham Concern: the First Business Empire of Southeast Asia (1989. Kyoto: Centre for Southeast Asian " Studies, Kyoto University), p. 52; W E van Mastenbroek, op. cit., p. 26.
 
@@ -3144,7 +3132,7 @@ By 1743 Governor-General Baron van Imhoff had managed to impose a total of 16 ta
 
 The VOC appears not to have categorized these taxes, as the term kleine verpachte middelen, or small farms, was adopted later. Under the Netherlands Indies administration, the revenue from small farms was arranged separately from that of opium, particularly after the 1860s when the latter became the main source of government revenue. In fact, during the British period in Java, a separation had been made between general revenue farms and small farms.23 Small farms were imposed on transportation, such as horses and carriages, river passes, toll bridges. The figures for tax collection show that the largest amounts were received from the general-revenue farms. For example, in 1812, general revenue farms yielded 82,800 Spanish dollars; small farms yielded only 22,935 Spanish dollars.24
 
-As | noted earlier, the Dutch decided not to extend the wayangpacht to parts of Java other than the Batavia region. In contrast to the Dutch, the British saw gambling and cockfighting as the main cause of murder among the natives and the Chinese, with arak consumption as an additional factor. Thus on 28 November 1811, in their first year in
+As I noted earlier, the Dutch decided not to extend the wayangpacht to parts of Java other than the Batavia region. In contrast to the Dutch, the British saw gambling and cockfighting as the main cause of murder among the natives and the Chinese, with arak consumption as an additional factor. Thus on 28 November 1811, in their first year in
 
  
 
@@ -3160,7 +3148,7 @@ As | noted earlier, the Dutch decided not to extend the wayangpacht to parts of 
 
 In November 1811, the Landdrost of Batavia was already busy with measures against illicit gambling. In one case, some Chinese wardmasters were discovered among the gamblers. It was reported that a certain Li Peng Ko, who worked with the opium kongsi, had given permission to these Chinese law-breakers to open gambling houses. The police investigation discovered that Li Peng Ko had illegally used the Chinese captain's authority: they extended their enquiries to establish the extent to which the captain was involved. The Chinese captain, Li Tjie Ko, was able to prove himself innocent.28 As for other infringements of the law, such as the sale of arak to European soldiers, the Chinese potia, who had responsibility for the leases, was detained.29
 
-In examining the repercussions of revenue-farming, for which the Chinese were vehemently blamed, | will exclude the notorious opium farm.30
+In examining the repercussions of revenue-farming, for which the Chinese were vehemently blamed, I will exclude the notorious opium farm.30
 
 Certain Dutch blamed the Vreemde Oosterlingen, particularly the Chinese, for their economic activities in
 
@@ -3186,7 +3174,7 @@ Taxation on butchery increased cattle stealing. Thefts occurred mainly during pe
 
  
 
-31 See "Sedert Wanneer het Gouvernement zoo anti-Chineesch Geworden?", Tijdschrift van Nederlandsch-Indie (hereafter TNI), vol. |, 1857, pp. 169171.
+31 See "Sedert Wanneer het Gouvernement zoo anti-Chineesch Geworden?", Tijdschrift van Nederlandsch-Indie (hereafter TNI), vol. I, 1857, pp. 169171.
 
 32 L. Vitalis, "Over de Pachten in het Algemeen, de Onzedelijkheid van Sommige, en de Verdrukking Waaraan de Overmatige Misbruiken van Andere de Javaansche Bevolking Blotsellen", TM, vol. Il, 1851, pp. 365-386.
 
@@ -3204,7 +3192,7 @@ It seems likely that Batavia's native population were most affected by the bazaa
 
  
 
-men, in de Ommelanden van Batavia, Karbouwen Steelt", TNI, vol. |, 1860, pp. 197-199.
+men, in de Ommelanden van Batavia, Karbouwen Steelt", TNI, vol. I, 1860, pp. 197-199.
 
 36 L. Vitalis, "Over de Pachten in het Algemeen, de Onzedelijkheid van Sommige, en de Verdrukking", p. 380.
 
@@ -3232,7 +3220,7 @@ Financial loss was obviously the main reason for Dutch reluctance to abolish man
 
 There were also proposals to abolish the taxes on butchering and meat-selling, which were usually held by one revenue farmer. It was suggested that they should be replaced by a meat-consumption tax. Those opposed said that abolition would lead to illegal abattoirs, which in turn would affect the availability of meat, particularly pork. Scarcity of meat would cause great annoyance to members of the European community. Moreover, abolishing the tax would affect price more than quality of meat.45 As the natives consumed very little meat, the plan was abandoned.46 In fact, a tax on meat consumption would be effective only in cities with large European and Chinese communities, particularly Batavia. However, regulations were adopted which put an end to the revenue farmers monopoly on meat-selling.4” In Batavia, this regulation was imposed from 1864.
 
-| have given a lengthy description of the small farms in order to consider in what ways they were subject to government legislation, particularly in Batavia. | assume
+I have given a lengthy description of the small farms in order to consider in what ways they were subject to government legislation, particularly in Batavia. I assume
 
  
 
@@ -3264,7 +3252,7 @@ en Bevolking op Java per Ziel, 1835", in Ministerie van Kolonien Archief, no. 30
 
 If we look into the various kinds of consumption tax found in Batavia, it is clear that the majority of taxpayers were Chinese. The most striking was undoubtedly the Chinese capitation tax, which in 1900 was incorporated into the bedrijfsbelasting, or income tax. Others were taxes on butchery and pork, liqour and tjioe (Chinese arak), Chinese tobacco,53 and on folk entertainment. Judging by the applications sent to the local authorities in the Batavia region, most wayang groups were owned by Chinese.54
 
-Although only 10% of Batavia's population resided in the inner city, about 30% of the Chinese lived there, with the remainder in the outskirts or Ommelanden.55 From these figures, | assume that the Chinese also made up the large audiences found at folk entertainments such as the wayang. By April 1902 the wayangpacht on wayang performances was replaced by a permit,5& an arrangement which also applied to Chinese gambling. However, the Chinese suspected that government regulations here were intended to favour the Europeans. In 1904 all gambling houses run under the revenue-farm were closed.57 Rumour spread that after this an association, led by Europeans, would be given permits to open licensed gambling houses.58
+Although only 10% of Batavia's population resided in the inner city, about 30% of the Chinese lived there, with the remainder in the outskirts or Ommelanden.55 From these figures, I assume that the Chinese also made up the large audiences found at folk entertainments such as the wayang. By April 1902 the wayangpacht on wayang performances was replaced by a permit,5& an arrangement which also applied to Chinese gambling. However, the Chinese suspected that government regulations here were intended to favour the Europeans. In 1904 all gambling houses run under the revenue-farm were closed.57 Rumour spread that after this an association, led by Europeans, would be given permits to open licensed gambling houses.58
 
 In addition to the small farms, the Batavia region also had a ground tax, or verponding, paid on private lands. The
 
@@ -3284,13 +3272,13 @@ In addition to the small farms, the Batavia region also had a ground tax, or ver
 
 217 following figures show how much revenue the government gained from this source in 1887.59 In total, Batavia had 322 private lands, 98 of which were owned by Europeans, 186 by Chinese; the remaining 38 were the property of either other Vreemde Oosterlingen or natives. The total ground tax paid by private landowners was 39,982,307 guilders.69 About a decade later this figure had increased to 49,546,706 guilders.61
 
-To show how much the Chinese of Batavia contributed to Dutch government revenue, I will focus on the year 1899. My reason for this, apart from the availability of Dutch sources, is because by the early 1900s revenue farming by the Chinese was diminishing. | will also make a sketchy comparison between Batavia, Semarang and Surabaya in order to demonstrate Batavia's contribution.
+To show how much the Chinese of Batavia contributed to Dutch government revenue, I will focus on the year 1899. My reason for this, apart from the availability of Dutch sources, is because by the early 1900s revenue farming by the Chinese was diminishing. I will also make a sketchy comparison between Batavia, Semarang and Surabaya in order to demonstrate Batavia's contribution.
 
-| have limited myself to the revenue farms and nonleased taxation. The revenue farms consisted of opium and small farms; the non-leased were the property tax, or personeele belasting, income tax, or bedrijsbelasting, and the ground tax, or verponding.
+I have limited myself to the revenue farms and nonleased taxation. The revenue farms consisted of opium and small farms; the non-leased were the property tax, or personeele belasting, income tax, or bedrijsbelasting, and the ground tax, or verponding.
 
 Table 1. Income of Revenue Farms and Non-leased Taxation in the Main Cities of Java, in 1899
 
-Item Batavia | Semarang Surabaya
+Item Batavia I Semarang Surabaya
 
 small farms =f 453,516.00 f 176,340.00 f 301,344.00 opium farm f 1,046,375.85 f 1,772,882.90 f 1,324,455.40 income tax f 211,943.70 f 177,431.02 f 475,379.39 property tax f 228,305.88º f 87,571.58 f 147,529.10° ground tax f 38,806,062.00 f 3,363,178.00. f 3,376,500.00 Total
 
@@ -3328,9 +3316,9 @@ f property tax? f 69,765.26 f 34,934.26° f 60,555.36 groundtax f 9,956,676.00 f
 
 Total (in guilders) f10,187,716.16 f2,055,648.50” f3,015,915.91”
 
-(a) This figure was taken from the total payment of Vreemde Oosterlingen, not purely the Chinese. | am assuming that the Chinese accounted for about 90% of the total, the other 10% being the Arabs share. The figures for Semarang are similar, those for Surabaya a little higher, but with the Chinese still as the major property taxpayers. Sources : Koloniaal Verslag, 1899, 1900.
+(a) This figure was taken from the total payment of Vreemde Oosterlingen, not purely the Chinese. I am assuming that the Chinese accounted for about 90% of the total, the other 10% being the Arabs share. The figures for Semarang are similar, those for Surabaya a little higher, but with the Chinese still as the major property taxpayers. Sources : Koloniaal Verslag, 1899, 1900.
 
-Looking at these figures, one can hardly deny Batavia's vast contribution to the government treasury. | have chosen the 1870s for my discussion of Batavia's small farms, for it was a time when other parts of Java were experiencing a boom in the opium farms and agricultural production. The 1890's were chosen to underline Batavia's constantly high financial returns, even when revenue-farming was coming to an end.
+Looking at these figures, one can hardly deny Batavia's vast contribution to the government treasury. I have chosen the 1870s for my discussion of Batavia's small farms, for it was a time when other parts of Java were experiencing a boom in the opium farms and agricultural production. The 1890's were chosen to underline Batavia's constantly high financial returns, even when revenue-farming was coming to an end.
 
 Given that the Chinese were dominant in revenue-farming, and that by 1885 they had to pay 4% of their income®3 (together with ground tax in Batavia), it is hard to disregard their vast financial contribution. Considering that their share of non-leased revenues reached about 20%, it is safe to say that the Chinese of Batavia contributed roughly 40% of total tax revenues in the residency.
 
@@ -3342,7 +3330,7 @@ From the early years of colonial rule until the turn of this century, the only p
 
 The Chinese Officers and Revenue Farming
 
-In approaching the subject of the Chinese officers and their involvement in revenue farming, | will not focus on their significant financial returns.
+In approaching the subject of the Chinese officers and their involvement in revenue farming, I will not focus on their significant financial returns.
 
 As wealth became the most basic criterion for officership, positions were open only to those of certain economic status, namely leading merchants and landowners. What is interesting to note is that hardly any of the candidates mentioned their status as revenue-farmer in their applications. Being a revenue farmer was an element in the network of Chinese business. Not only were candidates required to be rich prior to becoming officers, but the position often lead: to additional wealth. In a few cases this did not occur.
 
@@ -3436,7 +3424,7 @@ The career of lieutenant Tan Boen Sok as a Chinese officer started in 1856, when
 
 226 final years in which Tan Boen Sok had been a Chinese lieutenant and member of the Chinese Council, he frequently encountered difficulties in his dealings with the AssistantResident. As a senior lieutenant, Tan Boen Sok was entitled to captaincy, but instead the Resident proposed that he should resign.89 The antagonism of the Batavia authorities could be observed right from the moment of Tan Boen Sok's appointment as lieutenant in 1861. The Resident of Batavia did not support his candidacy, for the reason that "....he does not belong to the group from which the Chinese officers were usually elected...".90 In other words, the local authority in Batavia doubted his financial status.
 
-Since Tan Boen Sok was defended by a higher official of Division C, while the decision of the Batavian local authority to sack him was supported by the Director of Home Affairs, a row between these Dutch officials was unavoidable. This row became a debate concerning over the selection of Chinese officers. The officials of Division C were mainly concerned with the question why only wealthy Chinese could become officers. | have discussed this subject in chapter 3.
+Since Tan Boen Sok was defended by a higher official of Division C, while the decision of the Batavian local authority to sack him was supported by the Director of Home Affairs, a row between these Dutch officials was unavoidable. This row became a debate concerning over the selection of Chinese officers. The officials of Division C were mainly concerned with the question why only wealthy Chinese could become officers. I have discussed this subject in chapter 3.
 
 Although he argued that his debt was due to family expenditures, the marriages of his two daughters, and not because of business failure, Tan Boen Sok suffered extreme embarrassment on being the focus of debate. And seeing that the Resident of Batavia kept pressing his case for either financial status or moral values in the Chinese officership, Tan Boen Sok gave up the fight, saying that he had no more interest in the position. Furthermore, he said that the debt was a private matter. To describe him as having hostile inclinations was a stain on his name to which he strongly objected.91
 
@@ -3494,7 +3482,7 @@ Oey Tjeng Yan owned land in Petojo Sawah where he ran a vast cattle-breeding ope
 
 230 spread among his livestock, yet his manager, Lie Tek Tjoan, made no report to the local authorities. He even sold eight sick buffaloes to a native. Five buffaloes were seized and put under the surveillance of a government veterinary surgeon. Oey Tjeng Yan pleaded guilty and was sentenced to one month unpaid forced labour by the Batavia Landraad. To make matters worse, he still sold another twelve sick cattle to a nearby landowner of Grogol, an Indo-European, which caused the epidemic to spread even wider. The Resident of Batavia said that Oey Tjeng Yan should lose his titular majorship,1°3 although the Director of Home Affairs preferred to let the Governor-General decide this seemingly petty case.!04 The final decision decreed that Oey Tjeng Yan should lose his honorary title.
 
-So far | have focussed on cases in which Chinese officers lost their position and prestige. My purpose is, again, to underline how shaky their positions were, even down to the lowest rank of lieutenant. Moreover, we can observe that even in the establishment of the Chinese officership, the Dutch never abandoned their central principle of loss and profit.
+So far I have focussed on cases in which Chinese officers lost their position and prestige. My purpose is, again, to underline how shaky their positions were, even down to the lowest rank of lieutenant. Moreover, we can observe that even in the establishment of the Chinese officership, the Dutch never abandoned their central principle of loss and profit.
 
 Enforcement against fraud in revenue-farming was criticized by F Fokkens, the Inspector of Cultivation. He argued that since revenue-farming involved government policy, legal cases involving- Chinese officers should be conducted in the residency council of justice, as was the case with Europeans. Being prosecuted in the native Landraad under the police roll system, and particularly being subjected to the physical penalty of unpaid forced labour, brought bitter degradation to their position and prestige. But the Director of Justice argued that in cases of misdemeanour and fraud in revenue-farming, Chinese
 
@@ -3510,7 +3498,7 @@ November 1888, no. 6224, in Gouvernementsbesluit, 14 November 1888, no. 42.
 
 All this demonstrates the insecurity of the Chinese officer's position owing to the uncertainty of Dutch policy. There was no accepted fundamental concept for the institution of the Chinese officers, although the Dutch could be extremely determined if a case threatened government revenues.
 
-| suspect that worldly considerations were behind the offer of the lieutenantship to Souw Siauw Tjong, whose father and grandfather were also Chinese lieutenants in Batavia. Souw Siauw Tjong was one of the richest Chinese in Batavia, a leading figure in the rice-market,106 and owner of various private lands located in Tangerang in the western division. He was highly praised for his assistance to the local authorities in Batavia and Tangerang. His philanthropic deeds included setting up schools for native children, taking care of poor tenants and contributing foodstuffs and building materials when a serious fire damaged neighbouring areas. The Resident of Batavia was extremely impressed, describing him as a virtually flawless person and a most respectable Chinese.107 Naturally, the Resident then proposed that Souw Siauw Tjong be given a Chinese officership, a suggestion endorsed by the Director of Home Affairs who praised him as a fine example for other Chinese officers to follow.198 Because the duties of Chinese officer would demand his full concentration and he could not neglect his business, Souw Siauw Tjong graciously declined
+I suspect that worldly considerations were behind the offer of the lieutenantship to Souw Siauw Tjong, whose father and grandfather were also Chinese lieutenants in Batavia. Souw Siauw Tjong was one of the richest Chinese in Batavia, a leading figure in the rice-market,106 and owner of various private lands located in Tangerang in the western division. He was highly praised for his assistance to the local authorities in Batavia and Tangerang. His philanthropic deeds included setting up schools for native children, taking care of poor tenants and contributing foodstuffs and building materials when a serious fire damaged neighbouring areas. The Resident of Batavia was extremely impressed, describing him as a virtually flawless person and a most respectable Chinese.107 Naturally, the Resident then proposed that Souw Siauw Tjong be given a Chinese officership, a suggestion endorsed by the Director of Home Affairs who praised him as a fine example for other Chinese officers to follow.198 Because the duties of Chinese officer would demand his full concentration and he could not neglect his business, Souw Siauw Tjong graciously declined
 
  
 
@@ -3524,9 +3512,9 @@ All this demonstrates the insecurity of the Chinese officer's position owing to 
 
 232 the offer. However, the Dutch then granted him the titular rank of lieutenant in May 1877.109
 
-Similar reasons were cited when Phoa Keng Hek declined the Dutch offer of a Chinese majorship in 1908.11° | suspect there were also political motives in his refusal, which | have discussed in chapter 5. Had Souw Siauw Tjong and Phoa Keng Hek not been well-off members of the Chinese community, the Dutch would not have offered them such respectable positions. In other words, it was all a matter of financial status and wealth.
+Similar reasons were cited when Phoa Keng Hek declined the Dutch offer of a Chinese majorship in 1908.11° I suspect there were also political motives in his refusal, which I have discussed in chapter 5. Had Souw Siauw Tjong and Phoa Keng Hek not been well-off members of the Chinese community, the Dutch would not have offered them such respectable positions. In other words, it was all a matter of financial status and wealth.
 
-In the case of Phoa Keng Hek, whose father was also a Chinese lieutenant in Meester-Cornelis in the eastern division, the Dutch offer concealed a political motive. Observing the movement of the Chinese in the early 1900s towards modern political ambitions, begun under Phoa's leadership, the offer was probably intended to direct the Chinese towards Dutch interests. As Phoa Keng Hek declined the offer, yet managed to arrange for his son-in-law Khouw Kim An to achieve this office, | suggest that the Dutch had political reasons for favouring HHKan. But, as HHKan was also a rich landowner in Batavia with a long-established family background, one wonders why he was not offered the Chinese officership?
+In the case of Phoa Keng Hek, whose father was also a Chinese lieutenant in Meester-Cornelis in the eastern division, the Dutch offer concealed a political motive. Observing the movement of the Chinese in the early 1900s towards modern political ambitions, begun under Phoa's leadership, the offer was probably intended to direct the Chinese towards Dutch interests. As Phoa Keng Hek declined the offer, yet managed to arrange for his son-in-law Khouw Kim An to achieve this office, I suggest that the Dutch had political reasons for favouring HHKan. But, as HHKan was also a rich landowner in Batavia with a long-established family background, one wonders why he was not offered the Chinese officership?
 
 Batavia's Private Lands
 
@@ -3550,7 +3538,7 @@ In 1619, when the Dutch seized the settlement that was later called Batavia, the
 
 111 Djie Ting Ham, "Enkele Opmerkingen over den Economischen Toestand van de Chineezen op Java", De Chineesche Revue, October 1928, p. 49; also “Jaarverslag over 1927 Betreffende de Werkzaamheden van het Kantoor voor Chineesche Zaken", in Binnenlands-Bestuur, no. 129, Arsip Nasional, Jakarta.
 
-112 "Geschiedkundig Onderzoek naar den Oorpsrong en den Aard van het Partikulier Landbezit op Java", TNI, vol. I, 1849, p. 251: and "Het Partikulier Landbezit in de Bataviasche Ommelanden tot 1857", TNI, vol. |, 1855, p. 333.
+112 "Geschiedkundig Onderzoek naar den Oorpsrong en den Aard van het Partikulier Landbezit op Java", TNI, vol. I, 1849, p. 251: and "Het Partikulier Landbezit in de Bataviasche Ommelanden tot 1857", TNI, vol. I, 1855, p. 333.
 
 234 (one stuiver = five cents) according to the species.113 The Chinese were encouraged to cultivate the region, particularly by establishing sugar mills and arak distilleries on the land they leased.
 
@@ -3560,7 +3548,7 @@ To manage this growing system of land leasing, in 1684 the VOC established the C
 
 The peace treaty concluded with Bantam in 1685 allowed the VOC to ease its policy regarding security in the Ommelanden, and a few years later, the VOC allowed its citizens to purchase land. It was said that the first private landowner in Batavia was Cornelis Chastelein, a member of the Indies Council, or Raad van Indie, who bought lands in Srengseng and Depok, in the southern part of the Batavia region in 1695 and 1696. In 1701 another member of the Indies Council, Abraham van Riebeeck, bought the land of Pondokpucung.116 It should be noted that as early as April 1639, the fief status of those who cultivated land in the Batavia region was transformed into a property right, called eigendom. 117
 
-Although land sales had | begun in the last decade of the seventeenth century, the VOC sold very few lands until 1744. One notable land purchase occurred in 1745 when
+Although land sales had I begun in the last decade of the seventeenth century, the VOC sold very few lands until 1744. One notable land purchase occurred in 1745 when
 
  
 
@@ -3578,7 +3566,7 @@ Although land sales had | begun in the last decade of the seventeenth century, t
 
 236
 
-possession being transferred following succession to this |
+possession being transferred following succession to this I
 
 office.
 
@@ -3670,7 +3658,7 @@ slavenmuziek!36 was, again, a symbol of wealthy status. Observing the comparativ
 
 135 Susan Abeyasekere, "Slaves in Batavia: Insights from a Slave Register", in A J S Reid (ed), Slavery, Bondage and Dependency in Southeast Asia (1983. New York: St. Martin's Press), p. 299.
 
-136 F de Haan, Oud Batavia, p. 531; V | van de Wall, Indische Landhuizen en Hun Geschiedenis (1932. Batavia: G Kolff & Co), pp. 83-84.
+136 F de Haan, Oud Batavia, p. 531; V I van de Wall, Indische Landhuizen en Hun Geschiedenis (1932. Batavia: G Kolff & Co), pp. 83-84.
 
 137 See Gouvernementsbesluit, 27 December 1846, no. 7; Victor Purcell, The Chinese in Southeast Asia, p. 408; Sartono Kartodirdjo, Protest Movements in Rural Java. A Study of Agrarian Unrest in the Nineteenth and Early Twentieh Centuries (1973. Singapore: Oxford University Press), p. 47.
 
@@ -3694,7 +3682,7 @@ As a result of Daendels' policy on public land sales, as early as 1809, a regula
 
 Because the Cultivation System was mostly unknown in the private lands, the heerendiensten became more common there. This was because cultivation on the private properties relied upon tenant labour, and the once-weekly service of heerendiensten could be used to increase cultivation for European markets.143 In some cases, this abuse led to rural protest and unrest.
 
-As native inhabitants were better treated on the private lands belonging to Chinese, while cultivation on European private lands concentrated on production for European markets, most peasant uprisings occurred in the eastern and southern regions of the Batavia Residency. In 1864 there was unrest in Pondok Gedeh as a result of abuse of the cultuurdiensten. A notorious case was the 'Tjiomas-zaak' of 1886, when exploitation greatly increased under the ownership of de Sturler.144 |
+As native inhabitants were better treated on the private lands belonging to Chinese, while cultivation on European private lands concentrated on production for European markets, most peasant uprisings occurred in the eastern and southern regions of the Batavia Residency. In 1864 there was unrest in Pondok Gedeh as a result of abuse of the cultuurdiensten. A notorious case was the 'Tjiomas-zaak' of 1886, when exploitation greatly increased under the ownership of de Sturler.144 I
 
 The oppression and exploitation of the natives on the private lands had been public knowledge for some time. With the Ciomas affair, the Dutch set up a committee to investigate. The Ciomas case marked the first move by the Dutch government to repurchase private lands. This took place in 1887, a year after the uprising, when the Ciomas
 
@@ -3702,7 +3690,7 @@ The oppression and exploitation of the natives on the private lands had been pub
 
 land was returned to the government. The second phase of
 
-private land repurchase took place in the first decade of the twentieth century. | will discuss this later.
+private land repurchase took place in the first decade of the twentieth century. I will discuss this later.
 
 The description above has provided the historical background to Chinese landownership and the relationship between Chinese landlords and their native inhabitants or
 
@@ -3742,11 +3730,11 @@ On one occasion, when the lieutenant of Mauk retired, it was found difficult to 
 
 245 of Mauk.150 In January 1888, Nie Ek Tjiang was transferred from his post in Kebayoran to Tangerang.
 
-During his eleven year term of office in Tangerang, Nie Ek Tjiang was very popular among the Chinese community. Indeed, various letters signed by members of the Chinese community. were sent to Batavia proposing that he should be promoted to captain instead of captain Oey Giok Koen of Meester-Cornelis, who was to be transferred to Tangerang.!51 Due to the inaccessibility of the correspondence, | was unable to discover the objections to Nie Ek Tjiang's promotion to captain. But he was passed over, and Oey Giok Koen was installed as captain in Tangerang in July 1899. Oey Giok Koen was the owner of the land of Pasar Baru in Tangerang, which previously had been leased to Nie Ek Tjiang.152
+During his eleven year term of office in Tangerang, Nie Ek Tjiang was very popular among the Chinese community. Indeed, various letters signed by members of the Chinese community. were sent to Batavia proposing that he should be promoted to captain instead of captain Oey Giok Koen of Meester-Cornelis, who was to be transferred to Tangerang.!51 Due to the inaccessibility of the correspondence, I was unable to discover the objections to Nie Ek Tjiang's promotion to captain. But he was passed over, and Oey Giok Koen was installed as captain in Tangerang in July 1899. Oey Giok Koen was the owner of the land of Pasar Baru in Tangerang, which previously had been leased to Nie Ek Tjiang.152
 
 It is quite likely that Oey Giok Koen was unhappy with his post in Tangerang. His residence and family were established in Meester-Cornelis but to commute between the two in those days was obviously unlikely. Being a landowner in Tangerang would not necessarily mean that he wished to reside in that area, yet this was required for Chinese officers. After an eight year term Oey Giok Koen sought for retirement,153 which was granted in November 1907.
 
-It is interesting to observe that his successor, Oey Djie San, began his career as a captain without having held the post of lieutenant. This was rather exceptional, since captains were generally selected from among the lower ranks, such as lieutenant. | suspect that this unusual appointment was due either to the scarcity of Chinese landlords in the Tangerang area or to the limited availability of Batavian officers in active service.
+It is interesting to observe that his successor, Oey Djie San, began his career as a captain without having held the post of lieutenant. This was rather exceptional, since captains were generally selected from among the lower ranks, such as lieutenant. I suspect that this unusual appointment was due either to the scarcity of Chinese landlords in the Tangerang area or to the limited availability of Batavian officers in active service.
 
  
 
@@ -3786,9 +3774,9 @@ However, none of the cases above can compare with that of captain Oey Ek Kiam, w
 
 248 Soey a piece of land in the backyard of the nearby military camp. Lim could store there the goods and supplies he needed for military use. Another option was an empty lot next to a Chinese shop in Solitude Street, which could be rented by Lim for 15 guilders a month. However, they were unable to obtain official consent for the transaction from the Assistant-Resident of Meester-Cornelis. Lim Kim Soey came back to Oey Ek Kiam, inquiring about the lot in the military camp, saying that he had already approached the Military Commissioner who had agreed to rent it if the local authorities in Meester-Cornelis had no objection. Again the Assistant-Resident would not give consent. According to a spokesman from his office, the Assistant-Resident mentioned a plot near a corn field for which consent would be given. After checking this plot, Lim Kim Soey decided to rent an empty lot near the river, next to the brick field, and this was agreed by the Assistant-Resident. But Oey Ek Kiam could not let the plot as it was used for his own storage. Moreover, his family often went to the brick field, and it would cause them inconvenience, particularly the female members, as this nearby plot would be used as a military warehouse and there would therefore be many soldiers in the area. Oey Ek Kiam did not object to letting the empty lot near the corn field; this was not accepted by the AssistantResident. Another plot was also rejected.
 
-On 9 December 1892 Oey Ek Kiam was called to meet the Assistant-Resident at his office. The Dutch official reprimanded Oey by asking, "do you not want to give your plot to be rented?" Oey Ek Kiam said that he did, but that he, the Assistant-Resident, had rejected every location and would not give his official consent. As a row became inevitable, the Assistant-Resident furiously scolded Oey Ek Kiam, warning him that the Chinese captain was under his command. Oey Ek Kiam indignantly answered that he knew he was under the command of the Dutch Assistant-Resident. But since the Assistant-Resident then accused him of being uncooperative, Oey Ek Kiam answered, "Apa saja mesti toetoep moeloet saja tida boleh menja'oet?" [should | shut my mouth and may
+On 9 December 1892 Oey Ek Kiam was called to meet the Assistant-Resident at his office. The Dutch official reprimanded Oey by asking, "do you not want to give your plot to be rented?" Oey Ek Kiam said that he did, but that he, the Assistant-Resident, had rejected every location and would not give his official consent. As a row became inevitable, the Assistant-Resident furiously scolded Oey Ek Kiam, warning him that the Chinese captain was under his command. Oey Ek Kiam indignantly answered that he knew he was under the command of the Dutch Assistant-Resident. But since the Assistant-Resident then accused him of being uncooperative, Oey Ek Kiam answered, "Apa saja mesti toetoep moeloet saja tida boleh menja'oet?" [should I shut my mouth and may
 
-249 not answer you?] He added that if the Assistant-Resident so disliked him, he would apply to be released from his position as Chinese captain, so that "....tida oesa Kandjeng Toean bikin begitoe mara sama saja seperti satoe koelie...."159 (you will not need to be so furious with me as if | was a servant.]
+249 not answer you?] He added that if the Assistant-Resident so disliked him, he would apply to be released from his position as Chinese captain, so that "....tida oesa Kandjeng Toean bikin begitoe mara sama saja seperti satoe koelie...."159 (you will not need to be so furious with me as if I was a servant.]
 
 It goes without saying that this row became a major talking point among Dutch officials. To the Advisor for Chinese Affairs, Oey Ek Kiam's attitude was quite understandable, since in an official relationship in which a Chinese officer was subordinate to a Dutch official it would be foolish for the Chinese to rebuke his superior.160 Oey Ek Kiam highly valued his self-esteem, and his response would not have been so indignant had he not been provoked. On examining the one-sided report made by the Chinese captain (the Dutch Assistant-Resident did not care to elaborate) the Advisor for Chinese Affairs saw that it would be difficult to achieve an acceptable outcome.161 In the meantime, the Assistant-Resident continued to defend what he had said in an earlier report to his Superior, the Resident of Batavia, that the Chinese captain had answered him in a high-pitched voice, shouting and using ugly expressions.162
 
@@ -3822,7 +3810,7 @@ However, Oey Ek Kiam's official career was not brought to an end by his retireme
 
 251 Dutch Policy of Private Land Repurchase
 
-In the previous sub-chapter, | suggested that the first phase in private land repurchase took place in 1887, as a solution to the Ciomas case. This was not the first step.
+In the previous sub-chapter, I suggested that the first phase in private land repurchase took place in 1887, as a solution to the Ciomas case. This was not the first step.
 
 As early as 1819, a few years after the colony was returned to the Dutch, Governor-General Van der Capellen set up an investigation into social conditions on the private lands. Its conclusion did not favour the landlords,168 and eventually a plan to repurchase the private lands was forwarded to the Ministry of the Colonies.
 
@@ -3898,9 +3886,9 @@ The expansion of British-owned agricultural industries on private lands justifie
 
 178 F Fokkens, "De Beteekenis van den Terugkoop der Particuliere Landen op Java", De Nederlanders, nos. 5272-5275, p. 2.
 
-179 H T Colenbrander, Koloniale Geschiedenis, vol. Ill, p. 162; E van Delde, De Particuliere Landerijen op Java, p. 15; “Partikuliere Landen in Handen van Vreemdelingen", De Indische Gids, vol. |, 1910, p. 228.
+179 H T Colenbrander, Koloniale Geschiedenis, vol. Ill, p. 162; E van Delde, De Particuliere Landerijen op Java, p. 15; “Partikuliere Landen in Handen van Vreemdelingen", De Indische Gids, vol. I, 1910, p. 228.
 
-180 “Partikuliere Landerijen en de Openbare Veiligheid in de Residentie Batavia", De Indische Gids, vol. ll, 1904, pp. 1078-1079; "De Partikuliere Landerijen in en om Batavia", Koloniaal Tijdschrift, vol. |, 1911-1912, p. 804.
+180 “Partikuliere Landerijen en de Openbare Veiligheid in de Residentie Batavia", De Indische Gids, vol. ll, 1904, pp. 1078-1079; "De Partikuliere Landerijen in en om Batavia", Koloniaal Tijdschrift, vol. I, 1911-1912, p. 804.
 
 181 L van der Hoek, "De Particuliere Landerijen in de Residentie Batavia", pp. 59-60.
 
@@ -3932,7 +3920,7 @@ The transfer of private lands to government ownership came to pose some administ
 
 185 J D Hunger, "Memorie van Overgave van het Bestuur over het Gewest Batavia, 3 Maart 1922", ARA, The Hague; L van der Hoek, “De Particuliere Landerijen in de Residentie Batavia”, p. 60; Encyclopaedie van NederlandschIndie, vol. Ill, p. 348.
 
-186 Koloniaal Verslag, 1920, p. 51. 187 Indisch Verslag, 1931, vol. |, p. 403. 188 Indisch Verslag, 1936, vol. I, p. 329.
+186 Koloniaal Verslag, 1920, p. 51. 187 Indisch Verslag, 1931, vol. I, p. 403. 188 Indisch Verslag, 1936, vol. I, p. 329.
 
 258 Assistant-Resident of Tangerang or of Meester-Cornelis, simply approved the appointment of village headmen.189
 
@@ -4042,9 +4030,9 @@ As the system of municipal government would be the basis of the wijkbestuur, it 
 
 9 Confidential letter of Director of Home Affairs to Governor-General, 10 December 1915, no. 685g/B, in Binnenlands-Bestuur, no. 4406; see also “Persoverzicht: De Chineesche Pers, Maart-April 1914", Koloniaal Tijdschrift, vol. Ill, 1913-1914, pp. 957-958.
 
-10 "Chineesche Officieren en Wijkmeesters", De Indische Gids, vol. Il, 1913, p. 1473; “Persoverzicht: De Chineesche Pers, Juli-Augustus 1913", Koloniaal Tijdschrift, vol. |, 1912-1913, p. 1482; vol. Ill, 1913-1914, p. 1686.
+10 "Chineesche Officieren en Wijkmeesters", De Indische Gids, vol. Il, 1913, p. 1473; “Persoverzicht: De Chineesche Pers, Juli-Augustus 1913", Koloniaal Tijdschrift, vol. I, 1912-1913, p. 1482; vol. Ill, 1913-1914, p. 1686.
 
-11 Binnenlands-Bestuur, no. 4406; also Pertja Timoer, February 1912, quoted in "Persoverzicht: De Inlandsche Pers", Koloniaal Tijdschrift, vol. |, 1911-1912, p. 487.
+11 Binnenlands-Bestuur, no. 4406; also Pertja Timoer, February 1912, quoted in "Persoverzicht: De Inlandsche Pers", Koloniaal Tijdschrift, vol. I, 1911-1912, p. 487.
 
 12 Letter of the Resident of Manado to Director of Home Affairs, 25 May 1917, no. 100a, in Binnenlands-Bestuur, no. 2193. 267
 
@@ -4076,7 +4064,7 @@ Nevertheless, after heated debate at a meeting held on 12 September 1917, it was
 
 18 Confidential letter of the Indies Council to Governor-General, 19 February 1916, no. 109a, in Binnenlands-Bestuur, no. 4406.
 
-19 Encyclopaedie van Nederlandsch-Indie, vol. |, p. 478.
+19 Encyclopaedie van Nederlandsch-Indie, vol. I, p. 478.
 
 20 Letter of the Resident of Batavia to Director of Home Affairs, 19 June 1916, in Binnenlands-Bestuur, no. 4406. 269
 
@@ -4110,7 +4098,7 @@ It is important to repeat the distinction between the two elements of the Chines
 
 Before the emergence of the Chinese modern movement at the beginning of the twentieth century, the Chinese officers, despite their ambiguous position, were at least considered the leaders of their community. In the sense of political inspiration and prestige, they might not be true leaders; but within the colonial context, the Dutch officially named them the Chineesche Hoofden, Chinese headmen.
 
-When the institution lost its economic importance in the early twentieth century, some progressive Chinese officers pushed their community to thrive in terms of a modern development. Such idealism was born with the formation of the THHK, pioneered by the peranakan of Batavia. | have already shown, in chapter 5, that criticism of the Chinese officers for their lack of encouragement towards the Chinese movement was in many ways unjustified. Yet there was indifference in the part of the peranakan officers towards singkeh-totok associations such as Soe Po Sia and Kuo Min Tang.
+When the institution lost its economic importance in the early twentieth century, some progressive Chinese officers pushed their community to thrive in terms of a modern development. Such idealism was born with the formation of the THHK, pioneered by the peranakan of Batavia. I have already shown, in chapter 5, that criticism of the Chinese officers for their lack of encouragement towards the Chinese movement was in many ways unjustified. Yet there was indifference in the part of the peranakan officers towards singkeh-totok associations such as Soe Po Sia and Kuo Min Tang.
 
 The influence of the Pan-Chinese movement was seen as early as the 1910s, when singkeh activity became strong. The early Chinese turbulence of 1912-1913, which occurred all over Java, the changing policy of the Dutch, favouring the peranakan, Chinese representation in the People's Council, and the issue of the Netherlands-subject law, all became targets for singkeh attacks and for interference by the Chinese government in the Chinese problems of the colony. There was vehement singkeh antagonism towards the Chinese officers, who were mostly peranakan.
 
@@ -4126,7 +4114,7 @@ The two important Semarang dailies, Djawa Tengah and Warna Warta, appear to have
 
  
 
-24 Quoted in "Persoverzicht: De Chineesche Pers, Mei-Juni 1912", Koloniaal Tijdschrift, vol. |, 1911-1912, p. 847.
+24 Quoted in "Persoverzicht: De Chineesche Pers, Mei-Juni 1912", Koloniaal Tijdschrift, vol. I, 1911-1912, p. 847.
 
 25 "Persoverzicht: De Chineesche Pers, Juli-Augustus 1912", ibid., p. 1134.
 
@@ -4206,11 +4194,11 @@ The Dutch were somewhat narrow-minded in keeping the issue within the limits of 
 
 42 Quoted in the letter of Dutch Ambassador in Beijing to Minister of Foreign Affairs, 11 November 1931, in A dossier, no. 7797, Ministry of Colonies Archives, ARA, The Hague.
 
-43 "Onze Chineezen-politiek", De Indische Gids, vol. |, 1907, p. 97. 278
+43 "Onze Chineezen-politiek", De Indische Gids, vol. I, 1907, p. 97. 278
 
 The office of Advisor for Chinese Affairs should take part of the blame, because of its unbalanced interest in the singkeh and China-oriented peranakan groups. It assumed that the aggressive singkeh were the real threat to Dutch authority. In their obsessiveness with the singkeh Kuo Min Tang movement, their reports stated that the peranakan regarded the singkeh-totok as semi-alien44 and, later, that the estrangement between the two had became still more distinctive.45
 
-As the office of Advisor for Chinese Affairs paid such attention to the China-oriented movement, its advice to the government did not reflect the real circumstances in the Chinese community. That their information was misleading was shown when the Chinese public vehemently rejected the government's plan to abolish the Chinese officers. It is interesting to observe how this Chinese question created an embarrassing row between Home Affairs and the Advisor for Chinese Affairs. | will elaborate later. The Djawa Tengah daily of Semarang reported that at a Chinese meeting held in the city in 1915, attended by 7,000 representatives from various organizations, a petition in support of the Chinese officers was sent to the GovernorGeneral. But the Advisor for Chinese Affairs, who had been present, stuck to his opinion that the majority of Chinese desired their abolition.46 At another meeting, held in Bandung, the THHK declared its opposition to the government plans for the Chinese officers. But the Advisor for Chinese Affairs did not accept this, for the government plan had been its response to Chinese complaints against their officers. Why did the Chinese now reject the plan? The Chinese claimed that their dissatisfaction lay with a system in which the officers were not selected by their own community, and in which the officers frequently
+As the office of Advisor for Chinese Affairs paid such attention to the China-oriented movement, its advice to the government did not reflect the real circumstances in the Chinese community. That their information was misleading was shown when the Chinese public vehemently rejected the government's plan to abolish the Chinese officers. It is interesting to observe how this Chinese question created an embarrassing row between Home Affairs and the Advisor for Chinese Affairs. I will elaborate later. The Djawa Tengah daily of Semarang reported that at a Chinese meeting held in the city in 1915, attended by 7,000 representatives from various organizations, a petition in support of the Chinese officers was sent to the GovernorGeneral. But the Advisor for Chinese Affairs, who had been present, stuck to his opinion that the majority of Chinese desired their abolition.46 At another meeting, held in Bandung, the THHK declared its opposition to the government plans for the Chinese officers. But the Advisor for Chinese Affairs did not accept this, for the government plan had been its response to Chinese complaints against their officers. Why did the Chinese now reject the plan? The Chinese claimed that their dissatisfaction lay with a system in which the officers were not selected by their own community, and in which the officers frequently
 
  
 
@@ -4232,7 +4220,7 @@ The office of Home Affairs observed that as the Chinese desired equal status wit
 
 47 Ibid., p. 249.
 
-48 Quoted in "Hervorming van het Chineesch en Inlandsch Bestuur", De Indische Gids, vol. |, 1919, p. 495.
+48 Quoted in "Hervorming van het Chineesch en Inlandsch Bestuur", De Indische Gids, vol. I, 1919, p. 495.
 
 49 Ibid., p. 496.
 
@@ -4266,13 +4254,13 @@ Unlike the office for Chinese Affairs, the Home Affairs office adopted an inward
 
  
 
-55 "Onze Chineezen-politiek", De Indische Gids, vol. |, 1907, p. 98.
+55 "Onze Chineezen-politiek", De Indische Gids, vol. I, 1907, p. 98.
 
 56 H Rijfsnijder, "Memorie van Overgave van den Residentie Batavia, 28 Juli 1911- 2 Augustus 1916", ARA, The Hague.
 
 S7 Ibid.
 
-58 H J Borel, "De Chineesche Kwestie en de Ambtenaren van 't Binnenlandsch Bestuur”, Koloniaal Tijdschrift, vol. |, 1912-1913, pp. 41-42. 282
+58 H J Borel, "De Chineesche Kwestie en de Ambtenaren van 't Binnenlandsch Bestuur”, Koloniaal Tijdschrift, vol. I, 1912-1913, pp. 41-42. 282
 
 towards the country of their birth rather than towards China. It believed that problems in politics, education, the economy, the issue of Netherlands subject status and voting rights should be solely the government's concern.59 It said that while the office for Chinese Affairs might focus on the external influences from China, the most important element was the internal politics of the local Chinese population. Not all Chinese were captivated by the nationalist sparkle from China, particularly those born and bred in the colony. Most never thought to return to the mainland, and their desire for equal status with Europeans showed that their concern was mostly with the social and economic development of their local society.69 Chinese grievances and expectations in regards to political rights, legal status, civil rights, education and separate local administration, were the most important issues.61 The two offices, then, held very different views on Chinese problems: and the climate of disagreement began to affect their working performance, particularly that of the office for Chinese Affairs.
 
@@ -4384,7 +4372,7 @@ In the previous sub-chapter, it was noted that the Chinese nationalists saw no f
 
  
 
-86 See Verhandelingen van den Volksraad van 1927/1928, p. 21; the formation was approved by Gouvernementsbesluit, 4 January 1913, no. 27. 87 "Het Bestuur over Vreemde Oosterlingen", Indisch Verslag, vol. |, 1931, p. 447.
+86 See Verhandelingen van den Volksraad van 1927/1928, p. 21; the formation was approved by Gouvernementsbesluit, 4 January 1913, no. 27. 87 "Het Bestuur over Vreemde Oosterlingen", Indisch Verslag, vol. I, 1931, p. 447.
 
 88 Letter of Director of Home Affairs to all Chiefs of Local Administration in the Netherlands Indies, 8 January 1932, in Geheim Mailrapport, no. 603x/1932.
 
@@ -4486,7 +4474,7 @@ Nobody would object to Khouw Kim An, who was restored to his majorship in Februa
 
 pleased with his services and trusted him.!11 On the other hand, the non-peranakan or singkeh-totok were very hostile towards him. Owing to his alertness, the 1912 Chinese riots, the Chinese reaction to the China-Japan conflict, and the boycott against Japanese goods in Batavia, did not culminate in serious situations. It was during these crises that the local authorities in Batavia found the Chinese officers to be a source of good advice.112 It demonstrated how the local authorities could rely on the peranakan officers in facing the stormy singkeh in the colony. In addition, many Dutch officials admitted that without the Chinese officers the European civil administration would have to take on numerous extra tasks.
 
-Thus far | have discussed the political and administrative reasons for maintaining the institution of Chinese officers in Batavia. Another factor that made the Dutch very cautious was the internal structure of the Chineesch Bestuur itself. As the daily work of the Chinese officership, was undertaken by the Chinese Council, change would be certain to affect the Council. All matters regarding the Chinese community, including schooling for children of the Chinese poor, orphanages, charities and mass ceremonies, were taken care of by the Council. Moreover, the Council administered Chinese properties, land, cemeteries, temples and hospitals, together with their funds.113
+Thus far I have discussed the political and administrative reasons for maintaining the institution of Chinese officers in Batavia. Another factor that made the Dutch very cautious was the internal structure of the Chineesch Bestuur itself. As the daily work of the Chinese officership, was undertaken by the Chinese Council, change would be certain to affect the Council. All matters regarding the Chinese community, including schooling for children of the Chinese poor, orphanages, charities and mass ceremonies, were taken care of by the Council. Moreover, the Council administered Chinese properties, land, cemeteries, temples and hospitals, together with their funds.113
 
 Knowing that the Dutch government intended to terminate the Chinese officers, the Chinese of Batavia became
 
@@ -4520,7 +4508,7 @@ In the end it was the status of the Batavia Chinese Council as a corporate body 
 
 118 "Verslag van de Commissie voor het Financieel Beheer van den Chineeschen Raad", 17 November 1927, in Gouvernementsbesluit, 5 November 1929, no. 17. 297
 
-failed to see. This meant that both the Chinese officers and the Chinese Council of Batavia would be maintained, in a new form. |
+failed to see. This meant that both the Chinese officers and the Chinese Council of Batavia would be maintained, in a new form. I
 
 To match the reorganized Chinese officers in Batavia, the membership of the Chinese Council was also rearranged. After 1928 the Chinese Administration consisted of one major, two captains and four lieutenants, all of whom were members of the Council. In addition, Chinese public opinion demanded that Council membership be open to private persons representing Chinese associations. To meet this demand, the Dutch agreed to allocate two seats on the Council to private persons,119 and in December 1928 the THHK nominated Tan Pia Teng and Nio Peng Liang as the first non-officer members of the Chinese Council.120
 
@@ -4560,7 +4548,7 @@ The ambiguity was also seen in the decision to abolish the Chinese officers yet 
 
 abolition of the Chinese officers further shows the lack of a comprehensive Dutch policy regarding the Chinese in the Indies.
 
-| am acutely aware that further research would refine my argument, although it would not, | believe, overthrow my main conclusion. There is need for comparative studies of the Chinese officers in Semarang and Surabaya; study of the relationships of the Chinese officers with other public figures in the community; of the two peranakan political parties, the Chung Hwa Hui and the Partai Tionghoa Indonesia: Chinese participation in the People's Council and in colonial government, and Dutch economic policy as far as it affected the Chinese.
+I am acutely aware that further research would refine my argument, although it would not, I believe, overthrow my main conclusion. There is need for comparative studies of the Chinese officers in Semarang and Surabaya; study of the relationships of the Chinese officers with other public figures in the community; of the two peranakan political parties, the Chung Hwa Hui and the Partai Tionghoa Indonesia: Chinese participation in the People's Council and in colonial government, and Dutch economic policy as far as it affected the Chinese.
 
 Comparative studies of the Chinese officers in Semarang and Surabaya would confirm the different practices of Dutch policy with respect to Chinese local administration in the different cities in Java.
 
@@ -4630,7 +4618,7 @@ Beeckman, Daniel A Voyage to and from the Island of Borneo (1973. London: Dawson
 
 Beijerman, JA “lets over de Chineezen in Nederiandsch-Indie”, Mededeelingen van het Nedertandsche Zendinggenootschap, no. 29, 1885, pp. 1-25.
 
-“Bestuursambtenaar en Adviseur voor Chineesche Zaken”, De Indische Gids, vol. |, 1913, pp. 382-383.
+“Bestuursambtenaar en Adviseur voor Chineesche Zaken”, De Indische Gids, vol. I, 1913, pp. 382-383.
 
 Blagden, C O “Shahbandar and Bendahara”, Journal of the Royal Asiatic Society of Great Britain and Ireland, 1921, pp. 246-248.
 
@@ -4648,7 +4636,7 @@ Boin, Michelle
 
 Borel, Henri De Chineezen in Nederlandsch-indie (1900. Amsterdam: L J Veen).
 
-“De Chineesche Kwestie en de Ambtenaren van 't Binnenlandsch Bestuur”, Koloniaal Tijdschrift, vol. |, 1912-1913, pp. 41-54.
+“De Chineesche Kwestie en de Ambtenaren van 't Binnenlandsch Bestuur”, Koloniaal Tijdschrift, vol. I, 1912-1913, pp. 41-54.
 
 Chineesche Vereenigingen (1913. ‘s Gravenhage: M van der Broek’s Hofboekhandel).
 
@@ -4682,21 +4670,21 @@ De Nederlanders te Jakarta
 
 (1860. Amsterdam: Frederick Muller).
 
-“Chineezen en Arabieren”, De Indische Gids, vol. |, 1913, p. 107. “De Chineezen-Bond”, De Indische Gids, vol. |, 1928, p. 363.
+“Chineezen en Arabieren”, De Indische Gids, vol. I, 1913, p. 107. “De Chineezen-Bond”, De Indische Gids, vol. I, 1928, p. 363.
 
 “Chineezen in Botsing op Java”, De Indische Gids, vol. Il, 1913, pp. 16561657.
 
-“Een Chinees over de Chineesche Beweging”, Koloniaal Tijdschrift, vol. |, 1911-1912, pp. 667-672.
+“Een Chinees over de Chineesche Beweging”, Koloniaal Tijdschrift, vol. I, 1911-1912, pp. 667-672.
 
-“Chineesche Deskundigen”, De Indische Gids, vol. Il, 1906, pp. 1095-1096. “Chineesche Dobbelspelen”, De Indische Gids, vol. |, 1912, p. 91.
+“Chineesche Deskundigen”, De Indische Gids, vol. Il, 1906, pp. 1095-1096. “Chineesche Dobbelspelen”, De Indische Gids, vol. I, 1912, p. 91.
 
 “Een Chinees over de Indische Regeering”, De Indische Gids, vol. Il, 1905, pp. 1409-1410.
 
-“De Chineesche-kwestie”, De Indische Gids, vol. |, 1927, pp. 540-544.
+“De Chineesche-kwestie”, De Indische Gids, vol. I, 1927, pp. 540-544.
 
 “De Chineezen in Nederlandsch-Indie”, De Indische Gids, vol. Il, 1910, pp. 1381-1382.
 
-“Chineesche Officieren”, De Indische Gids, vol. |, 1914, pp. 885-887.
+“Chineesche Officieren”, De Indische Gids, vol. I, 1914, pp. 885-887.
 
 “Chineesche Officieren en Wijkmeesters”, De Indische Gids, vol. Il, 1913, p. 1373.
 
@@ -4704,11 +4692,11 @@ De Nederlanders te Jakarta
 
 “De Chineesche-opstootjes te Soerabaja”, De Indische Gids, vol. I, 1912, pp. 658-659.
 
-“Onze Chineezen-politiek”, De Indische Gids, vol. |, 1907, pp. 98-99.
+“Onze Chineezen-politiek”, De Indische Gids, vol. I, 1907, pp. 98-99.
 
-“De Chineesche-quastie in Indie”, De Indische Gids, vol. |, 1907, pp. 917918.
+“De Chineesche-quastie in Indie”, De Indische Gids, vol. I, 1907, pp. 917918.
 
-“De Chineezen en de Volksraad”, De Indische Gids, vol. |, 1918, pp. 466467.
+“De Chineezen en de Volksraad”, De Indische Gids, vol. I, 1918, pp. 466467.
 
 “Chronologisch Geschiedenis van Batavia door een Chinees”, Tijdschrift voor Neerlands-indie, vol. Il, 1840, pp. 1-145.
 
@@ -4716,7 +4704,7 @@ Cobban, JL “Geographic Notes on the First Two Centuries of Jakarta”, Journal
 
 “The City on Java; An Essay in Historical Geography”, 1975. Unpublished Ph.D. dissertation. Berkeley, University of California. 305
 
-Coen, JP Bescheiden omtrent zijn Bedrijf in Indie (1919-1920. ‘s Gravenhage: Martinus Nijhoff), vols. |, Il.
+Coen, JP Bescheiden omtrent zijn Bedrijf in Indie (1919-1920. ‘s Gravenhage: Martinus Nijhoff), vols. I, Il.
 
 Colenbrander, H T Koloniale Geschiedenis (1926. ‘s Gravenhage: Martinus Nijhoff), vol. Ill.
 
@@ -4770,7 +4758,7 @@ Sja'ir Perang Mengkasar: The Rhymed Chronicle of the Macassar War, edited by W C
 
 (1963. The Hague: Martinus Nijhoff).
 
-Encyclopaedie van Nederlandsch-Indie (1917-1919. ‘s Gravenhage; Martinus Nijhoff), vols. |, Ill.
+Encyclopaedie van Nederlandsch-Indie (1917-1919. ‘s Gravenhage; Martinus Nijhoff), vols. I, Ill.
 
 Es, W JI van “Het Chung Hwa Congres”, De Indische Gids, vol. Il, 1927, pp. 596-609.
 
@@ -4784,7 +4772,7 @@ Furnivall, J S Netherlands India. A Study of Plural Economy (1967. Reprinted. Ca
 
 Generale Missieven van Gouverneur-Generaal en Raden van Indie aan Heeren XVII der Vereenigde Oostindische Compagnie (1960-1988. ‘s Gravenhage: Martinus Nijhoff), 9 vols.
 
-“Geschiedkundig Onderzoek naar den Oorsprong en den Aard van het Partikulier Landbezit op Java”, Tijdschrift voor Nederlandsch-indie, vol. |, 1849, pp. 243-276; vol. ll, 1852, pp. 97-131, 161-186.
+“Geschiedkundig Onderzoek naar den Oorsprong en den Aard van het Partikulier Landbezit op Java”, Tijdschrift voor Nederlandsch-indie, vol. I, 1849, pp. 243-276; vol. ll, 1852, pp. 97-131, 161-186.
 
 Go Gien Tjwan
 
@@ -4816,7 +4804,7 @@ Heeres, JE (ed)
 
 Corpus Diplomaticum Neerlando-Indicum
 
-vol. |, 1596-1650, Bijdragen tot de Taal-Land-en Volkenkunde van Nederlandsch-Indie, no. 57, 1907, pp. 1-551.
+vol. I, 1596-1650, Bijdragen tot de Taal-Land-en Volkenkunde van Nederlandsch-Indie, no. 57, 1907, pp. 1-551.
 
 vol. Il, 1650-1675, Bijdragen tot de Taal-Land-en Volkenkunde van Nederlandsch-indie, no. 87, 1931, pp. 1-582.
 
@@ -4830,7 +4818,7 @@ Hoay Tjiong
 
 “Hoe is de Kompagnie in ‘t Bezit harer Landen op Java gekomen?”, Tijdschrift voor Nederlandsch-Indie, vol. Il, 1856, pp. 39-45.
 
-“Hoe men, in de Ommelanden van Batavia, karbouwen steelt”, Tijdschrift voor Nederlandsch-indie, vol. |, 1860, pp. 197-199.
+“Hoe men, in de Ommelanden van Batavia, karbouwen steelt”, Tijdschrift voor Nederlandsch-indie, vol. I, 1860, pp. 197-199.
 
 Hoek, L van der “De Partikuliere Landerijen in de Residentie Batavia”, Koloniaal Tijdschrift, vol. Xl, 1922, pp. 34-68. 308
 
@@ -4856,7 +4844,7 @@ Protest Movements in Rural Java. A Study of Agrarian Unrest in the Nineteenth an
 
 Kleintjes, Ph Staatsinstellingen van Nederlandsch-Indie (1929. Amsterdam), vol. Il.
 
-Klerck, E S de History of the Netherlands East Indies (1938. Rotterdam: W | & J Brusse), 2 vols.
+Klerck, E S de History of the Netherlands East Indies (1938. Rotterdam: W I & J Brusse), 2 vols.
 
 Kol, H van
 
@@ -4866,9 +4854,9 @@ Kol, H van
 
 Koloniaal Verslag, 1872-1920 (continued as Indisch Verslag, 1931-1939).
 
-Kratz, EU _ “Hikayat Raja Pasai; a Second Manuscript”, Journal of the Malaysian Branch of the Royal Asiatic Society, part |, 1983, pp. 1-10.
+Kratz, EU _ “Hikayat Raja Pasai; a Second Manuscript”, Journal of the Malaysian Branch of the Royal Asiatic Society, part I, 1983, pp. 1-10.
 
-Kroef, J M van der “The Arab Minority”, in Indonesia in the Modern World (1954. Bandung: Masa Baru), part |, pp. 250-274. 309
+Kroef, J M van der “The Arab Minority”, in Indonesia in the Modern World (1954. Bandung: Masa Baru), part I, pp. 250-274. 309
 
 Kumar, Ann Surapati, Man and Legend: a Study of the Three Babad Traditions (1976. Leiden: KITLV).
 
@@ -4896,7 +4884,7 @@ Leupe, PA
 
 “Dapper Gedrag van den Commandant der Sumbawareezen, Abdullah te Batavia, 1800”, Bijdragen tot de Taal-Land-en Volkenkunde van Nederlandsch-Indie, no. 3, 1879, pp. 337-338.
 
-“Wetboek voor Zeevarenden van het Koninkrijk Makassar en Boegies op het Eiland Celebes”, Tijdschrift voor Nederlandsch-Indie, vol. |, 1849, pp. 305-317.
+“Wetboek voor Zeevarenden van het Koninkrijk Makassar en Boegies op het Eiland Celebes”, Tijdschrift voor Nederlandsch-Indie, vol. I, 1849, pp. 305-317.
 
 Leur, J C van Indonesian Trade and Society. Essays in Asian Social and Economic History (1955. The Hague: W van Hoeve).
 
@@ -4950,7 +4938,7 @@ De Historische Ontwikkeling van de Staatsrechtelijke Indeeling der Bevolking van
 
 Mattulada Menyusuri Jejak Kehadiran Makassar dalam Sejarah 1510-1700 (1982. Makassar: Bhkati Baru-Berita Utama).
 
-Mees, Mr R Tj “Vrijmaking van den Grond der Particuliere Landerijen ten Westen der Tjimanuk”, De Indische Gids, vol. |, 1902, pp. 289-318.
+Mees, Mr R Tj “Vrijmaking van den Grond der Particuliere Landerijen ten Westen der Tjimanuk”, De Indische Gids, vol. I, 1902, pp. 289-318.
 
 Meneses, F de Sa de The Conquest of Malacca; translated by E C Knowlton Jr (1970. Kuala Lumpur: University of Malaya Press). 311
 
@@ -4972,7 +4960,7 @@ Mulder, D
 
 “Eene Proeve tot Oplossing van een der Brandende Vragen van den Dag: de Particuliere Landerijen”, Tijdschrift voor Nijverheid en Landbouw in Nederlandsch-indie, vol. 72, 1906, pp. 379-392.
 
-Nederburgh, S C H “De Onmondigheid van den Javaan ten Aanzien van het Grondbezit”, Tijdschrift voor Nederlandsch-Indie, vol. |, 1878, pp. 1-77.
+Nederburgh, S C H “De Onmondigheid van den Javaan ten Aanzien van het Grondbezit”, Tijdschrift voor Nederlandsch-Indie, vol. I, 1878, pp. 1-77.
 
 Newbold, J J
 
@@ -4994,7 +4982,7 @@ Noer, Deliar The Modernist Muslim Movement in Indonesia (1973. Singapore: Oxford
 
 Oei Kiauw Pik “De Chineezen en het Nederlandsch Onderdaanschap”, De Indische Gids, vol. 1, 1917, pp. 959-967.
 
-“Officieel Relaas van de Chineesche Opstootjes te Batavia and Soerabaja”, Koloniaal Tijdschrift, vol. |, 1911-1912, pp. 601-606.
+“Officieel Relaas van de Chineesche Opstootjes te Batavia and Soerabaja”, Koloniaal Tijdschrift, vol. I, 1911-1912, pp. 601-606.
 
 Ong Eng Die Chineezen in Nederlandsch-indie (1943. Assen: Van Gorcum).
 
@@ -5016,9 +5004,9 @@ The Chinaman Abroad; or a Desultory Account of the Malayan Archipelago, particul
 
 “Particuliere Landerijen en de Openbare Veiligheid in de Residentie Batavia”, De Indische Gids, vol. Il, 1904, pp. 1067-1079.
 
-“Particuliere Landen in handen van Vreemdelingen “, De Indische Gids, vol. |, 1910, pp. 228-229.
+“Particuliere Landen in handen van Vreemdelingen “, De Indische Gids, vol. I, 1910, pp. 228-229.
 
-“De Particuliere Landerijen in en om Batavia”, Koloniaal Tijdschrift, vol. |, 1911-1912, pp. 801-808.
+“De Particuliere Landerijen in en om Batavia”, Koloniaal Tijdschrift, vol. I, 1911-1912, pp. 801-808.
 
 Peringatan Tiong Hoa Siang Hwee Batavia; Berdiri 40-Taon, 1908-1948 (1948. Batavia: THSH).
 
@@ -5086,7 +5074,7 @@ Salmon, Claudine “Le Sjair de l’Association Chinoise de Batavia (1905)”, A
 
 “The Han Family of East Java; Entrepreneurship and Politics (18th-19th Centuries)”, Archipel, no. 41, 1991, pp. 53-88.
 
-Salmon, C & D Lombard Les Chinois des Jakarta; Temples et Vie Collectives (1980. Paris: Etudes Insulindiennes-Archipel, vol. |.)
+Salmon, C & D Lombard Les Chinois des Jakarta; Temples et Vie Collectives (1980. Paris: Etudes Insulindiennes-Archipel, vol. I.)
 
 “A Propos de la Visite a Java d’une Escadre Impériale Chinois en 1907”, Archipel, no. 33, 1987, pp. 79-116.
 
@@ -5098,11 +5086,11 @@ De Chineezen Buiten China. Hunne Beteekenis voor de Ontwikkeling van ZuidOost-Az
 
 Schrieke, B J O
 
-“The Shifts in Political and Economic Power in the Indonesian Archipelago in the Sixteenth and Seventeenth Century”, in Indonesian Sociological Studies (1955. The Hague: W van Hoeve), vol. |, pp. 3-82.
+“The Shifts in Political and Economic Power in the Indonesian Archipelago in the Sixteenth and Seventeenth Century”, in Indonesian Sociological Studies (1955. The Hague: W van Hoeve), vol. I, pp. 3-82.
 
 “Ruler and Realm in Early Java”, in Indonesian Sociological Studies (1957. The Hague: W van Hoeve), vol. Il.
 
-“Sedert Wanneer het Gouvernement soo anti-Chineesch geworden?”, Tijdschrift voor Nederlandsch-Indie, vol. |, 1857, pp. 169-171. 
+“Sedert Wanneer het Gouvernement soo anti-Chineesch geworden?”, Tijdschrift voor Nederlandsch-Indie, vol. I, 1857, pp. 169-171. 
 
 315
 
@@ -5124,7 +5112,7 @@ Skinner, G William
 
 Somers, Mary F “Peranakan Chinese Politics in Indonesia”, 1965. Unpublished Ph.D. dissertation. Ithaca, Cornell University.
 
-“Staat der Particuliere Landerijen in 1879”, in Regeerings Almanak voor Nederlandsch-Indie van het jaar 1880 (1881. Batavia: Landsdrukkerij), vol, |, pp. 350-358.
+“Staat der Particuliere Landerijen in 1879”, in Regeerings Almanak voor Nederlandsch-Indie van het jaar 1880 (1881. Batavia: Landsdrukkerij), vol, I, pp. 350-358.
 
 Suryadinata, Leo “Pre-war Indonesian Nationalism and Peranakan Chinese”, Indonesia, no. 11, April 1971, pp. 83-94.
 
@@ -5134,7 +5122,7 @@ Peranakan Chinese Politics in Java 1917 - 1942 (1976. Singapore: Institute of So
 
 Pribumi Indonesians, the Chinese Minority and China (1986. 2nd edition. Singapore: Heinemann Asia).
 
-Sutherland, Heather “Notes on Java's Regent Families”, part |, Indonesia, no. 16, October 1973, pp. 113-147, part II, Indonesia, no. 17, April 1974, pp. 1-42. 316
+Sutherland, Heather “Notes on Java's Regent Families”, part I, Indonesia, no. 16, October 1973, pp. 113-147, part II, Indonesia, no. 17, April 1974, pp. 1-42. 316
 
 Tan Giok Lan
 
@@ -5144,7 +5132,7 @@ The Chinese Community of Sukabumi. A Study in Social and Cultural Accommodation
 
 Taylor, Jean G The Social World of Batavia. European and Eurasian in Dutch Asia (1983. Madison: University of Wisconsin Press)
 
-“Terugkoop van Particuliere Landerijen op Java”, De Indische Gids, vol. |, 1906, pp. 740-741.
+“Terugkoop van Particuliere Landerijen op Java”, De Indische Gids, vol. I, 1906, pp. 740-741.
 
 The Siauw Giap “Group Conflict in Plural Society”, Revue du Sud-Est Asiatique, nos. 1 & 2, 1966, pp. 1-31, 185-217.
 
@@ -5168,7 +5156,7 @@ Vaughan, J D The Manners and Customs of the Chinese (1992. Fourth impression. Si
 
 Verhandelingen van den Volksraad van het jaar 1918, 1924, 1927-1928, 1929-1930 (1919-1931. ‘s Gravenhage: Landsdrukkerij).
 
-“Het Verkoopen van Landen op Java, Beoordeeld door eene Gouvernements Kommissie op Java”, Tijdschrift voor Nederlandsch-indie, vol. |, 1852, pp. 373-410.
+“Het Verkoopen van Landen op Java, Beoordeeld door eene Gouvernements Kommissie op Java”, Tijdschrift voor Nederlandsch-indie, vol. I, 1852, pp. 373-410.
 
 Vermeulen, J Th De Chineezen te Batavia en de Troebelen van 1740 (1932. Batavia: E J Brill).
 
@@ -5186,7 +5174,7 @@ Vitalis, L a
 
 “Over de Pachten in het Algemeen, de Onzedelijkheid van Somige, en de Verdrukking waarvan de Overmatige Misbruiken van andere de Javaansche Bevolking Blotstellen”, Tijdschrift voor Nederlandsch-Indie, vol. Il, 1851, pp. 365-386. Waal, A. de Aanteekeningen over Koloniale Onderwerpen (1865. 's Gravenhage: Martinus Nijhoff), vols. IV, V.
 
-“Waarom is er Verschild in de Geschatte Verpondingswaarde tusschen de Particuliere Landerijen van Europeanen en die van Chineezen?”, De Indische Gids, vol. |, 1896, pp. 55-56.
+“Waarom is er Verschild in de Geschatte Verpondingswaarde tusschen de Particuliere Landerijen van Europeanen en die van Chineezen?”, De Indische Gids, vol. I, 1896, pp. 55-56.
 
 Wal, S L van der Het Onderwijsbeleid in Nederlands-Indie 1900-1940 (1963. Groningen: J B Wolters), 2 vols.
 
@@ -5196,7 +5184,7 @@ De Volksraad en de Staatkundige Ontwikkeling van Nederlands-Indie (1965. Groning
 
 De Opkomst van de Nationalistische Beweging in Nederlands-Indie (1967. Groningen: J B Wolters).
 
-Wall, V | van de Indische Landhuizen en Hun Geschiedenis (1932. Batavia: G Kolff & Co).
+Wall, V I van de Indische Landhuizen en Hun Geschiedenis (1932. Batavia: G Kolff & Co).
 
 “Wat zijn de Plannen?”, De Indische Gids, vol. Il, 1915, pp. 1308-1309.
 
@@ -5222,7 +5210,7 @@ Willmott, Donald E The Chinese of Semarang. A Changing Minority in Indonesia (19
 
 Wong Lin Ken “The Revenue Farms of Prince of Wales Island 1805-1830”, Journal of the South Seas Society, vol. 19, parts 1 & 2, 1964, pp. 45-127.
 
-“Een Woord ten gunste van Chineezen”, De Indische Gids, vol. |, 1904, pp. 908-909.
+“Een Woord ten gunste van Chineezen”, De Indische Gids, vol. I, 1904, pp. 908-909.
 
 Wright, Arnold (ed) Twentieth Century Impressions of Netherlands India (1909. London: Llyod’s Greater Britain Publishing House).
 
@@ -5242,15 +5230,15 @@ Yo Heng Kam
 
 Yong Ching Fatt
 
-“Chinese Leadership in Nineteenth Century Singapore”, Journal of the Island Society, vol. |, December 1967, pp. 1-18.
+“Chinese Leadership in Nineteenth Century Singapore”, Journal of the Island Society, vol. I, December 1967, pp. 1-18.
 
--===mM|=-=-JOL EE - e o, ON
+-===mMI=-=-JOL EE - e o, ON
 
 fes
 
 mn / Ela. TA
 
-= E INA c= E) | &/
+= E INA c= E) I &/
 
 AS 239p
 
