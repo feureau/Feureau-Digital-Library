@@ -41,13 +41,15 @@ Pekerdjaan Panitia Usaha Istiméwa — Anggota berpendirian sebagai orang Indon�
 
 I. Peri Kebangsaan.
 
-Indonesia Merdeka, sekarang — Nationalisme lama dan baru — Dasar negara Seriwidjaja dan Madjapahit — Perubahan zaman — Dasar peradaban Indonesia — Tradisi tatanegara jang putus-Etat national — etats patrimoines, etats. puissances — kesukaran mentjari dasar asli — Tjita-tjita jang hantjur dimedan perdjuangan. Kebangsaan Indonesia mengharuskan dasar sendiri.
+Indonesia Merdeka, sekarang — Nationalisme lama dan baru — Dasar negara Seriwidjaja dan Madjapahit — Perubahan zaman — Dasar peradaban Indonesia — Tradisi tatanegara jang putus-Etat national — etats patrimoines, etats puissances — kesukaran mentjari dasar asli — Tjita-tjita jang hantjur dimedan perdjuangan. Kebangsaan Indonesia mengharuskan dasar sendiri.
 
 II. Peri Kemanusiaan.
 
 Kemadjuan kemerdékaan — Kemerdékaan akan menghidupkan kedaulatan negara — Anggota keluarga — dunia — Status politik jang sempurna — Menolak dominion status, protectoraat, mandat, Atlantic charter pasal 3 — Status internasional jang berisi kemanusiaan dan kedaulatan sempurna.
 
-III. Peri ke-Tuhanan. Peradaban luhur.— Ber-Tuhan — Dasar negara jang berasal dari peradaban dan agama.
+III. Peri ke-Tuhanan.
+
+Peradaban luhur.— Ber-Tuhan — Dasar negara jang berasal dari peradaban dan agama.
 
 IV. Peri Kerakjatan.
 
