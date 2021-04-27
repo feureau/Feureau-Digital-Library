@@ -1,0 +1,325 @@
+# The Taman Siswa Movement — Its Early Eight Years and Javanese Background
+
+KENJI TSUCHIYA
+
+Introduction
+
+In July 1922 a small private school called Nationale Onderwijs Instituut Taman Siswa was born quietly at a traditional town Yogyakarta in Central Java. Taman Siswa means literally “Garden for Pupils”. Nobody expected then that this pupils’ garden would become a tough ground of resistance to the Dutch colonial Government later in the 1930’s. The political climate in Indonesia around 1922 was showing a remarkable uprising of nationalism centering around the labor union movement guided by the Partai Komunis Indonesia (PKI, Indonesian Communist Party) and Sarekat Islam (Islam Union). The PKI then had an indomitable leader, Tan Malaka, and many labor unions in the northern coastal cities of Java, whereas Sarekat Islam which was an original initiator of labor union and nationalist movements in the 1910’s and indeed gave birth to PKI in 1920, began to worry about PKT's penetration into its own political arena. This rivalry for hegemony in labor unionism between PKI and Sarekat Islam widened the rift between the two political forces but nevertheless caused more strikes against the colonial administration. One of the critical issues in their confrontation was militancy against the Dutch regime. Such a heated atmosphere of Indonesian politics detracted the attention of the Dutch colonial government as well as Indonesian nationalist organizations from the first nationalist school born with a weak first cry.
+
+By the time of the 1930’s, however, when the colonial administration began to adopt strict, oppressive policies against all radical nationalist groups advocating anti-colonialism and Indonesian independence, Taman Siswa had already established many branches in various parts of Java and the Outer Islands and could refuse any government interference in the practice of its educational philosophy. Among many confrontations of the Taman Siswa movement with the Dutch regime, the most well-known is the resistance to Wilde Scholen Ordonnantie. In this movement Taman Siswa was supported by most nationalist organizations and their leaders and appeared as a center of the entire Indonesian nationalist movement.' One Taman Siswa leader, Mochmad Tauchid, described Taman Siswa in those days as the place, “in which all kinds of nationalists had once congregated and from which some were starting to congregate again”.?
+
+Thus the fame of Raden Mas Suwardi (Ki Hadjar Dewantara) became well established as one of the founders of Taman Siswa schools in the 1930's. He remained the foremost leader of the Taman Siswa movement for the rest of his life. He was always regarded as a prominent figure in the early Indonesian nationalist movement. This reputation neither changed during the period of the Japanese military administration nor altered after independence. The Japanese administration respected him as one of four outstanding leaders, “Empat Serangkai”, of Indonesia along with Sukarno, Hatta and Kyai Haji Mansur. After independence in 1945 he served as Minister of Education in the first cabinet of the newly-born Republic of Indonesia, while holding the position of Supreme Leader, “Pemimpin Umum”, of Taman Siswa schools. He held this last position until his death on April 26, 1959.
+
+He was always a guiding star of Indonesian education. Even after his term as Minister of Education was over, he remained as the chief advisor on educational matters to the successive governments of the Republic. In November 1959, seven months after his death, he was proclaimed a national hero, and in the following month, his birthday, May 2, was determined as one of “Nation’s Day”. Thus it is very clear that the Taman Siswa schools have been officially recognized as an Indonesian educational system which the nation can be proud of, and that Dewantara was publicly regarded as an educational leader of the nation.
+
+This article purports, however, to analyze only the process of establishing the Taman Siswa schools and their activities for the first eight years from 1922 to 1930, particularly in their relation to Indonesian nationalism and their interaction with the Javanese society. The first section describes the events leading up to the establishment of the first Taman Siswa school. The second section traces the early stage of development of the Taman Siswa movement. The third section tries to analyze, firstly, the historical background of Indonesian nationalism and its relationship to this strong Taman Siswa movement and thereby answer the question why this movement was started in Yogjakarta and not in such cities as Jakarta, Bandung or Surabaya where nationalism had more influential strongholds. The same section, secondly, digs into the influence of the movement upon the grass-root masses in the Javanese society and its philosophy based on the Javanese value-system and mentality.
+
+The Historical Background of the Emergence of the Taman Siswa Movement Budi Utomo and the Paku Alam Family
+
+The earliest organization of Indonesian nationalists, Budi Utomo, was founded mainly by the students at Batavia Medical School (STOVIA) on May 20, 1908. As Nagazumi Akira’s thoroughly documented study on Budi Utomo enunciated, it had its roots in the lower class priyayi.® The class of priyayi consisted of descendants of noble families related to the Kingdom of Mataram-Islam. Its lower class was most seriously affected by the social mobilization of certain sections of the Javanese society which was necessitated by the Ethical Policy of Dutch rulers in the beginning of this century.
+
+Java had then four vorstenlanden or principalities as the branches of the Kingdom of Mataram-Islam: the Yogyakarta, Surakarta, Paku Alam and Mangkunegara principalities. Among these four, the House of Paku Alam was the most closely related to Budi Utomo. This house broke off from the House of Yogyakarta in 1818 and was located in the same city. The family was relatively small in size and many of its members held the positions of lower ranks of officials in the Dutch colonial government. The highest position open to native officials in the colonial bureaucracy was bupati, and it was often occupied by members of the Houses of Yogyakarta and Surakarta (Solo) in the direct line of the royalty of Mataram-Islam. This relative inferiority of their association with the colonial administration seems to have made the Paku Alam family members more sensitive to the nationalistic movement that was quickening at the turn of the century than those of the other royal families.
+
+ 
+
+$ Nagazumi, Akira. The Dawn of Indonesian Nationalism: The Early Years of the Budi Utomo, 1908-1918, Institute of Developing Economies, Tokyo, 1972. 166 Kenji Tsuchiya
+
+Indeed they not only participated but also tried to take leadership of the Budi Utomo movement.
+
+Around 1900, when Dr Wahidin Sudirohusodo travelled through central Java, visiting notable priyayi's to obtain their support for a scholarship foundation,* Prince Noto Dirdjo (1854-1917), the Paku Alam V, was one of the strongest sympathizers of the Budi Utomo. This was really a prologue to the movement. Prince Noto Dirdjo himself was later appointed as the second chairman of the Budi Utomo from 1912 to 1914, and devoted his sincere effort to cultural and educational advancement of the younger generation. At the end of 1913, he established another scholarship foundation called the Darmo Woro, and sought thereby to increase the educational opportunities for young Javanese students.
+
+The directors of the Darmo Woro were as follows:*
+
+President, Pangeran Ario Suriadiningrat
+
+Vice-President, Raden Rijo Nitidipuro
+
+Secretary, Raden Ardiurnata
+
+Treasurer, Raden Mas Prawirowiworo
+
+Commissioner, Pangeran Ario Tedjokusumo
+
+Commissioner, Raden Mas Pandji Gondoatmodjo
+
+Commissioner, Mas Ngabehi Dwidjosewojo It should be observed that “all seven of its staff members came from Yogyakarta, most of them also being closely related to the sultan (of Yogyakarta) or to the House of Paku Alam”.® Some of them joined the Taman Siswa movement afterwards. This foundation had to be dissolved, however, with no significant achievement due to the shortage of funds.’
+
+ 
+
+saya epye
+
+The Selasa Kliwon Society
+
+Asa background of the Taman Siswa, another small Javanese society established for the purpose of spiritual training is also very important. It is the Paguyuban Selasa Kliwon organized in Yogyakarta in 1922. Members of this society met together on the Tuesday of Selasa Kliwon or once every thirty five days to discuss about the best way to foster the spirit of independence and to procure happiness for individuals, nations and mankind. The society also studied the method of education for these purposes to be achieved by the younger generation.*
+
+The chairman of the Selasa Kliwon Society was Ki Agung Surjomataram, and the members included Ki Sutatmo Surjokusumo, Ki Pronowidigo, Ki Surjoadiputro, Sutopo Wonobojo, Surjodirdjo and Ki Hadjar Dewantara.® Most of these people were closely related to either the Budi Utomo or the Darmo Woro. They often belonged also to the Paku Alam Family. Surjoputro was an uncle of K. H. Dewantara, and Surjoadiputro was the youngest brother of K. H. Dewantara. These persons were all from the house of Paku Alam. Gondoatmodjo was another member of the Darmo Woro. He joined the first Volksraad or People's Council representing the Paku Alam Family and was also one of the leaders of the Budi Utomo. Sutatmo Surjokusumo, a member of the Volksraad, was likewise from the house of Paku
+
+ 
+
+* Ki Hadjar Dewantara, “P. A. Notodirdjo en Zijn Aandeel in de Opleving van het Javaansche Volk (P. A. Notodirdjo dan Sumbangannya dalam Kebangkitan Kembali Bangsa Jawa), 1917." Karya K. H. Dewantara, Kebudayaan, 1967, pp. 335-353.
+
+$ Nagazumi, op. cit, p. 91, 198.
+
+© Ibid. p. 91
+
+7 The full discussion of the Darmo Woro appears in Nagazumis Budi Utomo, pp. 91-92.
+
+® Suratman, “Masalah Kelahiran Taman Siswa” Pusara, Vol. 25 No. 1-2, 1964, pp. 37-38.
+
+® Ibid, p. 38, and M. Tauchid, Ki Hadjar Dewantara, Pahlawan dan Pelopor Pendidikan Nasional, Yogyakarta, 1968, p. 18. Taman Siswa Movement 167
+
+Alam. Prawirowiroro held the position of treasurer of the Darmo Woro, and also was a member of the Volksraad. Sutopo Wonoboja was another former member of the Budi Utomo." Seven of the above-mentioned eleven members of the Selasa Kliwon joined the Taman Siswa at the time of its establishment on July 3, 1922. Ki Agung Surijomataram did not join Taman Siswa but kept close relations with it."! When Taman Siswa was founded, the Selasa Kliwon Society was dissolved. Thus Taman Siswa may be regarded as a successor of Selasa Kliwon. The central figure of Taman Siswa schools was Ki Hadjar Dewantara.
+
+The Life of Ki Hadjar Dewantara
+
+Ki Hadjar Dewantara was born a son of Pangeran Surjoningrat of the House of Paku Alam on May 2, 1889. After finishing his elementary education at a Dutch School, he entered the Medical School at Batavia (STOVIA). But he was financially unable to finish his studies. In his childhood, like any other Javanese child, K. H. Dewantara indulged in watching wayang shadow plays and identifying himself with some heroes in this allegorical world. It is said that he particularly liked Yudistira, a figure representing a Javanese ideal of a King and Kresna, a Visnu incarnate and chief advisor to the kingdom of Pendawa. At the age of twelve, he even composed a poem of admiration of King Yudistira.'?
+
+Dewantara married Startina Sasroningrat in 1907, and joined Budi Utomo next year. In 1913, however, he left Budi Utomo as it tended to join hands with more conservative priyayi groups. Then, together with two other outstanding nationalists, Douwes Dekker and Tjipto Mangunkusumo, he established the Indische party. Under their guidance the Indische party began a strong campaign against the colonial government’s program to celebrate the hundredth anniversary of Dutch independence. The tone of this propaganda was so harsh that the three leaders were indicted for their writings and deported to the Netherlands. In the Netherlands, Dewantara was able to contact several Indonesian activists and earn his living by editing their newspapers contrary to the law prohibiting deportees’ political activities. Nearly four years passed before he was given a pardon on August 17, 1917. Unfortunately, ‘World War I forced him to remain abroad for two more years. Not until September 6, 1919 was he able to put an end to his deportation.
+
+Upon receiving the pardon, he published a challenging article, “Naar de Front” (Towards the Front) and confirmed his unshakeable determination to devote himself to the nationalist movement back in his fatherland. As soon as he returned home,
+
+ 
+
+10 Nagazumi, op. cit., p. 98, 206; Suratman, op. cit., p. 37; and M, Tauchid, op. cit. p. 18.
+
++1 Ki Surjomataram later on participated in adult moral training by organizing a Gerakan Gelmu Bedijo or Moral Movement for Happiness, and after Indonesia proclaimed its independence, he was known for his Paguyuban Kawulo Jiwa or Organization for the Development of the Spirit. However, this does not mean that he had no relationship at all with the Taman Siswa. ‘When the Taman Siswa held its national congress in 1933, he was invited to the gathering in Kaliurang and gave a lecture on the topic of “Education for World Peace.” This would seem to suggest that there was a kind of a division of roles between Surjomataram who devoted to adult education and the others who had been in the Selasa Kliwon. Sajoga, “Riwayat Perjuangan Taman Siswa, 1922-1952,” Taman Siswa 30 Tahun p. 205, 229.
+
+12 Pranata Ssp., Ki Hadjar Dewantara, Perintis Perjuangan Kemerdekaan Indonesia, Yogyakarta, 1958, pp. 32-36. The brillant analysis of Javanese concepts of wajang appears in B. Anderson, Mythology and the Tolerance of the Javanese, Ithaca, 1966.
+
+15 The complete discussion of the Indische partij and Dewantara’s activities of this time appears in Abdulrachman Surjomihardjo, “An Analysis of Suwardi Surjaningrat’s Ideals and National-Revolutionary Actions (1913-1922)” Majalah Ilmu-llmu Sastra Indonesia, Oct. 1964, pp. 371-406. 168 Kenji Tsuchiya
+
+Dewantara was appointed a Central Committee member of the Nationale Indische Party which is a rebirth of the Indische Party and took the responsibility of editing the party's organs like De Bewegin, Persatoean Indonesia and Pangoega. The colonial government was still not tolerant of the political activities of this party. Indeed, its suppressive policies were so severe that the three outstanding leaders had to withdraw themselves from the front line activities of this party. Thus Dewantara turned the arena of his activity from politics to education for the first time when he assisted his elder brother, Raden Mas Surjopranoto, in teaching at the Adi Darma school established by Surjopranoto in 1915. Surjopranoto was an influential member of the Central Committee of Sarekat Islam and was popular as raja pemogokan (strike king) exercising strong leadership in the peasant unions of sugar plantations in Central Java. Dewantara’s interest in the problem of education, however, goes back to his days in the Netherlands. During the period of the purge, he was exposed to some new pedagogical education ideas like those of Montessori, Frobel and Tagore which were very popular in Europe at that time. These theories laid stress on the individual personalities of children and their potentialities. Teaching at the Adi Darma school for one year must have induced him to establish a new type of school based on his own ideas somewhat influenced by those he learnt from Europe. For this purpose, however, he paradoxically joined the most traditional Javanese group for meditation (kebatinan) Selasa Kliwon and thereby succeeded in starting a new school Taman Siswa on July 3, 1922 at the heart of Javanese Island, Yogyakarta, as was mentioned at the very beginning of this article.
+
+‘The Development of Taman Siswa Movement Establishment of Taman Siswa
+
+The inaugural meeting was held at the Adi Darma school which supported Taman Siswa both in terms of finance and equipment and whose front veranda provided Dewantara with a stage for his historical speech on the principles of establishing Taman Siswa. He summarized his ideas in the following five points:'*
+
+Firstly, the younger generation must be educated not only to cultivate their mind and body but also to develop the national culture. The ideal of national education, therefore, must be based on adat-istiadat (Javanese cultural tradition). Education or learning is a means to inherit the nation’s cultural legacy from ancestry to posterity,
+
+Secondly, the western type of education in our country has served the colonial policies which aimed at providing government and Dutch enterprises with lower ranking officials and employees. Strangely enough the bourgeois of our nation are willing to let their children obtain such training and turning them into buruh (proletarian). This kind of education can hardly contribute to the acquisition of wisdom to develop the body and soul of children.
+
+Thirdly, such a Dutch system of education offers very little to foster the solidarity of the nation, National solidarity cannot be cemented only by a political movement against the Dutch. A system of national education must be developed in which the people can learn the spirit of independence and grasp the sense of national solidarity.
+
+Fourthly, in establishing this national system of education, the education of the asrama and the pondok-pesantren of the early days when the nation still enjoyed its independence must be reconsidered.
+
+Fifthly and lastly, it should be observed that this type of national education coincides with the latest ideas of idealistic education by Montessori or Tagore emphasizing the independence of children.
+
+These five points put forward at the inauguration meeting became established as the basic references of Taman Siswa education with no substantial modification.
+
+ 
+
+ 
+
+* Sajoga, op. cit, pp. 203-204, Taman Siswa Movement 169
+
+The establishment of Taman Siswa invited various criticisms as well as strong support. Some critics attacked it as a communist school or as a school which would dangerously lower the level of education. There were also somewhat more proper criticisms which might be related to the pious Mohammedans’ concern with its nonIslamic nature or its indigenously-Javanese elements. It was precisely this nonIslamic character of Taman Siswa, however, that won for it the strong support of various social classes in Java.!5 No verbal rejoinders or propaganda were advocated by Dewantara vis-a-vis these criticisms. Instead he strongly recommended a slogan of “eight silent years” and concentrated on modest and sober education until 1930, when it successfully held its First National Congress. A sketch of its educational activities during the eight silent years is given below.'°
+
+On December 31, 1922 Dewantara discussed the future activities of Taman Siswa with Surjokusumo, a very close friend since the days of Selasa Kliwon. As a result the Instituutraad (Central Committee) of Taman Siswa was organized on January 6, 1923. The members of the Instituutraad were Surjokusumo (Chairman), Surjoputro (vice-chairman), Dewantara (Secretary), and Pronowidigdo, Sutopo Wonobojo, Subono, Rudjito and Wirjodihardjo (all commissioners). Of these eight members, Surjokusumo, Dewantara, Pronowidigdo, Sutopo Wonobojo and Subono belonged to Selasa Kliwon. The Instituutraad resolved to endow Dewantara with hak-leluasa (dictatorship), so that Dewantara was able to hold the final right of decision on the management of Taman Siswa. Many people supported the Taman Siswa movement and communicated to the Yogyakarta headquarters to establish the branches of Taman Siswa in parts of Java or to apply to be teachers in the “Garden for Pupils.”
+
+From October 20 to October 22, 1923, Taman Siswa held a congress in Yogyakarta, to which those related to the organization assembled from many places of Java. The main objectives of this congress were: first, to proclaim that Taman Siswa was an badan wakaf (educational institution); second, to declare the basic principles of Taman Siswa; and third, to reorganize the Instituutraad as the Hoofdraad, which was later changed to the present name of Majelis Luhur (Supreme Council). Taman Siswa as an badan wakaf meant that it would be financed entirely by its own funds with no government support. The basic principles adopted at this congress were approximately as follows.
+
+Firstly, the ultimate target of Taman Siswa is to educate individuals capable of living in “tata tentrem” (in Javanese) or “tertib damai” (Indonesian) or “Orde en Vrede” (Order and Peace). Hence, Taman Siswa stresses the liberal upbringing of students’ individualities and opposes the training of ability by coercion or command. This system of education that aims at a free fluorescence of soul and body is named the Among system. Among is a Javanese word meaning education.
+
+Secondly, the Among system is meant to be an institution where pupils are able to learn wisdom and knowledge and their usage. It teaches also the spirit of selfreliance in sentiment, thinking and action.
+
+Thirdly, Taman Siswa respects highly the cultural tradition of this nation and tries thereupon to achieve the national development.
+
+Fourthly, Taman Siswa intends to expand the circle of people who can receive school education.
+
+Fifthly, Taman Siswa advocates the spirit of self-reliance and independence, so that it accepts no aid with strings.
+
++3 On the non-Islamic character of Taman Siswa, see the discussion of Ruth McVey, “Taman Siswa and the Indonesian National Awakening,” Indonesia, vol. 4, 1967, pp. 128-149.
+
+16 The data of the outlines of activities of the Taman Siswa till 1930 is based on Sajoga, op. cit., pp. 203-222. 170 Kenji Tsuchiya
+
+Sixthly, Taman Siswa members must live simply and thriftily.
+
+Seventhly, teachers at Taman Siswa must educate the pupils with pure and wholehearted sincerity.
+
+The members of the Hoofdraad were the following:— Chairman: Surjokusumo (died in October, 1924), vice-chairman: Surjoputro (died in November, 1927), the head of the board: Dewantara, commissioners: Pronowidigdo, Rudjito, Wirjodihardjo, Sujudi and Surjoadiputro, adviser: Prawirowiworo. All of these nine members, except for Wirjodihardjo, Rudjito and Sujudi had once been members of Selasa Kliwon. The branch schools of Taman Siswa were nine, and thirteen members were appointed as the representatives of these branches. They were in Bogor and Bandung in West Java; Tegal, Semarang and Surakarta in Central Java; and Wonokromo (near Surabaya), Surabaya, Malang and Pasuruan in East Java. The representative from Bogor was Sutopo Wonobojo, who had joined Selasa Kliwon and had become a member of the Central Committee of Taman Siswa in January, 1923. The representative from Bandung was Sukarno, then a student of Technische Hogeschool at Bandung, who provided the Taman Siswa with a school entrusted to Sukarno for management by the Sarekat Rakyat, the mass organization led by PKI. The representative from Semarang was Ki Tjokrodirdjo. Although he had not joined Selasa Kliwon, he was closely connected to Surjokusumo. Eventually he became one of the prominent leaders of Taman Siswa and continued to be so until he died in March 1971. One of the three representatives from Surabaya was Ali Sastroamidjojo who had just returned from the Netherlands at that time.
+
+After this congress Taman Siswa significantly increased its influence outside of Central Java although it originally started with Taman Anak (Junior schools) and Taman Guru (normal schools). In July 1924, it opened also the Mulo-kweekschool in which pupils were able to study for an additional four more years after Junior school. In 1926, the Mulo-kweekschool was divided into Mulo schools (Taman Darma) of three years duration and kweekschools (Taman Guru) of one year duration. The curriculum of the latter was regarded as equivalent to that of an ordinary normal school. The curriculum and teachers of the Taman Siswa school in Yogyakarta in 1924 were as follows: Dutch grammer, biology, national law and general arts, taught by Dewantara; English, geometry, physical science including practical exercises in the outdoors, taught by Surjoputro; algebra, physical geography and pictorial arts, taught by Surjoadiputro; Dutch language and history, taught by Suwandhi; Javanese and Indonesian, taught by Wirjodhihardjo; accounting and Javanese music on Friday afternoon, taught by Kuntho; and reading of the chronicle, Babad Tanah Jawi or History of the Land of Java, taught by Pronowidigdo.
+
+Indonesia in 1927 was experiencing an upheaval of the nationalist movement which demanded independence. The leadership of the nationalist movement was held by the Partai Nasional Indonesia (Indonesian Nationalist Party) organized in Bandung under the guidance of Sukarno and other young intellectuals. Many of them were either studying in the Netherlands or had just come home from there. Sukarno’s PNI demanded prompt and complete independence and sought to form an united-front of nationalism without “an airplane from Moscow or a caliph from Istanbul”. Sukarno’s appeal for national unification resulted in the formation of the PPPKI (Permufakatan Perhimpunan-perhimpunan Politik Kebangsaan Indonesia, Union of Political Association of the Indonesian People) in December, 1927. This was a loose federation of all important existing nationalist organizations, including PNI, Partai Sarekat Islam, Budi Utomo, Pasundan, Sumatra Bond and the Surabaya Study Club. At the First Congress of PPPKI held in Surabaya in August 1928, Dewantara, in his capacity as advisor to the Department of Education of this federation, gave a speech on the role of education in the development of people’s life and in the nation’s awakening. All this implied that Taman Siswa was gradually Taman Siswa Movement 171
+
+intensifying its own nationalist agitation, although the teaching of politics was explicitly forbidden, and teachers weré not permitted to hold membership in any political party.'? October of this year was another milestone in the history of national unification. The Second National Congress of the youth associations was held in Jakarta under the leadership of PNI, and the Congress declared the famous “Sumpah Pemuda” (Youth Oath) on the third day of the Congress; October 28, 1928. Thus the development of nationalistic mentality seems to have made more people support the Taman Siswa schools. Such support for Taman Siswa came not only from people in Java and Outer Islands but even from outside of Indonesia, as seen in the visit of Tagore who came to Indonesia in August, 1928 with the expressed purpose of meeting Dewantara.
+
+It was in this highly nationalistic atmosphere that Taman Siswa was approaching the terminal of “eight silent years”. At the end of the 1920’s, the leaders of the Hoofdraad of Taman Siswa began to make preparations for holding the First National Congress of fifty-two Taman Siswa schools with 6,500 pupils.
+
+The First National Congress
+
+The First National Congress was held at the headquarters of the Taman Siswa in Yogyakarta from August 6 to 13, 1930. The participants came from 52 branchschools, including twenty-three in East Java, thirteen in Central Java, nine in West Java, three in Sumatra, three in Kalimantan and one in Madura. The main outcome of the Congress may be summarized as follows: first, to adopt the raison d'etre of Taman Siswa: second, to proclaim the guiding principles of Taman Siswa education: and third, to elect the members of the Hoofdraad.
+
+The raison d'etre of Taman Siswa adopted in this Congress was almost the same as the seven principles proclaimed in the Congress in 1923. The guiding principles of Taman Siswa education were as follows:'* Firstly, Taman Siswa aims at national development following the seven basic principles adopted at the Congress in 1923. Secondly, the name Nationale Onderwijs Instituut Taman Siswa will henceforth be known as Peguruan Nasional Taman Siswa berpusat di Mataram (Taman Siswa National Educational Institution centered at Mataram). (Mataram is synonymous with Yogyakarta). Thirdly, Taman Siswa is an independent foundation. Fourthly, Taman Siswa forms a consolidation in which every branch is integrated under the guidance of the headquarters in Mataram. Fifthly, Taman Siswa forms a family, in which Ki Hadjar Dewantara is Bapa (father) and the Taman Siswa in Mataram is Jbu (mother). Sixthly, each branch of Taman Siswa must give help to other branches or hold the principles of wengku-winengku (mutual help) in Javanese. Seventhly, Taman Siswa must be managed in accordance with democracy. Democracy, however, should not disturb the principle of order and peace of Taman Siswa as a whole. Thus, if necessary, the Majelis Luhur is endowed with the powers of “dictatuur” within the limits of the basic principles of the Taman Siswa,
+
+The members of Majelis Luhur were selected as follows:
+
+1. Board of Chairmen: the first chairman, Dewantara; the second chairman, Pronowidigdo: the third chairman, Tjokrodirdjo (Semarang); general members: Sadikin (Mojokerto, East Java), Puger (Malang, East Java), Kadirun (Malang, Fast Java), Safiudin Surjoputro (Jembar, East Java) and Sarmidi Mangunsarkoro (Jakarta, West Java).
+
+17 George M. Kahin, Nationalism and Revolution in Indones 1952, p. 88
+
+18 Wasita vol. 2. No. 1-2, 1930, p. 39-40.
+
+19 Sajoga, op. cit., pp. 221-222.
+
+, Corneli University Press,
+
+ 172 Kenji Tsuchiya
+
+2. Secretarial Committee: Chairman, Dewantara; Commissioners, Sudarminta,
+
+Sukemi and Sajoga (all from Yogyakarta).
+
+3. Advisory Committee:
+
+Section of education, Hardjosusastro (Semarang, Central Java)
+
+Section of administration, Rudjito (Yogyakarta)
+
+Section of law, Sujudi (Yogyakarta)
+
+4, Regional Committee:
+
+West Java, Sarmidi Mangunsarkoro (Jakarta)
+
+Central Java, Sukemi (Yogyakarta)
+
+East Java, Djojopradjitno (Wonokromo) and Safiudin Surjoputro (Jember). Thus Taman Siswa consolidated itself and decided to hold its National Congress every four years. Throughout the 1930's it became a powerful center of the nationalist movement.
+
+The following observations may be made on the First National Congress. Firstly, the same leaders of the first Taman Siswa school in 1922 were confirmed as the leaders of the organization. The election of Dewantara and Pronowidigdo to the Badan Pusat (Board of Chairmen) no doubt shows that the highest positions of the Taman Siswa were in the hands of the former members of Selasa Kliwon, inspite of the death of Sutatmo Surjokusumo and Surjoputro, the two most prominent leaders in the earlier half of the 1920's. This can easily be confirmed in the case of Tjokrodirdjo, another member of Badan Pusat, if we consider his close relationship with Sutatmo Surjokusumo since the time of Selasa Kliwon.
+
+Secondly, the basic principles of Taman Siswa and the guiding principles of its education remain unchanged as they were already advocated by the founding members who originally belonged to Selasa Kliwon.
+
+Thirdly, it had a centripetal structure with Dewantara at the center who was endowed with hakleluasa (high authority).
+
+Fourthly, it was particularly successful in East Java. In 1930 among the fifty-two branches, there were twenty-three in East Java. In 1936 among the 113 branches, there were fifty-two in East Java.
+
+Taman Siswa and the Javanese Society The Traditional Idea of Education in Java
+
+As we have already observed in the preceding discussion, the indigenous character of Taman Siswa can hardly be missed. This native feature was a direct contrast to the Western missionary spirit of “enlightenment” which was the core of the colonial Ethical Policy. In other words, Taman Siswa was a cultural movement which tried to reverse the positions of “Duisternis” and “Licht” in the phrase of “Door Duisternis tot Licht” (“Through Darkness toward Light”) which was the title, given by the wife of Abendanon, one of the conspicuous promoters of Ethical Policy and the then Director of the Department of Education of the Dutch colonial government, to the volumes of letters written in Dutch by a daughter of an aristocratic family (priyayi) in Central Java, R. A. Kartini, to her Dutch friends. This title expressed the essence of “enlightenment” of Ethical Policy, which was to bear the “white man’s burden” to enlighten “darkness in the indigenous society” with the “light of western culture”.
+
+What, then, was the indigenous value upon which Taman Siswa placed complete reliance and which was believed to be superior to any value in the modern Western Society? A clue to this may be found in the philosophy of pondok or asrama mentioned above.
+
+ 
+
+2° K. H. Dewantara, “System Pondok dan Asrama itulah Systeem Nasional” Wasita, vol. 1, No. 2, 1928, pp. 39-41. Taman Siswa Movement 173
+
+K. H. Dewantara praised this system in the following two articles written in 1928, “The pondok and asrama system is precisely the national educational system” and “The merits of the pondok system”. In the first article, he described this system as follows:
+
+From ancient times up to the present day, we have had a house for education called pondok-pesantren or known as pawiyatan or asrama in the past. Here the house of teachers (guru or ki Adjar) was next to the domitory where his pupils (santrisantri or cantrik-cantrik) lived. Both the house of teachers and the dormitory of pupils served as the places of education and living. Teachers and pupils were able to contact each other day and night, and as a result pengajaran (learning) and pendidikan (moral training) were combined as one. Today, the pondok is used only for religious education, but in the days when the asrama flourished the house of teachers was not only the class room for religious education but also the place to teach the various kinds of knowledge, such as religion, physics, philosophy, arts, martial arts and any other knowledge which the teachers had acquired. In those days there were only a few places in Europe (for example Rome and Athens) where any educational system existed. In our land an advanced educational system was already widespread. This is proven by the fact that we have many words related to education, as can be seen in many kinds of titles which the cantrik are called in accordance with their level of education. Those were as follows:
+
+ 
+
+ 
+
+ 
+
+tle for male-pupils Title for female-pupils
+
+1. indung-indung (indung-indung)
+
+2. uleguntung (ubon-ubon)
+
+3. cekel (dedunyik)
+
+4. cantrik (mentrik)
+
+5. manguju (sontrang)
+
+6. jejaggan (bidang)
+
+7. puut (endang)
+
+8. wewasi (dahyang)
+
+9. ajar (pandita perempuan) 10. pandita dwijawara or pengajar _(pandita perempuan) 11. pandita wiku or semedi (pandita perempuan) 12. pandita begawan, title for former king (pandita perempuan) 13. pandita resi, title for foreigner (pandita perempuan)
+
+‘Thus it was concluded that the modernized pawiyatan system formed the basis of the organization of Taman Siswa.
+
+In the second article, Dewantara emphasised the merit of living in autarkic pondok where both teachers and pupils lived a life of strict self-restraint. It should be noted also that in the same article, Dewantara stated: “we would like to restrict our discussion only to education, because we do not have much ability in the sphere of politics. Thus, we leave the conduct of politics to those who are involved in political activities”.?*
+
+The function of pawiyatan or pondok in Javanese culture may be understood in its relation to the role and function of the “intelligentsia” in Java elaborated by B. R. Anderson in his paper, “The Idea of Power in the Javanese Culture”.??
+
+Although the great majority of what could be defined as the intelligentsia in traditional Java were incorporated into the structure of administration, there remained on the fringes of society one important type of “intellectual” with a special role to play. This group is represented in pre-Islamic traditional literature by hermits and sages (resi, begawan, ajar), usually residing in isolated caves, or lonely mountain sides, remote from society. Their physical isolation expressed a
+
+ 
+
+ 
+
+ 
+
+2! K. H. Dewantara, “Faidahnya Systeem Pondok” Wasita, vol. 1, No. 2, 1928, pp. 41-43. 22 G. B. Anderson, “The Ideal of Power in Javanese Culture” (ed. Claire Holt, Culture and Politics in Indonesia, Cornell University Press, 1972.) pp. 52-55. 174 Kenji Tsuchiya
+
+fundamental separation from the interdependencies of community life. The adjar with his cantrik (or pupils) was selfsufficient, outside the political order. He withdrew from society to cultivate clairvoyance, study the secrets of the cosmos, and prepare himself for death. The wayang stories and chronicles are filled with descriptions of these revered figures whose asceticism gives them special insight into the inner state of the world and into the future flow of Power within it. The typical role of the seer is to diagnose decay within the kingdom and warn of the impending downfall of the dynasty. The usual recorded reaction of the ruler is violent: the seer is beaten, tortured, or put to death. But the violence done is itself a sign that the seer’s predictions are being fulfilled. The ruler’s resort to violence clearly shows that he is dominated by personal passions. On the other hand, precisely because the seer has withdrawn from society for good, there can be no question of his being infected by pamrih (concealed personal motive ... Tsuchiya). Indeed, since the seer was held to possess the gift of clairvoyance, his blessing was usually thought essential to the success of a pretender to the throne or the ambitious would-be founder of a new dynasty. No blessing would be forthcoming unless the seer was certain that the recipient would succeed. It was he who detected the first signs of the shifting of the wahyu and located its ultimate destination.
+
+The withdrawal of the adjar from society and politics was an essential element in his prestige, and, in our sense of the word, his power; and his criticism of the tuler depended for its authority on this condition. The seer was not an emanation of the center and not dependent upon it. His political disinterestedness made him a respected (and feared) barometer of the fortunes of the rulers, both in the eyes of the rulers themselves and also of interested third parties (rebels, subjects, and others)
+
+The classical ajar largely vanished from the scene with the penetration of Islam and the later superimposition of bureaucratic colonial authority. But his social and political role, if we can speak paradoxically, by no means disappeared. Samudja Asjari has explicitly made the linkage between the ajar and the rural Islamic kjai of the late precolonial and colonial periods. In his description of the pesantren we find essentially the same features that marked the ajar-cantrik community of an earlier era: physical separation from civil society, asceticism, the search for knowledge, and virtual isolation from the politico-administrative structures of the state. The normal withdrawal of the kyai from political life made their intervention, when it occurred, of great psychological importance. The fact that the kyai were now Islamic religious figures made no fundamental change; for the Islam of the kyai was of a kind in which traditional elements remained exceedingly powerful: intuitive, personal, and mystical in character, it inherited much of the pre-Islamic religion.
+
+Although the ruler maintained Islamic officials (the penghulu and his subordinates) in their entourage as part of the court intelligentsia, with the function of contributing to the glory and power of the center, these religious figures had little dependent prestige. By contrast, the “wild” rural kyai, who were never absorbed into the state structure, built independent reputations, most often in villages remote from the court centers.
+
+‘The kyai normally remained aloof from the political life of the state. Only in times of distress and confusion were they likely to emerge from their pesaniren at the head of their faithful santri, to play brief but at times decisive roles in the collapse of an old order and the emergence of a new, before retiring once again to their former isolation. The contemporary sociologist would probably expect such charismatic leaders to emerge in times of social unrest; most writings about Javanese messianic movements stress this point. But from within the traditional intellectual framework, once again causality must be reversed. It is the abrupt emergence of such figures into the political arena which reveals the inner decay or disruption of the social order, indeed precipitates it. The kyai has thus appeared to have inherited much of the role and status of the ajar before him.
+
+In the colonial period, the rural kyai, not the urban penghulu, were the ones ‘who remained an abiding preoccupation of the alien rulers. Like the traditional
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Taman Siswa Movement 175
+
+kingdoms, the bureaucratic colonial polity found no structural place for the kyai and their pesantren. The colonial authorities might repress the insurgence of the Kyai when it occurred, but the repression scarcely augmented the prestige and authority of the government. Just as the violence done to the ajar did not disprove his foresight, but signalled the pamrih-filled character of the regime, so the repression of the kyai could be taken as a sign of the inner turpitude and decay of the colonial government,
+
+If we compare the essence of the role and function of the pondok-pesantren and the kyai, guru, ajar, as well as cantrik, presented above by Anderson, with Dewantara’s philosophy in which the ideal type of the Taman Siswa is based on the system of pesantren-asrama, we can say that Dewantara and his colleagues were consciously trying to establish themselves as legitimate successors of Javanese “intelligentsia” tradition and made the Taman Siswa the center of this tradition. The fact that they used the title of Ki or Nyi instead of the inherited titles showing their status as priyayi such as Raden, Raden Mas and so on, may be considered as an indication of their strong desire to be recognized as successors of this tradition. In the case of Dewantara, he introduced himself as Ki Hadjar Dewantara instead of Raden Mas Suwardi Surjaningrat after he became five windw or forty years old. Ki was derived from kyai, and Hadjar from adjar. Both of them were the titles of teachers; the former before the penetration of Islam (asrama-pondok-pawiyatan), and the latter after its penetration (pesantren).
+
+We can observe another instance of “intelligentsia” orientation of Taman Siswa in their absolute refusal to accept any “loans with strings” from the “secular world”. The same may be said also with regard to the “withdrawal from the political world”. Dewantara affirmed already in 1928 that Taman Siswa would be devoted only to the sphere of education and would refrain from participating in politics. The same opinion was more explicitly advocated by Dewantara in the beginning of 1930 at the Taman Siswa congress of East Java, where the relations of Taman Siswa to political activities were debated. According to Dewantara, teachers had best maintain themselves as pinandito, that is, to restrain themselves from participating in political activities, which are the territory for the ksyatria.?? The ksyatria-pinandito (pandito or guru) dichotomy expressed in these words of Dewantara remind us again of the traditional Javanese relationships between power (political authority) and the “intelligentsia”.
+
+Since power at that time was obviously in the hands of the colonial government, the Taman Siswa leaders tried to confront and make it the target of their criticism. Thus, they claimed to inherit the legacy of the Javanese “intelligentsia”. Nevertheless, they wanted to draw a line between themselves and the ksyatria (the leaders of anti-colonial movement) as was seen in Dewantara’s address in 1930. It is this rather complicated attitude toward the overtly political movement that provides a key to an understanding of another aspect of Taman Siswa. Did Taman Siswa really wish to refrain from political activities or content itself with playing second fiddle at the “front” of nationalist movement? Why, then, was Taman Siswa able to play a central role in the nationalist movement in the 1930's? This question requiries an investigation of the nature of Taman Siswa since its establishment, especially with regard to its relations with the Javanese society.
+
+Taman Siswa and Javanese Culture As was described already in the first section of this article, there was a clear personal lineage from the House of Paku Alam to Taman Siswa by way of Budi
+
+ 
+
+23 “Verslag, Conferentie Taman-Siswa Jawa-Timur” Wasita, vol. 2. No. 1-2, 1930, p. 20. 116 Kenji Tsuchiya
+
+Utomo and Selasa Kliwon. After 1908, when Budi Utomo held its First National Congress at Yogyokarta and restricted its activities to the cultural sphere aimed solely at the lower priyayi, Budi Utomo gradually began to lose its influence and vitality both outside of Central Java and at the grass-roots level. The center of nationalist movement gradually shifted to Sarekat Islam, which advocated panIslamism, and then to PKI, which claimed both proletarian internationalism and the unification of oppressed nations. The two internationally-oriented movements developed not in Yogyakarta but rather in the cities like Jakarta, Bandung, Semarang and Surabaya. The cities grew in size with the further penetration of the Dutch colonial regime into Java, but the traditional culture of the Javanese kingdoms was rather weak in these cities. This did not change after the new type of nationalists like Ir. Sukarno emerged to the front in the latter half of the 1920's. Thus the center of the nationalist movement tended to develop in West Java (Jakarta, Bandung) and the northern coast of Java (Semarang, Surabaya), where the cities served as political, economic and military centers of the colonial regime, although Mataram still remained the cultural center in Java, symbolizing the glory of Java in its “Golden Era”. At the same time the people all over the territory of the Netherlands East Indies (which the nationalist leaders called Indonesia) became the object of the nationalist movement. These people were collectively called rakyat and this term was used as a political symbol to which all national energy was directed and a word in terms of which a claim to legitimacy of political power could be made.
+
+This leads to a discussion of another aspect of the Taman Siswa movement. The latter was in effect seeking to establish a new powerful center of the nationalist movement at the heart of the former Mataram Kingdom. Thus it sought to reunite and reestablish the Javanese power which had been already dissipated.?* These aims had two important implications. The first was the recognition that the kingdom of Mataram with its past glory had already yielded its authority to the cglonial regime and lost not only the glory but the vital force to reunite the power of Java. The second is the recognition that Javanese power which was strong cnough to cope with and even overthrow the colonial government could be revived only through the new political vitality of the nationalist movement. This newly-emerged power could be strengthened by concentrating its force of rakyat (people) in the cultural and geographic center of Java, Yogyakarta. This may be contrasted to the late stage of the Budi Utomo movement in which it chose the center of movement in Yogyakarta but lost its leadership in the nationalist movement by limiting its solicitation to the priyayi and missing contact with the rakyat.
+
+The Taman Siswa headquarters in Yogyakarta monopolized the authority and attracted the national leaders like Sukarno, Ali Sastrosmidjojo. They all came to the headquarters before they started political activities. It opened its doors also to the rakyat. Such an orientation toward the restoration of Javanese power promoted its influence in the Javanese society and successfully obtained the support of the rakyat, It presented the ideal conditions of Java as its goal and urged that all join in the effort to realize such a society. Dewantara attached great importance to the Javanese cultural value system and, above all, to tata tentrem. According to Ruth McVey, the colonial government welcomed this slogan due to its misunderstanding of the term as being similar to the “order and peace” of Dutch rule.?* In fact, however, as Anderson analyzed, tata tentrem meant “order and peace” in the context of the traditionally ideal society of tata tentrem karta saharja (order, peace,
+
+ 
+
+24 ‘The meaning of the term “Javanese power” is similar to that analysed in B. Anderson’s, “The Idea of Power in Javanese Culture”, op. cit, pp. 1-69. 25 R. MeVey, op. cit. p. 146. Taman Siswa Movement 177
+
+prosperity and good fortune). The Javanese believed that such an ideal state could be attained only when power was concentrated at a peak originating from within the Javanese society.°°
+
+As these ideas like “tata tentrem” came into the raison d'etre of Taman Siswa, other elements of Javanese tradition were revived in one form or another. The revival of the pondok-asrama discussed above is one example, and the inclusion of Javanese epics, music and dances in the curriculum is another. They were adopted not according to the modern Western theories of education but in accordance with the Javanese idea of education emphasizing the attainment of halus (refined). This character of ha/us means “gentleness, the quality of not being disturbed, not spotted, uneven or discolored”. In this gentleness tata tentrem is realized at an individual's level. The Javanese believe that the most powerful person acts in the most halus (gentle or refined) way, or conversely that gentleness is a sign of the place where power is concentrated.?7
+
+Thus, we can also recognize a Javanese element in the fact that the slogan advocated by Dewantara in 1930, (setep-antep-mantep, Ngandel-Kendel-bandel-kanded and Neng-ning-nung-nang) was considered as a jimat or amulet by the followers of Taman Siswa.® Candrasangkalra, (a number of years expressed in the form of a slogan) was another instance in which Taman Siswa made use of yet another element in the Javanese cultural tradition.”
+
+In conclusion, we can say that Taman Siswa sought to inherit the legitimacy of the traditional Javanese intelligentsia in opposing the colonial regime, while at the same time it sought to establish a powerful center in the heartland of Java vis-a-vis the other nationalist memovements which concentrated their activities in westernized cities. This in turn was the outstanding reason why Taman Siswa was able to obtain strong support not only from Indonesian educators but also from all nationalists in the 1930's. Just around that time nationalist activities in Jakarta and Bandung began to decline, and the Taman Siswa movement started to outshine all the others.
+
+ 
+
+ 
+
+26 B. Anderson, op. cir, pp. 13-19.
+
+2” Ibid. pp. 38-43
+
+28 These slogans were advocated as indicators of the way in which the activities of the Taman Siswa schools could succeed. These were approximately meant to create a spirit of confidence in one’s own willpower and the resoluteness needed to face great difficulties with indomitable courage. Wasita, vol. 2, No. 1-2. 1930, p. 37.
+
+29 For instance, each term in the slogan “Lawan Sastra Ngesti Mulya” advocated in 1922 and the slogan “Suci Tata Ngesti Tunggal” advocated in 1923 relates to a particular number; thus these slogans proclaim the motto of the Taman Siswa on the one hand and at the same time indicate the year of 1922 and the year of 1923 on the other
+
+
+
+
+
+1 Pluvier, J. M. Overzicht van de Ontwikkeling der Narionalistische Beweging in Indonesie in de Jaren 1930 tot 1942, 's-Gravenhage, Bandung, 1953. pp. 52-57.
+
+2 Mochammad Tauchid, “Renungan Taman Siswa", Buku Taman Siswa 30 Tahun, 19221952, Yogyakarta, 1952, pp. 306-309. For the biography of M. Tauchid, see Benedict R. O'G. Anderson, Java in a Time of Revolution: Occupation and Resistance 1944-1946, Cornell University Press, Ithaca and London, 1972, p. 453,Taman Siswa Movement 165
