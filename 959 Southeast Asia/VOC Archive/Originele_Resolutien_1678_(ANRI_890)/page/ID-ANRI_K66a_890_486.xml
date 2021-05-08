@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Dutch Mountains (18th Century)(htr_id=21683)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-07T17:37:26.988+07:00</Created>
+        <LastChange>2020-09-07T17:23:08.609+02:00</LastChange>
+        <TranskribusMetadata docId="471980" pageId="19528718" pageNr="486" tsid="39453711" status="IN_PROGRESS" userId="15017" imgUrl="https://files.transkribus.eu/Get?id=DKJOKAXPCEZSHNWPICMWPFBN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XPHARRMYCKIUMBWNJLTPVIDX" imageId="15088555"/>
+    </Metadata>
+    <Page imageFilename="ID-ANRI_K66a_890_486.jpg" imageWidth="3159" imageHeight="4665">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1620456166667" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="38,32 38,413 287,413 287,32"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="28,165 43,169 56,160 72,173 103,169 120,184 142,174 153,182 203,174 217,180 217,29 186,42 158,36 134,47 116,44 76,64 57,57 28,70"/>
+                <Baseline points="38,135 66,133 95,132 123,132 152,132 180,133 209,134"/>
+                <TextEquiv>
+                    <Unicode>486.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="54,386 111,380 151,408 203,395 233,408 297,397 290,211 244,204 212,233 171,234 136,269 95,261 79,277 49,270"/>
+                <Baseline points="62,363 87,363 112,363 137,363 162,362 187,360 212,360 237,357 262,357 287,354"/>
+                <TextEquiv>
+                    <Unicode>486</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>486.
+486</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="516,675 516,3040 2594,3040 2594,675"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="519,771 556,782 574,772 592,774 616,757 662,762 660,584 640,586 611,603 594,597 581,605 565,598 539,613 517,616"/>
+                <Baseline points="527,738 552,744 577,744 602,740 627,739 653,744"/>
+                <TextEquiv>
+                    <Unicode>dn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="1114,780 1407,792 1461,747 1649,824 1793,760 2038,841 2590,832 2607,586 2481,654 2162,593 1616,689 1117,591"/>
+                <Baseline points="1124,747 1197,747 1271,749 1344,749 1418,749 1491,750 1565,752 1638,753 1712,753 1785,755 1859,756 1932,758 2006,759 2079,761 2153,762 2226,764 2300,765 2373,767 2447,767 2520,768 2594,770"/>
+                <TextEquiv>
+                    <Unicode>deeende wesen, bedoupnen en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="549,885 844,953 1438,930 1440,794 1356,756 1214,795 894,751 857,777 732,762 610,833 550,802"/>
+                <Baseline points="558,876 601,876 645,876 688,876 732,876 776,876 819,876 863,875 906,875 950,875 994,875 1037,876 1081,876 1124,877 1168,878 1212,879 1255,880 1299,882 1342,884 1386,887 1430,890"/>
+                <TextEquiv>
+                    <Unicode>aargen allp dmilis</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="2332,931 2385,936 2411,926 2445,950 2494,937 2551,942 2546,833 2515,829 2436,842 2395,825 2327,830"/>
+                <Baseline points="2340,918 2365,914 2390,911 2415,908 2440,906 2465,905 2490,905 2515,907 2541,911"/>
+                <TextEquiv>
+                    <Unicode>dd</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="507,1054 643,1075 761,1022 807,1036 825,1019 904,1060 947,1039 1044,1065 1096,1049 1096,950 1052,931 1021,947 892,933 854,953 686,932 583,959 547,936 508,943"/>
+                <Baseline points="516,996 544,998 573,998 601,998 630,998 658,999 687,999 715,999 744,1000 772,1001 801,1001 829,1001 858,1001 886,1001 915,1001 943,1001 972,1001 1000,1001 1029,1001 1057,1001 1086,1001"/>
+                <TextEquiv>
+                    <Unicode>hoof eengwije</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="2025,1050 2086,1035 2148,1066 2472,1074 2599,1055 2587,944 2568,959 2495,937 2404,969 2335,945 2182,962 2028,940"/>
+                <Baseline points="2034,1034 2061,1035 2089,1035 2117,1037 2145,1038 2172,1039 2200,1040 2228,1041 2256,1041 2283,1043 2311,1043 2339,1044 2367,1044 2394,1044 2422,1046 2450,1046 2478,1046 2505,1046 2533,1047 2561,1047 2589,1047"/>
+                <TextEquiv>
+                    <Unicode>ene aan e</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="631,1368 709,1356 756,1396 828,1377 929,1399 1025,1371 1070,1398 1148,1386 1152,1147 1068,1204 1001,1155 777,1210 692,1176 634,1186"/>
+                <Baseline points="642,1298 668,1302 694,1305 720,1307 746,1310 772,1311 798,1313 825,1313 851,1313 877,1313 903,1313 929,1313 955,1313 982,1312 1008,1311 1034,1311 1060,1311 1086,1313 1112,1313 1139,1314"/>
+                <TextEquiv>
+                    <Unicode>Tataar</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="2085,1704 2153,1672 2314,1678 2440,1560 2601,1570 2589,1369 2450,1475 2397,1448 2213,1483 2070,1437"/>
+                <Baseline points="2087,1562 2112,1562 2137,1563 2162,1562 2187,1562 2212,1561 2237,1559 2262,1558 2287,1556 2312,1554 2338,1552 2363,1550 2388,1548 2413,1546 2438,1545 2463,1542 2488,1541 2513,1541 2538,1541 2563,1541 2589,1541"/>
+                <TextEquiv>
+                    <Unicode>gee</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="2033,2077 2590,2067 2583,1859 2520,1837 2416,1848 2261,1773 2140,1816 2089,1769 2023,1772"/>
+                <Baseline points="2037,1943 2065,1937 2093,1932 2122,1928 2150,1925 2178,1924 2207,1921 2235,1920 2263,1919 2292,1919 2320,1919 2349,1919 2377,1919 2405,1920 2434,1920 2462,1920 2490,1919 2519,1919 2547,1917 2576,1916"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="1818,2454 1956,2450 2070,2477 2160,2452 2290,2468 2327,2444 2404,2473 2392,2238 2349,2218 2146,2182 2095,2215 2063,2203 1947,2237 1881,2211 1807,2239"/>
+                <Baseline points="1827,2463 1855,2460 1883,2456 1911,2453 1940,2450 1968,2448 1996,2445 2025,2442 2053,2440 2081,2438 2110,2436 2138,2435 2166,2433 2194,2433 2223,2432 2251,2432 2279,2432 2308,2432 2336,2433 2364,2434 2393,2435"/>
+                <TextEquiv>
+                    <Unicode>Tee</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="1607,2883 1765,2879 1853,2783 2155,2802 2191,2770 2362,2770 2428,2819 2489,2813 2482,2644 2430,2626 2330,2659 2197,2602 1955,2660 1781,2600 1700,2633 1596,2610"/>
+                <Baseline points="1611,2775 1654,2777 1697,2778 1740,2778 1784,2780 1827,2780 1870,2780 1914,2780 1957,2778 2000,2778 2044,2777 2087,2775 2130,2772 2173,2771 2217,2767 2260,2763 2303,2759 2347,2756 2390,2750 2433,2744 2477,2738"/>
+                <TextEquiv>
+                    <Unicode> van ub</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="1610,3013 1836,3036 1896,2996 2057,3047 2115,3006 2188,3064 2228,3028 2385,3050 2461,3117 2558,3090 2554,2821 2189,2768 2060,2885 1757,2891 1609,2947"/>
+                <Baseline points="1619,3002 1665,3003 1711,3006 1758,3008 1804,3009 1851,3009 1897,3009 1943,3009 1990,3009 2036,3009 2083,3008 2129,3006 2175,3005 2222,3004 2268,3002 2315,3000 2361,2999 2407,2997 2454,2996 2500,2994 2547,2993"/>
+                <TextEquiv>
+                    <Unicode> vaen H</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>dn
+deeende wesen, bedoupnen en
+aargen allp dmilis
+dd
+hoof eengwije
+ene aan e
+Tataar
+gee
+
+Tee
+ van ub
+ vaen H</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

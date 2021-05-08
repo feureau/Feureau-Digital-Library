@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Dutch Mountains (18th Century)(htr_id=21683)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-07T17:37:23.972+07:00</Created>
+        <LastChange>2020-09-07T17:18:16.821+02:00</LastChange>
+        <TranskribusMetadata docId="471980" pageId="19528693" pageNr="461" tsid="39453215" status="IN_PROGRESS" userId="15017" imgUrl="https://files.transkribus.eu/Get?id=WIQCDUIRDTFEVNSRKUQHCCBV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VZATMAKSAZAKIRXSRWYAJIWF" imageId="15088530"/>
+    </Metadata>
+    <Page imageFilename="ID-ANRI_K66a_890_461.jpg" imageWidth="3172" imageHeight="4642">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1620456162198" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="551,638 551,2536 2732,2536 2732,638"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="815,765 852,757 865,764 883,758 895,763 903,755 943,759 965,748 1006,755 1003,662 988,662 971,675 943,676 928,664 897,657 863,678 850,669 838,682 812,680"/>
+                <Baseline points="828,747 855,743 883,740 910,738 938,739 965,740 993,741"/>
+                <TextEquiv>
+                    <Unicode>4 &amp;o</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="542,1168 833,1151 1004,1051 1107,1137 1937,1139 2160,1020 2313,1122 2578,1128 2566,661 2382,741 2230,704 2050,855 1438,721 1225,820 880,831 697,951 536,925"/>
+                <Baseline points="551,1056 651,1056 752,1055 852,1053 953,1052 1053,1050 1154,1047 1254,1046 1355,1043 1455,1041 1556,1039 1656,1037 1757,1034 1857,1031 1958,1028 2058,1025 2159,1022 2259,1019 2360,1014 2460,1011 2561,1008"/>
+                <TextEquiv>
+                    <Unicode>Hen eele dern  de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="2109,1489 2177,1461 2251,1466 2323,1380 2389,1391 2461,1348 2589,1368 2654,1310 2751,1300 2733,1128 2638,1112 2585,1136 2294,1131 2244,1113 2208,1135 2146,1113 2072,1131"/>
+                <Baseline points="2100,1287 2131,1287 2163,1286 2194,1284 2226,1281 2258,1279 2289,1276 2321,1272 2352,1268 2384,1264 2416,1261 2447,1257 2479,1253 2510,1249 2542,1245 2574,1242 2605,1239 2637,1236 2668,1233 2700,1232 2732,1230"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="2003,1691 2070,1681 2146,1712 2234,1697 2276,1660 2337,1707 2581,1702 2572,1366 2486,1348 2362,1394 2249,1334 2102,1366 1993,1356"/>
+                <Baseline points="2012,1598 2039,1597 2067,1596 2094,1593 2122,1593 2150,1592 2177,1590 2205,1590 2233,1589 2260,1587 2288,1587 2316,1586 2343,1586 2371,1584 2399,1584 2426,1584 2454,1584 2482,1584 2509,1583 2537,1583 2565,1584"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="1640,2280 1837,2141 1866,2156 1962,2106 2285,2126 2397,2086 2374,1840 2243,1812 1984,1877 1792,1875 1656,2019 1615,2007"/>
+                <Baseline points="1638,2127 1675,2124 1712,2121 1749,2117 1786,2113 1824,2109 1861,2105 1898,2101 1935,2097 1972,2093 2010,2089 2047,2085 2084,2081 2121,2078 2158,2075 2196,2072 2233,2069 2270,2067 2307,2065 2344,2064 2382,2063"/>
+                <TextEquiv>
+                    <Unicode>Geen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="1667,2498 1838,2468 2041,2482 2127,2430 2265,2440 2357,2405 2461,2436 2487,2418 2459,2120 2376,2159 2284,2122 2092,2166 1967,2107 1646,2280"/>
+                <Baseline points="1677,2486 1716,2475 1756,2465 1796,2457 1836,2450 1875,2444 1915,2438 1955,2434 1995,2430 2034,2426 2074,2423 2114,2421 2154,2418 2193,2416 2233,2414 2273,2411 2313,2409 2352,2406 2392,2403 2432,2399 2472,2394"/>
+                <TextEquiv>
+                    <Unicode>H </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>4 &amp;o
+Hen eele dern  de
+1
+
+Geen
+H </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2906,8 2906,172 3063,172 3063,8"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2889,160 2909,164 2948,141 2960,152 2996,149 3024,176 3073,167 3082,29 3035,21 3013,2 3003,9 2971,-4 2926,-7 2912,5 2900,4"/>
+                <Baseline points="2906,108 2932,111 2958,113 2984,114 3010,114 3036,117 3063,122"/>
+                <TextEquiv>
+                    <Unicode>46</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>46</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
