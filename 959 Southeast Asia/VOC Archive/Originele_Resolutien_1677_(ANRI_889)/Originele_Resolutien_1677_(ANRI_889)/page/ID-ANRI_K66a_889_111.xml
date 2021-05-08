@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=IJsberg(htr_id=20209)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-07T11:01:08.061+07:00</Created>
+        <LastChange>2020-09-07T10:16:03.482+02:00</LastChange>
+        <TranskribusMetadata docId="471693" pageId="19517023" pageNr="111" tsid="39404615" status="IN_PROGRESS" userId="15017" imgUrl="https://files.transkribus.eu/Get?id=BXAMAFMWGIAGPWCHOXHBTASG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BJWUUERJKDDHKBZAKOITCVSS" imageId="15083984"/>
+    </Metadata>
+    <Page imageFilename="ID-ANRI_K66a_889_111.jpg" imageWidth="2960" imageHeight="4731">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1620455889528" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="17,3658 17,3814 47,3814 47,3658"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="7,3781 64,3775 17,3544 3,3547 -1,3554 -38,3558"/>
+                <Baseline points="17,3764 47,3758"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="51,253 51,421 123,421 123,253"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="28,393 41,396 46,403 82,386 101,391 112,408 129,409 152,316 123,305 105,304 98,296 76,303 52,294"/>
+                <Baseline points="51,353 87,363 123,371"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="27,330 27,4656 2394,4656 2394,330"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="459,398 754,480 1057,417 1137,420 1205,494 1292,440 1548,490 1723,439 1819,463 1823,349 1457,276 1276,335 976,247 839,332 665,275 463,284"/>
+                <Baseline points="473,387 539,389 606,392 672,393 739,396 806,399 872,401 939,404 1006,407 1072,410 1139,413 1206,416 1272,419 1339,421 1406,423 1472,425 1539,428 1606,429 1672,431 1739,432 1806,434"/>
+                <TextEquiv>
+                    <Unicode>Borts uijt ’s Comp: dienaren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="256,582 2406,680 2411,564 1917,509 1766,582 1151,564 899,470 554,524 261,463"/>
+                <Baseline points="272,555 378,558 484,561 590,564 696,569 802,573 908,578 1014,582 1120,587 1226,592 1333,597 1439,602 1545,607 1651,611 1757,617 1863,621 1969,626 2075,630 2181,634 2287,638 2394,641"/>
+                <TextEquiv>
+                    <Unicode>Daiel vanden olck - . . . . . . . . . . . . . . . et 3: stemmen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="205,660 466,743 667,687 876,764 1216,717 1574,788 1698,734 2097,775 2102,656 1978,639 1717,704 1615,636 1477,670 970,578 208,597"/>
+                <Baseline points="218,665 311,666 404,669 497,672 591,677 684,681 777,684 871,689 964,694 1057,699 1151,704 1244,708 1337,713 1430,718 1524,723 1617,726 1710,731 1804,734 1897,737 1990,740 2084,743"/>
+                <TextEquiv>
+                    <Unicode>Cornelis vander Duijn. . . . . . . . . . . . . . . . . . 5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="163,807 2078,905 2083,780 2021,758 1248,795 336,681 166,736"/>
+                <Baseline points="179,794 273,795 367,797 462,798 556,801 650,804 745,807 839,811 933,815 1028,818 1122,823 1216,827 1311,831 1405,836 1499,840 1594,845 1688,849 1782,854 1877,858 1971,861 2066,866"/>
+                <TextEquiv>
+                    <Unicode>Louis de Cleijser . . . . . . . . . . . . . . - . - - . - . . . d.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="192,929 472,1002 836,928 1357,1033 1563,988 2092,1039 2079,894 1599,948 706,800 629,859 507,799 411,863 196,841"/>
+                <Baseline points="206,915 299,915 393,915 486,917 580,920 674,923 767,927 861,932 955,937 1048,942 1142,948 1236,954 1329,958 1423,964 1517,969 1610,974 1704,979 1798,983 1891,986 1985,987 2079,989"/>
+                <TextEquiv>
+                    <Unicode>Cornelis de Rode . . . . . . . . . . . . . . . . . . . . . . 3.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="739,1130 810,1135 920,1080 958,1108 1072,1104 1150,1153 1242,1105 1391,1154 1396,1027 1223,1017 1144,945 1016,945 843,1020 744,1005"/>
+                <Baseline points="755,1074 786,1074 817,1074 848,1076 879,1076 911,1079 942,1080 973,1082 1004,1083 1035,1086 1067,1086 1098,1088 1129,1090 1160,1092 1191,1092 1223,1094 1254,1095 1285,1095 1316,1095 1347,1095 1379,1095"/>
+                <TextEquiv>
+                    <Unicode>uijt de borgers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="29,1214 51,1222 80,1211 114,1216 148,1199 179,1205 196,1187 224,1184 223,1037 187,1040 178,1049 141,1040 119,1046 73,1035 47,1012 28,1012"/>
+                <Baseline points="42,1170 70,1178 98,1179 126,1173 154,1174 182,1175 210,1176"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="209,1195 1908,1284 1946,1161 936,1187 459,1020 214,1090"/>
+                <Baseline points="224,1176 309,1179 394,1183 479,1187 564,1191 649,1197 734,1201 819,1206 904,1211 989,1217 1075,1221 1160,1227 1245,1232 1330,1236 1415,1240 1500,1244 1585,1247 1670,1250 1755,1251 1840,1253 1926,1253"/>
+                <TextEquiv>
+                    <Unicode>Abraham Wijs . . . . . . . . . . . . . . . . . . . . . . . .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="2015,1273 2035,1271 2045,1281 2057,1279 2067,1291 2087,1292 2095,1179 2061,1174 2056,1168 2042,1172 2022,1168"/>
+                <Baseline points="2030,1263 2075,1266"/>
+                <TextEquiv>
+                    <Unicode>:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;}">
+                <Coords points="195,1343 390,1301 935,1408 1292,1362 1647,1435 1929,1405 1933,1320 1045,1300 485,1192 200,1219"/>
+                <Baseline points="210,1304 295,1305 380,1306 465,1308 551,1311 636,1313 721,1317 807,1320 892,1324 977,1329 1063,1334 1148,1338 1233,1343 1318,1347 1404,1352 1489,1356 1574,1361 1660,1364 1745,1367 1830,1370 1916,1373"/>
+                <TextEquiv>
+                    <Unicode>Jan Gourij . . . . . . . . . . . . . . . . . . . . . . . . . . . </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:10;}">
+                <Coords points="1956,1410 1979,1411 1987,1402 2004,1403 2030,1387 2047,1399 2093,1394 2096,1289 2068,1291 2051,1279 1991,1286 1974,1274 1960,1274"/>
+                <Baseline points="1971,1377 1998,1373 2025,1374 2052,1375 2079,1380"/>
+                <TextEquiv>
+                    <Unicode>5:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:11;}">
+                <Coords points="188,1445 774,1428 1071,1507 1939,1543 1924,1417 1338,1445 693,1342 585,1392 391,1301 193,1343"/>
+                <Baseline points="204,1425 290,1428 376,1431 462,1435 548,1439 634,1442 720,1446 806,1450 892,1454 978,1458 1064,1461 1150,1466 1236,1470 1322,1473 1408,1478 1494,1482 1580,1485 1666,1488 1752,1493 1838,1496 1925,1499"/>
+                <TextEquiv>
+                    <Unicode>Jacob Does. . . . . . . . . . . . . . . . . . . . . . . . </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:12;}">
+                <Coords points="1955,1533 1980,1537 2024,1511 2075,1511 2081,1394 2067,1394 2046,1404 2033,1389 2024,1389 1986,1418 1961,1411"/>
+                <Baseline points="1971,1496 2001,1497 2032,1499 2063,1500"/>
+                <TextEquiv>
+                    <Unicode>6:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:13;}">
+                <Coords points="191,1558 1050,1576 1314,1667 1472,1605 2079,1630 2084,1508 1822,1580 808,1461 508,1520 196,1447"/>
+                <Baseline points="206,1547 298,1550 391,1553 484,1557 577,1560 670,1564 763,1569 856,1572 949,1577 1042,1581 1135,1586 1227,1590 1320,1595 1413,1599 1506,1602 1599,1605 1692,1608 1785,1611 1878,1614 1971,1616 2064,1619"/>
+                <TextEquiv>
+                    <Unicode>adriaen van Deeckom . . . . . . . . . . . . . . . . . . . 6:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:14;}">
+                <Coords points="122,1723 363,1675 736,1772 858,1706 2068,1762 2028,1644 1878,1708 129,1582"/>
+                <Baseline points="140,1655 235,1661 331,1667 427,1673 523,1680 618,1685 714,1691 810,1696 906,1700 1001,1706 1097,1710 1193,1715 1289,1719 1384,1722 1480,1727 1576,1729 1672,1733 1767,1735 1863,1738 1959,1740 2055,1742"/>
+                <TextEquiv>
+                    <Unicode>Jan Bijnasse . . . . . . . . . . . . . . . . . . . . . . . . . . . 6:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:15;}">
+                <Coords points="11,1812 2023,1893 2080,1888 2086,1757 1796,1826 1417,1807 1321,1734 1117,1790 146,1657 16,1707"/>
+                <Baseline points="27,1773 129,1778 231,1783 333,1788 435,1794 537,1799 639,1803 741,1809 843,1814 945,1818 1047,1824 1149,1829 1251,1835 1353,1839 1455,1844 1557,1849 1659,1853 1761,1859 1863,1863 1965,1867 2067,1871"/>
+                <TextEquiv>
+                    <Unicode>diouijs kelck . . . . . . . . . . . . . . . . . . . . . . . . . . .7.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:16;}">
+                <Coords points="178,1942 2058,2005 2063,1895 1908,1873 1794,1936 1127,1929 509,1805 321,1864 186,1781"/>
+                <Baseline points="195,1910 287,1913 379,1917 472,1920 564,1926 657,1929 749,1935 841,1939 934,1944 1026,1949 1119,1953 1211,1958 1303,1964 1396,1968 1488,1972 1581,1977 1673,1980 1765,1985 1858,1988 1950,1992 2043,1994"/>
+                <TextEquiv>
+                    <Unicode>Jacoo Car . . . . . . . . . . . . . . . . . . . . . . . . . 4:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:17;}">
+                <Coords points="168,2088 369,2041 807,2141 1205,2079 2053,2151 2060,2009 1756,2079 1037,2030 768,1945 635,2001 174,1966"/>
+                <Baseline points="185,2031 277,2033 370,2036 463,2039 555,2042 648,2046 741,2051 833,2055 926,2060 1019,2066 1112,2071 1204,2076 1297,2082 1390,2088 1482,2093 1575,2098 1668,2103 1760,2108 1853,2112 1946,2115 2039,2118"/>
+                <TextEquiv>
+                    <Unicode>gabrieltlacken . . . . . . . . . . . . . . . . . . . . . . . . 6:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:18;}">
+                <Coords points="411,2227 588,2188 766,2278 1858,2297 2008,2246 1684,2188 1559,2101 1212,2196 901,2178 657,2080 573,2128 416,2097"/>
+                <Baseline points="426,2208 504,2214 582,2220 661,2225 739,2230 818,2234 896,2238 974,2243 1053,2246 1131,2249 1210,2252 1288,2255 1366,2258 1445,2260 1523,2262 1602,2264 1680,2265 1758,2267 1837,2268 1915,2270 1994,2271"/>
+                <TextEquiv>
+                    <Unicode>tot Ommissarisen van kleene en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:19;}">
+                <Coords points="567,2383 731,2383 844,2452 1023,2396 1586,2441 1657,2436 1664,2309 1467,2272 1377,2319 1130,2254 1071,2299 989,2246 889,2309 700,2236 572,2278"/>
+                <Baseline points="584,2345 637,2353 690,2360 743,2366 796,2372 849,2376 902,2381 955,2383 1008,2386 1061,2388 1114,2390 1167,2392 1220,2394 1273,2396 1326,2397 1379,2399 1432,2401 1485,2403 1538,2408 1591,2411 1644,2415"/>
+                <TextEquiv>
+                    <Unicode>Huwelijckse Laecken</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:20;}">
+                <Coords points="853,2571 927,2568 988,2600 1072,2558 1137,2558 1170,2591 1296,2559 1468,2590 1472,2491 1303,2466 1257,2424 1078,2425 1022,2397 917,2463 857,2466"/>
+                <Baseline points="870,2528 899,2529 928,2532 957,2535 987,2535 1016,2537 1045,2538 1074,2540 1104,2541 1133,2542 1162,2543 1191,2544 1221,2545 1250,2546 1279,2547 1308,2549 1338,2550 1367,2551 1396,2553 1425,2555 1455,2558"/>
+                <TextEquiv>
+                    <Unicode>als President.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:21;}">
+                <Coords points="55,2627 482,2722 672,2668 2353,2732 2356,2658 2228,2606 1260,2658 1048,2576 490,2557 307,2460 62,2485"/>
+                <Baseline points="71,2612 184,2618 297,2625 411,2631 524,2639 638,2645 751,2652 864,2660 978,2667 1091,2673 1205,2681 1318,2687 1431,2693 1545,2697 1658,2702 1772,2706 1885,2709 1998,2712 2112,2714 2225,2714 2339,2714"/>
+                <TextEquiv>
+                    <Unicode>d’E: Chijstiaen Poleman - - . - - - - - . - . met 5: stemmen</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:22;}">
+                <Coords points="70,2761 534,2848 819,2775 1122,2839 1477,2800 1836,2881 2025,2843 2031,2735 1730,2791 793,2671 472,2725 208,2626 75,2671"/>
+                <Baseline points="84,2738 180,2742 276,2748 373,2753 469,2757 566,2761 662,2765 758,2769 855,2774 951,2778 1048,2783 1144,2787 1240,2791 1337,2798 1433,2802 1530,2808 1626,2814 1722,2821 1819,2828 1915,2836 2012,2844"/>
+                <TextEquiv>
+                    <Unicode>d’E: Jorephaes Dosch . . . . . . . . . . . . . . . . „ 5:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:23;}">
+                <Coords points="597,2978 765,2963 862,3014 982,2992 1040,3039 1157,3046 1252,2986 1302,3022 1745,3007 1748,2899 1595,2911 1487,2811 1401,2863 1255,2804 1162,2861 956,2818 742,2883 600,2876"/>
+                <Baseline points="611,2949 667,2952 723,2954 779,2955 835,2957 891,2958 947,2960 1003,2961 1059,2963 1115,2963 1172,2964 1228,2967 1284,2968 1340,2970 1396,2972 1452,2973 1508,2976 1564,2978 1620,2981 1676,2984 1733,2987"/>
+                <TextEquiv>
+                    <Unicode>voorts uijt ’s Comp:s dienaren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:24;}">
+                <Coords points="141,3137 1208,3144 2011,3237 1981,3103 1598,3111 1510,3035 1303,3094 145,3010"/>
+                <Baseline points="155,3113 247,3116 339,3119 431,3120 524,3123 616,3125 708,3126 800,3129 893,3131 985,3132 1077,3135 1169,3137 1262,3140 1354,3143 1446,3146 1538,3150 1631,3155 1723,3159 1815,3165 1907,3170 2000,3177"/>
+                <TextEquiv>
+                    <Unicode>Louis de keijser . . . . . . - . . . - - - - - . - - - . . . 7.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:25;}">
+                <Coords points="149,3245 1942,3335 2007,3326 2011,3236 1207,3246 919,3154 608,3196 153,3143"/>
+                <Baseline points="164,3234 255,3236 347,3239 438,3242 530,3244 621,3248 713,3251 804,3255 896,3258 987,3261 1079,3266 1170,3269 1262,3273 1353,3278 1445,3281 1536,3286 1628,3290 1719,3294 1811,3298 1902,3303 1994,3308"/>
+                <TextEquiv>
+                    <Unicode>Cornelis de schoode . . . . . . . . . . . . . . . . . . . „ 4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:26;}">
+                <Coords points="601,3420 741,3460 913,3433 946,3466 1069,3491 1165,3441 1274,3488 1279,3355 1132,3340 1022,3267 928,3346 868,3360 604,3352"/>
+                <Baseline points="617,3411 649,3414 681,3415 713,3419 746,3421 778,3422 810,3425 842,3426 875,3428 907,3429 939,3431 971,3431 1004,3432 1036,3434 1068,3434 1100,3435 1133,3437 1165,3437 1197,3438 1229,3438 1262,3440"/>
+                <TextEquiv>
+                    <Unicode>uijt de borgers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:27;}">
+                <Coords points="149,3586 1030,3636 1194,3594 1590,3682 1855,3651 1860,3546 920,3549 630,3425 297,3516 155,3453"/>
+                <Baseline points="164,3548 248,3551 332,3554 416,3557 500,3560 584,3563 668,3567 752,3572 836,3575 920,3579 1004,3583 1088,3588 1172,3591 1256,3596 1340,3599 1424,3602 1508,3606 1592,3609 1676,3611 1760,3613 1844,3615"/>
+                <TextEquiv>
+                    <Unicode>Jsaacq Hoolmans . . . . . . . . . . . . . . . . . . . . . .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:28;}">
+                <Coords points="1856,3653 1876,3656 1887,3648 1913,3665 1930,3657 1995,3657 1997,3516 1982,3515 1968,3524 1960,3518 1948,3521 1928,3535 1900,3512 1858,3514"/>
+                <Baseline points="1871,3621 1898,3624 1926,3624 1954,3623 1982,3624"/>
+                <TextEquiv>
+                    <Unicode>5:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l30" custom="readingOrder {index:29;}">
+                <Coords points="175,3697 1284,3713 1499,3800 1826,3796 1830,3711 1486,3657 733,3656 556,3576 360,3618 181,3581"/>
+                <Baseline points="191,3668 272,3671 353,3674 434,3677 515,3680 596,3684 677,3687 759,3692 840,3696 921,3700 1002,3704 1083,3708 1164,3712 1245,3717 1327,3721 1408,3725 1489,3728 1570,3732 1651,3735 1732,3739 1814,3743"/>
+                <TextEquiv>
+                    <Unicode>Joan Sourij . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l31" custom="readingOrder {index:30;}">
+                <Coords points="1872,3781 1894,3775 1906,3787 1923,3787 1931,3781 1957,3779 1962,3784 1994,3776 1994,3657 1975,3657 1969,3651 1946,3662 1923,3685 1904,3679 1892,3685 1872,3684"/>
+                <Baseline points="1887,3752 1917,3756 1948,3756 1979,3753"/>
+                <TextEquiv>
+                    <Unicode>4:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l32" custom="readingOrder {index:31;}">
+                <Coords points="130,3824 838,3804 1857,3917 1997,3913 2003,3802 1284,3805 1111,3742 751,3780 467,3677 226,3727 137,3679"/>
+                <Baseline points="146,3776 242,3780 339,3785 436,3789 533,3794 629,3799 726,3804 823,3809 920,3815 1017,3820 1113,3825 1210,3830 1307,3834 1404,3840 1501,3845 1597,3850 1694,3856 1791,3860 1888,3866 1985,3870"/>
+                <TextEquiv>
+                    <Unicode>dionijs kelck . . . . . . . . . . . . . . . . . . . . . . . d:o</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l33" custom="readingOrder {index:32;}">
+                <Coords points="183,3945 1492,3944 1614,4008 1985,3970 1987,3893 1422,3914 838,3806 618,3858 188,3806"/>
+                <Baseline points="200,3905 288,3905 377,3905 465,3906 554,3909 642,3911 731,3914 819,3917 908,3920 996,3924 1085,3929 1173,3932 1262,3935 1350,3939 1439,3943 1527,3946 1616,3949 1704,3951 1793,3953 1881,3954 1970,3954"/>
+                <TextEquiv>
+                    <Unicode>Wilhem domlopes . . . . . . . . . . . . . . . . . . . . 4.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l34" custom="readingOrder {index:33;}">
+                <Coords points="175,4061 1882,4117 1885,4055 1008,4029 712,3925 422,3995 179,3974"/>
+                <Baseline points="191,4037 274,4033 358,4032 442,4032 526,4032 610,4034 694,4037 777,4041 861,4046 945,4050 1029,4055 1113,4060 1197,4065 1281,4070 1364,4075 1448,4079 1532,4082 1616,4086 1700,4088 1784,4089 1868,4089"/>
+                <TextEquiv>
+                    <Unicode>aernout Menies . . . . . . . . . . . . . . . . . . .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l35" custom="readingOrder {index:34;}">
+                <Coords points="1876,4148 1890,4148 1909,4130 1926,4129 1948,4112 1957,4111 1963,4117 1976,4102 1991,4101 1987,4005 1970,4006 1962,4015 1936,3998 1908,4022 1871,4024"/>
+                <Baseline points="1889,4092 1918,4099 1947,4094 1976,4092"/>
+                <TextEquiv>
+                    <Unicode>4:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l36" custom="readingOrder {index:35;}">
+                <Coords points="18,4189 1085,4179 1800,4283 1980,4241 1984,4136 1744,4185 1529,4083 1291,4149 775,4054 22,4076"/>
+                <Baseline points="32,4170 128,4166 225,4163 322,4161 419,4160 515,4161 612,4163 709,4164 806,4167 902,4171 999,4175 1096,4181 1193,4185 1289,4190 1386,4196 1483,4200 1580,4206 1676,4211 1773,4216 1870,4221 1967,4224"/>
+                <TextEquiv>
+                    <Unicode>Adriaen Adriaensz . . . . . . . . . . . . . . . . . 5.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l37" custom="readingOrder {index:36;}">
+                <Coords points="1852,4447 1866,4447 1869,4444 1875,4447 1895,4447 1895,4396 1878,4396 1866,4405 1852,4405"/>
+                <Baseline points="1865,4442 1881,4442"/>
+                <TextEquiv>
+                    <Unicode>„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l38" custom="readingOrder {index:37;}">
+                <Coords points="1738,4493 1752,4493 1763,4481 1775,4484 1786,4475 1812,4477 1817,4472 1837,4485 1871,4470 1905,4475 1904,4416 1890,4416 1873,4433 1844,4406 1822,4420 1804,4404 1779,4419 1759,4405 1736,4408"/>
+                <Baseline points="1751,4463 1779,4461 1807,4461 1835,4461 1863,4461 1892,4457"/>
+                <TextEquiv>
+                    <Unicode>100</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l39" custom="readingOrder {index:38;}">
+                <Coords points="2084,4667 2098,4664 2115,4646 2140,4641 2155,4642 2178,4657 2205,4646 2190,4571 2176,4574 2163,4568 2139,4575 2121,4570 2100,4586 2084,4577 2068,4580"/>
+                <Baseline points="2091,4628 2122,4622 2153,4616 2184,4610"/>
+                <TextEquiv>
+                    <Unicode>„</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Borts uijt ’s Comp: dienaren
+Daiel vanden olck - . . . . . . . . . . . . . . . et 3: stemmen
+Cornelis vander Duijn. . . . . . . . . . . . . . . . . . 5.
+Louis de Cleijser . . . . . . . . . . . . . . - . - - . - . . . d.
+Cornelis de Rode . . . . . . . . . . . . . . . . . . . . . . 3.
+uijt de borgers
+
+Abraham Wijs . . . . . . . . . . . . . . . . . . . . . . . .
+:
+Jan Gourij . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+5:
+Jacob Does. . . . . . . . . . . . . . . . . . . . . . . . 
+6:
+adriaen van Deeckom . . . . . . . . . . . . . . . . . . . 6:
+Jan Bijnasse . . . . . . . . . . . . . . . . . . . . . . . . . . . 6:
+diouijs kelck . . . . . . . . . . . . . . . . . . . . . . . . . . .7.
+Jacoo Car . . . . . . . . . . . . . . . . . . . . . . . . . 4:
+gabrieltlacken . . . . . . . . . . . . . . . . . . . . . . . . 6:
+tot Ommissarisen van kleene en
+Huwelijckse Laecken
+als President.
+d’E: Chijstiaen Poleman - - . - - - - - . - . met 5: stemmen
+d’E: Jorephaes Dosch . . . . . . . . . . . . . . . . „ 5:
+voorts uijt ’s Comp:s dienaren
+Louis de keijser . . . . . . - . . . - - - - - . - - - . . . 7.
+Cornelis de schoode . . . . . . . . . . . . . . . . . . . „ 4.
+uijt de borgers
+Jsaacq Hoolmans . . . . . . . . . . . . . . . . . . . . . .
+5:
+Joan Sourij . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4:
+dionijs kelck . . . . . . . . . . . . . . . . . . . . . . . d:o
+Wilhem domlopes . . . . . . . . . . . . . . . . . . . . 4.
+aernout Menies . . . . . . . . . . . . . . . . . . .
+4:
+Adriaen Adriaensz . . . . . . . . . . . . . . . . . 5.
+„
+100
+„</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:3;}">
+            <Coords points="2778,64 2778,347 2892,347 2892,64"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="2763,176 2783,176 2791,185 2828,184 2866,171 2886,152 2906,150 2909,74 2856,60 2815,81 2804,81 2793,72 2767,74"/>
+                <Baseline points="2778,143 2806,145 2835,146 2863,146 2892,149"/>
+                <TextEquiv>
+                    <Unicode>111</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l2" custom="readingOrder {index:1;}">
+                <Coords points="2774,346 2791,349 2797,343 2819,346 2836,355 2845,352 2850,357 2867,357 2867,235 2850,235 2836,221 2814,227 2805,224 2797,233 2774,233"/>
+                <Baseline points="2787,302 2820,308 2853,302"/>
+                <TextEquiv>
+                    <Unicode>111</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>111
+111</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
