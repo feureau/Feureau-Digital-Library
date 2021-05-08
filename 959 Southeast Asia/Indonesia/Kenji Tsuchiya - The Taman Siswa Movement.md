@@ -20,7 +20,6 @@ The earliest organization of Indonesian nationalists, Budi Utomo, was founded ma
 
 Java had then four vorstenlanden or principalities as the branches of the Kingdom of Mataram-Islam: the Yogyakarta, Surakarta, Paku Alam and Mangkunegara principalities. Among these four, the House of Paku Alam was the most closely related to Budi Utomo. This house broke off from the House of Yogyakarta in 1818 and was located in the same city. The family was relatively small in size and many of its members held the positions of lower ranks of officials in the Dutch colonial government. The highest position open to native officials in the colonial bureaucracy was bupati, and it was often occupied by members of the Houses of Yogyakarta and Surakarta (Solo) in the direct line of the royalty of Mataram-Islam. This relative inferiority of their association with the colonial administration seems to have made the Paku Alam family members more sensitive to the nationalistic movement that was quickening at the turn of the century than those of the other royal families.
 
- 
 
 $ Nagazumi, Akira. The Dawn of Indonesian Nationalism: The Early Years of the Budi Utomo, 1908-1918, Institute of Developing Economies, Tokyo, 1972. 166 Kenji Tsuchiya
 
