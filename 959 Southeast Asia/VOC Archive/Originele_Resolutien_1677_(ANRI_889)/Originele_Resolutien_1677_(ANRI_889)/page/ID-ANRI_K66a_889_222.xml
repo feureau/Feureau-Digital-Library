@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=IJsberg(htr_id=20209)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-07T11:01:14.649+07:00</Created>
+        <LastChange>2020-09-07T10:43:30.757+02:00</LastChange>
+        <TranskribusMetadata docId="471693" pageId="19517132" pageNr="220" tsid="39406217" status="IN_PROGRESS" userId="15017" imgUrl="https://files.transkribus.eu/Get?id=VUKGMUBNXCDUWXKYCVBDGCQB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WKMCHLLYZITYIQORSECPEUIQ" imageId="15084093"/>
+    </Metadata>
+    <Page imageFilename="ID-ANRI_K66a_889_222.jpg" imageWidth="2890" imageHeight="4641">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1620455909753" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+                <RegionRefIndexed index="4" regionRef="r5"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="30,71 30,720 363,720 363,71"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="17,121 37,120 49,130 65,130 100,151 117,150 166,116 183,116 181,68 159,69 144,55 122,62 95,46 87,50 52,34 31,49 14,47"/>
+                <Baseline points="30,120 57,120 85,119 112,117 140,116 168,114"/>
+                <TextEquiv>
+                    <Unicode>222</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="95,220 186,245 216,227 320,294 379,290 374,120 354,127 283,112 267,127 230,119 216,128 201,118 93,152"/>
+                <Baseline points="108,204 133,204 159,203 184,201 210,200 235,199 261,198 286,197 312,197 337,197 363,198"/>
+                <TextEquiv>
+                    <Unicode>222</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="116,745 165,734 201,751 215,746 251,760 263,749 277,750 287,595 267,600 239,592 227,603 205,601 167,619 124,621"/>
+                <Baseline points="134,689 160,689 186,689 213,690 239,693 266,699"/>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>222
+222
+2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="108,4513 108,4640 123,4640 123,4513"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="93,4622 104,4624 111,4629 123,4628 134,4631 156,4523 114,4517"/>
+                <Baseline points="108,4613 123,4616"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="467,4438 467,4594 579,4594 579,4438"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="452,4546 466,4547 513,4578 524,4572 591,4590 597,4477 580,4479 563,4470 551,4475 546,4469 532,4474 512,4467 456,4473"/>
+                <Baseline points="467,4539 495,4538 523,4538 551,4541 579,4544"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:3;}">
+            <Coords points="459,312 459,3358 2802,3358 2802,312"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="446,529 1288,425 1447,513 1699,404 2276,457 2729,399 2728,295 2570,337 1977,146 1731,238 1585,147 1419,166 1111,324 745,183 442,281"/>
+                <Baseline points="459,402 571,407 684,411 797,413 910,414 1023,413 1135,413 1248,411 1361,408 1474,405 1587,402 1699,399 1812,396 1925,393 2038,390 2151,387 2263,386 2376,384 2489,383 2602,383 2715,384"/>
+                <TextEquiv>
+                    <Unicode>geduenden de aesentie van gem:t bdae dvan wel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l2" custom="readingOrder {index:1;}">
+                <Coords points="572,556 965,607 1636,547 1972,570 2022,510 1787,446 1700,486 1629,437 1421,522 1232,519 1166,469 998,522 788,468 572,511"/>
+                <Baseline points="587,555 658,558 729,560 800,560 871,560 942,560 1013,560 1084,560 1155,558 1226,557 1298,555 1369,553 1440,551 1511,549 1582,548 1653,546 1724,545 1795,545 1866,544 1937,543 2009,545"/>
+                <TextEquiv>
+                    <Unicode>alleen zal konnen waerne men</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l3" custom="readingOrder {index:2;}">
+                <Coords points="623,913 1006,855 1184,917 1304,812 1582,907 2021,843 2710,874 2708,680 2113,729 1864,613 1633,689 1477,606 1272,719 1052,730 620,653"/>
+                <Baseline points="635,860 738,857 841,854 944,852 1047,849 1150,848 1253,846 1356,846 1459,845 1562,843 1665,843 1768,842 1871,842 1974,840 2077,840 2180,839 2283,837 2386,836 2489,834 2592,833 2696,831"/>
+                <TextEquiv>
+                    <Unicode>Buraia pit Casteel datiuem als voren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l4" custom="readingOrder {index:3;}">
+                <Coords points="1604,1246 1813,1188 1866,1137 1965,1187 2032,1136 2253,1188 2379,1123 2540,1164 2704,1149 2704,1093 2418,1013 2344,948 2119,1014 1992,1018 1854,962 1795,991 1707,949 1603,984"/>
+                <Baseline points="1617,1124 1670,1125 1724,1127 1778,1128 1831,1130 1885,1130 1939,1131 1992,1131 2046,1131 2100,1131 2154,1131 2207,1131 2261,1131 2315,1130 2368,1128 2422,1127 2476,1125 2529,1124 2583,1122 2637,1120 2691,1116"/>
+                <TextEquiv>
+                    <Unicode>Joan /Raetsurker</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l5" custom="readingOrder {index:4;}">
+                <Coords points="1926,1373 1966,1380 2094,1301 2281,1364 2378,1285 2572,1345 2602,1324 2669,1385 2736,1386 2731,1160 2668,1142 2559,1173 2385,1124 2226,1187 2157,1147 2024,1136 1969,1186 1921,1173"/>
+                <Baseline points="1937,1275 1976,1279 2015,1284 2054,1287 2093,1289 2132,1290 2171,1290 2210,1289 2249,1287 2288,1286 2327,1284 2366,1281 2405,1278 2444,1276 2483,1274 2522,1272 2561,1271 2600,1269 2639,1269 2678,1270 2718,1271"/>
+                <TextEquiv>
+                    <Unicode>van goens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l6" custom="readingOrder {index:5;}">
+                <Coords points="1619,1514 1770,1445 1877,1461 1919,1439 1993,1451 2079,1528 2187,1513 2217,1541 2274,1536 2354,1461 2413,1459 2414,1389 2338,1345 2216,1400 2104,1345 1993,1397 1840,1294 1777,1327 1622,1311"/>
+                <Baseline points="1634,1439 1672,1442 1710,1443 1748,1444 1787,1445 1825,1445 1863,1445 1902,1445 1940,1445 1978,1445 2017,1445 2055,1445 2093,1445 2131,1445 2170,1445 2208,1446 2246,1447 2285,1449 2323,1452 2361,1455 2400,1458"/>
+                <TextEquiv>
+                    <Unicode>audent Pit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l7" custom="readingOrder {index:6;}">
+                <Coords points="1508,1662 1589,1682 1714,1599 2126,1599 2225,1671 2274,1639 2382,1685 2599,1636 2604,1495 2252,1550 2185,1514 2075,1527 1993,1451 1914,1442 1758,1457 1637,1520 1514,1485"/>
+                <Baseline points="1526,1584 1579,1584 1632,1584 1685,1586 1738,1587 1791,1589 1844,1590 1897,1593 1950,1595 2003,1597 2056,1600 2109,1602 2162,1604 2215,1607 2268,1608 2321,1611 2374,1613 2427,1613 2480,1614 2533,1614 2586,1614"/>
+                <TextEquiv>
+                    <Unicode>p. A. vertwater</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l8" custom="readingOrder {index:7;}">
+                <Coords points="1699,1800 1823,1778 1915,1820 1956,1781 2077,1771 2182,1804 2241,1776 2424,1770 2420,1665 2339,1688 2272,1637 2206,1679 2168,1655 2122,1705 2008,1675 1975,1702 1827,1594 1692,1605"/>
+                <Baseline points="1713,1779 1747,1779 1782,1778 1817,1778 1852,1777 1887,1776 1921,1775 1956,1773 1991,1773 2026,1771 2061,1770 2095,1769 2130,1767 2165,1766 2200,1764 2235,1763 2269,1761 2304,1759 2339,1758 2374,1755 2409,1754"/>
+                <TextEquiv>
+                    <Unicode>Constanten Blanst</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l9" custom="readingOrder {index:8;}">
+                <Coords points="1837,2124 2173,2091 2418,2131 2568,2072 2632,2100 2816,2075 2816,1943 2641,1900 2503,1818 2306,1899 2162,1823 1956,1966 1837,1968"/>
+                <Baseline points="1851,2067 1898,2063 1946,2059 1993,2056 2041,2052 2088,2051 2136,2050 2183,2049 2231,2049 2278,2049 2326,2049 2374,2051 2421,2052 2469,2053 2516,2055 2564,2056 2611,2058 2659,2059 2706,2060 2754,2061 2802,2061"/>
+                <TextEquiv>
+                    <Unicode>P Vesteeren</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l10" custom="readingOrder {index:9;}">
+                <Coords points="1845,2451 2230,2375 2285,2395 2451,2376 2554,2406 2538,2141 2201,2143 2140,2195 2029,2193 1953,2155 1829,2200"/>
+                <Baseline points="1856,2400 1890,2399 1924,2399 1958,2397 1992,2396 2026,2395 2060,2393 2094,2391 2128,2388 2162,2386 2196,2384 2230,2382 2264,2379 2298,2376 2332,2374 2366,2372 2400,2369 2434,2367 2468,2364 2502,2363 2537,2360"/>
+                <TextEquiv>
+                    <Unicode>Sansee</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l11" custom="readingOrder {index:10;}">
+                <Coords points="2056,2780 2312,2769 2397,2804 2582,2782 2555,2436 2437,2402 2155,2676 2048,2684"/>
+                <Baseline points="2070,2768 2096,2768 2122,2765 2148,2763 2174,2761 2200,2757 2226,2755 2252,2751 2278,2748 2304,2744 2330,2742 2356,2740 2382,2738 2408,2735 2434,2735 2460,2735 2486,2735 2512,2736 2538,2736 2565,2739"/>
+                <TextEquiv>
+                    <Unicode>Ci</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l12" custom="readingOrder {index:11;}">
+                <Coords points="1782,3084 1815,3071 1885,3125 1940,3080 2094,3061 2538,3143 2748,3027 2744,2909 2640,2930 2556,2862 2373,2802 2234,2863 2153,2824 2035,2910 1960,2857 1837,2909 1775,2886"/>
+                <Baseline points="1794,3062 1841,3063 1888,3066 1935,3067 1982,3068 2029,3068 2076,3066 2123,3065 2170,3063 2217,3061 2264,3059 2311,3057 2358,3054 2405,3050 2452,3048 2499,3045 2546,3042 2593,3041 2640,3039 2687,3036 2735,3035"/>
+                <TextEquiv>
+                    <Unicode>Voor Canstij</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l13" custom="readingOrder {index:12;}">
+                <Coords points="1719,3315 1798,3313 1855,3349 1903,3354 1982,3354 2026,3329 2094,3338 2145,3298 2129,3048 2029,3083 1972,3081 1792,3254 1718,3293"/>
+                <Baseline points="1733,3323 1759,3316 1785,3313 1812,3309 1838,3307 1865,3305 1891,3305 1918,3303 1944,3303 1971,3303 1997,3302 2024,3301 2050,3298 2077,3294 2103,3290 2130,3284"/>
+                <TextEquiv>
+                    <Unicode>Sn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>geduenden de aesentie van gem:t bdae dvan wel
+alleen zal konnen waerne men
+Buraia pit Casteel datiuem als voren
+Joan /Raetsurker
+van goens
+audent Pit
+p. A. vertwater
+Constanten Blanst
+P Vesteeren
+Sansee
+Ci
+Voor Canstij
+Sn</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r5" custom="readingOrder {index:4;}">
+            <Coords points="2723,127 2723,280 2768,280 2768,127"/>
+            <TextLine id="r5l1" custom="readingOrder {index:0;}">
+                <Coords points="2709,243 2732,238 2749,240 2767,222 2781,221 2773,105 2737,114 2714,104 2700,105"/>
+                <Baseline points="2723,230 2768,227"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
