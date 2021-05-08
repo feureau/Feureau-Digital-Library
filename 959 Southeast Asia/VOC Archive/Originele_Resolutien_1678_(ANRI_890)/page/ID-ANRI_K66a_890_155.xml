@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Gundram Leifert/gundram.leifert@planet-ai.de:name=Dutch Mountains (18th Century)(htr_id=21683)::::v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.6.6
+prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.6
+Transkribus</Creator>
+        <Created>2020-09-07T17:36:55.965+07:00</Created>
+        <LastChange>2020-09-07T16:02:23.262+02:00</LastChange>
+        <TranskribusMetadata docId="471980" pageId="19528327" pageNr="155" tsid="39442671" status="IN_PROGRESS" userId="15017" imgUrl="https://files.transkribus.eu/Get?id=GQXXIROCUOXRIODUTAHSUZTR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=STESMXGVNFHDAFLTMIYUUIXO" imageId="15088164"/>
+    </Metadata>
+    <Page imageFilename="ID-ANRI_K66a_890_155.jpg" imageWidth="3042" imageHeight="4644">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1620456104143" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="32,427 32,581 152,581 152,427"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="21,594 43,596 74,580 92,594 109,594 150,552 167,552 164,472 150,473 118,460 110,465 38,428 15,435"/>
+                <Baseline points="32,530 62,531 92,530 122,528 152,527"/>
+                <TextEquiv>
+                    <Unicode>/</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>/</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="21,466 21,4506 2937,4506 2937,466"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="554,537 895,521 1043,597 1131,546 1637,521 1768,572 2021,541 2021,413 1819,458 1552,384 1327,461 1165,407 980,455 836,361 631,452 554,432"/>
+                <Baseline points="569,518 640,518 712,518 784,518 856,518 928,518 1000,518 1071,516 1143,516 1215,516 1287,516 1359,515 1431,515 1503,515 1574,516 1646,516 1718,516 1790,518 1862,519 1934,521 2006,522"/>
+                <TextEquiv>
+                    <Unicode>voor de Comp:. van de West Zjde.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="146,714 1676,698 1778,673 1779,534 1127,629 622,541 147,601"/>
+                <Baseline points="162,666 242,666 322,668 402,668 482,668 562,668 642,669 722,669 802,669 882,669 962,669 1042,671 1122,671 1202,671 1282,672 1362,672 1442,673 1522,674 1602,675 1682,677 1763,678"/>
+                <TextEquiv>
+                    <Unicode>Abraham Struijs Capitain bij continuatie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="170,804 307,767 452,809 611,794 662,834 875,762 935,801 1012,773 1097,812 1165,778 1276,798 1276,673 1151,733 898,674 792,720 627,683 514,718 170,704"/>
+                <Baseline points="185,765 238,765 292,767 346,767 400,767 454,767 508,767 562,765 616,765 670,765 724,764 777,764 831,764 885,762 939,762 993,762 1047,762 1101,764 1155,764 1209,766 1263,767"/>
+                <TextEquiv>
+                    <Unicode>Pieter schipper Luijtenant:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="167,923 911,851 1474,918 1605,861 1884,883 2014,848 2014,737 1750,806 167,801"/>
+                <Baseline points="180,864 271,863 362,861 453,861 544,861 635,861 726,861 817,861 908,861 999,861 1090,861 1181,861 1272,861 1363,861 1454,861 1545,861 1636,861 1727,860 1818,858 1909,857 2000,854"/>
+                <TextEquiv>
+                    <Unicode>willen Wlanbagh beijde mede bij continuatie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="833,1056 967,1030 1239,1087 1439,1031 1663,1058 1697,1047 1700,913 1620,929 1575,900 1440,963 1183,867 933,893 883,938 835,934"/>
+                <Baseline points="849,1016 890,1018 932,1020 974,1022 1015,1023 1057,1025 1099,1026 1140,1026 1182,1026 1224,1028 1266,1028 1307,1028 1349,1028 1391,1028 1432,1029 1474,1029 1516,1031 1557,1031 1599,1034 1641,1035 1683,1038"/>
+                <TextEquiv>
+                    <Unicode>Tot Sergeantin.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="176,1149 221,1145 230,1132 240,1139 257,1136 231,982 214,984 208,980 201,989 184,995 178,990 170,995 150,995"/>
+                <Baseline points="183,1107 210,1103 237,1098"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="229,1138 697,1167 800,1138 862,1169 974,1140 1158,1176 1281,1151 1282,1111 1042,1045 762,1086 717,1054 362,1045 232,1007"/>
+                <Baseline points="243,1112 294,1119 345,1123 396,1127 447,1130 498,1131 549,1133 600,1134 651,1136 702,1136 754,1136 805,1136 856,1136 907,1137 958,1137 1009,1139 1060,1140 1111,1143 1162,1145 1213,1149 1265,1155"/>
+                <TextEquiv>
+                    <Unicode>Debastiam Pittaev in . . . ..</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="1315,1266 1383,1285 1488,1225 1585,1221 1827,1260 1943,1216 1942,1100 1823,1089 1718,1135 1604,1105 1556,1145 1315,1158"/>
+                <Baseline points="1329,1215 1359,1215 1389,1213 1419,1212 1449,1211 1479,1211 1509,1209 1539,1209 1569,1209 1599,1208 1629,1208 1659,1208 1689,1208 1719,1208 1749,1209 1779,1209 1809,1209 1839,1209 1869,1211 1899,1211 1929,1211"/>
+                <TextEquiv>
+                    <Unicode>bij continuatie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="168,1291 265,1257 435,1292 518,1241 709,1234 816,1271 1155,1261 1328,1316 1328,1191 965,1212 712,1165 456,1207 169,1152"/>
+                <Baseline points="183,1229 239,1230 296,1233 352,1235 409,1236 465,1238 522,1238 578,1239 635,1239 691,1241 748,1241 805,1241 861,1241 918,1241 974,1239 1031,1239 1087,1238 1144,1238 1200,1236 1257,1235 1314,1235"/>
+                <TextEquiv>
+                    <Unicode>Isaacq Dinckels . . . . . . . .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="102,1392 784,1362 941,1418 1025,1374 1210,1381 1209,1290 962,1310 768,1252 650,1310 541,1265 471,1320 271,1259 195,1311 101,1312"/>
+                <Baseline points="116,1364 170,1360 224,1358 278,1355 332,1353 386,1352 440,1350 494,1350 548,1349 602,1349 656,1349 710,1349 764,1349 818,1350 872,1350 926,1350 980,1349 1034,1349 1088,1349 1142,1347 1196,1346"/>
+                <TextEquiv>
+                    <Unicode>adriaen Adriaensz</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="1275,1384 1392,1425 1663,1442 2239,1415 2239,1347 1965,1271 1874,1266 1755,1330 1678,1285 1536,1327 1422,1314 1339,1261 1274,1293"/>
+                <Baseline points="1290,1422 1336,1419 1383,1417 1430,1415 1477,1413 1523,1412 1570,1412 1617,1412 1664,1412 1710,1412 1757,1412 1804,1412 1851,1412 1897,1412 1944,1412 1991,1410 2038,1410 2084,1409 2131,1407 2178,1406 2225,1403"/>
+                <TextEquiv>
+                    <Unicode>bij nieuwe Electie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="177,1518 356,1530 543,1467 671,1519 824,1463 1055,1510 1179,1443 1348,1489 1346,1392 1153,1424 1059,1377 937,1418 857,1368 815,1400 175,1373"/>
+                <Baseline points="189,1457 246,1458 303,1460 360,1461 417,1461 474,1461 531,1461 589,1461 646,1460 703,1460 760,1458 817,1457 874,1455 931,1454 989,1452 1046,1451 1103,1448 1160,1447 1217,1446 1274,1445 1332,1445"/>
+                <TextEquiv>
+                    <Unicode>Jan Daptist de Looff ....</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="815,1696 881,1673 1108,1685 1185,1620 1352,1697 1412,1666 1509,1711 1614,1661 1614,1541 1469,1583 1412,1544 1296,1538 1182,1580 1111,1557 1054,1583 921,1506 816,1505"/>
+                <Baseline points="830,1659 868,1659 906,1661 945,1661 983,1661 1022,1661 1060,1662 1099,1662 1137,1662 1176,1662 1214,1662 1252,1662 1291,1662 1329,1662 1368,1662 1406,1662 1445,1662 1483,1662 1522,1662 1560,1661 1599,1661"/>
+                <TextEquiv>
+                    <Unicode>Voor de Tvallerije</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="190,1820 1114,1867 1572,1801 1805,1848 1910,1797 1910,1746 1737,1722 1362,1749 1268,1669 816,1749 498,1637 191,1664"/>
+                <Baseline points="204,1790 288,1790 373,1790 457,1791 542,1791 627,1791 711,1793 796,1793 880,1794 965,1796 1050,1796 1134,1796 1219,1797 1303,1797 1388,1797 1473,1797 1557,1797 1642,1797 1726,1797 1811,1796 1896,1794"/>
+                <TextEquiv>
+                    <Unicode>Abraham Wys uitmeester bij Continuatie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="197,1943 411,1899 603,1958 794,1891 1814,1945 1914,1929 1915,1852 1710,1865 1617,1801 1295,1864 198,1812"/>
+                <Baseline points="212,1895 296,1895 380,1895 465,1895 549,1895 634,1896 718,1896 803,1898 887,1898 972,1899 1056,1899 1140,1901 1225,1901 1309,1902 1394,1904 1478,1904 1563,1905 1647,1905 1732,1905 1816,1907 1901,1907"/>
+                <TextEquiv>
+                    <Unicode>Jan Wijnantse Luijtenant bij optredinge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="1914,1912 1971,1906 2013,1943 2133,1909 2164,1909 2201,1946 2275,1914 2357,1923 2394,1911 2394,1786 2334,1747 2306,1772 2283,1764 2226,1804 2107,1838 2067,1872 1914,1870"/>
+                <Baseline points="1928,1902 1953,1902 1978,1902 2003,1904 2028,1904 2053,1905 2078,1905 2103,1905 2128,1905 2153,1905 2178,1905 2203,1905 2228,1905 2253,1905 2278,1904 2303,1904 2328,1902 2353,1901 2379,1899"/>
+                <TextEquiv>
+                    <Unicode>zjnde als nu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="2273,2069 2287,2066 2291,2059 2297,2058 2304,2063 2318,2060 2287,1912 2270,1916 2264,1926 2243,1927"/>
+                <Baseline points="2274,1998 2289,1995"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="821,2041 1887,1998 2268,2048 2268,1954 2163,1908 2044,1956 1970,1907 1791,1955 1598,1909 821,1913"/>
+                <Baseline points="836,1994 910,1994 985,1995 1060,1997 1134,1997 1209,1998 1284,1998 1358,1998 1433,2000 1508,2000 1582,2000 1657,2000 1732,2000 1806,2000 1881,2000 1956,2000 2030,2000 2105,1998 2180,1998 2255,1997"/>
+                <TextEquiv>
+                    <Unicode>dese functie voor de Eerste mael hier bijge¬</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="827,2135 887,2140 951,2101 970,2110 1016,2094 1067,2124 1089,2124 1092,2019 1069,2027 1026,2021 996,2000 975,2017 953,2005 876,2017 852,2039 830,2036"/>
+                <Baseline points="843,2093 869,2093 895,2093 921,2093 947,2093 973,2094 999,2095 1025,2096 1051,2097 1077,2099"/>
+                <TextEquiv>
+                    <Unicode>stelt.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="107,2218 675,2272 1286,2235 1371,2287 1511,2234 1894,2264 1895,2184 1637,2093 758,2176 600,2112 392,2141 273,2072 108,2099"/>
+                <Baseline points="120,2207 208,2213 296,2218 384,2222 472,2225 560,2228 648,2230 736,2231 824,2232 912,2234 1000,2234 1088,2234 1176,2234 1264,2234 1352,2232 1440,2232 1528,2232 1616,2232 1704,2232 1792,2232 1881,2232"/>
+                <TextEquiv>
+                    <Unicode>duart pittavin Cornet bij optredinge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="185,2359 828,2400 1024,2340 1234,2410 1433,2341 1777,2392 2371,2313 2115,2234 1291,2308 1180,2242 185,2239"/>
+                <Baseline points="198,2330 306,2331 414,2332 522,2333 630,2334 738,2336 846,2336 954,2336 1062,2337 1170,2337 1278,2337 1386,2337 1494,2336 1602,2336 1710,2334 1818,2333 1926,2331 2034,2330 2142,2328 2250,2325 2358,2322"/>
+                <TextEquiv>
+                    <Unicode>Jan Chijsz van flesbagh quartierm: bij Continuatie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="7,2470 255,2518 701,2436 883,2512 1033,2435 1608,2517 2244,2463 2307,2369 7,2396"/>
+                <Baseline points="21,2453 134,2447 248,2444 361,2441 475,2439 589,2438 702,2436 816,2436 930,2436 1043,2438 1157,2438 1271,2439 1384,2441 1498,2441 1612,2442 1725,2442 1839,2442 1953,2442 2066,2442 2180,2441 2294,2438"/>
+                <TextEquiv>
+                    <Unicode>Gerrit Croon quartier meester bij nieuwe Electie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="331,2669 2045,2692 2426,2669 2427,2569 2310,2540 2171,2625 1768,2522 1634,2584 1338,2522 1247,2587 1054,2532 332,2581"/>
+                <Baseline points="345,2639 448,2642 551,2646 655,2649 758,2651 861,2652 965,2654 1068,2654 1171,2655 1275,2655 1378,2655 1481,2655 1585,2655 1688,2655 1791,2655 1895,2655 1998,2657 2101,2657 2205,2658 2308,2660 2412,2661"/>
+                <TextEquiv>
+                    <Unicode>soo zijn nu oock met eenen bij heeren schepenen.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="185,2804 1749,2768 2180,2832 2419,2814 2420,2677 186,2691"/>
+                <Baseline points="200,2747 310,2750 420,2751 530,2753 641,2754 751,2756 861,2756 972,2757 1082,2757 1192,2757 1303,2757 1413,2757 1523,2759 1633,2759 1744,2759 1854,2760 1964,2762 2075,2764 2185,2766 2295,2769 2406,2774"/>
+                <TextEquiv>
+                    <Unicode>genommeert eenige personen tot Wijckmeesterdn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="2428,2849 2484,2829 2578,2832 2614,2809 2683,2825 2818,2805 2953,2817 2946,2712 2771,2723 2655,2656 2614,2681 2532,2681 2507,2705 2481,2692 2420,2716"/>
+                <Baseline points="2442,2826 2468,2824 2494,2822 2520,2819 2546,2817 2572,2814 2598,2811 2624,2810 2650,2807 2676,2805 2702,2803 2728,2801 2754,2799 2780,2799 2806,2798 2832,2798 2858,2798 2884,2798 2910,2798 2937,2799"/>
+                <TextEquiv>
+                    <Unicode>Aan Nieuw Verr</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:25;}">
+                <Coords points="184,2864 988,2869 1116,2935 1201,2864 1949,2869 2042,2941 2378,2892 2379,2792 184,2815"/>
+                <Baseline points="198,2855 306,2856 414,2858 522,2859 631,2861 739,2861 847,2861 955,2862 1064,2862 1172,2862 1280,2862 1388,2864 1497,2864 1605,2864 1713,2865 1821,2865 1930,2867 2038,2867 2146,2870 2254,2871 2363,2873"/>
+                <TextEquiv>
+                    <Unicode>soo binnen als buyten dese stadt, jn plaets van sonnige</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:26;}">
+                <Coords points="2366,2937 2406,2948 2640,2876 2697,2875 2766,2927 2826,2929 2883,2913 2881,2831 2814,2804 2769,2822 2698,2812 2679,2830 2610,2812 2582,2835 2363,2824"/>
+                <Baseline points="2379,2874 2404,2875 2430,2876 2456,2879 2481,2879 2507,2879 2533,2879 2559,2877 2584,2876 2610,2874 2636,2873 2662,2873 2687,2871 2713,2870 2739,2868 2765,2868 2790,2868 2816,2868 2842,2868 2868,2870"/>
+                <TextEquiv>
+                    <Unicode>Wijckmeeshers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:27;}">
+                <Coords points="178,2977 2324,2973 1961,2872 883,2928 179,2872"/>
+                <Baseline points="191,2952 302,2955 414,2958 525,2960 637,2961 748,2963 860,2964 971,2964 1083,2966 1194,2966 1306,2966 1417,2966 1529,2966 1640,2966 1752,2966 1863,2967 1975,2967 2086,2969 2198,2969 2310,2970"/>
+                <TextEquiv>
+                    <Unicode>der presente, die door afsterven, vertrecken, en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:28;}">
+                <Coords points="201,3068 494,3138 716,3068 2464,3102 2447,2996 202,2980"/>
+                <Baseline points="215,3056 326,3058 438,3061 550,3063 662,3065 774,3065 885,3066 997,3066 1109,3066 1221,3066 1333,3066 1444,3066 1556,3066 1668,3066 1780,3066 1892,3068 2003,3068 2115,3069 2227,3070 2339,3072 2451,3074"/>
+                <TextEquiv>
+                    <Unicode>verhuijsen, van haer wijck meester schap zijn ontbloot,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:29;}">
+                <Coords points="192,3189 2415,3194 2415,3095 783,3083 499,3143 192,3072"/>
+                <Baseline points="207,3174 316,3174 426,3174 536,3174 646,3174 755,3173 865,3173 975,3173 1085,3173 1194,3173 1304,3171 1414,3171 1524,3171 1633,3171 1743,3171 1853,3171 1963,3171 2072,3171 2182,3171 2292,3173 2402,3173"/>
+                <TextEquiv>
+                    <Unicode>en van de welcke na resumptie op nieuw zijn gestelt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:30;}">
+                <Coords points="203,3302 399,3304 515,3354 581,3292 754,3325 840,3312 908,3267 909,3233 787,3175 673,3236 525,3198 374,3230 204,3209"/>
+                <Baseline points="218,3282 251,3282 285,3282 319,3282 353,3284 386,3284 420,3284 454,3284 488,3284 521,3285 555,3285 589,3285 623,3286 656,3287 690,3287 724,3287 758,3287 791,3287 825,3288 859,3288 893,3288"/>
+                <TextEquiv>
+                    <Unicode>en geapprobeert</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:31;}">
+                <Coords points="2171,3441 2194,3446 2210,3432 2236,3434 2250,3430 2264,3416 2281,3415 2278,3333 2258,3333 2245,3348 2236,3343 2225,3346 2216,3337 2196,3347 2185,3336 2168,3336"/>
+                <Baseline points="2183,3420 2211,3421 2239,3417 2267,3420"/>
+                <TextEquiv>
+                    <Unicode>—</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:32;}">
+                <Coords points="292,3429 309,3426 346,3450 358,3450 386,3430 403,3441 417,3440 416,3369 402,3370 390,3381 368,3382 316,3340 290,3341"/>
+                <Baseline points="305,3429 338,3432 371,3429 404,3429"/>
+                <TextEquiv>
+                    <Unicode>5</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l34" custom="readingOrder {index:33;}">
+                <Coords points="697,3498 1016,3442 1220,3499 1539,3457 2181,3495 2181,3314 2085,3342 2019,3288 1857,3370 1607,3289 1283,3286 999,3390 885,3311 698,3310"/>
+                <Baseline points="711,3441 783,3443 856,3443 929,3444 1002,3446 1074,3446 1147,3447 1220,3448 1293,3449 1365,3449 1438,3450 1511,3450 1584,3450 1656,3450 1729,3450 1802,3449 1875,3449 1947,3447 2020,3446 2093,3444 2166,3441"/>
+                <TextEquiv>
+                    <Unicode>Aen de Oost Zijde binnen de Stadf</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l35" custom="readingOrder {index:34;}">
+                <Coords points="131,3621 652,3565 953,3624 1652,3611 1908,3575 1910,3461 1582,3553 1072,3446 883,3543 582,3519 466,3443 133,3470"/>
+                <Baseline points="147,3551 234,3552 321,3555 409,3558 496,3561 584,3564 671,3566 758,3569 846,3570 933,3573 1021,3575 1108,3576 1195,3578 1283,3578 1370,3578 1458,3578 1545,3578 1632,3576 1720,3575 1807,3572 1895,3569"/>
+                <TextEquiv>
+                    <Unicode>Joannes de vlamingh jnt block . . . . . . . . 6:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l36" custom="readingOrder {index:35;}">
+                <Coords points="7,3654 37,3665 43,3661 57,3665 68,3659 75,3664 92,3665 118,3569 101,3565 85,3572 77,3558 64,3549 50,3557 34,3553"/>
+                <Baseline points="29,3624 57,3627 86,3639"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l37" custom="readingOrder {index:36;}">
+                <Coords points="172,3679 1926,3679 1947,3569 1403,3648 415,3570 173,3608"/>
+                <Baseline points="188,3657 275,3657 362,3659 449,3660 536,3663 623,3665 710,3668 798,3669 885,3672 972,3674 1059,3675 1146,3677 1233,3678 1320,3678 1408,3678 1495,3677 1582,3675 1669,3671 1756,3667 1843,3661 1931,3654"/>
+                <TextEquiv>
+                    <Unicode>Carel Crapp. jnt block . . . . . . . . . . . . . . S:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l38" custom="readingOrder {index:37;}">
+                <Coords points="168,3833 632,3757 773,3815 1300,3782 1424,3845 1527,3769 1589,3815 1902,3778 1940,3667 1391,3745 624,3666 169,3688"/>
+                <Baseline points="182,3762 269,3759 356,3758 443,3756 530,3756 617,3758 704,3759 792,3762 879,3764 966,3767 1053,3769 1140,3771 1227,3773 1314,3774 1402,3774 1489,3774 1576,3773 1663,3770 1750,3766 1837,3761 1925,3752"/>
+                <TextEquiv>
+                    <Unicode>Joannes felt. jut block . . . . . . .. . . . . . . a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l39" custom="readingOrder {index:38;}">
+                <Coords points="735,3934 2108,3919 2184,3884 2183,3753 1848,3823 1725,3759 1589,3815 1532,3776 1425,3845 1313,3795 1240,3848 1020,3771 839,3853 734,3820"/>
+                <Baseline points="749,3912 820,3912 891,3912 962,3912 1033,3912 1104,3911 1175,3909 1246,3908 1317,3906 1388,3905 1460,3903 1531,3902 1602,3900 1673,3900 1744,3899 1815,3899 1886,3897 1957,3897 2028,3899 2099,3899 2171,3902"/>
+                <TextEquiv>
+                    <Unicode>aen de West zijde binnen de Stadt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l40" custom="readingOrder {index:39;}">
+                <Coords points="15,4093 1828,4077 1950,4051 1950,3926 1791,4009 796,3942 725,3996 500,3903 14,3982"/>
+                <Baseline points="30,4065 125,4060 220,4056 315,4053 411,4050 506,4049 601,4047 696,4047 792,4046 887,4046 982,4046 1077,4046 1173,4047 1268,4047 1363,4047 1458,4049 1554,4049 1649,4049 1744,4049 1839,4049 1935,4047"/>
+                <TextEquiv>
+                    <Unicode>Adiaen Briaensz jnt block . . . . . . . . S:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l41" custom="readingOrder {index:40;}">
+                <Coords points="207,4170 288,4215 1017,4149 1200,4248 1347,4177 1897,4224 1955,4194 1958,4043 1785,4145 1196,4068 1078,4114 209,4082"/>
+                <Baseline points="221,4151 307,4150 393,4149 479,4151 565,4151 651,4152 737,4154 823,4155 909,4157 995,4158 1081,4161 1167,4163 1253,4166 1339,4169 1425,4171 1511,4174 1597,4176 1683,4179 1769,4182 1855,4185 1941,4187"/>
+                <TextEquiv>
+                    <Unicode>Itaacq Dinckels . . . . . . t jut block - . . . . L:</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l42" custom="readingOrder {index:41;}">
+                <Coords points="216,4255 432,4282 588,4245 898,4284 969,4246 1148,4249 1148,4166 864,4213 690,4165 281,4215 216,4175"/>
+                <Baseline points="230,4235 275,4239 320,4242 365,4245 410,4247 456,4250 501,4251 546,4253 591,4253 636,4253 682,4253 727,4253 772,4253 817,4251 862,4250 908,4248 953,4245 998,4243 1043,4240 1088,4236 1134,4233"/>
+                <TextEquiv>
+                    <Unicode>Cornelis Swart</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l43" custom="readingOrder {index:42;}">
+                <Coords points="1783,4493 2021,4467 2124,4486 2240,4453 2308,4483 2394,4477 2393,4428 2310,4421 2219,4371 2116,4369 2036,4325 1991,4351 1897,4321 1838,4350 1780,4317"/>
+                <Baseline points="1797,4482 1826,4476 1855,4470 1884,4466 1913,4463 1942,4460 1971,4458 2000,4456 2029,4455 2058,4455 2088,4455 2117,4455 2146,4457 2175,4458 2204,4459 2233,4460 2262,4461 2291,4463 2320,4463 2349,4464 2379,4466"/>
+                <TextEquiv>
+                    <Unicode>Buijten</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>voor de Comp:. van de West Zjde.
+Abraham Struijs Capitain bij continuatie
+Pieter schipper Luijtenant:
+willen Wlanbagh beijde mede bij continuatie
+Tot Sergeantin.
+
+Debastiam Pittaev in . . . ..
+bij continuatie
+Isaacq Dinckels . . . . . . . .
+adriaen Adriaensz
+bij nieuwe Electie
+Jan Daptist de Looff ....
+Voor de Tvallerije
+Abraham Wys uitmeester bij Continuatie
+Jan Wijnantse Luijtenant bij optredinge
+zjnde als nu
+
+dese functie voor de Eerste mael hier bijge¬
+stelt.
+duart pittavin Cornet bij optredinge
+Jan Chijsz van flesbagh quartierm: bij Continuatie
+Gerrit Croon quartier meester bij nieuwe Electie
+soo zijn nu oock met eenen bij heeren schepenen.
+genommeert eenige personen tot Wijckmeesterdn
+Aan Nieuw Verr
+soo binnen als buyten dese stadt, jn plaets van sonnige
+Wijckmeeshers
+der presente, die door afsterven, vertrecken, en
+verhuijsen, van haer wijck meester schap zijn ontbloot,
+en van de welcke na resumptie op nieuw zijn gestelt
+en geapprobeert
+—
+5
+Aen de Oost Zijde binnen de Stadf
+Joannes de vlamingh jnt block . . . . . . . . 6:
+
+Carel Crapp. jnt block . . . . . . . . . . . . . . S:
+Joannes felt. jut block . . . . . . .. . . . . . . a
+aen de West zijde binnen de Stadt
+Adiaen Briaensz jnt block . . . . . . . . S:
+Itaacq Dinckels . . . . . . t jut block - . . . . L:
+Cornelis Swart
+Buijten</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="2789,5 2789,340 2985,340 2985,5"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="2800,107 2834,119 2843,110 2854,113 2874,133 2902,121 2928,124 2942,113 2999,124 2999,13 2948,22 2936,11 2916,16 2891,-4 2862,-4 2848,11 2823,2 2800,5"/>
+                <Baseline points="2814,104 2842,101 2871,99 2899,101 2928,101 2956,102 2985,101"/>
+                <TextEquiv>
+                    <Unicode>155</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="2776,334 2810,336 2827,327 2836,335 2847,326 2862,335 2898,317 2989,309 2986,173 2958,170 2935,185 2915,171 2878,172 2839,196 2819,190 2774,203"/>
+                <Baseline points="2789,291 2815,293 2841,293 2867,293 2894,292 2920,291 2946,290 2973,288"/>
+                <TextEquiv>
+                    <Unicode>155</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>155
+155</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
