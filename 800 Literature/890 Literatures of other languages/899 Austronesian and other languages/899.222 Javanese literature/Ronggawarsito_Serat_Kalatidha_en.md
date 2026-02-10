@@ -1,16 +1,16 @@
 ## Serat Kalatidha
 
-**Serat Kalatidha** is a poem composed by **Ranggawarsita**. It is one of the most significant works in Javanese literature. The content concerns a lamentation that, in those times, one had to participate in wrongdoing just to 'get ahead.' This *macapat* poem is written entirely in the **Sinom** meter and consists of 12 stanzas (*pada*) in total. This literary work was written around 1860 AD. Kalatidha is a renowned piece of Javanese literature; even today, many Javanese people, especially the older generation, still memorize at least one stanza—specifically the seventh stanza.
+**Serat Kalatidha** is a poem composed by **Ronggawarsito**. It is one of the most significant works in Javanese literature. The content concerns a lamentation that, in those times, one had to participate in wrongdoing just to 'get ahead.' This *macapat* poem is written entirely in the **Sinom** meter and consists of 12 stanzas (*pada*) in total. This literary work was written around 1860 AD. Kalatidha is a renowned piece of Javanese literature; even today, many Javanese people, especially the older generation, still memorize at least one stanza—specifically the seventh stanza.
 
 ### Background
 
-Kalatidha is not Ranggawarsita’s longest work. It consists of only 12 stanzas within the Sinom metrum. *Kala tidha* literally means "time of doubt" or "age of madness" (*jaman édan*), as written by Ranggawarsita himself. It is said that Ranggawarsita wrote this poem when his rank was not promoted as he had hoped. He then generalized this situation, perceiving the era as a period of madness and crisis. At that time, Ranggawarsita served as the court poet (*pujangga*) at the Kasunanan Surakarta Palace. He is considered the "last poet" (*pujangga pungkasan*), as there were no official court poets appointed after him.
+Kalatidha is not Ronggawarsito’s longest work. It consists of only 12 stanzas within the Sinom metrum. *Kala tidha* literally means "time of doubt" or "age of madness" (*jaman édan*), as written by Ronggawarsito himself. It is said that Ronggawarsito wrote this poem when his rank was not promoted as he had hoped. He then generalized this situation, perceiving the era as a period of madness and crisis. At that time, Ronggawarsito served as the court poet (*pujangga*) at the Kasunanan Surakarta Palace. He is considered the "last poet" (*pujangga pungkasan*), as there were no official court poets appointed after him.
 
 ### Meaning
 
 The Kalatidha poem can be divided into three parts: the first part consists of stanzas 1 to 6, the second part is stanza 7, and the third part consists of stanzas 8 to 12.
 
-* **Part One:** Describes a time that, according to Ranggawarsita, is a state without principles.
+* **Part One:** Describes a time that, according to Ronggawarsito, is a state without principles.
 * **Part Two:** Contains determination and self-reflection.
 * **Part Three:** Contains an attitude of religious devotion within society.
 
